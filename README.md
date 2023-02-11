@@ -16,7 +16,7 @@
 
 * [Brave](https://brave.com/)
 * [uBlock Origin](https://ublockorigin.com/)
-* [Adblock Plus](https://adblockplus.org/features)
+* [Adblock Plus](https://adblockplus.org/)
 * [AdBlock](https://getadblock.com/)
 
 ### Джерела інформації
