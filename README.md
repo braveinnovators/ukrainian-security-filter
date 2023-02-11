@@ -15,3 +15,7 @@
 
 * [CERT-UA (Урядова команда реагування на комп’ютерні надзвичайні події України)](https://cert.gov.ua/)
 * [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
+
+### Ліцензія
+
+На список UA: Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/S5Innovators/url-blocklist/blob/main/LICENSE)
