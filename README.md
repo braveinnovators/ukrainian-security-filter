@@ -1,2 +1,2 @@
-# url-blocklist
-UA: Malicious URL Blocklist
+# UA: Malicious URL Blocklist
+
