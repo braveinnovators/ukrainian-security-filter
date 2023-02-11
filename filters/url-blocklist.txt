@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 11 Feb 2023 19:57 EET
+! Last modified: 12 Feb 2023 00:55 EET
 ! Expires: 7 days (update frequency)
 ! Licence: https://github.com/S5Innovators/url-blocklist/blob/main/LICENSE
 !
@@ -172,7 +172,6 @@
 ||f3mb4u.cyou^
 ||f6x.site^
 ||fad-gos.top^
-||fad-gos.top^
 ||fam-gos.top^
 ||farbgold.com.ua^
 ||finance-dopomoga.site^
@@ -295,7 +294,6 @@
 ||midbet.one^
 ||minpaidsgroup.top^
 ||minpolitici.com^
-||mobi-dengi.com ^
 ||mobi-dengi.com^
 ||mobileplaza.com.ua^
 ||mobiletopups.space^
