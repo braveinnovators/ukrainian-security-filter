@@ -10,14 +10,14 @@
 
 * [https://www.awwwwesome.org/url-blocklist/url-blocklist.txt](https://www.awwwwesome.org/url-blocklist/url-blocklist.txt)
 
-## Сумісність з браузерами та розширеннями
+### Сумісність з браузерами та розширеннями
 
 Нижче наведений перелік браузерів (з власними модулями фільтрації контенту) та сторонніх розширень з якими гарантована сумісність правил, які містяться у списку UA: Malicious URL Blocklist.
 
-### Браузери
+#### Браузери
 * [Brave](https://brave.com/)
 
-### Розширення
+#### Розширення
 * [uBlock Origin](https://ublockorigin.com/)
 * [Adblock Plus](https://adblockplus.org/features)
 * [AdBlock](https://getadblock.com/)
