@@ -38,7 +38,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ### uBlock Origin
 
 - Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
-- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу списку:
+- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу списку, після чого натиснути на кнопку (розташована зверху) Apply changes:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
