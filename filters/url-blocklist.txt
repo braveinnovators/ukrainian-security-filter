@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 12 Feb 2023 11:13 EET
+! Last modified: 12 Feb 2023 12:02 EET
 ! Expires: 5 days (update frequency)
 ! Licence: https://github.com/S5Innovators/url-blocklist/blob/main/LICENSE
 !
@@ -567,3 +567,9 @@
 ||zanimalo.com.ua^
 ||zevs.trade^
 ||zzz.com.ua^
+||facebook.com/uappl.org^$document
+||facebook.com/people/News-for-people/100081961447678/^$document
+||facebook.com/ЄДoпoмoгa-107571865413656/^$document
+||facebook.com/News-Info-UA-107681682060482/^$document
+||facebook.com/Допомога-українцям-104110342431366/^$document
+||facebook.com/people/Новини-247/100084930128994/^$document
