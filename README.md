@@ -8,7 +8,9 @@
 
 Цей формат списку блокувань сумісний практично з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock (оновлення: 12 Feb 2023 12:02 EET):
 
-* [https://www.awwwwesome.org/url-blocklist/url-blocklist.txt](https://www.awwwwesome.org/url-blocklist/url-blocklist.txt)
+```
+https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+```
 
 ## Сумісність з браузерами та розширеннями
 
