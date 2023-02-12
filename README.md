@@ -46,7 +46,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 
-<img src="doc/1676223122.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
+<img src="docs/1676223122.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
 
 ### Adblock Plus
 
@@ -68,7 +68,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-<img src="doc/1676223121.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
+<img src="docs/1676223121.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
 
 ## Джерела інформації
 
