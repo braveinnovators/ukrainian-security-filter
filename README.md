@@ -23,6 +23,32 @@
 * [AdBlock](https://getadblock.com/)
 * [AdGuard Browser extension](https://adguard.com/)
 
+## Як додати список
+
+### Brave
+
+- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
+- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
+
+```
+https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+```
+
+<img src="doc/1676223121.gif" style="display: inline-block; margin: 20px 0; max-width: 800px">
+
+### uBlock Origin
+
+- Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
+- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу списку:
+
+```
+https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+```
+
+Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+
+<img src="doc/1676223122.gif" style="display: inline-block; margin: 20px 0; max-width: 800px">
+
 ## Особливості формування та оновлення списку UA: Malicious URL Blocklist
 
 - до списку у форматі domain-based blocklist вносяться лише домени, що дає можливість блокувати доступ до ресурсу без жорсткої прив'язки до субдоменів та (або) шляху/параметрів URL (виключення: посилання на соціальні мережі, блоги та інші ресурси які є легітимними, проте, які використовуються зловмисниками);
