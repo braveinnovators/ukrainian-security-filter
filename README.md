@@ -23,8 +23,6 @@
 * [AdBlock](https://getadblock.com/)
 * [AdGuard Browser extension](https://adguard.com/)
 
-<img src="doc/1676223121.gif" alt="Alt text" style="display: inline-block; margin: 20px 0; max-width: 800px">
-
 ## Особливості формування та оновлення списку UA: Malicious URL Blocklist
 
 - до списку у форматі domain-based blocklist вносяться лише домени, що дає можливість блокувати доступ до ресурсу без жорсткої прив'язки до субдоменів та (або) шляху/параметрів URL (виключення: посилання на соціальні мережі, блоги та інші ресурси які є легітимними, проте, які використовуються зловмисниками);
