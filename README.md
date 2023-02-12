@@ -27,17 +27,6 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ## Як додати список
 
-### Brave
-
-- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
-- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-<img src="doc/1676223121.gif" style="display: inline-block; margin: 20px 0; max-width: 800px">
-
 ### uBlock Origin
 
 - Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
@@ -49,7 +38,18 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 
-<img src="doc/1676223122.gif" style="display: inline-block; margin: 20px 0; max-width: 800px">
+<img src="doc/1676223122.gif" style="display: inline-block; margin: 20px 0 40px 0; max-width: 800px">
+
+### Brave
+
+- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
+- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
+
+```
+https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+```
+
+<img src="doc/1676223121.gif" style="display: inline-block; margin: 20px 0 40px 0; max-width: 800px">
 
 ## Особливості формування та оновлення списку UA: Malicious URL Blocklist
 
