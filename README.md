@@ -72,8 +72,12 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ## Джерела інформації
 
-* [CERT-UA (Урядова команда реагування на комп’ютерні надзвичайні події України)](https://cert.gov.ua/)
+* [Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA)](https://cert.gov.ua/)
 * [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
+
+## Wiki
+
+[https://github.com/S5Innovators/url-blocklist/wiki](https://github.com/S5Innovators/url-blocklist/wiki)
 
 ## Ліцензія
 
