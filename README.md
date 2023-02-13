@@ -29,6 +29,17 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ## Як додати список
 
+### Brave
+
+- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
+- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
+
+```
+https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+```
+
+Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/Brave](https://github.com/S5Innovators/url-blocklist/wiki/Brave)
+
 ### uBlock Origin
 
 - Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
@@ -50,17 +61,6 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
 Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/Adblock-Plus](https://github.com/S5Innovators/url-blocklist/wiki/Adblock-Plus)
-
-### Brave
-
-- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
-- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/Brave](https://github.com/S5Innovators/url-blocklist/wiki/Brave)
 
 ## Особливості
 
