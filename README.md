@@ -2,12 +2,6 @@
 
 Список блокувань фішингових сайтів, які обманом виманюють в українців доступ до облікових записів банківських онлайн систем, реквізити платіжних карток, конфіденційну інформацію та гроші.
 
-Кожен веб-ресурс перед додаванням до списку проходить перевірку на дійсність реєстрації доменного ім'я, при цьому, список регулярно перевіряється що, у підсумку, виключає наявність ресурсів з анульованою реєстрацією.
-
-Неактивність веб-ресурсу за зазначеною у списку адресою не є підставою для його виключення зі списку, оскільки зловмисник може у будь-який момент відновити роботу сервера й тому ми орієнтуємося саме на дійсність реєстрації доменного ім'я, а не на технічну доступність безпосередньо веб-ресурсу.
-
-Веб-ресурси, які виключаються зі списку через анулювання або закінчення дії реєстрації доменного ім'я, вносяться до архівного списку, який також регулярно перевіряється на предмет повторної реєстрації доменного ім'я та активації зловмисних веб-ресурсів (у такому випадку ці ресурси знову додаються до основного списку).
-
 ## Формати
 
 ### Domain-based blocklist
@@ -44,9 +38,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
-
-<img src="docs/1676223122.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
+Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/uBlock-Origin](https://github.com/S5Innovators/url-blocklist/wiki/uBlock-Origin)
 
 ### Adblock Plus
 
@@ -57,7 +49,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-Додаткова інструкція доступна за адресою: [https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter](https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter)
+Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/Adblock-Plus](https://github.com/S5Innovators/url-blocklist/wiki/Adblock-Plus)
 
 ### Brave
 
@@ -68,7 +60,15 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-<img src="docs/1676223121.gif" style="display: inline-block; margin: 20px 0 30px 0; max-width: 800px">
+Додаткова інформація: [https://github.com/S5Innovators/url-blocklist/wiki/Brave](https://github.com/S5Innovators/url-blocklist/wiki/Brave)
+
+## Особливості
+
+Кожен веб-ресурс перед додаванням до списку проходить перевірку на дійсність реєстрації доменного ім'я, при цьому, список регулярно перевіряється що, у підсумку, виключає наявність ресурсів з анульованою реєстрацією.
+
+Неактивність веб-ресурсу за зазначеною у списку адресою не є підставою для його виключення зі списку, оскільки зловмисник може у будь-який момент відновити роботу сервера й тому ми орієнтуємося саме на дійсність реєстрації доменного ім'я, а не на технічну доступність безпосередньо веб-ресурсу.
+
+Веб-ресурси, які виключаються зі списку через анулювання або закінчення дії реєстрації доменного ім'я, вносяться до архівного списку, який також регулярно перевіряється на предмет повторної реєстрації доменного ім'я та активації зловмисних веб-ресурсів (у такому випадку ці ресурси знову додаються до основного списку).
 
 ## Джерела інформації
 
