@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 15 Feb 2023 13:10 EET
+! Last modified: 15 Feb 2023 17:21 EET
 ! Expires: 4 days (update frequency)
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -358,6 +358,7 @@
 ||osv6.site^
 ||osxi-ua.xyz^
 ||ovs-gos.top^
+||p-invest.site^
 ||palyvo.shop^
 ||partmone.space^
 ||parts-m.com.ua^
