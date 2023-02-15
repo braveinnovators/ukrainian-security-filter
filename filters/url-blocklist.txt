@@ -1,10 +1,10 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 12 Feb 2023 12:02 EET
-! Expires: 5 days (update frequency)
-! Licence: https://github.com/S5Innovators/url-blocklist/blob/main/LICENSE
+! Last modified: 15 Feb 2023 13:10 EET
+! Expires: 4 days (update frequency)
+! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
-! Homepage: https://github.com/S5Innovators/url-blocklist
-! Issues: https://github.com/S5Innovators/url-blocklist/issues
+! Homepage: https://github.com/s5innovators/url-blocklist
+! Issues: https://github.com/s5innovators/url-blocklist/issues
 
 ||0dio.site^
 ||0nlinepaidlife.shop^
@@ -248,6 +248,7 @@
 ||ival-gos.top^
 ||ivl-gos.top^
 ||izibanking.com.ua^
+||j9-wersii.buzz^
 ||jar-gos.top^
 ||je-gos.top^
 ||jet-pay.com^
@@ -272,8 +273,8 @@
 ||larimel.com.ua^
 ||lendlok.com^
 ||letsgoua.com^
-||liqpay.info^
 ||likepay.org^
+||liqpay.info^
 ||localditcolmc.top^
 ||localditcolmc.xyz^
 ||lokalbitcolmc.top^
@@ -376,8 +377,8 @@
 ||pcs-order.me^
 ||pe6.site^
 ||peer-gos.top^
-||perekaz24privat.com^
 ||perekaz.com^
+||perekaz24privat.com^
 ||perekazi-privat24.online^
 ||perekazprivat.com^
 ||pestrio.site^
@@ -567,9 +568,9 @@
 ||zanimalo.com.ua^
 ||zevs.trade^
 ||zzz.com.ua^
-||facebook.com/uappl.org^$document
-||facebook.com/people/News-for-people/100081961447678/^$document
+||facebook.com/Допомога-українцям-104110342431366/^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656/^$document
 ||facebook.com/News-Info-UA-107681682060482/^$document
-||facebook.com/Допомога-українцям-104110342431366/^$document
 ||facebook.com/people/Новини-247/100084930128994/^$document
+||facebook.com/people/News-for-people/100081961447678/^$document
+||facebook.com/uappl.org^$document
