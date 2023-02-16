@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
-# Last modified: 15 Feb 2023 20:51 EET
+# Last modified: 16 Feb 2023 14:16 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -94,6 +94,7 @@ address=/billetshot.top/
 address=/bitcoin-zuba.ga/
 address=/blago-privat24.3ida.site/
 address=/blago-privat24.d3ya.site/
+address=/blago-privat24.pce6.site/
 address=/blago-privatbank24.pe6.site/
 address=/blic-opros.top/
 address=/blogiumbursellcusa20.icu/
@@ -473,6 +474,7 @@ address=/payup.info/
 address=/payy.site/
 address=/pb24-blago.0dio.site/
 address=/pb24-viplata.d0s.site/
+address=/pce6.site/
 address=/pcs-order.me/
 address=/pe6.site/
 address=/peer-gos.top/
