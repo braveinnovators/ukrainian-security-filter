@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist
-# Last modified: 15 Feb 2023 20:51 EET
+# Last modified: 16 Feb 2023 14:16 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -94,6 +94,7 @@ billetshot.top
 bitcoin-zuba.ga
 blago-privat24.3ida.site
 blago-privat24.d3ya.site
+blago-privat24.pce6.site
 blago-privatbank24.pe6.site
 blic-opros.top
 blogiumbursellcusa20.icu
@@ -473,6 +474,7 @@ payup.info
 payy.site
 pb24-blago.0dio.site
 pb24-viplata.d0s.site
+pce6.site
 pcs-order.me
 pe6.site
 peer-gos.top
