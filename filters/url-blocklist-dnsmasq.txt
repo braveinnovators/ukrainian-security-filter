@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
-# Last modified: 16 Feb 2023 18:49 EET
+# Last modified: 16 Feb 2023 20:10 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -215,6 +215,7 @@ address=/fqb5hw.cn/
 address=/free-zaim.site/
 address=/funpay.ru/
 address=/fxprime365.com/
+address=/gbwtibz.cn/
 address=/get-ua-comp.cfd/
 address=/getfunds.pw/
 address=/getmewin.com/
@@ -301,6 +302,7 @@ address=/klespo.site/
 address=/klisp-o.site/
 address=/ko-gos.top/
 address=/kohhd.com/
+address=/konkurs-golos.ltd/
 address=/kpayments.cc/
 address=/kredo.pay-ukraine.com/
 address=/kredobank.no-pay.me/
