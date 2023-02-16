@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
-# Last modified: 16 Feb 2023 14:16 EET
+# Last modified: 16 Feb 2023 18:49 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -211,6 +211,7 @@ address=/forhome.site/
 address=/fori-opros.top/
 address=/found-gos.top/
 address=/foundpomoshi.com/
+address=/fqb5hw.cn/
 address=/free-zaim.site/
 address=/funpay.ru/
 address=/fxprime365.com/
@@ -626,6 +627,7 @@ address=/tabakekoteks.ua.market/
 address=/tas-gos.top/
 address=/tax-compensation.bar/
 address=/tax-compenses.xyz/
+address=/te9.me/
 address=/team-shop.com/
 address=/technobank.com.ua/
 address=/technolend.com.ua/
@@ -694,6 +696,7 @@ address=/ukraineopross.yolasite.com/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukrainian-inform.com/
+address=/ukrainianamazon.com/
 address=/ukrauk.wixsite.com/
 address=/ukrcredits.com/
 address=/ukrhelp.org.ua/
