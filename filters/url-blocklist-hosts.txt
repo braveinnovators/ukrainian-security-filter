@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
-# Last modified: 16 Feb 2023 18:49 EET
+# Last modified: 16 Feb 2023 20:10 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -215,6 +215,7 @@
 0.0.0.0 free-zaim.site
 0.0.0.0 funpay.ru
 0.0.0.0 fxprime365.com
+0.0.0.0 gbwtibz.cn
 0.0.0.0 get-ua-comp.cfd
 0.0.0.0 getfunds.pw
 0.0.0.0 getmewin.com
@@ -301,6 +302,7 @@
 0.0.0.0 klisp-o.site
 0.0.0.0 ko-gos.top
 0.0.0.0 kohhd.com
+0.0.0.0 konkurs-golos.ltd
 0.0.0.0 kpayments.cc
 0.0.0.0 kredo.pay-ukraine.com
 0.0.0.0 kredobank.no-pay.me
