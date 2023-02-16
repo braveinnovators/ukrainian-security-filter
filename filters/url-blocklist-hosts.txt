@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
-# Last modified: 15 Feb 2023 20:51 EET
+# Last modified: 16 Feb 2023 14:16 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -94,6 +94,7 @@
 0.0.0.0 bitcoin-zuba.ga
 0.0.0.0 blago-privat24.3ida.site
 0.0.0.0 blago-privat24.d3ya.site
+0.0.0.0 blago-privat24.pce6.site
 0.0.0.0 blago-privatbank24.pe6.site
 0.0.0.0 blic-opros.top
 0.0.0.0 blogiumbursellcusa20.icu
@@ -473,6 +474,7 @@
 0.0.0.0 payy.site
 0.0.0.0 pb24-blago.0dio.site
 0.0.0.0 pb24-viplata.d0s.site
+0.0.0.0 pce6.site
 0.0.0.0 pcs-order.me
 0.0.0.0 pe6.site
 0.0.0.0 peer-gos.top
