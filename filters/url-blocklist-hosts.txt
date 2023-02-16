@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
-# Last modified: 16 Feb 2023 14:16 EET
+# Last modified: 16 Feb 2023 18:49 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -211,6 +211,7 @@
 0.0.0.0 fori-opros.top
 0.0.0.0 found-gos.top
 0.0.0.0 foundpomoshi.com
+0.0.0.0 fqb5hw.cn
 0.0.0.0 free-zaim.site
 0.0.0.0 funpay.ru
 0.0.0.0 fxprime365.com
@@ -626,6 +627,7 @@
 0.0.0.0 tas-gos.top
 0.0.0.0 tax-compensation.bar
 0.0.0.0 tax-compenses.xyz
+0.0.0.0 te9.me
 0.0.0.0 team-shop.com
 0.0.0.0 technobank.com.ua
 0.0.0.0 technolend.com.ua
@@ -694,6 +696,7 @@
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainian-inform.com
+0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrauk.wixsite.com
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukrhelp.org.ua
