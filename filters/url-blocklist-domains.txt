@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist
-# Last modified: 16 Feb 2023 20:10 EET
+# Last modified: 17 Feb 2023 21:27 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -7,6 +7,7 @@
 # Issues: https://github.com/s5innovators/url-blocklist/issues
 #
 0dio.site
+0mp4ep.cn
 0nlinepaidlife.shop
 0olut8.cn
 0prs.site
@@ -31,6 +32,7 @@
 a-bank.no-pay.me
 a-bank.pay-ukraine.com
 a-bank.pcs-order.me
+a-bank.securitypay.me
 a-bank.ul-pay.me
 a-dopomoga.info
 a-pay-link.tech
@@ -136,11 +138,14 @@ com1465.website
 compen-ua.sbs
 compen-ua.website
 compens.ocxa-ua.top
+compensation-ua.xyz
 compensation-ukr.com
 compensations-ukrain.bar
 compensations-ukrain.sbs
+compensationua.com
 compensationukr.com
 corpi-gos.top
+cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
@@ -158,6 +163,7 @@ dis6.site
 dl-gos.top
 dopomoga-epay.site
 dopomoga-ua.online
+dopomogainukraine.com
 draw-opros.top
 dufafaststinen.gq
 e-grivn.com
@@ -179,6 +185,7 @@ enow-survey.top
 epaidslife.shop
 epicentrk-bonus.online
 epicentrk-bonus.store
+epidtrimka.com
 epmes.hollydrew3winster.xyz
 erinekenney.com
 escrowbox.site
@@ -193,6 +200,7 @@ eurodigital.store
 europadonnaireland.org
 eurosell.com.ua
 ev-gos.top
+ever-gos.top
 ever-opros.top
 evi-gos.top
 ex-gos.top
@@ -215,7 +223,9 @@ fqb5hw.cn
 free-zaim.site
 funpay.ru
 fxprime365.com
+g-pay.me
 gbwtibz.cn
+gen-gos.top
 get-ua-comp.cfd
 getfunds.pw
 getmewin.com
@@ -305,6 +315,7 @@ kohhd.com
 konkurs-golos.ltd
 kpayments.cc
 kredo.pay-ukraine.com
+kredo.securitypay.me
 kredobank.no-pay.me
 kuhnyadom.com
 kyivstarbezlim.com
@@ -352,6 +363,7 @@ moblobmen.org
 moblpay.com.ua
 monitor-igr.blogspot.com
 mono-bank.org
+mono.xx-pay.co
 monobank.co.ua
 monobank.online
 monobank.store
@@ -382,12 +394,19 @@ next-bp.info
 next-bp.net
 next-privat24.online
 next.privat24.fun
+next24.cq-pay.me
 next24.nato-gov.com
 next24.next-bp.net
 next24.no-pay.me
+next24.np-pay.me
 next24.okpay24-grn.com
+next24.ox-pay.me
 next24.pay-ukraine.com
 next24.pcs-order.me
+next24.securitypay.me
+next24.upayment.me
+next24.xx-pay.co
+next24.xx-pay.me
 nextpay.pw
 nextpayments.org.ru
 niceeuphoria.com
@@ -399,6 +418,8 @@ novaposhta-ua.recivemoney.icu
 novaposhta.beautiful-pays.site
 novaposhta.ua-pay.space
 novok.com.ua
+np-pay.me
+nv-pay.me
 oacisapp.top
 oacisaps.top
 oacisapt.top
@@ -413,6 +434,7 @@ okpay24-grn.com
 olenevgroup.wixsite.com
 ollos.ru
 olx-pays.com
+olx-ua.poluchenie.pw
 olx-ua.recive-money.icu
 olx-ua.recivemoney.icu
 om-auto.ru
@@ -422,6 +444,7 @@ onlin24-ukrsibbanck.uks6.site
 online-oschadbank.dis6.site
 online-pays.tech
 online-raiffeic24.ava6.site
+onlinepay.cloud
 onlines-raiffec24.ava6.site
 onlinetop.me
 onlini24-oschadbank.osv6.site
@@ -432,19 +455,25 @@ opay365.com
 opi-gos.top
 oschad.3dss-pays.info
 oschad.cake-payment.me
+oschad.cq-pay.me
 oschad.nato-gov.com
 oschad.next-bp.info
 oschad.next-bp.net
+oschad.np-pay.me
 oschad.okpay24-grn.com
 oschad.pay-ukraine.com
 oschad.pcs-order.me
+oschad.securitypay.me
 oschad.simdif.com
+oschad.xx-pay.co
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
 oschadbank.no-pay.me
 oschadbank.ul-pay.me
 oschadnybank.com.ua
 oshad.24get.site
+oshcad-bank.top
+oshcadbank.top
 osschad.secure2dpay.store
 osv6.site
 osxi-ua.xyz
@@ -452,6 +481,7 @@ otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
 ovs-gos.top
+ox-pay.me
 p-invest.site
 palyvo.shop
 partmone.space
@@ -471,10 +501,14 @@ payment-system.cloud
 payment.cash
 payment.studio
 payments-cars.com
+pays.cards
+pays.credit
+pays.creditcard
 paystarted.com
 payterminal.com.ua
 payup.info
 payy.site
+payyua.site
 pb24-blago.0dio.site
 pb24-viplata.d0s.site
 pce6.site
@@ -489,6 +523,7 @@ pestrio.site
 platizh.com
 platizhmob.com
 pochta1.com
+poluchenie.pw
 poluchka.3dss-pays.info
 poluchka.nost-pays.shop
 popolni.info
@@ -506,6 +541,7 @@ privat24-help.link
 privat24.0pru.site
 privat24.3lzx.site
 privat24.apayments.pro
+privat24.cloud
 privat24.com1465.website
 privat24.diiapidpys.uk
 privat24.fun
@@ -515,6 +551,7 @@ privat24.kpayments.cc
 privat24.lpayments.org
 privat24.nextpay.pw
 privat24.perekaz.com
+privat24.pics
 privat24.press
 privat24.privatbank.in.ua
 privat24.quickpay.pw
@@ -522,6 +559,7 @@ privat24.quicktrans.space
 privat24.saferegulatory.com
 privat24.sendex.online
 privat24.tech
+privat24.top
 privat24.ua-payout.site
 privat24.uasafe.online
 privat24.uno
@@ -535,6 +573,7 @@ privatbank.in.ua
 privatbank.online-pays.tech
 privatbank.payment-system.cloud
 privatbankcredit.com
+privatpay.biz
 privatpay.me
 privatpay.online
 privats24.3pre.site
@@ -551,11 +590,15 @@ pumb.ca-pay.me
 pumb.cake-payment.me
 pumb.nato-gov.com
 pumb.no-pay.me
+pumb.np-pay.me
 pumb.pay-ukraine.com
 pumb.pcs-order.me
 pumb.secure2dpay.store
+pumb.securitypay.me
 pumb.ul-pay.me
+pumb.upayment.me
 pumb.xu-pay.me
+pumb.xx-pay.co
 qs-dopomoga.me
 quickpay.pw
 quickpaymentss.expert
@@ -568,11 +611,14 @@ raif.nato-gov.com
 raif.next-bp.info
 raif.next-bp.net
 raif.no-pay.me
+raif.np-pay.me
 raif.okpay24-grn.com
 raif.pay-ukraine.com
 raif.pcs-order.me
 raif.secure2dpay.store
+raif.securitypay.me
 raif.ul-pay.me
+raif.xx-pay.co
 raiffeiesen.simdif.com
 raiffeisen.3dss-pays.info
 rastamogka.net
@@ -592,6 +638,8 @@ s.prizesite.net
 saferegulatory.com
 scooter-m.com.ua
 secure2dpay.store
+secure3ds.org
+securitypay.me
 sekret.vipmoney.xyz
 sendex.online
 sendmoney.site
@@ -661,10 +709,17 @@ ua-compens.top
 ua-compensation.top
 ua-compensations.xyz
 ua-compenses.top
+ua-dopomoga.org
+ua-linker.top
 ua-pay.space
+ua-payer.top
 ua-payout.site
 ua-privat24.pro
+ua-safepya.info
+ua-securepaym.co
+ua-tax-compens.top
 ua-taxes-compens.xyz
+ua-walet.online
 ua-wallet.pw
 ua.market
 ua2021priz.yolasite.com
@@ -675,7 +730,9 @@ uacmplnk.xyz
 uacompensation.xyz
 uaekcrprt.site
 uam-compensation.xyz
+uapay.cloud
 uapay.escrowbox.website
+uapay.health
 uapdvkomp.yolasite.com
 uappl.org
 uasafe.online
@@ -685,7 +742,12 @@ uatax-compenses.xyz
 ucraft.site
 ui-opros.top
 ukr-cmpns.xyz
+ukr-compens.top
 ukr-compens.xyz
+ukr-compesations.top
+ukr-compesations.xyz
+ukr-dopomog.top
+ukr-linker.xyz
 ukr-money.com.ua
 ukraine-furniture.com.ua
 ukraineamazon.com
@@ -704,12 +766,20 @@ ukrcredits.com
 ukrhelp.org.ua
 ukrmall.com.ua
 ukrmob.com.ua
+ukrsib-bank.top
 ukrsib.cake-payment.me
+ukrsib.np-pay.me
 ukrsib.pcs-order.me
+ukrsib.securitypay.me
+ukrsib.xx-pay.co
+ukrsibbank.top
 uks6.site
 ul-pay.me
 uni-gos.top
+unicefua.news
 unix-change.world
+up-pay.me
+upayment.me
 uperevod.icu
 uplata.cyou
 usasklad.com.ua
@@ -726,6 +796,7 @@ vipmoney.xyz
 vizatravel.ru.com
 voram-net.blogspot.com
 vsad.com.ua
+vyplata24.com
 vyplataua.com
 wasibial.com
 weekpaidlife.top
@@ -769,12 +840,15 @@ x7-mikepike.buzz
 xrates.ru
 xu-pay.me
 xwallet.website
+xx-pay.co
+xx-pay.me
 y-pay.pro
 yakor.shop
 yakudzamoto.com.ua
 ye-gos.top
 yh3v-prom.go2winner.com
 yi-gos.top
+ymtbsvl.cn
 yolasite.com
 yooour-apple.in.ua
 zacordon.servicehelp.com.ua
