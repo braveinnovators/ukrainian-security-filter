@@ -51,7 +51,6 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist-dnsmasq.txt
 * [uBlock Origin](https://ublockorigin.com/)
 * [Adblock Plus](https://adblockplus.org/features)
 * [AdBlock](https://getadblock.com/)
-* [AdGuard Browser extension](https://adguard.com/)
 
 ## Як додати список
 
