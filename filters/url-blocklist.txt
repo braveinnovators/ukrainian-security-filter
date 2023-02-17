@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 16 Feb 2023 20:10 EET
+! Last modified: 17 Feb 2023 21:27 EET
 ! Expires: 4 days (update frequency)
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -7,6 +7,7 @@
 ! Issues: https://github.com/s5innovators/url-blocklist/issues
 !
 ||0dio.site^
+||0mp4ep.cn^
 ||0nlinepaidlife.shop^
 ||0olut8.cn^
 ||0prs.site^
@@ -114,11 +115,14 @@
 ||com1465.website^
 ||compen-ua.sbs^
 ||compen-ua.website^
+||compensation-ua.xyz^
 ||compensation-ukr.com^
 ||compensations-ukrain.bar^
 ||compensations-ukrain.sbs^
+||compensationua.com^
 ||compensationukr.com^
 ||corpi-gos.top^
+||cq-pay.me^
 ||cybe-gos.top^
 ||d0s.site^
 ||d3ya.site^
@@ -132,6 +136,7 @@
 ||dl-gos.top^
 ||dopomoga-epay.site^
 ||dopomoga-ua.online^
+||dopomogainukraine.com^
 ||draw-opros.top^
 ||dufafaststinen.gq^
 ||e-grivn.com^
@@ -151,6 +156,7 @@
 ||epaidslife.shop^
 ||epicentrk-bonus.online^
 ||epicentrk-bonus.store^
+||epidtrimka.com^
 ||erinekenney.com^
 ||escrowbox.site^
 ||escrowbox.website^
@@ -164,6 +170,7 @@
 ||europadonnaireland.org^
 ||eurosell.com.ua^
 ||ev-gos.top^
+||ever-gos.top^
 ||ever-opros.top^
 ||evi-gos.top^
 ||ex-gos.top^
@@ -186,7 +193,9 @@
 ||free-zaim.site^
 ||funpay.ru^
 ||fxprime365.com^
+||g-pay.me^
 ||gbwtibz.cn^
+||gen-gos.top^
 ||get-ua-comp.cfd^
 ||getfunds.pw^
 ||getmewin.com^
@@ -339,6 +348,8 @@
 ||nost-pays.shop^
 ||nova-pay.net^
 ||novok.com.ua^
+||np-pay.me^
+||nv-pay.me^
 ||oacisapp.top^
 ||oacisaps.top^
 ||oacisapt.top^
@@ -349,18 +360,23 @@
 ||okpay24-grn.com^
 ||ollos.ru^
 ||olx-pays.com^
+||olx-ua.poluchenie.pw^
 ||om-auto.ru^
 ||omegapro.world^
 ||omp-gos.top^
 ||online-pays.tech^
+||onlinepay.cloud^
 ||onlinetop.me^
 ||opay365.com^
 ||opi-gos.top^
 ||oschadbank-inform.com.ua^
 ||oschadnybank.com.ua^
+||oshcad-bank.top^
+||oshcadbank.top^
 ||osv6.site^
 ||osxi-ua.xyz^
 ||ovs-gos.top^
+||ox-pay.me^
 ||p-invest.site^
 ||palyvo.shop^
 ||partmone.space^
@@ -374,10 +390,14 @@
 ||payment.cash^
 ||payment.studio^
 ||payments-cars.com^
+||pays.cards^
+||pays.credit^
+||pays.creditcard^
 ||paystarted.com^
 ||payterminal.com.ua^
 ||payup.info^
 ||payy.site^
+||payyua.site^
 ||pce6.site^
 ||pcs-order.me^
 ||pe6.site^
@@ -390,6 +410,7 @@
 ||platizh.com^
 ||platizhmob.com^
 ||pochta1.com^
+||poluchenie.pw^
 ||popolni.info^
 ||popolnim.info^
 ||popolnimob.com^
@@ -401,14 +422,18 @@
 ||primanka.com.ua^
 ||privat-trade.com^
 ||privat24-help.link^
+||privat24.cloud^
 ||privat24.fun^
+||privat24.pics^
 ||privat24.press^
 ||privat24.tech^
+||privat24.top^
 ||privat24.uno^
 ||privat24bank.net^
 ||privat24investt.xyz^
 ||privatbank.in.ua^
 ||privatbankcredit.com^
+||privatpay.biz^
 ||privatpay.me^
 ||privatpay.online^
 ||prizesite.net^
@@ -440,6 +465,8 @@
 ||saferegulatory.com^
 ||scooter-m.com.ua^
 ||secure2dpay.store^
+||secure3ds.org^
+||securitypay.me^
 ||sendex.online^
 ||sendmoney.site^
 ||servicehelp.com.ua^
@@ -498,10 +525,17 @@
 ||ua-compensation.top^
 ||ua-compensations.xyz^
 ||ua-compenses.top^
+||ua-dopomoga.org^
+||ua-linker.top^
 ||ua-pay.space^
+||ua-payer.top^
 ||ua-payout.site^
 ||ua-privat24.pro^
+||ua-safepya.info^
+||ua-securepaym.co^
+||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
+||ua-walet.online^
 ||ua-wallet.pw^
 ||ua.market^
 ||uabayrakua.com^
@@ -509,6 +543,8 @@
 ||uacompensation.xyz^
 ||uaekcrprt.site^
 ||uam-compensation.xyz^
+||uapay.cloud^
+||uapay.health^
 ||uappl.org^
 ||uasafe.online^
 ||uatax-compens.xyz^
@@ -516,7 +552,12 @@
 ||ucraft.site^
 ||ui-opros.top^
 ||ukr-cmpns.xyz^
+||ukr-compens.top^
 ||ukr-compens.xyz^
+||ukr-compesations.top^
+||ukr-compesations.xyz^
+||ukr-dopomog.top^
+||ukr-linker.xyz^
 ||ukr-money.com.ua^
 ||ukraine-furniture.com.ua^
 ||ukraineamazon.com^
@@ -533,10 +574,15 @@
 ||ukrhelp.org.ua^
 ||ukrmall.com.ua^
 ||ukrmob.com.ua^
+||ukrsib-bank.top^
+||ukrsibbank.top^
 ||uks6.site^
 ||ul-pay.me^
 ||uni-gos.top^
+||unicefua.news^
 ||unix-change.world^
+||up-pay.me^
+||upayment.me^
 ||uperevod.icu^
 ||uplata.cyou^
 ||usasklad.com.ua^
@@ -550,6 +596,7 @@
 ||vipmoney.xyz^
 ||voram-net.blogspot.com^
 ||vsad.com.ua^
+||vyplata24.com^
 ||vyplataua.com^
 ||wasibial.com^
 ||weekpaidlife.top^
@@ -564,11 +611,14 @@
 ||xrates.ru^
 ||xu-pay.me^
 ||xwallet.website^
+||xx-pay.co^
+||xx-pay.me^
 ||y-pay.pro^
 ||yakor.shop^
 ||yakudzamoto.com.ua^
 ||ye-gos.top^
 ||yi-gos.top^
+||ymtbsvl.cn^
 ||yolasite.com^
 ||yooour-apple.in.ua^
 ||zakks.top^
