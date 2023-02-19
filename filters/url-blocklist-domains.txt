@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist
-# Last modified: 17 Feb 2023 21:27 EET
+# Last modified: 19 Feb 2023 22:16 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -161,9 +161,16 @@ diiapidpys.uk
 direktolog.vipmoney.xyz
 dis6.site
 dl-gos.top
+dopomoga-2023.top
+dopomoga-aid.top
+dopomoga-backing.top
 dopomoga-epay.site
 dopomoga-ua.online
+dopomoga-ua.site
+dopomoga-ua.website
+dopomoga23.top
 dopomogainukraine.com
+dopomogi.top
 draw-opros.top
 dufafaststinen.gq
 e-grivn.com
@@ -241,9 +248,13 @@ good-opros.top
 good-store.in.ua
 goodstore-ua.shop
 goodstore.in.ua
+gos-dopomoga.top
+gos-ukraine.info
 goturozetka.com
 goturozetka.vip
 gov-uah.top
+gov.ukr-savess.icu
+gov.ukr-savess.sbs
 grac-opros.top
 grinta-invest.com
 growthstrategyinstitute.com
@@ -256,9 +267,14 @@ hauahi-super-top.wasibial.com
 haw3qa.cn
 help-compensation-ua.xyz
 help-dopomoga.online
+help-fond-ukrain.buzz
+help-fond-ukrain.cyou
+help-fond-ukrain.icu
+help-fond-ukrain.sbs
 help-fynancegov.com
 help-gos.top
 help-ukrain.xyz
+helpfond-ua.buzz
 helpukraine.direct
 helpzzfound.site
 hollydrew3winster.xyz
@@ -402,6 +418,7 @@ next24.np-pay.me
 next24.okpay24-grn.com
 next24.ox-pay.me
 next24.pay-ukraine.com
+next24.paysdayl.click
 next24.pcs-order.me
 next24.securitypay.me
 next24.upayment.me
@@ -462,6 +479,7 @@ oschad.next-bp.net
 oschad.np-pay.me
 oschad.okpay24-grn.com
 oschad.pay-ukraine.com
+oschad.paysdayl.click
 oschad.pcs-order.me
 oschad.securitypay.me
 oschad.simdif.com
@@ -504,6 +522,7 @@ payments-cars.com
 pays.cards
 pays.credit
 pays.creditcard
+paysdayl.click
 paystarted.com
 payterminal.com.ua
 payup.info
@@ -614,6 +633,7 @@ raif.no-pay.me
 raif.np-pay.me
 raif.okpay24-grn.com
 raif.pay-ukraine.com
+raif.paysdayl.click
 raif.pcs-order.me
 raif.secure2dpay.store
 raif.securitypay.me
@@ -715,6 +735,7 @@ ua-pay.space
 ua-payer.top
 ua-payout.site
 ua-privat24.pro
+ua-redress.buzz
 ua-safepya.info
 ua-securepaym.co
 ua-tax-compens.top
@@ -744,11 +765,14 @@ ui-opros.top
 ukr-cmpns.xyz
 ukr-compens.top
 ukr-compens.xyz
+ukr-compensate.top
 ukr-compesations.top
 ukr-compesations.xyz
 ukr-dopomog.top
 ukr-linker.xyz
 ukr-money.com.ua
+ukr-savess.icu
+ukr-savess.sbs
 ukraine-furniture.com.ua
 ukraineamazon.com
 ukrainebayra.com
@@ -775,6 +799,7 @@ ukrsib.xx-pay.co
 ukrsibbank.top
 uks6.site
 ul-pay.me
+un-dopomoga.info
 uni-gos.top
 unicefua.news
 unix-change.world
@@ -791,6 +816,7 @@ uz-gos.top
 ves-gos.top
 vh20153.hv4.ru
 vipfoix.wixsite.com
+viplati-uah.top
 viplaty.online
 vipmoney.xyz
 vizatravel.ru.com
