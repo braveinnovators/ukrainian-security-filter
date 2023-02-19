@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
-# Last modified: 17 Feb 2023 21:27 EET
+# Last modified: 19 Feb 2023 22:16 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -161,9 +161,16 @@
 0.0.0.0 direktolog.vipmoney.xyz
 0.0.0.0 dis6.site
 0.0.0.0 dl-gos.top
+0.0.0.0 dopomoga-2023.top
+0.0.0.0 dopomoga-aid.top
+0.0.0.0 dopomoga-backing.top
 0.0.0.0 dopomoga-epay.site
 0.0.0.0 dopomoga-ua.online
+0.0.0.0 dopomoga-ua.site
+0.0.0.0 dopomoga-ua.website
+0.0.0.0 dopomoga23.top
 0.0.0.0 dopomogainukraine.com
+0.0.0.0 dopomogi.top
 0.0.0.0 draw-opros.top
 0.0.0.0 dufafaststinen.gq
 0.0.0.0 e-grivn.com
@@ -241,9 +248,13 @@
 0.0.0.0 good-store.in.ua
 0.0.0.0 goodstore-ua.shop
 0.0.0.0 goodstore.in.ua
+0.0.0.0 gos-dopomoga.top
+0.0.0.0 gos-ukraine.info
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-uah.top
+0.0.0.0 gov.ukr-savess.icu
+0.0.0.0 gov.ukr-savess.sbs
 0.0.0.0 grac-opros.top
 0.0.0.0 grinta-invest.com
 0.0.0.0 growthstrategyinstitute.com
@@ -256,9 +267,14 @@
 0.0.0.0 haw3qa.cn
 0.0.0.0 help-compensation-ua.xyz
 0.0.0.0 help-dopomoga.online
+0.0.0.0 help-fond-ukrain.buzz
+0.0.0.0 help-fond-ukrain.cyou
+0.0.0.0 help-fond-ukrain.icu
+0.0.0.0 help-fond-ukrain.sbs
 0.0.0.0 help-fynancegov.com
 0.0.0.0 help-gos.top
 0.0.0.0 help-ukrain.xyz
+0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpzzfound.site
 0.0.0.0 hollydrew3winster.xyz
@@ -402,6 +418,7 @@
 0.0.0.0 next24.okpay24-grn.com
 0.0.0.0 next24.ox-pay.me
 0.0.0.0 next24.pay-ukraine.com
+0.0.0.0 next24.paysdayl.click
 0.0.0.0 next24.pcs-order.me
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.upayment.me
@@ -462,6 +479,7 @@
 0.0.0.0 oschad.np-pay.me
 0.0.0.0 oschad.okpay24-grn.com
 0.0.0.0 oschad.pay-ukraine.com
+0.0.0.0 oschad.paysdayl.click
 0.0.0.0 oschad.pcs-order.me
 0.0.0.0 oschad.securitypay.me
 0.0.0.0 oschad.simdif.com
@@ -504,6 +522,7 @@
 0.0.0.0 pays.cards
 0.0.0.0 pays.credit
 0.0.0.0 pays.creditcard
+0.0.0.0 paysdayl.click
 0.0.0.0 paystarted.com
 0.0.0.0 payterminal.com.ua
 0.0.0.0 payup.info
@@ -614,6 +633,7 @@
 0.0.0.0 raif.np-pay.me
 0.0.0.0 raif.okpay24-grn.com
 0.0.0.0 raif.pay-ukraine.com
+0.0.0.0 raif.paysdayl.click
 0.0.0.0 raif.pcs-order.me
 0.0.0.0 raif.secure2dpay.store
 0.0.0.0 raif.securitypay.me
@@ -715,6 +735,7 @@
 0.0.0.0 ua-payer.top
 0.0.0.0 ua-payout.site
 0.0.0.0 ua-privat24.pro
+0.0.0.0 ua-redress.buzz
 0.0.0.0 ua-safepya.info
 0.0.0.0 ua-securepaym.co
 0.0.0.0 ua-tax-compens.top
@@ -744,11 +765,14 @@
 0.0.0.0 ukr-cmpns.xyz
 0.0.0.0 ukr-compens.top
 0.0.0.0 ukr-compens.xyz
+0.0.0.0 ukr-compensate.top
 0.0.0.0 ukr-compesations.top
 0.0.0.0 ukr-compesations.xyz
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-linker.xyz
 0.0.0.0 ukr-money.com.ua
+0.0.0.0 ukr-savess.icu
+0.0.0.0 ukr-savess.sbs
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukrainebayra.com
@@ -775,6 +799,7 @@
 0.0.0.0 ukrsibbank.top
 0.0.0.0 uks6.site
 0.0.0.0 ul-pay.me
+0.0.0.0 un-dopomoga.info
 0.0.0.0 uni-gos.top
 0.0.0.0 unicefua.news
 0.0.0.0 unix-change.world
@@ -791,6 +816,7 @@
 0.0.0.0 ves-gos.top
 0.0.0.0 vh20153.hv4.ru
 0.0.0.0 vipfoix.wixsite.com
+0.0.0.0 viplati-uah.top
 0.0.0.0 viplaty.online
 0.0.0.0 vipmoney.xyz
 0.0.0.0 vizatravel.ru.com
