@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 17 Feb 2023 21:27 EET
+! Last modified: 19 Feb 2023 22:16 EET
 ! Expires: 4 days (update frequency)
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -134,9 +134,16 @@
 ||diiapidpys.uk^
 ||dis6.site^
 ||dl-gos.top^
+||dopomoga-2023.top^
+||dopomoga-aid.top^
+||dopomoga-backing.top^
 ||dopomoga-epay.site^
 ||dopomoga-ua.online^
+||dopomoga-ua.site^
+||dopomoga-ua.website^
+||dopomoga23.top^
 ||dopomogainukraine.com^
+||dopomogi.top^
 ||draw-opros.top^
 ||dufafaststinen.gq^
 ||e-grivn.com^
@@ -210,6 +217,8 @@
 ||good-store.in.ua^
 ||goodstore-ua.shop^
 ||goodstore.in.ua^
+||gos-dopomoga.top^
+||gos-ukraine.info^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-uah.top^
@@ -224,9 +233,14 @@
 ||haw3qa.cn^
 ||help-compensation-ua.xyz^
 ||help-dopomoga.online^
+||help-fond-ukrain.buzz^
+||help-fond-ukrain.cyou^
+||help-fond-ukrain.icu^
+||help-fond-ukrain.sbs^
 ||help-fynancegov.com^
 ||help-gos.top^
 ||help-ukrain.xyz^
+||helpfond-ua.buzz^
 ||helpukraine.direct^
 ||helpzzfound.site^
 ||hollydrew3winster.xyz^
@@ -393,6 +407,7 @@
 ||pays.cards^
 ||pays.credit^
 ||pays.creditcard^
+||paysdayl.click^
 ||paystarted.com^
 ||payterminal.com.ua^
 ||payup.info^
@@ -531,6 +546,7 @@
 ||ua-payer.top^
 ||ua-payout.site^
 ||ua-privat24.pro^
+||ua-redress.buzz^
 ||ua-safepya.info^
 ||ua-securepaym.co^
 ||ua-tax-compens.top^
@@ -554,11 +570,14 @@
 ||ukr-cmpns.xyz^
 ||ukr-compens.top^
 ||ukr-compens.xyz^
+||ukr-compensate.top^
 ||ukr-compesations.top^
 ||ukr-compesations.xyz^
 ||ukr-dopomog.top^
 ||ukr-linker.xyz^
 ||ukr-money.com.ua^
+||ukr-savess.icu^
+||ukr-savess.sbs^
 ||ukraine-furniture.com.ua^
 ||ukraineamazon.com^
 ||ukrainebayra.com^
@@ -578,6 +597,7 @@
 ||ukrsibbank.top^
 ||uks6.site^
 ||ul-pay.me^
+||un-dopomoga.info^
 ||uni-gos.top^
 ||unicefua.news^
 ||unix-change.world^
@@ -592,6 +612,7 @@
 ||uvyplata.icu^
 ||uz-gos.top^
 ||ves-gos.top^
+||viplati-uah.top^
 ||viplaty.online^
 ||vipmoney.xyz^
 ||voram-net.blogspot.com^
