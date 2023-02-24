@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 19 Feb 2023 22:16 EET
+! Last modified: 24 Feb 2023 15:46 EET
 ! Expires: 4 days (update frequency)
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -141,7 +141,9 @@
 ||dopomoga-ua.online^
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
+||dopomoga2023.com^
 ||dopomoga23.top^
+||dopomogaa.site^
 ||dopomogainukraine.com^
 ||dopomogi.top^
 ||draw-opros.top^
@@ -164,6 +166,7 @@
 ||epicentrk-bonus.online^
 ||epicentrk-bonus.store^
 ||epidtrimka.com^
+||epotrepa-edopomoga.org^
 ||erinekenney.com^
 ||escrowbox.site^
 ||escrowbox.website^
@@ -219,6 +222,7 @@
 ||goodstore.in.ua^
 ||gos-dopomoga.top^
 ||gos-ukraine.info^
+||gosdopomoga.com^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-uah.top^
@@ -426,6 +430,7 @@
 ||platizhmob.com^
 ||pochta1.com^
 ||poluchenie.pw^
+||pomoshukraine.website^
 ||popolni.info^
 ||popolnim.info^
 ||popolnimob.com^
@@ -535,6 +540,7 @@
 ||trpayuan.site^
 ||trust-gos.top^
 ||trust-group.pro^
+||tsa.airforce^
 ||tvshop.site^
 ||ua-compens.top^
 ||ua-compensation.top^
@@ -578,6 +584,7 @@
 ||ukr-money.com.ua^
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
+||ukrainapomosh.site^
 ||ukraine-furniture.com.ua^
 ||ukraineamazon.com^
 ||ukrainebayra.com^
@@ -590,6 +597,7 @@
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
 ||ukrcredits.com^
+||ukrfinanspomog.site^
 ||ukrhelp.org.ua^
 ||ukrmall.com.ua^
 ||ukrmob.com.ua^
@@ -652,3 +660,5 @@
 ||facebook.com/people/Новини-247/100084930128994/^$document
 ||facebook.com/people/News-for-people/100081961447678/^$document
 ||facebook.com/uappl.org^$document
+||t.me/dopomogaonline2023_bot^$document
+||t.me/UkrainaDopomoga_UKR^$document
