@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist
-# Last modified: 24 Feb 2023 15:46 EET
+# Last modified: 24 Feb 2023 19:50 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,10 +29,13 @@
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
+a-bank.glopay.site
+a-bank.glopay.site
 a-bank.no-pay.me
 a-bank.pay-ukraine.com
 a-bank.pcs-order.me
 a-bank.securitypay.me
+a-bank.ua-receipt.com
 a-bank.ul-pay.me
 a-dopomoga.info
 a-pay-link.tech
@@ -156,7 +159,9 @@ dazzlingcortex.com
 de-gos.top
 dear-gos.top
 determinecrust.top
+diia-dopomoga.pro
 diia-gov.pp.ua
+diiadopomoga.pro
 diiapidpys.uk
 direktolog.vipmoney.xyz
 dis6.site
@@ -243,6 +248,7 @@ gg-pay.me
 giroskuter.net.ua
 global-iqos.com
 globalnet.tvshop.site
+glopay.site
 go2ere.com
 go2winner.com
 goeth.io
@@ -415,6 +421,7 @@ next-bp.net
 next-privat24.online
 next.privat24.fun
 next24.cq-pay.me
+next24.glopay.site
 next24.nato-gov.com
 next24.next-bp.net
 next24.no-pay.me
@@ -426,6 +433,7 @@ next24.paysdayl.click
 next24.pcs-order.me
 next24.securitypay.me
 next24.tsa.airforce
+next24.ua-receipt.com
 next24.upayment.me
 next24.xx-pay.co
 next24.xx-pay.me
@@ -489,6 +497,7 @@ oschad.pcs-order.me
 oschad.securitypay.me
 oschad.simdif.com
 oschad.tsa.airforce
+oschad.ua-receipt.com
 oschad.xx-pay.co
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
@@ -633,6 +642,7 @@ rabotaweb.online
 radixgroup.ru
 raif.24get.site
 raif.cake-payment.me
+raif.glopay.site
 raif.nato-gov.com
 raif.next-bp.info
 raif.next-bp.net
@@ -645,6 +655,7 @@ raif.pcs-order.me
 raif.secure2dpay.store
 raif.securitypay.me
 raif.tsa.airforce
+raif.ua-receipt.com
 raif.ul-pay.me
 raif.xx-pay.co
 raiffeiesen.simdif.com
@@ -744,6 +755,7 @@ ua-pay.space
 ua-payer.top
 ua-payout.site
 ua-privat24.pro
+ua-receipt.com
 ua-redress.buzz
 ua-safepya.info
 ua-securepaym.co
