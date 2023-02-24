@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist
-# Last modified: 19 Feb 2023 22:16 EET
+# Last modified: 24 Feb 2023 15:46 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -168,7 +168,9 @@ dopomoga-epay.site
 dopomoga-ua.online
 dopomoga-ua.site
 dopomoga-ua.website
+dopomoga2023.com
 dopomoga23.top
+dopomogaa.site
 dopomogainukraine.com
 dopomogi.top
 draw-opros.top
@@ -194,6 +196,7 @@ epicentrk-bonus.online
 epicentrk-bonus.store
 epidtrimka.com
 epmes.hollydrew3winster.xyz
+epotrepa-edopomoga.org
 erinekenney.com
 escrowbox.site
 escrowbox.website
@@ -250,6 +253,7 @@ goodstore-ua.shop
 goodstore.in.ua
 gos-dopomoga.top
 gos-ukraine.info
+gosdopomoga.com
 goturozetka.com
 goturozetka.vip
 gov-uah.top
@@ -421,6 +425,7 @@ next24.pay-ukraine.com
 next24.paysdayl.click
 next24.pcs-order.me
 next24.securitypay.me
+next24.tsa.airforce
 next24.upayment.me
 next24.xx-pay.co
 next24.xx-pay.me
@@ -483,6 +488,7 @@ oschad.paysdayl.click
 oschad.pcs-order.me
 oschad.securitypay.me
 oschad.simdif.com
+oschad.tsa.airforce
 oschad.xx-pay.co
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
@@ -545,6 +551,7 @@ pochta1.com
 poluchenie.pw
 poluchka.3dss-pays.info
 poluchka.nost-pays.shop
+pomoshukraine.website
 popolni.info
 popolnim.info
 popolnimob.com
@@ -637,6 +644,7 @@ raif.paysdayl.click
 raif.pcs-order.me
 raif.secure2dpay.store
 raif.securitypay.me
+raif.tsa.airforce
 raif.ul-pay.me
 raif.xx-pay.co
 raiffeiesen.simdif.com
@@ -724,6 +732,7 @@ tris-gos.top
 trpayuan.site
 trust-gos.top
 trust-group.pro
+tsa.airforce
 tvshop.site
 ua-compens.top
 ua-compensation.top
@@ -773,6 +782,7 @@ ukr-linker.xyz
 ukr-money.com.ua
 ukr-savess.icu
 ukr-savess.sbs
+ukrainapomosh.site
 ukraine-furniture.com.ua
 ukraineamazon.com
 ukrainebayra.com
@@ -787,6 +797,7 @@ ukrainian-inform.com
 ukrainianamazon.com
 ukrauk.wixsite.com
 ukrcredits.com
+ukrfinanspomog.site
 ukrhelp.org.ua
 ukrmall.com.ua
 ukrmob.com.ua
