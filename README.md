@@ -52,7 +52,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist-dnsmasq.txt
 * [Adblock Plus](https://adblockplus.org/features)
 * [AdBlock](https://getadblock.com/)
 
-## Як додати список
+## Як додати фільтр
 
 ### Brave
 
