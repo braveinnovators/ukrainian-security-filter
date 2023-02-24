@@ -1,5 +1,5 @@
 ! Title: UA: Malicious URL Blocklist
-! Last modified: 24 Feb 2023 15:46 EET
+! Last modified: 24 Feb 2023 19:50 EET
 ! Expires: 4 days (update frequency)
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -130,7 +130,9 @@
 ||de-gos.top^
 ||dear-gos.top^
 ||determinecrust.top^
+||diia-dopomoga.pro^
 ||diia-gov.pp.ua^
+||diiadopomoga.pro^
 ||diiapidpys.uk^
 ||dis6.site^
 ||dl-gos.top^
@@ -212,6 +214,7 @@
 ||gg-pay.me^
 ||giroskuter.net.ua^
 ||global-iqos.com^
+||glopay.site^
 ||go2ere.com^
 ||go2winner.com^
 ||goeth.io^
@@ -552,6 +555,7 @@
 ||ua-payer.top^
 ||ua-payout.site^
 ||ua-privat24.pro^
+||ua-receipt.com^
 ||ua-redress.buzz^
 ||ua-safepya.info^
 ||ua-securepaym.co^
