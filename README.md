@@ -57,7 +57,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist-dnsmasq.txt
 ### Brave
 
 - У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
-- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу списку:
+- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтру:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
@@ -68,7 +68,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ### uBlock Origin
 
 - Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
-- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу списку, зберігши зміни:
+- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтру, зберігши зміни:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
@@ -79,7 +79,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ### Adblock Plus
 
 - Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
-- У поле вводу вставити скопійовану адресу списку, зберігши зміни:
+- У поле вводу вставити скопійовану адресу фільтру, зберігши зміни:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
