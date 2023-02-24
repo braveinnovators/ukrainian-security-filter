@@ -1,5 +1,5 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
-# Last modified: 24 Feb 2023 15:46 EET
+# Last modified: 24 Feb 2023 19:50 EET
 # Expires: 4 days (update frequency)
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,10 +29,12 @@
 0.0.0.0 6sij-prom.wickywin.com
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
+0.0.0.0 a-bank.glopay.site
 0.0.0.0 a-bank.no-pay.me
 0.0.0.0 a-bank.pay-ukraine.com
 0.0.0.0 a-bank.pcs-order.me
 0.0.0.0 a-bank.securitypay.me
+0.0.0.0 a-bank.ua-receipt.com
 0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-dopomoga.info
 0.0.0.0 a-pay-link.tech
@@ -156,7 +158,9 @@
 0.0.0.0 de-gos.top
 0.0.0.0 dear-gos.top
 0.0.0.0 determinecrust.top
+0.0.0.0 diia-dopomoga.pro
 0.0.0.0 diia-gov.pp.ua
+0.0.0.0 diiadopomoga.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 direktolog.vipmoney.xyz
 0.0.0.0 dis6.site
@@ -243,6 +247,7 @@
 0.0.0.0 giroskuter.net.ua
 0.0.0.0 global-iqos.com
 0.0.0.0 globalnet.tvshop.site
+0.0.0.0 glopay.site
 0.0.0.0 go2ere.com
 0.0.0.0 go2winner.com
 0.0.0.0 goeth.io
@@ -415,6 +420,7 @@
 0.0.0.0 next-privat24.online
 0.0.0.0 next.privat24.fun
 0.0.0.0 next24.cq-pay.me
+0.0.0.0 next24.glopay.site
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
 0.0.0.0 next24.no-pay.me
@@ -426,6 +432,7 @@
 0.0.0.0 next24.pcs-order.me
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.tsa.airforce
+0.0.0.0 next24.ua-receipt.com
 0.0.0.0 next24.upayment.me
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
@@ -478,6 +485,7 @@
 0.0.0.0 oschad.3dss-pays.info
 0.0.0.0 oschad.cake-payment.me
 0.0.0.0 oschad.cq-pay.me
+0.0.0.0 oschad.glopay.site
 0.0.0.0 oschad.nato-gov.com
 0.0.0.0 oschad.next-bp.info
 0.0.0.0 oschad.next-bp.net
@@ -489,6 +497,7 @@
 0.0.0.0 oschad.securitypay.me
 0.0.0.0 oschad.simdif.com
 0.0.0.0 oschad.tsa.airforce
+0.0.0.0 oschad.ua-receipt.com
 0.0.0.0 oschad.xx-pay.co
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
@@ -633,6 +642,7 @@
 0.0.0.0 radixgroup.ru
 0.0.0.0 raif.24get.site
 0.0.0.0 raif.cake-payment.me
+0.0.0.0 raif.glopay.site
 0.0.0.0 raif.nato-gov.com
 0.0.0.0 raif.next-bp.info
 0.0.0.0 raif.next-bp.net
@@ -645,6 +655,7 @@
 0.0.0.0 raif.secure2dpay.store
 0.0.0.0 raif.securitypay.me
 0.0.0.0 raif.tsa.airforce
+0.0.0.0 raif.ua-receipt.com
 0.0.0.0 raif.ul-pay.me
 0.0.0.0 raif.xx-pay.co
 0.0.0.0 raiffeiesen.simdif.com
@@ -744,6 +755,7 @@
 0.0.0.0 ua-payer.top
 0.0.0.0 ua-payout.site
 0.0.0.0 ua-privat24.pro
+0.0.0.0 ua-receipt.com
 0.0.0.0 ua-redress.buzz
 0.0.0.0 ua-safepya.info
 0.0.0.0 ua-securepaym.co
