@@ -1,6 +1,7 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
-# Last modified: 24 Feb 2023 19:50 EET
-# Expires: 4 days (update frequency)
+# Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
+# Last modified: 26 Feb 2023 19:57 EET
+# Expires: 4 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/s5innovators/url-blocklist
@@ -29,7 +30,6 @@ address=/4lv.ru/
 address=/6sij-prom.wickywin.com/
 address=/770capital.com/
 address=/80w19v.cn/
-address=/a-bank.glopay.site/
 address=/a-bank.glopay.site/
 address=/a-bank.no-pay.me/
 address=/a-bank.pay-ukraine.com/
@@ -163,6 +163,7 @@ address=/diia-dopomoga.pro/
 address=/diia-gov.pp.ua/
 address=/diiadopomoga.pro/
 address=/diiapidpys.uk/
+address=/diiaua.com/
 address=/direktolog.vipmoney.xyz/
 address=/dis6.site/
 address=/dl-gos.top/
@@ -486,6 +487,7 @@ address=/opi-gos.top/
 address=/oschad.3dss-pays.info/
 address=/oschad.cake-payment.me/
 address=/oschad.cq-pay.me/
+address=/oschad.glopay.site/
 address=/oschad.nato-gov.com/
 address=/oschad.next-bp.info/
 address=/oschad.next-bp.net/
