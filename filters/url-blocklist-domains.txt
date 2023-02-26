@@ -1,6 +1,7 @@
-# Title: UA: Malicious URL Blocklist
-# Last modified: 24 Feb 2023 19:50 EET
-# Expires: 4 days (update frequency)
+# Title: UA: Malicious URL Blocklist (clean version, domains only)
+# Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
+# Last modified: 26 Feb 2023 19:57 EET
+# Expires: 4 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/s5innovators/url-blocklist
@@ -29,7 +30,6 @@
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
-a-bank.glopay.site
 a-bank.glopay.site
 a-bank.no-pay.me
 a-bank.pay-ukraine.com
@@ -163,6 +163,7 @@ diia-dopomoga.pro
 diia-gov.pp.ua
 diiadopomoga.pro
 diiapidpys.uk
+diiaua.com
 direktolog.vipmoney.xyz
 dis6.site
 dl-gos.top
@@ -486,6 +487,7 @@ opi-gos.top
 oschad.3dss-pays.info
 oschad.cake-payment.me
 oschad.cq-pay.me
+oschad.glopay.site
 oschad.nato-gov.com
 oschad.next-bp.info
 oschad.next-bp.net
