@@ -1,6 +1,7 @@
-! Title: UA: Malicious URL Blocklist
-! Last modified: 24 Feb 2023 19:50 EET
-! Expires: 4 days (update frequency)
+! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
+! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
+! Last modified: 26 Feb 2023 19:57 EET
+! Expires: 4 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
 ! Homepage: https://github.com/s5innovators/url-blocklist
@@ -134,6 +135,7 @@
 ||diia-gov.pp.ua^
 ||diiadopomoga.pro^
 ||diiapidpys.uk^
+||diiaua.com^
 ||dis6.site^
 ||dl-gos.top^
 ||dopomoga-2023.top^
