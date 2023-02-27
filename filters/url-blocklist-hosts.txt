@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 26 Feb 2023 19:57 EET
+# Last modified: 27 Feb 2023 16:21 EET
 # Expires: 4 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -18,6 +18,7 @@
 0.0.0.0 1xwin.bet
 0.0.0.0 24get.site
 0.0.0.0 24grandcasino.com
+0.0.0.0 24perekaz.space
 0.0.0.0 24privat.site
 0.0.0.0 24unicef.org
 0.0.0.0 3dss-pays.info
@@ -30,6 +31,8 @@
 0.0.0.0 6sij-prom.wickywin.com
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
+0.0.0.0 a-bank.dopomoga.social
+0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
 0.0.0.0 a-bank.no-pay.me
 0.0.0.0 a-bank.pay-ukraine.com
@@ -39,6 +42,10 @@
 0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-dopomoga.info
 0.0.0.0 a-pay-link.tech
+0.0.0.0 abank.gate-pays.me
+0.0.0.0 abank.onlinediya.uk
+0.0.0.0 abank.perekazio.com
+0.0.0.0 abank.perekazu.com
 0.0.0.0 abicor-ukr.com.ua
 0.0.0.0 abs-techno.ru
 0.0.0.0 adi-gos.top
@@ -171,9 +178,12 @@
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-backing.top
 0.0.0.0 dopomoga-epay.site
+0.0.0.0 dopomoga-oon.com
+0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.online
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
+0.0.0.0 dopomoga.social
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomogaa.site
@@ -181,6 +191,8 @@
 0.0.0.0 dopomogi.top
 0.0.0.0 draw-opros.top
 0.0.0.0 dufafaststinen.gq
+0.0.0.0 e-dopomoga-perekazy24.space
+0.0.0.0 e-dopomoga.click
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-talon.space
@@ -240,6 +252,7 @@
 0.0.0.0 funpay.ru
 0.0.0.0 fxprime365.com
 0.0.0.0 g-pay.me
+0.0.0.0 gate-pays.me
 0.0.0.0 gbwtibz.cn
 0.0.0.0 gen-gos.top
 0.0.0.0 get-ua-comp.cfd
@@ -268,6 +281,7 @@
 0.0.0.0 gov.ukr-savess.sbs
 0.0.0.0 grac-opros.top
 0.0.0.0 grinta-invest.com
+0.0.0.0 groshovadopomoga.com
 0.0.0.0 growthstrategyinstitute.com
 0.0.0.0 gtradex.net
 0.0.0.0 gulf-can.com
@@ -318,10 +332,12 @@
 0.0.0.0 itxzspw.cyou
 0.0.0.0 ival-gos.top
 0.0.0.0 ivl-gos.top
+0.0.0.0 izibank.gate-pays.me
 0.0.0.0 izibank.pay-ukraine.com
 0.0.0.0 izibanking.com.ua
 0.0.0.0 j9-wersii.buzz
 0.0.0.0 jar-gos.top
+0.0.0.0 jay-order.me
 0.0.0.0 je-gos.top
 0.0.0.0 jet-pay.com
 0.0.0.0 jey-gos.top
@@ -390,6 +406,7 @@
 0.0.0.0 moblpay.com.ua
 0.0.0.0 monitor-igr.blogspot.com
 0.0.0.0 mono-bank.org
+0.0.0.0 mono.gate-pays.me
 0.0.0.0 mono.xx-pay.co
 0.0.0.0 monobank.co.ua
 0.0.0.0 monobank.online
@@ -408,6 +425,7 @@
 0.0.0.0 myua-compensations.xyz
 0.0.0.0 nadym.in
 0.0.0.0 namemo.ucraft.site
+0.0.0.0 nato-dopomoga.com
 0.0.0.0 nato-gov.com
 0.0.0.0 neobank.pcs-order.me
 0.0.0.0 nettgola.site
@@ -422,16 +440,23 @@
 0.0.0.0 next-privat24.online
 0.0.0.0 next.privat24.fun
 0.0.0.0 next24.cq-pay.me
+0.0.0.0 next24.dopomoga.social
+0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
+0.0.0.0 next24.jay-order.me
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
 0.0.0.0 next24.no-pay.me
 0.0.0.0 next24.np-pay.me
 0.0.0.0 next24.okpay24-grn.com
+0.0.0.0 next24.onlinediya.uk
 0.0.0.0 next24.ox-pay.me
 0.0.0.0 next24.pay-ukraine.com
 0.0.0.0 next24.paysdayl.click
 0.0.0.0 next24.pcs-order.me
+0.0.0.0 next24.perekazio.com
+0.0.0.0 next24.perekazu.com
+0.0.0.0 next24.perekazy-24pay.com
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.tsa.airforce
 0.0.0.0 next24.ua-receipt.com
@@ -475,6 +500,7 @@
 0.0.0.0 online-oschadbank.dis6.site
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeic24.ava6.site
+0.0.0.0 onlinediya.uk
 0.0.0.0 onlinepay.cloud
 0.0.0.0 onlines-raiffec24.ava6.site
 0.0.0.0 onlinetop.me
@@ -482,20 +508,29 @@
 0.0.0.0 onlinie-oschadbank24.f6x.site
 0.0.0.0 onlinis24-ukrsibbanci.uks6.site
 0.0.0.0 onlins24-oschadbank.osv6.site
+0.0.0.0 oon-dopomoga.info
+0.0.0.0 oon-dopomoga.pro
 0.0.0.0 opay365.com
 0.0.0.0 opi-gos.top
 0.0.0.0 oschad.3dss-pays.info
 0.0.0.0 oschad.cake-payment.me
 0.0.0.0 oschad.cq-pay.me
+0.0.0.0 oschad.dopomoga.social
+0.0.0.0 oschad.gate-pays.me
 0.0.0.0 oschad.glopay.site
+0.0.0.0 oschad.jay-order.me
 0.0.0.0 oschad.nato-gov.com
 0.0.0.0 oschad.next-bp.info
 0.0.0.0 oschad.next-bp.net
 0.0.0.0 oschad.np-pay.me
 0.0.0.0 oschad.okpay24-grn.com
+0.0.0.0 oschad.onlinediya.uk
 0.0.0.0 oschad.pay-ukraine.com
 0.0.0.0 oschad.paysdayl.click
 0.0.0.0 oschad.pcs-order.me
+0.0.0.0 oschad.perekazio.com
+0.0.0.0 oschad.perekazu.com
+0.0.0.0 oschad.perekazy-24pay.com
 0.0.0.0 oschad.securitypay.me
 0.0.0.0 oschad.simdif.com
 0.0.0.0 oschad.tsa.airforce
@@ -554,7 +589,10 @@
 0.0.0.0 perekaz.com
 0.0.0.0 perekaz24privat.com
 0.0.0.0 perekazi-privat24.online
+0.0.0.0 perekazio.com
 0.0.0.0 perekazprivat.com
+0.0.0.0 perekazu.com
+0.0.0.0 perekazy-24pay.com
 0.0.0.0 pestrio.site
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
@@ -587,6 +625,7 @@
 0.0.0.0 privat24.kpayments.cc
 0.0.0.0 privat24.lpayments.org
 0.0.0.0 privat24.nextpay.pw
+0.0.0.0 privat24.onlinediya.uk
 0.0.0.0 privat24.perekaz.com
 0.0.0.0 privat24.pics
 0.0.0.0 privat24.press
@@ -625,6 +664,8 @@
 0.0.0.0 pumb.3dss-pays.info
 0.0.0.0 pumb.ca-pay.me
 0.0.0.0 pumb.cake-payment.me
+0.0.0.0 pumb.dopomoga.social
+0.0.0.0 pumb.jay-order.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
 0.0.0.0 pumb.np-pay.me
@@ -644,16 +685,23 @@
 0.0.0.0 radixgroup.ru
 0.0.0.0 raif.24get.site
 0.0.0.0 raif.cake-payment.me
+0.0.0.0 raif.dopomoga.social
+0.0.0.0 raif.gate-pays.me
 0.0.0.0 raif.glopay.site
+0.0.0.0 raif.jay-order.me
 0.0.0.0 raif.nato-gov.com
 0.0.0.0 raif.next-bp.info
 0.0.0.0 raif.next-bp.net
 0.0.0.0 raif.no-pay.me
 0.0.0.0 raif.np-pay.me
 0.0.0.0 raif.okpay24-grn.com
+0.0.0.0 raif.onlinediya.uk
 0.0.0.0 raif.pay-ukraine.com
 0.0.0.0 raif.paysdayl.click
 0.0.0.0 raif.pcs-order.me
+0.0.0.0 raif.perekazio.com
+0.0.0.0 raif.perekazu.com
+0.0.0.0 raif.perekazy-24pay.com
 0.0.0.0 raif.secure2dpay.store
 0.0.0.0 raif.securitypay.me
 0.0.0.0 raif.tsa.airforce
@@ -817,6 +865,7 @@
 0.0.0.0 ukrmob.com.ua
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.cake-payment.me
+0.0.0.0 ukrsib.gate-pays.me
 0.0.0.0 ukrsib.np-pay.me
 0.0.0.0 ukrsib.pcs-order.me
 0.0.0.0 ukrsib.securitypay.me
