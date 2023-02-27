@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 26 Feb 2023 19:57 EET
+! Last modified: 27 Feb 2023 16:21 EET
 ! Expires: 4 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -17,6 +17,7 @@
 ||1xwin.bet^
 ||24get.site^
 ||24grandcasino.com^
+||24perekaz.space^
 ||24privat.site^
 ||24unicef.org^
 ||3dss-pays.info^
@@ -142,9 +143,12 @@
 ||dopomoga-aid.top^
 ||dopomoga-backing.top^
 ||dopomoga-epay.site^
+||dopomoga-oon.com^
+||dopomoga-ua.click^
 ||dopomoga-ua.online^
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
+||dopomoga.social^
 ||dopomoga2023.com^
 ||dopomoga23.top^
 ||dopomogaa.site^
@@ -152,6 +156,8 @@
 ||dopomogi.top^
 ||draw-opros.top^
 ||dufafaststinen.gq^
+||e-dopomoga-perekazy24.space^
+||e-dopomoga.click^
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-talon.space^
@@ -208,6 +214,7 @@
 ||funpay.ru^
 ||fxprime365.com^
 ||g-pay.me^
+||gate-pays.me^
 ||gbwtibz.cn^
 ||gen-gos.top^
 ||get-ua-comp.cfd^
@@ -233,6 +240,7 @@
 ||gov-uah.top^
 ||grac-opros.top^
 ||grinta-invest.com^
+||groshovadopomoga.com^
 ||growthstrategyinstitute.com^
 ||gtradex.net^
 ||gulf-can.com^
@@ -284,6 +292,7 @@
 ||izibanking.com.ua^
 ||j9-wersii.buzz^
 ||jar-gos.top^
+||jay-order.me^
 ||je-gos.top^
 ||jet-pay.com^
 ||jey-gos.top^
@@ -355,6 +364,7 @@
 ||mytechno.com.ua^
 ||myua-compensations.xyz^
 ||nadym.in^
+||nato-dopomoga.com^
 ||nato-gov.com^
 ||nettgola.site^
 ||newauction.com.ua^
@@ -388,8 +398,11 @@
 ||omegapro.world^
 ||omp-gos.top^
 ||online-pays.tech^
+||onlinediya.uk^
 ||onlinepay.cloud^
 ||onlinetop.me^
+||oon-dopomoga.info^
+||oon-dopomoga.pro^
 ||opay365.com^
 ||opi-gos.top^
 ||oschadbank-inform.com.ua^
@@ -429,7 +442,10 @@
 ||perekaz.com^
 ||perekaz24privat.com^
 ||perekazi-privat24.online^
+||perekazio.com^
 ||perekazprivat.com^
+||perekazu.com^
+||perekazy-24pay.com^
 ||pestrio.site^
 ||platizh.com^
 ||platizhmob.com^
