@@ -1,7 +1,7 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 27 Feb 2023 16:21 EET
-# Expires: 4 days
+# Last modified: 27 Feb 2023 18:47 EET
+# Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/s5innovators/url-blocklist
@@ -571,6 +571,7 @@ address=/payment-system.cloud/
 address=/payment.cash/
 address=/payment.studio/
 address=/payments-cars.com/
+address=/payments.prytulafoundation.net/
 address=/pays.cards/
 address=/pays.credit/
 address=/pays.creditcard/
@@ -661,6 +662,7 @@ address=/project2.top/
 address=/project3.top/
 address=/promo-list.com/
 address=/prostosite.com.ua/
+address=/prytulafoundation.net/
 address=/pumb.3dss-pays.info/
 address=/pumb.ca-pay.me/
 address=/pumb.cake-payment.me/
