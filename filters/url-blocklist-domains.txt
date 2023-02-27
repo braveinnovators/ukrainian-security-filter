@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 26 Feb 2023 19:57 EET
+# Last modified: 27 Feb 2023 16:21 EET
 # Expires: 4 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -18,6 +18,7 @@
 1xwin.bet
 24get.site
 24grandcasino.com
+24perekaz.space
 24privat.site
 24unicef.org
 3dss-pays.info
@@ -30,6 +31,8 @@
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
+a-bank.dopomoga.social
+a-bank.gate-pays.me
 a-bank.glopay.site
 a-bank.no-pay.me
 a-bank.pay-ukraine.com
@@ -39,6 +42,10 @@ a-bank.ua-receipt.com
 a-bank.ul-pay.me
 a-dopomoga.info
 a-pay-link.tech
+abank.gate-pays.me
+abank.onlinediya.uk
+abank.perekazio.com
+abank.perekazu.com
 abicor-ukr.com.ua
 abs-techno.ru
 adi-gos.top
@@ -171,9 +178,12 @@ dopomoga-2023.top
 dopomoga-aid.top
 dopomoga-backing.top
 dopomoga-epay.site
+dopomoga-oon.com
+dopomoga-ua.click
 dopomoga-ua.online
 dopomoga-ua.site
 dopomoga-ua.website
+dopomoga.social
 dopomoga2023.com
 dopomoga23.top
 dopomogaa.site
@@ -181,6 +191,8 @@ dopomogainukraine.com
 dopomogi.top
 draw-opros.top
 dufafaststinen.gq
+e-dopomoga-perekazy24.space
+e-dopomoga.click
 e-grivn.com
 e-gryvnia.com
 e-talon.space
@@ -240,6 +252,7 @@ free-zaim.site
 funpay.ru
 fxprime365.com
 g-pay.me
+gate-pays.me
 gbwtibz.cn
 gen-gos.top
 get-ua-comp.cfd
@@ -268,6 +281,7 @@ gov.ukr-savess.icu
 gov.ukr-savess.sbs
 grac-opros.top
 grinta-invest.com
+groshovadopomoga.com
 growthstrategyinstitute.com
 gtradex.net
 gulf-can.com
@@ -318,10 +332,12 @@ ipay.in.ua
 itxzspw.cyou
 ival-gos.top
 ivl-gos.top
+izibank.gate-pays.me
 izibank.pay-ukraine.com
 izibanking.com.ua
 j9-wersii.buzz
 jar-gos.top
+jay-order.me
 je-gos.top
 jet-pay.com
 jey-gos.top
@@ -390,6 +406,7 @@ moblobmen.org
 moblpay.com.ua
 monitor-igr.blogspot.com
 mono-bank.org
+mono.gate-pays.me
 mono.xx-pay.co
 monobank.co.ua
 monobank.online
@@ -408,6 +425,7 @@ mytechno.com.ua
 myua-compensations.xyz
 nadym.in
 namemo.ucraft.site
+nato-dopomoga.com
 nato-gov.com
 neobank.pcs-order.me
 nettgola.site
@@ -422,16 +440,23 @@ next-bp.net
 next-privat24.online
 next.privat24.fun
 next24.cq-pay.me
+next24.dopomoga.social
+next24.gate-pays.me
 next24.glopay.site
+next24.jay-order.me
 next24.nato-gov.com
 next24.next-bp.net
 next24.no-pay.me
 next24.np-pay.me
 next24.okpay24-grn.com
+next24.onlinediya.uk
 next24.ox-pay.me
 next24.pay-ukraine.com
 next24.paysdayl.click
 next24.pcs-order.me
+next24.perekazio.com
+next24.perekazu.com
+next24.perekazy-24pay.com
 next24.securitypay.me
 next24.tsa.airforce
 next24.ua-receipt.com
@@ -475,6 +500,7 @@ onlin24-ukrsibbanck.uks6.site
 online-oschadbank.dis6.site
 online-pays.tech
 online-raiffeic24.ava6.site
+onlinediya.uk
 onlinepay.cloud
 onlines-raiffec24.ava6.site
 onlinetop.me
@@ -482,20 +508,29 @@ onlini24-oschadbank.osv6.site
 onlinie-oschadbank24.f6x.site
 onlinis24-ukrsibbanci.uks6.site
 onlins24-oschadbank.osv6.site
+oon-dopomoga.info
+oon-dopomoga.pro
 opay365.com
 opi-gos.top
 oschad.3dss-pays.info
 oschad.cake-payment.me
 oschad.cq-pay.me
+oschad.dopomoga.social
+oschad.gate-pays.me
 oschad.glopay.site
+oschad.jay-order.me
 oschad.nato-gov.com
 oschad.next-bp.info
 oschad.next-bp.net
 oschad.np-pay.me
 oschad.okpay24-grn.com
+oschad.onlinediya.uk
 oschad.pay-ukraine.com
 oschad.paysdayl.click
 oschad.pcs-order.me
+oschad.perekazio.com
+oschad.perekazu.com
+oschad.perekazy-24pay.com
 oschad.securitypay.me
 oschad.simdif.com
 oschad.tsa.airforce
@@ -554,7 +589,10 @@ peer-gos.top
 perekaz.com
 perekaz24privat.com
 perekazi-privat24.online
+perekazio.com
 perekazprivat.com
+perekazu.com
+perekazy-24pay.com
 pestrio.site
 platizh.com
 platizhmob.com
@@ -587,6 +625,7 @@ privat24.id2047323.com
 privat24.kpayments.cc
 privat24.lpayments.org
 privat24.nextpay.pw
+privat24.onlinediya.uk
 privat24.perekaz.com
 privat24.pics
 privat24.press
@@ -625,6 +664,8 @@ prostosite.com.ua
 pumb.3dss-pays.info
 pumb.ca-pay.me
 pumb.cake-payment.me
+pumb.dopomoga.social
+pumb.jay-order.me
 pumb.nato-gov.com
 pumb.no-pay.me
 pumb.np-pay.me
@@ -644,16 +685,23 @@ rabotaweb.online
 radixgroup.ru
 raif.24get.site
 raif.cake-payment.me
+raif.dopomoga.social
+raif.gate-pays.me
 raif.glopay.site
+raif.jay-order.me
 raif.nato-gov.com
 raif.next-bp.info
 raif.next-bp.net
 raif.no-pay.me
 raif.np-pay.me
 raif.okpay24-grn.com
+raif.onlinediya.uk
 raif.pay-ukraine.com
 raif.paysdayl.click
 raif.pcs-order.me
+raif.perekazio.com
+raif.perekazu.com
+raif.perekazy-24pay.com
 raif.secure2dpay.store
 raif.securitypay.me
 raif.tsa.airforce
@@ -817,6 +865,7 @@ ukrmall.com.ua
 ukrmob.com.ua
 ukrsib-bank.top
 ukrsib.cake-payment.me
+ukrsib.gate-pays.me
 ukrsib.np-pay.me
 ukrsib.pcs-order.me
 ukrsib.securitypay.me
