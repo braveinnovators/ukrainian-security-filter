@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 27 Feb 2023 18:47 EET
+# Last modified: 27 Feb 2023 19:54 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -572,6 +572,7 @@ payment.cash
 payment.studio
 payments-cars.com
 payments.prytulafoundation.net
+payments.prytulafoundation.site
 pays.cards
 pays.credit
 pays.creditcard
@@ -663,6 +664,7 @@ project3.top
 promo-list.com
 prostosite.com.ua
 prytulafoundation.net
+prytulafoundation.site
 pumb.3dss-pays.info
 pumb.ca-pay.me
 pumb.cake-payment.me
