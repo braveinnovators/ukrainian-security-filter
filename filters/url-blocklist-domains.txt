@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 27 Feb 2023 19:54 EET
+# Last modified: 28 Feb 2023 14:14 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,6 +39,7 @@ a-bank.pay-ukraine.com
 a-bank.pcs-order.me
 a-bank.securitypay.me
 a-bank.ua-receipt.com
+a-bank.ua-send.website
 a-bank.ul-pay.me
 a-dopomoga.info
 a-pay-link.tech
@@ -178,6 +179,7 @@ dopomoga-2023.top
 dopomoga-aid.top
 dopomoga-backing.top
 dopomoga-epay.site
+dopomoga-id04687.website
 dopomoga-oon.com
 dopomoga-ua.click
 dopomoga-ua.online
@@ -186,6 +188,7 @@ dopomoga-ua.website
 dopomoga.social
 dopomoga2023.com
 dopomoga23.top
+dopomogaa-id03914.website
 dopomogaa.site
 dopomogainukraine.com
 dopomogi.top
@@ -539,6 +542,7 @@ oschad.xx-pay.co
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
 oschadbank.no-pay.me
+oschadbank.ua-send.website
 oschadbank.ul-pay.me
 oschadnybank.com.ua
 oshad.24get.site
@@ -550,6 +554,7 @@ osxi-ua.xyz
 otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
+otp.ua-send.website
 ovs-gos.top
 ox-pay.me
 p-invest.site
@@ -639,6 +644,7 @@ privat24.sendex.online
 privat24.tech
 privat24.top
 privat24.ua-payout.site
+privat24.ua-send.website
 privat24.uasafe.online
 privat24.uno
 privat24.xwallet.website
@@ -677,6 +683,7 @@ pumb.pay-ukraine.com
 pumb.pcs-order.me
 pumb.secure2dpay.store
 pumb.securitypay.me
+pumb.ua-send.website
 pumb.ul-pay.me
 pumb.upayment.me
 pumb.xu-pay.me
@@ -710,6 +717,7 @@ raif.secure2dpay.store
 raif.securitypay.me
 raif.tsa.airforce
 raif.ua-receipt.com
+raif.ua-send.website
 raif.ul-pay.me
 raif.xx-pay.co
 raiffeiesen.simdif.com
@@ -813,6 +821,7 @@ ua-receipt.com
 ua-redress.buzz
 ua-safepya.info
 ua-securepaym.co
+ua-send.website
 ua-tax-compens.top
 ua-taxes-compens.xyz
 ua-walet.online
@@ -898,6 +907,7 @@ viplati-uah.top
 viplaty.online
 vipmoney.xyz
 vizatravel.ru.com
+vo-dopomoga.net
 voram-net.blogspot.com
 vsad.com.ua
 vyplata24.com
@@ -943,6 +953,7 @@ x.thoroughintrinsically.cn
 x7-mikepike.buzz
 xrates.ru
 xu-pay.me
+xv-dopomoga.net
 xwallet.website
 xx-pay.co
 xx-pay.me
