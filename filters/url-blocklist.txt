@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 27 Feb 2023 19:54 EET
+! Last modified: 28 Feb 2023 14:14 EET
 ! Expires: 3 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -143,6 +143,7 @@
 ||dopomoga-aid.top^
 ||dopomoga-backing.top^
 ||dopomoga-epay.site^
+||dopomoga-id04687.website^
 ||dopomoga-oon.com^
 ||dopomoga-ua.click^
 ||dopomoga-ua.online^
@@ -151,6 +152,7 @@
 ||dopomoga.social^
 ||dopomoga2023.com^
 ||dopomoga23.top^
+||dopomogaa-id03914.website^
 ||dopomogaa.site^
 ||dopomogainukraine.com^
 ||dopomogi.top^
@@ -579,6 +581,7 @@
 ||ua-redress.buzz^
 ||ua-safepya.info^
 ||ua-securepaym.co^
+||ua-send.website^
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
 ||ua-walet.online^
@@ -647,6 +650,7 @@
 ||viplati-uah.top^
 ||viplaty.online^
 ||vipmoney.xyz^
+||vo-dopomoga.net^
 ||voram-net.blogspot.com^
 ||vsad.com.ua^
 ||vyplata24.com^
@@ -663,6 +667,7 @@
 ||x7-mikepike.buzz^
 ||xrates.ru^
 ||xu-pay.me^
+||xv-dopomoga.net^
 ||xwallet.website^
 ||xx-pay.co^
 ||xx-pay.me^
