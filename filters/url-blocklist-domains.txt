@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 28 Feb 2023 14:14 EET
+# Last modified: 1 Mar 2023 13:36 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -28,6 +28,7 @@
 450.vipmoney.xyz
 4cards.online
 4lv.ru
+63f66fdf58d3d.site123.me
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
@@ -47,6 +48,7 @@ abank.gate-pays.me
 abank.onlinediya.uk
 abank.perekazio.com
 abank.perekazu.com
+abank.peyidgo.pro
 abicor-ukr.com.ua
 abs-techno.ru
 adi-gos.top
@@ -146,6 +148,7 @@ co-opros.top
 co-uah.top
 coinmarket1.zzz.com.ua
 com1465.website
+company.site
 compen-ua.sbs
 compen-ua.website
 compens.ocxa-ua.top
@@ -183,6 +186,7 @@ dopomoga-id04687.website
 dopomoga-oon.com
 dopomoga-ua.click
 dopomoga-ua.online
+dopomoga-ua.personalnot.online
 dopomoga-ua.site
 dopomoga-ua.website
 dopomoga.social
@@ -192,6 +196,7 @@ dopomogaa-id03914.website
 dopomogaa.site
 dopomogainukraine.com
 dopomogi.top
+dopomoha-ua.company.site
 draw-opros.top
 dufafaststinen.gq
 e-dopomoga-perekazy24.space
@@ -205,6 +210,7 @@ edi6.site
 edopomoga-gov.website
 edopomoga.edi6.site
 edopomoga.mobi
+edopomoga.udemixcr.com
 edopomogai24.edi6.site
 ef-gos.top
 ek-gos.top
@@ -280,6 +286,7 @@ gosdopomoga.com
 goturozetka.com
 goturozetka.vip
 gov-uah.top
+gov-ukr.top
 gov.ukr-savess.icu
 gov.ukr-savess.sbs
 grac-opros.top
@@ -302,6 +309,7 @@ help-fond-ukrain.sbs
 help-fynancegov.com
 help-gos.top
 help-ukrain.xyz
+help.squirtvid.com
 helpfond-ua.buzz
 helpukraine.direct
 helpzzfound.site
@@ -370,6 +378,7 @@ lendlok.com
 letsgoua.com
 lich229.surge.sh
 likepay.org
+linktr.ee/dopomoha.center
 liqpay.info
 localditcolmc.top
 localditcolmc.xyz
@@ -437,6 +446,7 @@ newbaroque.org
 newfinance.com.ua
 newkassaplus.top
 newsukraine3.yolasite.com
+newua.info
 next-24.next-bp.net
 next-bp.info
 next-bp.net
@@ -460,9 +470,11 @@ next24.pcs-order.me
 next24.perekazio.com
 next24.perekazu.com
 next24.perekazy-24pay.com
+next24.peyidgo.pro
 next24.securitypay.me
 next24.tsa.airforce
 next24.ua-receipt.com
+next24.uah-perekaz.com
 next24.upayment.me
 next24.xx-pay.co
 next24.xx-pay.me
@@ -523,6 +535,7 @@ oschad.gate-pays.me
 oschad.glopay.site
 oschad.jay-order.me
 oschad.nato-gov.com
+oschad.newua.info
 oschad.next-bp.info
 oschad.next-bp.net
 oschad.np-pay.me
@@ -534,10 +547,12 @@ oschad.pcs-order.me
 oschad.perekazio.com
 oschad.perekazu.com
 oschad.perekazy-24pay.com
+oschad.peyidgo.pro
 oschad.securitypay.me
 oschad.simdif.com
 oschad.tsa.airforce
 oschad.ua-receipt.com
+oschad.uah-perekaz.com
 oschad.xx-pay.co
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
@@ -563,6 +578,7 @@ partmone.space
 parts-m.com.ua
 patioplayset.com
 pay-privat24.site
+pay-remuneration.top
 pay-ukraine.com
 pay.api-pay.net
 pay.liqpay.info
@@ -600,7 +616,9 @@ perekazio.com
 perekazprivat.com
 perekazu.com
 perekazy-24pay.com
+personalnot.online
 pestrio.site
+peyidgo.pro
 platizh.com
 platizhmob.com
 pochta1.com
@@ -684,6 +702,7 @@ pumb.pcs-order.me
 pumb.secure2dpay.store
 pumb.securitypay.me
 pumb.ua-send.website
+pumb.uah-perekaz.com
 pumb.ul-pay.me
 pumb.upayment.me
 pumb.xu-pay.me
@@ -721,6 +740,7 @@ raif.ua-send.website
 raif.ul-pay.me
 raif.xx-pay.co
 raiffeiesen.simdif.com
+raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
 rastamogka.net
 rbadm.top
@@ -753,6 +773,7 @@ shopibest.com.ua
 shopua-yooourapple3.wixsite.com
 shtuka.mya5.ru
 simdif.com
+sites.google.com/view/d362g5d2
 skirtminiature.top
 slgf-prom.getmewin.com
 smart-max.com.ua
@@ -761,6 +782,7 @@ sneakersadi2018.com
 snp-broker.io
 specheart.com
 spion-market.com.ua
+squirtvid.com
 store-appleua.com
 store-ua-goodstore.wixsite.com
 store-yooourapple.shop
@@ -834,7 +856,9 @@ uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
 uaekcrprt.site
+uah-perekaz.com
 uam-compensation.xyz
+uanext24help.icu
 uapay.cloud
 uapay.escrowbox.website
 uapay.health
@@ -845,6 +869,7 @@ uashop-goodstore.wixsite.com
 uatax-compens.xyz
 uatax-compenses.xyz
 ucraft.site
+udemixcr.com
 ui-opros.top
 ukr-cmpns.xyz
 ukr-compens.top
@@ -855,6 +880,10 @@ ukr-compesations.xyz
 ukr-dopomog.top
 ukr-linker.xyz
 ukr-money.com.ua
+ukr-receive.cfd
+ukr-receive.cyou
+ukr-receive.icu
+ukr-receive.sbs
 ukr-savess.icu
 ukr-savess.sbs
 ukrainapomosh.site
@@ -870,6 +899,7 @@ ukrainerozetka.com
 ukrainerozetka.vip
 ukrainian-inform.com
 ukrainianamazon.com
+ukras-gos.top
 ukrauk.wixsite.com
 ukrcredits.com
 ukrfinanspomog.site
@@ -919,6 +949,7 @@ wers-gos.top
 wi-opros.top
 wickywin.com
 wixsite.com
+world-help.udemixcr.com
 ws-gos.top
 wwdwd.cn
 www.afters-opros.top
