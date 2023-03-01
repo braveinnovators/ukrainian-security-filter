@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 1 Mar 2023 13:36 EET
+! Last modified: 1 Mar 2023 21:07 EET
 ! Expires: 3 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -82,6 +82,7 @@
 ||bilet.space^
 ||billetshot.top^
 ||bitcoin-zuba.ga^
+||blesk24.com^
 ||blic-opros.top^
 ||blogiumbursellcusa20.icu^
 ||bnservice.com.ua^
@@ -111,6 +112,7 @@
 ||checkmoney.com.ua^
 ||chis-gos.top^
 ||christmasfix.com^
+||ckx-pay.me^
 ||clickit.today^
 ||clubkassa24.top^
 ||co-opros.top^
@@ -133,6 +135,7 @@
 ||dazzlingcortex.com^
 ||de-gos.top^
 ||dear-gos.top^
+||dershoplate.com^
 ||determinecrust.top^
 ||diia-dopomoga.pro^
 ||diia-gov.pp.ua^
@@ -151,12 +154,17 @@
 ||dopomoga-ua.online^
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
+||dopomoga.agency^
+||dopomoga.fans^
+||dopomoga.in^
 ||dopomoga.social^
 ||dopomoga2023.com^
 ||dopomoga23.top^
 ||dopomogaa-id03914.website^
 ||dopomogaa.site^
+||dopomogaa.website^
 ||dopomogainukraine.com^
+||dopomogaonline.xyz^
 ||dopomogi.top^
 ||draw-opros.top^
 ||dufafaststinen.gq^
@@ -202,11 +210,19 @@
 ||f-dopomoga.online^
 ||f3mb4u.cyou^
 ||f6x.site^
+||facebook.com/News-Info-UA-107681682060482/^$document
+||facebook.com/people/News-for-people/100081961447678/^$document
+||facebook.com/people/Новини-247/100084930128994/^$document
+||facebook.com/uappl.org^$document
+||facebook.com/Допомога-українцям-104110342431366/^$document
+||facebook.com/ЄДoпoмoгa-107571865413656/^$document
 ||fad-gos.top^
 ||fam-gos.top^
 ||farbgold.com.ua^
 ||finance-dopomoga.site^
 ||finance-helpya.com^
+||finstor.online^
+||finua.online^
 ||flexcapital.com^
 ||for-gos.top^
 ||forhome.site^
@@ -323,7 +339,7 @@
 ||lendlok.com^
 ||letsgoua.com^
 ||likepay.org^
-||linktr.ee/dopomoha.center^
+||linktr.ee/dopomoha.center^$document
 ||liqpay.info^
 ||localditcolmc.top^
 ||localditcolmc.xyz^
@@ -381,6 +397,7 @@
 ||next-bp.info^
 ||next-bp.net^
 ||next-privat24.online^
+||next24.viplata.fun^
 ||nextpay.pw^
 ||nextpayments.org.ru^
 ||niceeuphoria.com^
@@ -396,6 +413,7 @@
 ||obmennik.top^
 ||ocha-ukrain.xyz^
 ||ocxa-ua.top^
+||oficial-viplata.info^
 ||okko-bonus.live^
 ||okpay24-grn.com^
 ||ollos.ru^
@@ -412,7 +430,11 @@
 ||oon-dopomoga.pro^
 ||opay365.com^
 ||opi-gos.top^
+||oplataofficial.life^
+||oschad.viplata.fun^
 ||oschadbank-inform.com.ua^
+||oschadbank-viplata-help.online^
+||oschadbank.top^
 ||oschadnybank.com.ua^
 ||oshcad-bank.top^
 ||oshcadbank.top^
@@ -425,9 +447,11 @@
 ||partmone.space^
 ||parts-m.com.ua^
 ||patioplayset.com^
+||pay-chs.me^
 ||pay-privat24.site^
 ||pay-remuneration.top^
 ||pay-ukraine.com^
+||pay-unv.me^
 ||pay5.org^
 ||payboxua.com^
 ||payment-system.cloud^
@@ -465,6 +489,7 @@
 ||popolni.info^
 ||popolnim.info^
 ||popolnimob.com^
+||popomoga.com^
 ||popovny-mobile.com^
 ||portmone24.store^
 ||portmonee.space^
@@ -494,14 +519,17 @@
 ||project3.top^
 ||promo-list.com^
 ||prostosite.com.ua^
+||pruity.com^
 ||prytulafoundation.net^
 ||prytulafoundation.site^
+||pumb.viplata.fun^
 ||qs-dopomoga.me^
 ||quickpay.pw^
 ||quickpaymentss.expert^
 ||quicktrans.space^
 ||rabotaweb.online^
 ||radixgroup.ru^
+||raif.viplata.fun^
 ||raiffeisen-uapay.shop^
 ||rastamogka.net^
 ||rbadm.top^
@@ -528,12 +556,15 @@
 ||shar-city.com.ua^
 ||shopibest.com.ua^
 ||simdif.com^
-||sites.google.com/view/d362g5d2^
+||sites.google.com/view/d362g5d2^$document
 ||skirtminiature.top^
 ||smart-max.com.ua^
 ||smartlead.com.ua^
 ||sneakersadi2018.com^
 ||snp-broker.io^
+||soc-order.me^
+||socialassistance.social^
+||socialassistancefromedopomaka.social^
 ||specheart.com^
 ||spion-market.com.ua^
 ||squirtvid.com^
@@ -547,6 +578,9 @@
 ||superbinary.com^
 ||surge.sh^
 ||swap-pro.trade^
+||t.me/d0p0m0ga^$document
+||t.me/dopomogaonline2023_bot^$document
+||t.me/UkrainaDopomoga_UKR^$document
 ||t0p2pay.fun^
 ||tas-gos.top^
 ||tax-compensation.bar^
@@ -595,12 +629,14 @@
 ||ua-send.website^
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
+||ua-viplata.me^
 ||ua-walet.online^
 ||ua-wallet.pw^
 ||ua.market^
 ||uabayrakua.com^
 ||uacmplnk.xyz^
 ||uacompensation.xyz^
+||uadostawka.com^
 ||uaekcrprt.site^
 ||uah-perekaz.com^
 ||uam-compensation.xyz^
@@ -609,6 +645,7 @@
 ||uapay.health^
 ||uappl.org^
 ||uasafe.online^
+||uasocial-viplata.company^
 ||uatax-compens.xyz^
 ||uatax-compenses.xyz^
 ||ucraft.site^
@@ -621,6 +658,7 @@
 ||ukr-compesations.top^
 ||ukr-compesations.xyz^
 ||ukr-dopomog.top^
+||ukr-help.online^
 ||ukr-linker.xyz^
 ||ukr-money.com.ua^
 ||ukr-receive.cfd^
@@ -643,6 +681,7 @@
 ||ukrainianamazon.com^
 ||ukras-gos.top^
 ||ukrcredits.com^
+||ukreyns.com^
 ||ukrfinanspomog.site^
 ||ukrhelp.org.ua^
 ||ukrmall.com.ua^
@@ -666,12 +705,31 @@
 ||uvyplata.icu^
 ||uz-gos.top^
 ||ves-gos.top^
+||vi-plata.com^
+||viplata.agency^
+||viplata.club^
+||viplata.digital^
+||viplata.foundation^
+||viplata.fun^
+||viplata.fyi^
+||viplata.in^
+||viplata.me^
+||viplata.org^
+||viplata.space^
+||viplatanow.online^
+||viplataua.com^
+||viplataua.net^
+||viplataua.org^
+||viplataua.shop^
 ||viplati-uah.top^
+||viplatu.com^
 ||viplaty.online^
 ||vipmoney.xyz^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
 ||vsad.com.ua^
+||vuplatu.in^
+||vyplata-help.com^
 ||vyplata24.com^
 ||vyplataua.com^
 ||wasibial.com^
@@ -693,6 +751,7 @@
 ||y-pay.pro^
 ||yakor.shop^
 ||yakudzamoto.com.ua^
+||yatreba.com^
 ||ye-gos.top^
 ||yi-gos.top^
 ||ymtbsvl.cn^
@@ -702,11 +761,3 @@
 ||zanimalo.com.ua^
 ||zevs.trade^
 ||zzz.com.ua^
-||facebook.com/Допомога-українцям-104110342431366/^$document
-||facebook.com/ЄДoпoмoгa-107571865413656/^$document
-||facebook.com/News-Info-UA-107681682060482/^$document
-||facebook.com/people/Новини-247/100084930128994/^$document
-||facebook.com/people/News-for-people/100081961447678/^$document
-||facebook.com/uappl.org^$document
-||t.me/dopomogaonline2023_bot^$document
-||t.me/UkrainaDopomoga_UKR^$document
