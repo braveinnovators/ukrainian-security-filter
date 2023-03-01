@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 28 Feb 2023 14:14 EET
+! Last modified: 1 Mar 2023 13:36 EET
 ! Expires: 3 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -26,6 +26,7 @@
 ||3pre.site^
 ||4cards.online^
 ||4lv.ru^
+||63f66fdf58d3d.site123.me^
 ||770capital.com^
 ||80w19v.cn^
 ||a-dopomoga.info^
@@ -115,6 +116,7 @@
 ||co-opros.top^
 ||co-uah.top^
 ||com1465.website^
+||company.site^
 ||compen-ua.sbs^
 ||compen-ua.website^
 ||compensation-ua.xyz^
@@ -240,6 +242,7 @@
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-uah.top^
+||gov-ukr.top^
 ||grac-opros.top^
 ||grinta-invest.com^
 ||groshovadopomoga.com^
@@ -320,6 +323,7 @@
 ||lendlok.com^
 ||letsgoua.com^
 ||likepay.org^
+||linktr.ee/dopomoha.center^
 ||liqpay.info^
 ||localditcolmc.top^
 ||localditcolmc.xyz^
@@ -373,6 +377,7 @@
 ||newbaroque.org^
 ||newfinance.com.ua^
 ||newkassaplus.top^
+||newua.info^
 ||next-bp.info^
 ||next-bp.net^
 ||next-privat24.online^
@@ -421,6 +426,7 @@
 ||parts-m.com.ua^
 ||patioplayset.com^
 ||pay-privat24.site^
+||pay-remuneration.top^
 ||pay-ukraine.com^
 ||pay5.org^
 ||payboxua.com^
@@ -448,7 +454,9 @@
 ||perekazprivat.com^
 ||perekazu.com^
 ||perekazy-24pay.com^
+||personalnot.online^
 ||pestrio.site^
+||peyidgo.pro^
 ||platizh.com^
 ||platizhmob.com^
 ||pochta1.com^
@@ -494,6 +502,7 @@
 ||quicktrans.space^
 ||rabotaweb.online^
 ||radixgroup.ru^
+||raiffeisen-uapay.shop^
 ||rastamogka.net^
 ||rbadm.top^
 ||rea-gos.top^
@@ -519,6 +528,7 @@
 ||shar-city.com.ua^
 ||shopibest.com.ua^
 ||simdif.com^
+||sites.google.com/view/d362g5d2^
 ||skirtminiature.top^
 ||smart-max.com.ua^
 ||smartlead.com.ua^
@@ -526,6 +536,7 @@
 ||snp-broker.io^
 ||specheart.com^
 ||spion-market.com.ua^
+||squirtvid.com^
 ||store-appleua.com^
 ||store-yooourapple.shop^
 ||storeeu.site^
@@ -591,7 +602,9 @@
 ||uacmplnk.xyz^
 ||uacompensation.xyz^
 ||uaekcrprt.site^
+||uah-perekaz.com^
 ||uam-compensation.xyz^
+||uanext24help.icu^
 ||uapay.cloud^
 ||uapay.health^
 ||uappl.org^
@@ -599,6 +612,7 @@
 ||uatax-compens.xyz^
 ||uatax-compenses.xyz^
 ||ucraft.site^
+||udemixcr.com^
 ||ui-opros.top^
 ||ukr-cmpns.xyz^
 ||ukr-compens.top^
@@ -609,6 +623,10 @@
 ||ukr-dopomog.top^
 ||ukr-linker.xyz^
 ||ukr-money.com.ua^
+||ukr-receive.cfd^
+||ukr-receive.cyou^
+||ukr-receive.icu^
+||ukr-receive.sbs^
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
 ||ukrainapomosh.site^
@@ -623,6 +641,7 @@
 ||ukrainerozetka.vip^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
+||ukras-gos.top^
 ||ukrcredits.com^
 ||ukrfinanspomog.site^
 ||ukrhelp.org.ua^
