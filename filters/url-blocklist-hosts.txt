@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 28 Feb 2023 14:14 EET
+# Last modified: 1 Mar 2023 13:36 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -28,6 +28,7 @@
 0.0.0.0 450.vipmoney.xyz
 0.0.0.0 4cards.online
 0.0.0.0 4lv.ru
+0.0.0.0 63f66fdf58d3d.site123.me
 0.0.0.0 6sij-prom.wickywin.com
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
@@ -47,6 +48,7 @@
 0.0.0.0 abank.onlinediya.uk
 0.0.0.0 abank.perekazio.com
 0.0.0.0 abank.perekazu.com
+0.0.0.0 abank.peyidgo.pro
 0.0.0.0 abicor-ukr.com.ua
 0.0.0.0 abs-techno.ru
 0.0.0.0 adi-gos.top
@@ -146,6 +148,7 @@
 0.0.0.0 co-uah.top
 0.0.0.0 coinmarket1.zzz.com.ua
 0.0.0.0 com1465.website
+0.0.0.0 company.site
 0.0.0.0 compen-ua.sbs
 0.0.0.0 compen-ua.website
 0.0.0.0 compens.ocxa-ua.top
@@ -183,6 +186,7 @@
 0.0.0.0 dopomoga-oon.com
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.online
+0.0.0.0 dopomoga-ua.personalnot.online
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga.social
@@ -192,6 +196,7 @@
 0.0.0.0 dopomogaa.site
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogi.top
+0.0.0.0 dopomoha-ua.company.site
 0.0.0.0 draw-opros.top
 0.0.0.0 dufafaststinen.gq
 0.0.0.0 e-dopomoga-perekazy24.space
@@ -205,6 +210,7 @@
 0.0.0.0 edopomoga-gov.website
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.mobi
+0.0.0.0 edopomoga.udemixcr.com
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 ef-gos.top
 0.0.0.0 ek-gos.top
@@ -280,6 +286,7 @@
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-uah.top
+0.0.0.0 gov-ukr.top
 0.0.0.0 gov.ukr-savess.icu
 0.0.0.0 gov.ukr-savess.sbs
 0.0.0.0 grac-opros.top
@@ -302,6 +309,7 @@
 0.0.0.0 help-fynancegov.com
 0.0.0.0 help-gos.top
 0.0.0.0 help-ukrain.xyz
+0.0.0.0 help.squirtvid.com
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpzzfound.site
@@ -370,6 +378,7 @@
 0.0.0.0 letsgoua.com
 0.0.0.0 lich229.surge.sh
 0.0.0.0 likepay.org
+0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
 0.0.0.0 localditcolmc.top
 0.0.0.0 localditcolmc.xyz
@@ -437,6 +446,7 @@
 0.0.0.0 newfinance.com.ua
 0.0.0.0 newkassaplus.top
 0.0.0.0 newsukraine3.yolasite.com
+0.0.0.0 newua.info
 0.0.0.0 next-24.next-bp.net
 0.0.0.0 next-bp.info
 0.0.0.0 next-bp.net
@@ -460,9 +470,11 @@
 0.0.0.0 next24.perekazio.com
 0.0.0.0 next24.perekazu.com
 0.0.0.0 next24.perekazy-24pay.com
+0.0.0.0 next24.peyidgo.pro
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.tsa.airforce
 0.0.0.0 next24.ua-receipt.com
+0.0.0.0 next24.uah-perekaz.com
 0.0.0.0 next24.upayment.me
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
@@ -523,6 +535,7 @@
 0.0.0.0 oschad.glopay.site
 0.0.0.0 oschad.jay-order.me
 0.0.0.0 oschad.nato-gov.com
+0.0.0.0 oschad.newua.info
 0.0.0.0 oschad.next-bp.info
 0.0.0.0 oschad.next-bp.net
 0.0.0.0 oschad.np-pay.me
@@ -534,10 +547,12 @@
 0.0.0.0 oschad.perekazio.com
 0.0.0.0 oschad.perekazu.com
 0.0.0.0 oschad.perekazy-24pay.com
+0.0.0.0 oschad.peyidgo.pro
 0.0.0.0 oschad.securitypay.me
 0.0.0.0 oschad.simdif.com
 0.0.0.0 oschad.tsa.airforce
 0.0.0.0 oschad.ua-receipt.com
+0.0.0.0 oschad.uah-perekaz.com
 0.0.0.0 oschad.xx-pay.co
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
@@ -563,6 +578,7 @@
 0.0.0.0 parts-m.com.ua
 0.0.0.0 patioplayset.com
 0.0.0.0 pay-privat24.site
+0.0.0.0 pay-remuneration.top
 0.0.0.0 pay-ukraine.com
 0.0.0.0 pay.api-pay.net
 0.0.0.0 pay.liqpay.info
@@ -600,7 +616,9 @@
 0.0.0.0 perekazprivat.com
 0.0.0.0 perekazu.com
 0.0.0.0 perekazy-24pay.com
+0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
+0.0.0.0 peyidgo.pro
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
 0.0.0.0 pochta1.com
@@ -684,6 +702,7 @@
 0.0.0.0 pumb.secure2dpay.store
 0.0.0.0 pumb.securitypay.me
 0.0.0.0 pumb.ua-send.website
+0.0.0.0 pumb.uah-perekaz.com
 0.0.0.0 pumb.ul-pay.me
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.xu-pay.me
@@ -721,6 +740,7 @@
 0.0.0.0 raif.ul-pay.me
 0.0.0.0 raif.xx-pay.co
 0.0.0.0 raiffeiesen.simdif.com
+0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 rastamogka.net
 0.0.0.0 rbadm.top
@@ -753,6 +773,7 @@
 0.0.0.0 shopua-yooourapple3.wixsite.com
 0.0.0.0 shtuka.mya5.ru
 0.0.0.0 simdif.com
+0.0.0.0 sites.google.com/view/d362g5d2
 0.0.0.0 skirtminiature.top
 0.0.0.0 slgf-prom.getmewin.com
 0.0.0.0 smart-max.com.ua
@@ -761,6 +782,7 @@
 0.0.0.0 snp-broker.io
 0.0.0.0 specheart.com
 0.0.0.0 spion-market.com.ua
+0.0.0.0 squirtvid.com
 0.0.0.0 store-appleua.com
 0.0.0.0 store-ua-goodstore.wixsite.com
 0.0.0.0 store-yooourapple.shop
@@ -834,7 +856,9 @@
 0.0.0.0 uacmplnk.xyz
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uaekcrprt.site
+0.0.0.0 uah-perekaz.com
 0.0.0.0 uam-compensation.xyz
+0.0.0.0 uanext24help.icu
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.escrowbox.website
 0.0.0.0 uapay.health
@@ -845,6 +869,7 @@
 0.0.0.0 uatax-compens.xyz
 0.0.0.0 uatax-compenses.xyz
 0.0.0.0 ucraft.site
+0.0.0.0 udemixcr.com
 0.0.0.0 ui-opros.top
 0.0.0.0 ukr-cmpns.xyz
 0.0.0.0 ukr-compens.top
@@ -855,6 +880,10 @@
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-linker.xyz
 0.0.0.0 ukr-money.com.ua
+0.0.0.0 ukr-receive.cfd
+0.0.0.0 ukr-receive.cyou
+0.0.0.0 ukr-receive.icu
+0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
 0.0.0.0 ukrainapomosh.site
@@ -870,6 +899,7 @@
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
+0.0.0.0 ukras-gos.top
 0.0.0.0 ukrauk.wixsite.com
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukrfinanspomog.site
@@ -919,6 +949,7 @@
 0.0.0.0 wi-opros.top
 0.0.0.0 wickywin.com
 0.0.0.0 wixsite.com
+0.0.0.0 world-help.udemixcr.com
 0.0.0.0 ws-gos.top
 0.0.0.0 wwdwd.cn
 0.0.0.0 www.afters-opros.top
