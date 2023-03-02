@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 2 Mar 2023 13:35 EET
+# Last modified: 2 Mar 2023 22:37 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -182,6 +182,7 @@
 0.0.0.0 dazzlingcortex.com
 0.0.0.0 de-gos.top
 0.0.0.0 dear-gos.top
+0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
 0.0.0.0 determinecrust.top
 0.0.0.0 diia-dopomoga.pro
@@ -205,6 +206,7 @@
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.fans
+0.0.0.0 dopomoga.govdia.pro
 0.0.0.0 dopomoga.in
 0.0.0.0 dopomoga.social
 0.0.0.0 dopomoga.viplatu.com
@@ -226,6 +228,7 @@
 0.0.0.0 e-talon.space
 0.0.0.0 ec-compensation.xyz
 0.0.0.0 ecoliinfectionpedia.com
+0.0.0.0 ed-edopomoga.com
 0.0.0.0 edi6.site
 0.0.0.0 edopomoga-gov.website
 0.0.0.0 edopomoga.edi6.site
@@ -312,6 +315,7 @@
 0.0.0.0 gov-ukr.top
 0.0.0.0 gov.ukr-savess.icu
 0.0.0.0 gov.ukr-savess.sbs
+0.0.0.0 govdia.pro
 0.0.0.0 grac-opros.top
 0.0.0.0 grinta-invest.com
 0.0.0.0 groshovadopomoga.com
@@ -480,6 +484,7 @@
 0.0.0.0 next24.blesk24.com
 0.0.0.0 next24.ckx-pay.me
 0.0.0.0 next24.cq-pay.me
+0.0.0.0 next24.dersch.online
 0.0.0.0 next24.dershoplate.com
 0.0.0.0 next24.dopomoga.agency
 0.0.0.0 next24.dopomoga.fans
@@ -488,6 +493,7 @@
 0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
+0.0.0.0 next24.govdia.pro
 0.0.0.0 next24.jay-order.me
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
@@ -585,6 +591,7 @@
 0.0.0.0 oschad.cake-payment.me
 0.0.0.0 oschad.ckx-pay.me
 0.0.0.0 oschad.cq-pay.me
+0.0.0.0 oschad.dersch.online
 0.0.0.0 oschad.dershoplate.com
 0.0.0.0 oschad.dopomoga.agency
 0.0.0.0 oschad.dopomoga.fans
@@ -822,6 +829,7 @@
 0.0.0.0 raif.blesk24.com
 0.0.0.0 raif.cake-payment.me
 0.0.0.0 raif.ckx-pay.me
+0.0.0.0 raif.dersch.online
 0.0.0.0 raif.dershoplate.com
 0.0.0.0 raif.dopomoga.agency
 0.0.0.0 raif.dopomoga.fans
@@ -1081,6 +1089,7 @@
 0.0.0.0 usluga.me
 0.0.0.0 uuauq.cn
 0.0.0.0 uvyplata.icu
+0.0.0.0 uw-edopomoga.com
 0.0.0.0 uz-gos.top
 0.0.0.0 ves-gos.top
 0.0.0.0 vh20153.hv4.ru
