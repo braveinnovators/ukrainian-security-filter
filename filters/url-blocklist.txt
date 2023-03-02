@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 2 Mar 2023 13:35 EET
+! Last modified: 2 Mar 2023 22:37 EET
 ! Expires: 3 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -135,6 +135,7 @@
 ||dazzlingcortex.com^
 ||de-gos.top^
 ||dear-gos.top^
+||dersch.online^
 ||dershoplate.com^
 ||determinecrust.top^
 ||diia-dopomoga.pro^
@@ -175,6 +176,7 @@
 ||e-talon.space^
 ||ec-compensation.xyz^
 ||ecoliinfectionpedia.com^
+||ed-edopomoga.com^
 ||edi6.site^
 ||edopomoga-gov.website^
 ||edopomoga.land^
@@ -260,6 +262,7 @@
 ||goturozetka.vip^
 ||gov-uah.top^
 ||gov-ukr.top^
+||govdia.pro^
 ||grac-opros.top^
 ||grinta-invest.com^
 ||groshovadopomoga.com^
@@ -704,6 +707,7 @@
 ||usluga.me^
 ||uuauq.cn^
 ||uvyplata.icu^
+||uw-edopomoga.com^
 ||uz-gos.top^
 ||ves-gos.top^
 ||vi-plata.com^
