@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 1 Mar 2023 21:07 EET
+# Last modified: 2 Mar 2023 13:35 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -34,6 +34,7 @@
 0.0.0.0 80w19v.cn
 0.0.0.0 a-bank.dopomoga.agency
 0.0.0.0 a-bank.dopomoga.social
+0.0.0.0 a-bank.edopomoga.land
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
 0.0.0.0 a-bank.no-pay.me
@@ -228,6 +229,7 @@
 0.0.0.0 edi6.site
 0.0.0.0 edopomoga-gov.website
 0.0.0.0 edopomoga.edi6.site
+0.0.0.0 edopomoga.land
 0.0.0.0 edopomoga.mobi
 0.0.0.0 edopomoga.udemixcr.com
 0.0.0.0 edopomogai24.edi6.site
@@ -483,6 +485,7 @@
 0.0.0.0 next24.dopomoga.fans
 0.0.0.0 next24.dopomoga.in
 0.0.0.0 next24.dopomoga.social
+0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
 0.0.0.0 next24.jay-order.me
@@ -588,6 +591,7 @@
 0.0.0.0 oschad.dopomoga.in
 0.0.0.0 oschad.dopomoga.social
 0.0.0.0 oschad.dopomogaonline.xyz
+0.0.0.0 oschad.edopomoga.land
 0.0.0.0 oschad.finstor.online
 0.0.0.0 oschad.finua.online
 0.0.0.0 oschad.gate-pays.me
@@ -824,6 +828,7 @@
 0.0.0.0 raif.dopomoga.in
 0.0.0.0 raif.dopomoga.social
 0.0.0.0 raif.dopomogaonline.xyz
+0.0.0.0 raif.edopomoga.land
 0.0.0.0 raif.finstor.online
 0.0.0.0 raif.finua.online
 0.0.0.0 raif.gate-pays.me
