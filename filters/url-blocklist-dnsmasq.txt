@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 2 Mar 2023 13:35 EET
+# Last modified: 2 Mar 2023 22:37 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -182,6 +182,7 @@ address=/d3ya.site/
 address=/dazzlingcortex.com/
 address=/de-gos.top/
 address=/dear-gos.top/
+address=/dersch.online/
 address=/dershoplate.com/
 address=/determinecrust.top/
 address=/diia-dopomoga.pro/
@@ -205,6 +206,7 @@ address=/dopomoga-ua.site/
 address=/dopomoga-ua.website/
 address=/dopomoga.agency/
 address=/dopomoga.fans/
+address=/dopomoga.govdia.pro/
 address=/dopomoga.in/
 address=/dopomoga.social/
 address=/dopomoga.viplatu.com/
@@ -226,6 +228,7 @@ address=/e-gryvnia.com/
 address=/e-talon.space/
 address=/ec-compensation.xyz/
 address=/ecoliinfectionpedia.com/
+address=/ed-edopomoga.com/
 address=/edi6.site/
 address=/edopomoga-gov.website/
 address=/edopomoga.edi6.site/
@@ -312,6 +315,7 @@ address=/gov-uah.top/
 address=/gov-ukr.top/
 address=/gov.ukr-savess.icu/
 address=/gov.ukr-savess.sbs/
+address=/govdia.pro/
 address=/grac-opros.top/
 address=/grinta-invest.com/
 address=/groshovadopomoga.com/
@@ -480,6 +484,7 @@ address=/next.privat24.fun/
 address=/next24.blesk24.com/
 address=/next24.ckx-pay.me/
 address=/next24.cq-pay.me/
+address=/next24.dersch.online/
 address=/next24.dershoplate.com/
 address=/next24.dopomoga.agency/
 address=/next24.dopomoga.fans/
@@ -488,6 +493,7 @@ address=/next24.dopomoga.social/
 address=/next24.edopomoga.land/
 address=/next24.gate-pays.me/
 address=/next24.glopay.site/
+address=/next24.govdia.pro/
 address=/next24.jay-order.me/
 address=/next24.nato-gov.com/
 address=/next24.next-bp.net/
@@ -585,6 +591,7 @@ address=/oschad.blesk24.com/
 address=/oschad.cake-payment.me/
 address=/oschad.ckx-pay.me/
 address=/oschad.cq-pay.me/
+address=/oschad.dersch.online/
 address=/oschad.dershoplate.com/
 address=/oschad.dopomoga.agency/
 address=/oschad.dopomoga.fans/
@@ -822,6 +829,7 @@ address=/raif.24get.site/
 address=/raif.blesk24.com/
 address=/raif.cake-payment.me/
 address=/raif.ckx-pay.me/
+address=/raif.dersch.online/
 address=/raif.dershoplate.com/
 address=/raif.dopomoga.agency/
 address=/raif.dopomoga.fans/
@@ -1081,6 +1089,7 @@ address=/usdtrader.com/
 address=/usluga.me/
 address=/uuauq.cn/
 address=/uvyplata.icu/
+address=/uw-edopomoga.com/
 address=/uz-gos.top/
 address=/ves-gos.top/
 address=/vh20153.hv4.ru/
