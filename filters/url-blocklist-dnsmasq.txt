@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 1 Mar 2023 21:07 EET
+# Last modified: 2 Mar 2023 13:35 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -34,6 +34,7 @@ address=/770capital.com/
 address=/80w19v.cn/
 address=/a-bank.dopomoga.agency/
 address=/a-bank.dopomoga.social/
+address=/a-bank.edopomoga.land/
 address=/a-bank.gate-pays.me/
 address=/a-bank.glopay.site/
 address=/a-bank.no-pay.me/
@@ -228,6 +229,7 @@ address=/ecoliinfectionpedia.com/
 address=/edi6.site/
 address=/edopomoga-gov.website/
 address=/edopomoga.edi6.site/
+address=/edopomoga.land/
 address=/edopomoga.mobi/
 address=/edopomoga.udemixcr.com/
 address=/edopomogai24.edi6.site/
@@ -483,6 +485,7 @@ address=/next24.dopomoga.agency/
 address=/next24.dopomoga.fans/
 address=/next24.dopomoga.in/
 address=/next24.dopomoga.social/
+address=/next24.edopomoga.land/
 address=/next24.gate-pays.me/
 address=/next24.glopay.site/
 address=/next24.jay-order.me/
@@ -588,6 +591,7 @@ address=/oschad.dopomoga.fans/
 address=/oschad.dopomoga.in/
 address=/oschad.dopomoga.social/
 address=/oschad.dopomogaonline.xyz/
+address=/oschad.edopomoga.land/
 address=/oschad.finstor.online/
 address=/oschad.finua.online/
 address=/oschad.gate-pays.me/
@@ -824,6 +828,7 @@ address=/raif.dopomoga.fans/
 address=/raif.dopomoga.in/
 address=/raif.dopomoga.social/
 address=/raif.dopomogaonline.xyz/
+address=/raif.edopomoga.land/
 address=/raif.finstor.online/
 address=/raif.finua.online/
 address=/raif.gate-pays.me/
