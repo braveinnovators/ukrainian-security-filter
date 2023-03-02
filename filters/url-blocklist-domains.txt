@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 1 Mar 2023 21:07 EET
+# Last modified: 2 Mar 2023 13:35 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -34,6 +34,7 @@
 80w19v.cn
 a-bank.dopomoga.agency
 a-bank.dopomoga.social
+a-bank.edopomoga.land
 a-bank.gate-pays.me
 a-bank.glopay.site
 a-bank.no-pay.me
@@ -228,6 +229,7 @@ ecoliinfectionpedia.com
 edi6.site
 edopomoga-gov.website
 edopomoga.edi6.site
+edopomoga.land
 edopomoga.mobi
 edopomoga.udemixcr.com
 edopomogai24.edi6.site
@@ -483,6 +485,7 @@ next24.dopomoga.agency
 next24.dopomoga.fans
 next24.dopomoga.in
 next24.dopomoga.social
+next24.edopomoga.land
 next24.gate-pays.me
 next24.glopay.site
 next24.jay-order.me
@@ -588,6 +591,7 @@ oschad.dopomoga.fans
 oschad.dopomoga.in
 oschad.dopomoga.social
 oschad.dopomogaonline.xyz
+oschad.edopomoga.land
 oschad.finstor.online
 oschad.finua.online
 oschad.gate-pays.me
@@ -824,6 +828,7 @@ raif.dopomoga.fans
 raif.dopomoga.in
 raif.dopomoga.social
 raif.dopomogaonline.xyz
+raif.edopomoga.land
 raif.finstor.online
 raif.finua.online
 raif.gate-pays.me
