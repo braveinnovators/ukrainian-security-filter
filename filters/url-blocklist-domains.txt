@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 2 Mar 2023 22:37 EET
+# Last modified: 3 Mar 2023 19:06 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -208,6 +208,7 @@ dopomoga.agency
 dopomoga.fans
 dopomoga.govdia.pro
 dopomoga.in
+dopomoga.observer
 dopomoga.social
 dopomoga.viplatu.com
 dopomoga2023.com
@@ -489,6 +490,7 @@ next24.dershoplate.com
 next24.dopomoga.agency
 next24.dopomoga.fans
 next24.dopomoga.in
+next24.dopomoga.observer
 next24.dopomoga.social
 next24.edopomoga.land
 next24.gate-pays.me
@@ -532,6 +534,7 @@ next24.viplata.fun
 next24.viplata.space
 next24.viplatanow.online
 next24.viplataua.shop
+next24.viplatka.com
 next24.vuplatu.in
 next24.xx-pay.co
 next24.xx-pay.me
@@ -596,6 +599,7 @@ oschad.dershoplate.com
 oschad.dopomoga.agency
 oschad.dopomoga.fans
 oschad.dopomoga.in
+oschad.dopomoga.observer
 oschad.dopomoga.social
 oschad.dopomogaonline.xyz
 oschad.edopomoga.land
@@ -643,6 +647,7 @@ oschad.viplata.fun
 oschad.viplata.space
 oschad.viplatanow.online
 oschad.viplataua.shop
+oschad.viplatka.com
 oschad.vuplatu.in
 oschad.vyplata-help.com
 oschad.xx-pay.co
@@ -834,6 +839,7 @@ raif.dershoplate.com
 raif.dopomoga.agency
 raif.dopomoga.fans
 raif.dopomoga.in
+raif.dopomoga.observer
 raif.dopomoga.social
 raif.dopomogaonline.xyz
 raif.edopomoga.land
@@ -881,6 +887,7 @@ raif.viplata.fun
 raif.viplata.space
 raif.viplatanow.online
 raif.viplataua.shop
+raif.viplatka.com
 raif.vuplatu.in
 raif.vyplata-help.com
 raif.xx-pay.co
@@ -1111,6 +1118,7 @@ viplataua.net
 viplataua.org
 viplataua.shop
 viplati-uah.top
+viplatka.com
 viplatu.com
 viplaty.online
 vipmoney.xyz
@@ -1132,34 +1140,6 @@ wixsite.com
 world-help.udemixcr.com
 ws-gos.top
 wwdwd.cn
-www.afters-opros.top
-www.auto-formula.com
-www.big-partner.kh.ua
-www.corpi-gos.top
-www.dopomoga-ua.online
-www.ecoliinfectionpedia.com
-www.eu-st.site
-www.flexcapital.com
-www.free-zaim.site
-www.good-store.in.ua
-www.goodstore-ua.shop
-www.goodstore.in.ua
-www.grac-opros.top
-www.growthstrategyinstitute.com
-www.happeuphoria.com
-www.ineed24.in.ua
-www.kassirticket.art
-www.lendlok.com
-www.mobilluck.com.ua
-www.mopays.me
-www.mytechno.com.ua
-www.newfinance.com.ua
-www.niceeuphoria.com
-www.perekaz24.niceeuphoria.com
-www.rabotaweb.online
-www.sneakersadi2018.com
-www.superbinary.com
-www.yooour-apple.in.ua
 x.thoroughintrinsically.cn
 x7-mikepike.buzz
 xrates.ru
