@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 2 Mar 2023 22:37 EET
+# Last modified: 3 Mar 2023 19:06 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -208,6 +208,7 @@
 0.0.0.0 dopomoga.fans
 0.0.0.0 dopomoga.govdia.pro
 0.0.0.0 dopomoga.in
+0.0.0.0 dopomoga.observer
 0.0.0.0 dopomoga.social
 0.0.0.0 dopomoga.viplatu.com
 0.0.0.0 dopomoga2023.com
@@ -489,6 +490,7 @@
 0.0.0.0 next24.dopomoga.agency
 0.0.0.0 next24.dopomoga.fans
 0.0.0.0 next24.dopomoga.in
+0.0.0.0 next24.dopomoga.observer
 0.0.0.0 next24.dopomoga.social
 0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.gate-pays.me
@@ -532,6 +534,7 @@
 0.0.0.0 next24.viplata.space
 0.0.0.0 next24.viplatanow.online
 0.0.0.0 next24.viplataua.shop
+0.0.0.0 next24.viplatka.com
 0.0.0.0 next24.vuplatu.in
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
@@ -596,6 +599,7 @@
 0.0.0.0 oschad.dopomoga.agency
 0.0.0.0 oschad.dopomoga.fans
 0.0.0.0 oschad.dopomoga.in
+0.0.0.0 oschad.dopomoga.observer
 0.0.0.0 oschad.dopomoga.social
 0.0.0.0 oschad.dopomogaonline.xyz
 0.0.0.0 oschad.edopomoga.land
@@ -643,6 +647,7 @@
 0.0.0.0 oschad.viplata.space
 0.0.0.0 oschad.viplatanow.online
 0.0.0.0 oschad.viplataua.shop
+0.0.0.0 oschad.viplatka.com
 0.0.0.0 oschad.vuplatu.in
 0.0.0.0 oschad.vyplata-help.com
 0.0.0.0 oschad.xx-pay.co
@@ -834,6 +839,7 @@
 0.0.0.0 raif.dopomoga.agency
 0.0.0.0 raif.dopomoga.fans
 0.0.0.0 raif.dopomoga.in
+0.0.0.0 raif.dopomoga.observer
 0.0.0.0 raif.dopomoga.social
 0.0.0.0 raif.dopomogaonline.xyz
 0.0.0.0 raif.edopomoga.land
@@ -881,6 +887,7 @@
 0.0.0.0 raif.viplata.space
 0.0.0.0 raif.viplatanow.online
 0.0.0.0 raif.viplataua.shop
+0.0.0.0 raif.viplatka.com
 0.0.0.0 raif.vuplatu.in
 0.0.0.0 raif.vyplata-help.com
 0.0.0.0 raif.xx-pay.co
@@ -1111,6 +1118,7 @@
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
 0.0.0.0 viplati-uah.top
+0.0.0.0 viplatka.com
 0.0.0.0 viplatu.com
 0.0.0.0 viplaty.online
 0.0.0.0 vipmoney.xyz
@@ -1132,34 +1140,6 @@
 0.0.0.0 world-help.udemixcr.com
 0.0.0.0 ws-gos.top
 0.0.0.0 wwdwd.cn
-0.0.0.0 www.afters-opros.top
-0.0.0.0 www.auto-formula.com
-0.0.0.0 www.big-partner.kh.ua
-0.0.0.0 www.corpi-gos.top
-0.0.0.0 www.dopomoga-ua.online
-0.0.0.0 www.ecoliinfectionpedia.com
-0.0.0.0 www.eu-st.site
-0.0.0.0 www.flexcapital.com
-0.0.0.0 www.free-zaim.site
-0.0.0.0 www.good-store.in.ua
-0.0.0.0 www.goodstore-ua.shop
-0.0.0.0 www.goodstore.in.ua
-0.0.0.0 www.grac-opros.top
-0.0.0.0 www.growthstrategyinstitute.com
-0.0.0.0 www.happeuphoria.com
-0.0.0.0 www.ineed24.in.ua
-0.0.0.0 www.kassirticket.art
-0.0.0.0 www.lendlok.com
-0.0.0.0 www.mobilluck.com.ua
-0.0.0.0 www.mopays.me
-0.0.0.0 www.mytechno.com.ua
-0.0.0.0 www.newfinance.com.ua
-0.0.0.0 www.niceeuphoria.com
-0.0.0.0 www.perekaz24.niceeuphoria.com
-0.0.0.0 www.rabotaweb.online
-0.0.0.0 www.sneakersadi2018.com
-0.0.0.0 www.superbinary.com
-0.0.0.0 www.yooour-apple.in.ua
 0.0.0.0 x.thoroughintrinsically.cn
 0.0.0.0 x7-mikepike.buzz
 0.0.0.0 xrates.ru
