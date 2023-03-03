@@ -98,7 +98,6 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ## Джерела інформації
 
 * Власна моніторингова команда
-* Медіа-моніторинг та моніторинг соціальних мереж
 * [Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA)](https://cert.gov.ua/)
 * [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
 
