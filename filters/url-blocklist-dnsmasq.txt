@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 3 Mar 2023 19:06 EET
+# Last modified: 4 Mar 2023 15:03 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -129,6 +129,7 @@ address=/bnservice.com.ua/
 address=/bow-gos.top/
 address=/brainintelligencetraining.com/
 address=/brand-gos.top/
+address=/brokcomp.com.ua/
 address=/bui-gos.top/
 address=/bul-opros.top/
 address=/busfor-ua.payments-cars.com/
