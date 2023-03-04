@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 3 Mar 2023 19:06 EET
+# Last modified: 4 Mar 2023 15:03 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -129,6 +129,7 @@
 0.0.0.0 bow-gos.top
 0.0.0.0 brainintelligencetraining.com
 0.0.0.0 brand-gos.top
+0.0.0.0 brokcomp.com.ua
 0.0.0.0 bui-gos.top
 0.0.0.0 bul-opros.top
 0.0.0.0 busfor-ua.payments-cars.com
