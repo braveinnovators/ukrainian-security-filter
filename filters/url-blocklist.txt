@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 4 Mar 2023 15:03 EET
+! Last modified: 6 Mar 2023 20:35 EET
 ! Expires: 3 days
 ! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 !
@@ -168,6 +168,7 @@
 ||dopomogaa.website^
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
+||dopomogaua.xyz^
 ||dopomogi.top^
 ||draw-opros.top^
 ||dufafaststinen.gq^
@@ -193,6 +194,7 @@
 ||epicentrk-bonus.online^
 ||epicentrk-bonus.store^
 ||epidtrimka.com^
+||epomoh.biz^
 ||epotrepa-edopomoga.org^
 ||erinekenney.com^
 ||escrowbox.site^
@@ -285,6 +287,7 @@
 ||help-gos.top^
 ||help-ukrain.xyz^
 ||helpfond-ua.buzz^
+||helpua.top^
 ||helpukraine.direct^
 ||helpzzfound.site^
 ||hollydrew3winster.xyz^
@@ -297,6 +300,8 @@
 ||hv4.ru^
 ||i-dopomoga.space^
 ||id2047323.com^
+||idopomoga.online^
+||idregister.pro^
 ||igenius.ga^
 ||ikea-market.com.ua^
 ||ineed24.in.ua^
@@ -349,6 +354,7 @@
 ||liqpay.info^
 ||localditcolmc.top^
 ||localditcolmc.xyz^
+||log-ins543325235345.cloud^
 ||lokalbitcolmc.top^
 ||lpay.space^
 ||lpayments.org^
@@ -460,6 +466,7 @@
 ||pay-unv.me^
 ||pay5.org^
 ||payboxua.com^
+||payidgow.pro^
 ||payment-system.cloud^
 ||payment.cash^
 ||payment.studio^
@@ -645,6 +652,7 @@
 ||uadostawka.com^
 ||uaekcrprt.site^
 ||uah-perekaz.com^
+||uah-perekaz24.com^
 ||uam-compensation.xyz^
 ||uanext24help.icu^
 ||uapay.cloud^
@@ -665,6 +673,7 @@
 ||ukr-compesations.xyz^
 ||ukr-dopomog.top^
 ||ukr-help.online^
+||ukr-kompenssations.buzz^
 ||ukr-linker.xyz^
 ||ukr-money.com.ua^
 ||ukr-receive.cfd^
@@ -732,6 +741,7 @@
 ||viplatka.com^
 ||viplatu.com^
 ||viplaty.online^
+||viplatyy.com^
 ||vipmoney.xyz^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
@@ -747,6 +757,7 @@
 ||wi-opros.top^
 ||wickywin.com^
 ||wixsite.com^
+||wr-rescan.com^
 ||ws-gos.top^
 ||wwdwd.cn^
 ||x7-mikepike.buzz^
