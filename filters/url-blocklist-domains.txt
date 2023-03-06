@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 4 Mar 2023 15:03 EET
+# Last modified: 6 Mar 2023 20:35 EET
 # Expires: 3 days
 # Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
 #
@@ -60,6 +60,7 @@ abank.perekazio.com
 abank.perekazu.com
 abank.peyidgo.pro
 abank.uadostawka.com
+abank.uah-perekaz24.com
 abicor-ukr.com.ua
 abs-techno.ru
 adi-gos.top
@@ -219,6 +220,7 @@ dopomogaa.site
 dopomogaa.website
 dopomogainukraine.com
 dopomogaonline.xyz
+dopomogaua.xyz
 dopomogi.top
 dopomoha-ua.company.site
 draw-opros.top
@@ -249,6 +251,7 @@ epicentrk-bonus.online
 epicentrk-bonus.store
 epidtrimka.com
 epmes.hollydrew3winster.xyz
+epomoh.biz
 epotrepa-edopomoga.org
 erinekenney.com
 escrowbox.site
@@ -340,6 +343,7 @@ help-gos.top
 help-ukrain.xyz
 help.squirtvid.com
 helpfond-ua.buzz
+helpua.top
 helpukraine.direct
 helpzzfound.site
 hollydrew3winster.xyz
@@ -352,6 +356,8 @@ hqbroker.com
 hv4.ru
 i-dopomoga.space
 id2047323.com
+idopomoga.online
+idregister.pro
 igenius.ga
 ikea-market.com.ua
 ineed24.in.ua
@@ -411,6 +417,7 @@ linktr.ee/dopomoha.center
 liqpay.info
 localditcolmc.top
 localditcolmc.xyz
+log-ins543325235345.cloud
 lokalbitcolmc.top
 lpay.space
 lpayments.org
@@ -470,6 +477,7 @@ nadym.in
 namemo.ucraft.site
 nato-dopomoga.com
 nato-gov.com
+neobank.idopomoga.online
 neobank.pcs-order.me
 nettgola.site
 newauction.com.ua
@@ -497,6 +505,7 @@ next24.edopomoga.land
 next24.gate-pays.me
 next24.glopay.site
 next24.govdia.pro
+next24.idregister.pro
 next24.jay-order.me
 next24.nato-gov.com
 next24.next-bp.net
@@ -510,6 +519,7 @@ next24.ox-pay.me
 next24.pay-chs.me
 next24.pay-ukraine.com
 next24.pay-unv.me
+next24.payidgow.pro
 next24.paysdayl.click
 next24.pcs-order.me
 next24.perekazio.com
@@ -651,6 +661,7 @@ oschad.viplataua.shop
 oschad.viplatka.com
 oschad.vuplatu.in
 oschad.vyplata-help.com
+oschad.wr-rescan.com
 oschad.xx-pay.co
 oschad.yatreba.com
 oschadavtorizaciya.simdif.com
@@ -691,6 +702,7 @@ pay.uatax-compenses.xyz
 pay.ukr-cmpns.xyz
 pay5.org
 payboxua.com
+payidgow.pro
 payment-system.cloud
 payment.cash
 payment.studio
@@ -823,6 +835,7 @@ pumb.upayment.me
 pumb.vi-plata.com
 pumb.viplata.fun
 pumb.viplataua.shop
+pumb.viplatyy.com
 pumb.xu-pay.me
 pumb.xx-pay.co
 qs-dopomoga.me
@@ -896,6 +909,9 @@ raif.yatreba.com
 raiffeiesen.simdif.com
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
+raiffeisen.dopomogaua.xyz
+raiffeisen.helpua.top
+raiffeisen.log-ins543325235345.cloud
 rastamogka.net
 rbadm.top
 rea-gos.top
@@ -939,6 +955,7 @@ socialassistance.social
 socialassistancefromedopomaka.social
 specheart.com
 spion-market.com.ua
+sportbank.epomoh.biz
 squirtvid.com
 store-appleua.com
 store-ua-goodstore.wixsite.com
@@ -1016,6 +1033,7 @@ uacompensation.xyz
 uadostawka.com
 uaekcrprt.site
 uah-perekaz.com
+uah-perekaz24.com
 uam-compensation.xyz
 uanext24help.icu
 uapay.cloud
@@ -1039,6 +1057,7 @@ ukr-compesations.top
 ukr-compesations.xyz
 ukr-dopomog.top
 ukr-help.online
+ukr-kompenssations.buzz
 ukr-linker.xyz
 ukr-money.com.ua
 ukr-receive.cfd
@@ -1122,6 +1141,7 @@ viplati-uah.top
 viplatka.com
 viplatu.com
 viplaty.online
+viplatyy.com
 vipmoney.xyz
 vizatravel.ru.com
 vo-dopomoga.net
@@ -1139,6 +1159,7 @@ wi-opros.top
 wickywin.com
 wixsite.com
 world-help.udemixcr.com
+wr-rescan.com
 ws-gos.top
 wwdwd.cn
 x.thoroughintrinsically.cn
