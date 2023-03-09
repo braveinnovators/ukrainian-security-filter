@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thursday, 9 March 2023 17:47 EET
+# Last modified: Thursday, 9 March 2023 21:59 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -197,6 +197,9 @@
 0.0.0.0 direktolog.vipmoney.xyz
 0.0.0.0 dis6.site
 0.0.0.0 dl-gos.top
+0.0.0.0 domennet.com
+0.0.0.0 domennn.com
+0.0.0.0 dopomih.com
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-backing.top
@@ -204,6 +207,7 @@
 0.0.0.0 dopomoga-id04687.website
 0.0.0.0 dopomoga-oon.com
 0.0.0.0 dopomoga-ua.click
+0.0.0.0 dopomoga-ua.info
 0.0.0.0 dopomoga-ua.online
 0.0.0.0 dopomoga-ua.personalnot.online
 0.0.0.0 dopomoga-ua.site
@@ -499,6 +503,10 @@
 0.0.0.0 next24.cq-pay.me
 0.0.0.0 next24.dersch.online
 0.0.0.0 next24.dershoplate.com
+0.0.0.0 next24.domennet.com
+0.0.0.0 next24.domennn.com
+0.0.0.0 next24.dopomih.com
+0.0.0.0 next24.dopomoga-ua.info
 0.0.0.0 next24.dopomoga.agency
 0.0.0.0 next24.dopomoga.fans
 0.0.0.0 next24.dopomoga.in
@@ -611,6 +619,10 @@
 0.0.0.0 oschad.cq-pay.me
 0.0.0.0 oschad.dersch.online
 0.0.0.0 oschad.dershoplate.com
+0.0.0.0 oschad.domennet.com
+0.0.0.0 oschad.domennn.com
+0.0.0.0 oschad.dopomih.com
+0.0.0.0 oschad.dopomoga-ua.info
 0.0.0.0 oschad.dopomoga.agency
 0.0.0.0 oschad.dopomoga.fans
 0.0.0.0 oschad.dopomoga.in
@@ -682,6 +694,8 @@
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oshad.24get.site
+0.0.0.0 oshadbank.online
+0.0.0.0 oshadbank.pro
 0.0.0.0 oshcad-bank.top
 0.0.0.0 oshcadbank.top
 0.0.0.0 osschad.secure2dpay.store
@@ -766,6 +780,7 @@
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat24-help.link
+0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.0pru.site
 0.0.0.0 privat24.3lzx.site
 0.0.0.0 privat24.apayments.pro
@@ -783,6 +798,7 @@
 0.0.0.0 privat24.pics
 0.0.0.0 privat24.press
 0.0.0.0 privat24.privatbank.in.ua
+0.0.0.0 privat24.pw
 0.0.0.0 privat24.quickpay.pw
 0.0.0.0 privat24.quicktrans.space
 0.0.0.0 privat24.saferegulatory.com
@@ -863,6 +879,10 @@
 0.0.0.0 raif.ckx-pay.me
 0.0.0.0 raif.dersch.online
 0.0.0.0 raif.dershoplate.com
+0.0.0.0 raif.domennet.com
+0.0.0.0 raif.domennn.com
+0.0.0.0 raif.dopomih.com
+0.0.0.0 raif.dopomoga-ua.info
 0.0.0.0 raif.dopomoga.agency
 0.0.0.0 raif.dopomoga.fans
 0.0.0.0 raif.dopomoga.in
@@ -930,6 +950,8 @@
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
+0.0.0.0 raiffeizen-viplata-help.online
+0.0.0.0 raiffesen.pro
 0.0.0.0 rastamogka.net
 0.0.0.0 rbadm.top
 0.0.0.0 rea-gos.top
@@ -1153,6 +1175,7 @@
 0.0.0.0 viplata.me
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
+0.0.0.0 viplatadiya.site
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataua.com
 0.0.0.0 viplataua.net
