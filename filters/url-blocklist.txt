@@ -1,11 +1,11 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: 6 Mar 2023 20:35 EET
+! Last modified: Thursday, 9 March 2023 17:47 EET
 ! Expires: 3 days
-! Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
+! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
-! Homepage: https://github.com/s5innovators/url-blocklist
-! Issues: https://github.com/s5innovators/url-blocklist/issues
+! Homepage: https://github.com/S15UA/url-blocklist
+! Issues: https://github.com/S15UA/url-blocklist/issues
 !
 ||0dio.site^
 ||0mp4ep.cn^
@@ -113,6 +113,7 @@
 ||checkmoney.com.ua^
 ||chis-gos.top^
 ||christmasfix.com^
+||chydovo.com^
 ||ckx-pay.me^
 ||clickit.today^
 ||clubkassa24.top^
@@ -168,6 +169,7 @@
 ||dopomogaa.website^
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
+||dopomogasoshiall.website^
 ||dopomogaua.xyz^
 ||dopomogi.top^
 ||draw-opros.top^
@@ -555,6 +557,7 @@
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
+||rozym.com^
 ||ru.com^
 ||ruspayments.ru^
 ||saferegulatory.com^
@@ -567,6 +570,7 @@
 ||servicehelp.com.ua^
 ||sfcitycampsandleagues.com^
 ||shar-city.com.ua^
+||shepir.com^
 ||shopibest.com.ua^
 ||simdif.com^
 ||sites.google.com/view/d362g5d2^$document
@@ -745,6 +749,7 @@
 ||vipmoney.xyz^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
+||vreliefukraine.today^
 ||vsad.com.ua^
 ||vuplatu.in^
 ||vyplata-help.com^
