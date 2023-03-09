@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thursday, 9 March 2023 17:47 EET
+# Last modified: Thursday, 9 March 2023 21:59 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -197,6 +197,9 @@ diiaua.com
 direktolog.vipmoney.xyz
 dis6.site
 dl-gos.top
+domennet.com
+domennn.com
+dopomih.com
 dopomoga-2023.top
 dopomoga-aid.top
 dopomoga-backing.top
@@ -204,6 +207,7 @@ dopomoga-epay.site
 dopomoga-id04687.website
 dopomoga-oon.com
 dopomoga-ua.click
+dopomoga-ua.info
 dopomoga-ua.online
 dopomoga-ua.personalnot.online
 dopomoga-ua.site
@@ -499,6 +503,10 @@ next24.ckx-pay.me
 next24.cq-pay.me
 next24.dersch.online
 next24.dershoplate.com
+next24.domennet.com
+next24.domennn.com
+next24.dopomih.com
+next24.dopomoga-ua.info
 next24.dopomoga.agency
 next24.dopomoga.fans
 next24.dopomoga.in
@@ -611,6 +619,10 @@ oschad.ckx-pay.me
 oschad.cq-pay.me
 oschad.dersch.online
 oschad.dershoplate.com
+oschad.domennet.com
+oschad.domennn.com
+oschad.dopomih.com
+oschad.dopomoga-ua.info
 oschad.dopomoga.agency
 oschad.dopomoga.fans
 oschad.dopomoga.in
@@ -682,6 +694,8 @@ oschadbank.ua-send.website
 oschadbank.ul-pay.me
 oschadnybank.com.ua
 oshad.24get.site
+oshadbank.online
+oshadbank.pro
 oshcad-bank.top
 oshcadbank.top
 osschad.secure2dpay.store
@@ -766,6 +780,7 @@ privat.chydovo.com
 privat.rozym.com
 privat.shepir.com
 privat24-help.link
+privat24-viplata-help.online
 privat24.0pru.site
 privat24.3lzx.site
 privat24.apayments.pro
@@ -783,6 +798,7 @@ privat24.perekaz.com
 privat24.pics
 privat24.press
 privat24.privatbank.in.ua
+privat24.pw
 privat24.quickpay.pw
 privat24.quicktrans.space
 privat24.saferegulatory.com
@@ -863,6 +879,10 @@ raif.cake-payment.me
 raif.ckx-pay.me
 raif.dersch.online
 raif.dershoplate.com
+raif.domennet.com
+raif.domennn.com
+raif.dopomih.com
+raif.dopomoga-ua.info
 raif.dopomoga.agency
 raif.dopomoga.fans
 raif.dopomoga.in
@@ -930,6 +950,8 @@ raiffeisen.log-ins543325235345.cloud
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
+raiffeizen-viplata-help.online
+raiffesen.pro
 rastamogka.net
 rbadm.top
 rea-gos.top
@@ -1153,6 +1175,7 @@ viplata.in
 viplata.me
 viplata.org
 viplata.space
+viplatadiya.site
 viplatanow.online
 viplataua.com
 viplataua.net
