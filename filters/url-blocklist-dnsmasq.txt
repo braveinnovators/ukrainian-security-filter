@@ -1,11 +1,11 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 6 Mar 2023 20:35 EET
+# Last modified: Thursday, 9 March 2023 17:47 EET
 # Expires: 3 days
-# Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
+# Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
-# Homepage: https://github.com/s5innovators/url-blocklist
-# Issues: https://github.com/s5innovators/url-blocklist/issues
+# Homepage: https://github.com/S15UA/url-blocklist
+# Issues: https://github.com/S15UA/url-blocklist/issues
 #
 address=/0dio.site/
 address=/0mp4ep.cn/
@@ -34,6 +34,7 @@ address=/770capital.com/
 address=/80w19v.cn/
 address=/a-bank.dopomoga.agency/
 address=/a-bank.dopomoga.social/
+address=/a-bank.dopomogasoshiall.website/
 address=/a-bank.edopomoga.land/
 address=/a-bank.gate-pays.me/
 address=/a-bank.glopay.site/
@@ -156,6 +157,7 @@ address=/cheap-gos.top/
 address=/checkmoney.com.ua/
 address=/chis-gos.top/
 address=/christmasfix.com/
+address=/chydovo.com/
 address=/ckx-pay.me/
 address=/clickit.today/
 address=/clubkassa24.top/
@@ -220,6 +222,7 @@ address=/dopomogaa.site/
 address=/dopomogaa.website/
 address=/dopomogainukraine.com/
 address=/dopomogaonline.xyz/
+address=/dopomogasoshiall.website/
 address=/dopomogaua.xyz/
 address=/dopomogi.top/
 address=/dopomoha-ua.company.site/
@@ -501,6 +504,7 @@ address=/next24.dopomoga.fans/
 address=/next24.dopomoga.in/
 address=/next24.dopomoga.observer/
 address=/next24.dopomoga.social/
+address=/next24.dopomogasoshiall.website/
 address=/next24.edopomoga.land/
 address=/next24.gate-pays.me/
 address=/next24.glopay.site/
@@ -613,6 +617,7 @@ address=/oschad.dopomoga.in/
 address=/oschad.dopomoga.observer/
 address=/oschad.dopomoga.social/
 address=/oschad.dopomogaonline.xyz/
+address=/oschad.dopomogasoshiall.website/
 address=/oschad.edopomoga.land/
 address=/oschad.finstor.online/
 address=/oschad.finua.online/
@@ -667,7 +672,11 @@ address=/oschad.yatreba.com/
 address=/oschadavtorizaciya.simdif.com/
 address=/oschadbank-inform.com.ua/
 address=/oschadbank-viplata-help.online/
+address=/oschadbank.chydovo.com/
 address=/oschadbank.no-pay.me/
+address=/oschadbank.reliefukraine.today/
+address=/oschadbank.rozym.com/
+address=/oschadbank.shepir.com/
 address=/oschadbank.top/
 address=/oschadbank.ua-send.website/
 address=/oschadbank.ul-pay.me/
@@ -753,6 +762,9 @@ address=/pre-opros.top/
 address=/primanka.com.ua/
 address=/privat-trade.com/
 address=/privat.24unicef.org/
+address=/privat.chydovo.com/
+address=/privat.rozym.com/
+address=/privat.shepir.com/
 address=/privat24-help.link/
 address=/privat24.0pru.site/
 address=/privat24.3lzx.site/
@@ -814,6 +826,7 @@ address=/pumb.dershoplate.com/
 address=/pumb.dopomoga.agency/
 address=/pumb.dopomoga.in/
 address=/pumb.dopomoga.social/
+address=/pumb.dopomogasoshiall.website/
 address=/pumb.jay-order.me/
 address=/pumb.nato-gov.com/
 address=/pumb.no-pay.me/
@@ -856,6 +869,7 @@ address=/raif.dopomoga.in/
 address=/raif.dopomoga.observer/
 address=/raif.dopomoga.social/
 address=/raif.dopomogaonline.xyz/
+address=/raif.dopomogasoshiall.website/
 address=/raif.edopomoga.land/
 address=/raif.finstor.online/
 address=/raif.finua.online/
@@ -909,20 +923,26 @@ address=/raif.yatreba.com/
 address=/raiffeiesen.simdif.com/
 address=/raiffeisen-uapay.shop/
 address=/raiffeisen.3dss-pays.info/
+address=/raiffeisen.chydovo.com/
 address=/raiffeisen.dopomogaua.xyz/
 address=/raiffeisen.helpua.top/
 address=/raiffeisen.log-ins543325235345.cloud/
+address=/raiffeisen.reliefukraine.today/
+address=/raiffeisen.rozym.com/
+address=/raiffeisen.shepir.com/
 address=/rastamogka.net/
 address=/rbadm.top/
 address=/rea-gos.top/
 address=/recive-money.icu/
 address=/recivemoney.icu/
 address=/refreshmentsubmarine.top/
+address=/reliefukraine.today/
 address=/rfterua.space/
 address=/rivierafamily.com/
 address=/rozetkaukraine.cc/
 address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
+address=/rozym.com/
 address=/ru.com/
 address=/ruspayments.ru/
 address=/s.prizesite.net/
@@ -937,6 +957,7 @@ address=/sendmoney.site/
 address=/servicehelp.com.ua/
 address=/sfcitycampsandleagues.com/
 address=/shar-city.com.ua/
+address=/shepir.com/
 address=/shop-good-store.wixsite.com/
 address=/shop-ua-appleua5.wixsite.com/
 address=/shopibest.com.ua/
