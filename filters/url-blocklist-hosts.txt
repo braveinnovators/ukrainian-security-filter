@@ -1,11 +1,11 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: 6 Mar 2023 20:35 EET
+# Last modified: Thursday, 9 March 2023 17:47 EET
 # Expires: 3 days
-# Licence: https://github.com/s5innovators/url-blocklist/blob/main/LICENSE
+# Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
-# Homepage: https://github.com/s5innovators/url-blocklist
-# Issues: https://github.com/s5innovators/url-blocklist/issues
+# Homepage: https://github.com/S15UA/url-blocklist
+# Issues: https://github.com/S15UA/url-blocklist/issues
 #
 0.0.0.0 0dio.site
 0.0.0.0 0mp4ep.cn
@@ -34,6 +34,7 @@
 0.0.0.0 80w19v.cn
 0.0.0.0 a-bank.dopomoga.agency
 0.0.0.0 a-bank.dopomoga.social
+0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
@@ -156,6 +157,7 @@
 0.0.0.0 checkmoney.com.ua
 0.0.0.0 chis-gos.top
 0.0.0.0 christmasfix.com
+0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
 0.0.0.0 clickit.today
 0.0.0.0 clubkassa24.top
@@ -220,6 +222,7 @@
 0.0.0.0 dopomogaa.website
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaonline.xyz
+0.0.0.0 dopomogasoshiall.website
 0.0.0.0 dopomogaua.xyz
 0.0.0.0 dopomogi.top
 0.0.0.0 dopomoha-ua.company.site
@@ -501,6 +504,7 @@
 0.0.0.0 next24.dopomoga.in
 0.0.0.0 next24.dopomoga.observer
 0.0.0.0 next24.dopomoga.social
+0.0.0.0 next24.dopomogasoshiall.website
 0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
@@ -613,6 +617,7 @@
 0.0.0.0 oschad.dopomoga.observer
 0.0.0.0 oschad.dopomoga.social
 0.0.0.0 oschad.dopomogaonline.xyz
+0.0.0.0 oschad.dopomogasoshiall.website
 0.0.0.0 oschad.edopomoga.land
 0.0.0.0 oschad.finstor.online
 0.0.0.0 oschad.finua.online
@@ -667,7 +672,11 @@
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
+0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.no-pay.me
+0.0.0.0 oschadbank.reliefukraine.today
+0.0.0.0 oschadbank.rozym.com
+0.0.0.0 oschadbank.shepir.com
 0.0.0.0 oschadbank.top
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.ul-pay.me
@@ -753,6 +762,9 @@
 0.0.0.0 primanka.com.ua
 0.0.0.0 privat-trade.com
 0.0.0.0 privat.24unicef.org
+0.0.0.0 privat.chydovo.com
+0.0.0.0 privat.rozym.com
+0.0.0.0 privat.shepir.com
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24.0pru.site
 0.0.0.0 privat24.3lzx.site
@@ -814,6 +826,7 @@
 0.0.0.0 pumb.dopomoga.agency
 0.0.0.0 pumb.dopomoga.in
 0.0.0.0 pumb.dopomoga.social
+0.0.0.0 pumb.dopomogasoshiall.website
 0.0.0.0 pumb.jay-order.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
@@ -856,6 +869,7 @@
 0.0.0.0 raif.dopomoga.observer
 0.0.0.0 raif.dopomoga.social
 0.0.0.0 raif.dopomogaonline.xyz
+0.0.0.0 raif.dopomogasoshiall.website
 0.0.0.0 raif.edopomoga.land
 0.0.0.0 raif.finstor.online
 0.0.0.0 raif.finua.online
@@ -909,20 +923,26 @@
 0.0.0.0 raiffeiesen.simdif.com
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
+0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
 0.0.0.0 raiffeisen.helpua.top
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
+0.0.0.0 raiffeisen.reliefukraine.today
+0.0.0.0 raiffeisen.rozym.com
+0.0.0.0 raiffeisen.shepir.com
 0.0.0.0 rastamogka.net
 0.0.0.0 rbadm.top
 0.0.0.0 rea-gos.top
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
 0.0.0.0 refreshmentsubmarine.top
+0.0.0.0 reliefukraine.today
 0.0.0.0 rfterua.space
 0.0.0.0 rivierafamily.com
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
+0.0.0.0 rozym.com
 0.0.0.0 ru.com
 0.0.0.0 ruspayments.ru
 0.0.0.0 s.prizesite.net
@@ -937,6 +957,7 @@
 0.0.0.0 servicehelp.com.ua
 0.0.0.0 sfcitycampsandleagues.com
 0.0.0.0 shar-city.com.ua
+0.0.0.0 shepir.com
 0.0.0.0 shop-good-store.wixsite.com
 0.0.0.0 shop-ua-appleua5.wixsite.com
 0.0.0.0 shopibest.com.ua
