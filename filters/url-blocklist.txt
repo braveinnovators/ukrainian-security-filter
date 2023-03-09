@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thursday, 9 March 2023 17:47 EET
+! Last modified: Thursday, 9 March 2023 21:59 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -147,6 +147,9 @@
 ||diiaua.com^
 ||dis6.site^
 ||dl-gos.top^
+||domennet.com^
+||domennn.com^
+||dopomih.com^
 ||dopomoga-2023.top^
 ||dopomoga-aid.top^
 ||dopomoga-backing.top^
@@ -154,6 +157,7 @@
 ||dopomoga-id04687.website^
 ||dopomoga-oon.com^
 ||dopomoga-ua.click^
+||dopomoga-ua.info^
 ||dopomoga-ua.online^
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
@@ -450,6 +454,8 @@
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
 ||oschadnybank.com.ua^
+||oshadbank.online^
+||oshadbank.pro^
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||osv6.site^
@@ -513,10 +519,12 @@
 ||primanka.com.ua^
 ||privat-trade.com^
 ||privat24-help.link^
+||privat24-viplata-help.online^
 ||privat24.cloud^
 ||privat24.fun^
 ||privat24.pics^
 ||privat24.press^
+||privat24.pw^
 ||privat24.tech^
 ||privat24.top^
 ||privat24.uno^
@@ -546,6 +554,8 @@
 ||radixgroup.ru^
 ||raif.viplata.fun^
 ||raiffeisen-uapay.shop^
+||raiffeizen-viplata-help.online^
+||raiffesen.pro^
 ||rastamogka.net^
 ||rbadm.top^
 ||rea-gos.top^
@@ -736,6 +746,7 @@
 ||viplata.me^
 ||viplata.org^
 ||viplata.space^
+||viplatadiya.site^
 ||viplatanow.online^
 ||viplataua.com^
 ||viplataua.net^
