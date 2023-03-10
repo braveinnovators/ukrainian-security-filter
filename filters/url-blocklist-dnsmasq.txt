@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thursday, 9 March 2023 21:59 EET
+# Last modified: Friday, 10 March 2023 13:45 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -196,6 +196,7 @@ address=/diiapidpys.uk/
 address=/diiaua.com/
 address=/direktolog.vipmoney.xyz/
 address=/dis6.site/
+address=/diyaviplati.vip/
 address=/dl-gos.top/
 address=/domennet.com/
 address=/domennn.com/
