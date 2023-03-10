@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thursday, 9 March 2023 21:59 EET
+# Last modified: Friday, 10 March 2023 13:45 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -196,6 +196,7 @@
 0.0.0.0 diiaua.com
 0.0.0.0 direktolog.vipmoney.xyz
 0.0.0.0 dis6.site
+0.0.0.0 diyaviplati.vip
 0.0.0.0 dl-gos.top
 0.0.0.0 domennet.com
 0.0.0.0 domennn.com
