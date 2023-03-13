@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Friday, 10 March 2023 13:45 EET
+# Last modified: Mon, 13 March 2023 16:58 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@ a-bank.dopomoga.agency
 a-bank.dopomoga.social
 a-bank.dopomogasoshiall.website
 a-bank.edopomoga.land
+a-bank.eviplata.vip
 a-bank.gate-pays.me
 a-bank.glopay.site
 a-bank.no-pay.me
@@ -53,6 +54,7 @@ a-bank.ul-pay.me
 a-bank.viplata.digital
 a-bank.viplata.space
 a-bank.viplataua.shop
+a-bank.viplatavop.club
 a-dopomoga.info
 a-pay-link.tech
 abank.gate-pays.me
@@ -111,6 +113,7 @@ aykks.top
 babycar.od.ua
 back.multistream.space
 badge-gos.top
+bake-pays.me
 balantins.com.ua
 bankallianceua.com
 bbaja.cn
@@ -198,6 +201,7 @@ direktolog.vipmoney.xyz
 dis6.site
 diyaviplati.vip
 dl-gos.top
+dochlend.com
 domennet.com
 domennn.com
 dopomih.com
@@ -277,6 +281,7 @@ ev-gos.top
 ever-gos.top
 ever-opros.top
 evi-gos.top
+eviplata.vip
 ex-gos.top
 expaidportal.shop
 f-dopomoga.online
@@ -303,6 +308,7 @@ g-pay.me
 gate-pays.me
 gbwtibz.cn
 gen-gos.top
+gertinn.com
 get-ua-comp.cfd
 getfunds.pw
 getmewin.com
@@ -504,6 +510,7 @@ next24.ckx-pay.me
 next24.cq-pay.me
 next24.dersch.online
 next24.dershoplate.com
+next24.dochlend.com
 next24.domennet.com
 next24.domennn.com
 next24.dopomih.com
@@ -620,6 +627,7 @@ oschad.ckx-pay.me
 oschad.cq-pay.me
 oschad.dersch.online
 oschad.dershoplate.com
+oschad.dochlend.com
 oschad.domennet.com
 oschad.domennn.com
 oschad.dopomih.com
@@ -685,14 +693,19 @@ oschad.yatreba.com
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
+oschadbank.bake-pays.me
 oschadbank.chydovo.com
+oschadbank.eviplata.vip
+oschadbank.gertinn.com
 oschadbank.no-pay.me
 oschadbank.reliefukraine.today
 oschadbank.rozym.com
 oschadbank.shepir.com
+oschadbank.sutary.com
 oschadbank.top
 oschadbank.ua-send.website
 oschadbank.ul-pay.me
+oschadbank.viplatavop.club
 oschadnybank.com.ua
 oshad.24get.site
 oshadbank.online
@@ -777,9 +790,14 @@ pre-opros.top
 primanka.com.ua
 privat-trade.com
 privat.24unicef.org
+privat.bake-pays.me
 privat.chydovo.com
+privat.eviplata.vip
+privat.gertinn.com
 privat.rozym.com
 privat.shepir.com
+privat.sutary.com
+privat.viplatavop.club
 privat24-help.link
 privat24-viplata-help.online
 privat24.0pru.site
@@ -865,6 +883,7 @@ pumb.upayment.me
 pumb.vi-plata.com
 pumb.viplata.fun
 pumb.viplataua.shop
+pumb.viplatavop.club
 pumb.viplatyy.com
 pumb.xu-pay.me
 pumb.xx-pay.co
@@ -880,6 +899,7 @@ raif.cake-payment.me
 raif.ckx-pay.me
 raif.dersch.online
 raif.dershoplate.com
+raif.dochlend.com
 raif.domennet.com
 raif.domennn.com
 raif.dopomih.com
@@ -944,13 +964,18 @@ raif.yatreba.com
 raiffeiesen.simdif.com
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
+raiffeisen.bake-pays.me
 raiffeisen.chydovo.com
 raiffeisen.dopomogaua.xyz
+raiffeisen.eviplata.vip
+raiffeisen.gertinn.com
 raiffeisen.helpua.top
 raiffeisen.log-ins543325235345.cloud
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
+raiffeisen.sutary.com
+raiffeisen.viplatavop.club
 raiffeizen-viplata-help.online
 raiffesen.pro
 rastamogka.net
@@ -1012,6 +1037,7 @@ strongbalck.com
 strongdack.com
 superbinary.com
 surge.sh
+sutary.com
 swap-pro.trade
 t0p2pay.fun
 tabakekoteks.ua.market
@@ -1139,6 +1165,7 @@ ukrsib.gate-pays.me
 ukrsib.np-pay.me
 ukrsib.pcs-order.me
 ukrsib.securitypay.me
+ukrsib.sutary.com
 ukrsib.uasocial-viplata.company
 ukrsib.vi-plata.com
 ukrsib.viplata.digital
@@ -1182,6 +1209,7 @@ viplataua.com
 viplataua.net
 viplataua.org
 viplataua.shop
+viplatavop.club
 viplati-uah.top
 viplatka.com
 viplatu.com
