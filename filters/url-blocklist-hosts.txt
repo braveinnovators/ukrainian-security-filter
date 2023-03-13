@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Friday, 10 March 2023 13:45 EET
+# Last modified: Mon, 13 March 2023 16:58 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@
 0.0.0.0 a-bank.dopomoga.social
 0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
+0.0.0.0 a-bank.eviplata.vip
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
 0.0.0.0 a-bank.no-pay.me
@@ -53,6 +54,7 @@
 0.0.0.0 a-bank.viplata.digital
 0.0.0.0 a-bank.viplata.space
 0.0.0.0 a-bank.viplataua.shop
+0.0.0.0 a-bank.viplatavop.club
 0.0.0.0 a-dopomoga.info
 0.0.0.0 a-pay-link.tech
 0.0.0.0 abank.gate-pays.me
@@ -111,6 +113,7 @@
 0.0.0.0 babycar.od.ua
 0.0.0.0 back.multistream.space
 0.0.0.0 badge-gos.top
+0.0.0.0 bake-pays.me
 0.0.0.0 balantins.com.ua
 0.0.0.0 bankallianceua.com
 0.0.0.0 bbaja.cn
@@ -198,6 +201,7 @@
 0.0.0.0 dis6.site
 0.0.0.0 diyaviplati.vip
 0.0.0.0 dl-gos.top
+0.0.0.0 dochlend.com
 0.0.0.0 domennet.com
 0.0.0.0 domennn.com
 0.0.0.0 dopomih.com
@@ -277,6 +281,7 @@
 0.0.0.0 ever-gos.top
 0.0.0.0 ever-opros.top
 0.0.0.0 evi-gos.top
+0.0.0.0 eviplata.vip
 0.0.0.0 ex-gos.top
 0.0.0.0 expaidportal.shop
 0.0.0.0 f-dopomoga.online
@@ -303,6 +308,7 @@
 0.0.0.0 gate-pays.me
 0.0.0.0 gbwtibz.cn
 0.0.0.0 gen-gos.top
+0.0.0.0 gertinn.com
 0.0.0.0 get-ua-comp.cfd
 0.0.0.0 getfunds.pw
 0.0.0.0 getmewin.com
@@ -504,6 +510,7 @@
 0.0.0.0 next24.cq-pay.me
 0.0.0.0 next24.dersch.online
 0.0.0.0 next24.dershoplate.com
+0.0.0.0 next24.dochlend.com
 0.0.0.0 next24.domennet.com
 0.0.0.0 next24.domennn.com
 0.0.0.0 next24.dopomih.com
@@ -620,6 +627,7 @@
 0.0.0.0 oschad.cq-pay.me
 0.0.0.0 oschad.dersch.online
 0.0.0.0 oschad.dershoplate.com
+0.0.0.0 oschad.dochlend.com
 0.0.0.0 oschad.domennet.com
 0.0.0.0 oschad.domennn.com
 0.0.0.0 oschad.dopomih.com
@@ -685,14 +693,19 @@
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
+0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.chydovo.com
+0.0.0.0 oschadbank.eviplata.vip
+0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
 0.0.0.0 oschadbank.shepir.com
+0.0.0.0 oschadbank.sutary.com
 0.0.0.0 oschadbank.top
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.ul-pay.me
+0.0.0.0 oschadbank.viplatavop.club
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oshad.24get.site
 0.0.0.0 oshadbank.online
@@ -777,9 +790,14 @@
 0.0.0.0 primanka.com.ua
 0.0.0.0 privat-trade.com
 0.0.0.0 privat.24unicef.org
+0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.chydovo.com
+0.0.0.0 privat.eviplata.vip
+0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
+0.0.0.0 privat.sutary.com
+0.0.0.0 privat.viplatavop.club
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.0pru.site
@@ -865,6 +883,7 @@
 0.0.0.0 pumb.vi-plata.com
 0.0.0.0 pumb.viplata.fun
 0.0.0.0 pumb.viplataua.shop
+0.0.0.0 pumb.viplatavop.club
 0.0.0.0 pumb.viplatyy.com
 0.0.0.0 pumb.xu-pay.me
 0.0.0.0 pumb.xx-pay.co
@@ -880,6 +899,7 @@
 0.0.0.0 raif.ckx-pay.me
 0.0.0.0 raif.dersch.online
 0.0.0.0 raif.dershoplate.com
+0.0.0.0 raif.dochlend.com
 0.0.0.0 raif.domennet.com
 0.0.0.0 raif.domennn.com
 0.0.0.0 raif.dopomih.com
@@ -944,13 +964,18 @@
 0.0.0.0 raiffeiesen.simdif.com
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
+0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
+0.0.0.0 raiffeisen.eviplata.vip
+0.0.0.0 raiffeisen.gertinn.com
 0.0.0.0 raiffeisen.helpua.top
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
+0.0.0.0 raiffeisen.sutary.com
+0.0.0.0 raiffeisen.viplatavop.club
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
 0.0.0.0 rastamogka.net
@@ -1012,6 +1037,7 @@
 0.0.0.0 strongdack.com
 0.0.0.0 superbinary.com
 0.0.0.0 surge.sh
+0.0.0.0 sutary.com
 0.0.0.0 swap-pro.trade
 0.0.0.0 t0p2pay.fun
 0.0.0.0 tabakekoteks.ua.market
@@ -1139,6 +1165,7 @@
 0.0.0.0 ukrsib.np-pay.me
 0.0.0.0 ukrsib.pcs-order.me
 0.0.0.0 ukrsib.securitypay.me
+0.0.0.0 ukrsib.sutary.com
 0.0.0.0 ukrsib.uasocial-viplata.company
 0.0.0.0 ukrsib.vi-plata.com
 0.0.0.0 ukrsib.viplata.digital
@@ -1182,6 +1209,7 @@
 0.0.0.0 viplataua.net
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
+0.0.0.0 viplatavop.club
 0.0.0.0 viplati-uah.top
 0.0.0.0 viplatka.com
 0.0.0.0 viplatu.com
