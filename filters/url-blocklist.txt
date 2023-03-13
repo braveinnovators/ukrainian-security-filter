@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Friday, 10 March 2023 13:45 EET
+! Last modified: Mon, 13 March 2023 16:58 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -73,6 +73,7 @@
 ||aykks.top^
 ||babycar.od.ua^
 ||badge-gos.top^
+||bake-pays.me^
 ||balantins.com.ua^
 ||bankallianceua.com^
 ||bbaja.cn^
@@ -148,6 +149,7 @@
 ||dis6.site^
 ||diyaviplati.vip^
 ||dl-gos.top^
+||dochlend.com^
 ||domennet.com^
 ||domennn.com^
 ||dopomih.com^
@@ -219,6 +221,7 @@
 ||ever-gos.top^
 ||ever-opros.top^
 ||evi-gos.top^
+||eviplata.vip^
 ||ex-gos.top^
 ||expaidportal.shop^
 ||f-dopomoga.online^
@@ -251,6 +254,7 @@
 ||gate-pays.me^
 ||gbwtibz.cn^
 ||gen-gos.top^
+||gertinn.com^
 ||get-ua-comp.cfd^
 ||getfunds.pw^
 ||getmewin.com^
@@ -606,6 +610,7 @@
 ||strongdack.com^
 ||superbinary.com^
 ||surge.sh^
+||sutary.com^
 ||swap-pro.trade^
 ||t.me/d0p0m0ga^$document
 ||t.me/dopomogaonline2023_bot^$document
@@ -754,6 +759,7 @@
 ||viplataua.net^
 ||viplataua.org^
 ||viplataua.shop^
+||viplatavop.club^
 ||viplati-uah.top^
 ||viplatka.com^
 ||viplatu.com^
