@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 14 March 2023 13:21 EET
+! Last modified: Tue, 14 March 2023 14:35 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -144,6 +144,7 @@
 ||dershoplate.com^
 ||determinecrust.top^
 ||diadopomoga.me^
+||diafes.com^
 ||diia-dopomoga.pro^
 ||diia-gov.pp.ua^
 ||diiadopomoga.pro^
@@ -182,9 +183,11 @@
 ||dopomogadia.me^
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
+||dopomogaooh.pro^
 ||dopomogasoshiall.website^
 ||dopomogaua.xyz^
 ||dopomogi.top^
+||dopomogs-ukr.top^
 ||draw-opros.top^
 ||dufafaststinen.gq^
 ||e-dopomoga-perekazy24.space^
@@ -286,8 +289,10 @@
 ||gov-ukr.top^
 ||govdia.pro^
 ||grac-opros.top^
+||great-gos.top^
 ||grinta-invest.com^
 ||groshovadopomoga.com^
+||grow-gos.top^
 ||growthstrategyinstitute.com^
 ||gtradex.net^
 ||gulf-can.com^
@@ -460,11 +465,13 @@
 ||oon-dopomoga.pro^
 ||opay365.com^
 ||opi-gos.top^
+||oplat.pro^
 ||oplataofficial.life^
 ||oschad.viplata.fun^
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
+||oschadbankuk.com^
 ||oschadbankukr.com^
 ||oschadnybank.com.ua^
 ||oshadbank.online^
@@ -647,6 +654,7 @@
 ||topline.space^
 ||toppaidsexpert.top^
 ||touristrestaurant.com^
+||tows-gos.top^
 ||tradeengine24.ru^
 ||tradevisa.net^
 ||trend.net.ua^
@@ -777,6 +785,7 @@
 ||viplaty.online^
 ||viplatyy.com^
 ||vipmoney.xyz^
+||viuplata.com^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
 ||vsad.com.ua^
@@ -784,10 +793,12 @@
 ||vyplata-help.com^
 ||vyplata24.com^
 ||vyplataua.com^
+||vyplaty.pro^
 ||wasibial.com^
 ||weekpaidlife.top^
 ||wegroup.com.ua^
 ||wers-gos.top^
+||wes-gos.top^
 ||wi-opros.top^
 ||wickywin.com^
 ||wixsite.com^
