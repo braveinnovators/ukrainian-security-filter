@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 14 March 2023 13:21 EET
+# Last modified: Tue, 14 March 2023 14:35 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -195,6 +195,7 @@ dersch.online
 dershoplate.com
 determinecrust.top
 diadopomoga.me
+diafes.com
 diia-dopomoga.pro
 diia-gov.pp.ua
 diiadopomoga.pro
@@ -237,9 +238,11 @@ dopomogaa.website
 dopomogadia.me
 dopomogainukraine.com
 dopomogaonline.xyz
+dopomogaooh.pro
 dopomogasoshiall.website
 dopomogaua.xyz
 dopomogi.top
+dopomogs-ukr.top
 dopomoha-ua.company.site
 draw-opros.top
 dufafaststinen.gq
@@ -343,8 +346,10 @@ gov.ukr-savess.icu
 gov.ukr-savess.sbs
 govdia.pro
 grac-opros.top
+great-gos.top
 grinta-invest.com
 groshovadopomoga.com
+grow-gos.top
 growthstrategyinstitute.com
 gtradex.net
 gulf-can.com
@@ -541,6 +546,7 @@ next24.np-pay.me
 next24.oficial-viplata.info
 next24.okpay24-grn.com
 next24.onlinediya.uk
+next24.oplat.pro
 next24.oplataofficial.life
 next24.ox-pay.me
 next24.pac-pay.online
@@ -627,6 +633,7 @@ oon-dopomoga.info
 oon-dopomoga.pro
 opay365.com
 opi-gos.top
+oplat.pro
 oplataofficial.life
 oschad.3dss-pays.info
 oschad.blesk24.com
@@ -717,6 +724,7 @@ oschadbank.ua-send.website
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.viplatavop.club
+oschadbankuk.com
 oschadbankukr.com
 oschadnybank.com.ua
 oshad.24get.site
@@ -806,6 +814,7 @@ privat-trade.com
 privat.24unicef.org
 privat.bake-pays.me
 privat.chydovo.com
+privat.diafes.com
 privat.eviplata.vip
 privat.gertinn.com
 privat.rozym.com
@@ -876,6 +885,7 @@ pumb.dershoplate.com
 pumb.dopomoga.agency
 pumb.dopomoga.in
 pumb.dopomoga.social
+pumb.dopomogaooh.pro
 pumb.dopomogasoshiall.website
 pumb.jay-order.me
 pumb.nato-gov.com
@@ -975,6 +985,7 @@ raif.viplataua.shop
 raif.viplatka.com
 raif.vuplatu.in
 raif.vyplata-help.com
+raif.vyplaty.pro
 raif.xx-pay.co
 raif.yatreba.com
 raiffeiesen.simdif.com
@@ -1082,6 +1093,7 @@ top-opros.top
 topline.space
 toppaidsexpert.top
 touristrestaurant.com
+tows-gos.top
 tradeengine24.ru
 tradevisa.net
 trend.net.ua
@@ -1235,6 +1247,7 @@ viplatu.com
 viplaty.online
 viplatyy.com
 vipmoney.xyz
+viuplata.com
 vizatravel.ru.com
 vo-dopomoga.net
 voram-net.blogspot.com
@@ -1243,10 +1256,12 @@ vuplatu.in
 vyplata-help.com
 vyplata24.com
 vyplataua.com
+vyplaty.pro
 wasibial.com
 weekpaidlife.top
 wegroup.com.ua
 wers-gos.top
+wes-gos.top
 wi-opros.top
 wickywin.com
 wixsite.com
