@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 13 March 2023 16:58 EET
+# Last modified: Tue, 14 March 2023 13:21 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -77,12 +77,14 @@
 0.0.0.0 agro-souz.simdif.com
 0.0.0.0 agro-souzz.simdif.com
 0.0.0.0 ai.marketing
+0.0.0.0 aidopomoga.site
 0.0.0.0 alf-gos.top
 0.0.0.0 alfa-gos.top
 0.0.0.0 algofx.me
 0.0.0.0 allost-pay.top
 0.0.0.0 alyakosenko86.wixsite.com
 0.0.0.0 amazetto.com.ua
+0.0.0.0 amerisn.com
 0.0.0.0 amo-opros.top
 0.0.0.0 an-gos.top
 0.0.0.0 an-ukr.top
@@ -192,6 +194,7 @@
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
 0.0.0.0 determinecrust.top
+0.0.0.0 diadopomoga.me
 0.0.0.0 diia-dopomoga.pro
 0.0.0.0 diia-gov.pp.ua
 0.0.0.0 diiadopomoga.pro
@@ -199,6 +202,8 @@
 0.0.0.0 diiaua.com
 0.0.0.0 direktolog.vipmoney.xyz
 0.0.0.0 dis6.site
+0.0.0.0 diya-edopomoga.online
+0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.vip
 0.0.0.0 dl-gos.top
 0.0.0.0 dochlend.com
@@ -229,6 +234,7 @@
 0.0.0.0 dopomogaa-id03914.website
 0.0.0.0 dopomogaa.site
 0.0.0.0 dopomogaa.website
+0.0.0.0 dopomogadia.me
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaonline.xyz
 0.0.0.0 dopomogasoshiall.website
@@ -272,6 +278,7 @@
 0.0.0.0 escrowboxua.site
 0.0.0.0 eti-opros.top
 0.0.0.0 eu-at.site
+0.0.0.0 eu-dopomoga.com
 0.0.0.0 eu-st.site
 0.0.0.0 euro-gadget.com.ua
 0.0.0.0 eurodigital.store
@@ -536,6 +543,7 @@
 0.0.0.0 next24.onlinediya.uk
 0.0.0.0 next24.oplataofficial.life
 0.0.0.0 next24.ox-pay.me
+0.0.0.0 next24.pac-pay.online
 0.0.0.0 next24.pay-chs.me
 0.0.0.0 next24.pay-ukraine.com
 0.0.0.0 next24.pay-unv.me
@@ -654,6 +662,7 @@
 0.0.0.0 oschad.okpay24-grn.com
 0.0.0.0 oschad.onlinediya.uk
 0.0.0.0 oschad.oplataofficial.life
+0.0.0.0 oschad.pac-pay.online
 0.0.0.0 oschad.pay-chs.me
 0.0.0.0 oschad.pay-ukraine.com
 0.0.0.0 oschad.pay-unv.me
@@ -693,6 +702,7 @@
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
+0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.eviplata.vip
@@ -705,7 +715,9 @@
 0.0.0.0 oschadbank.top
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.ul-pay.me
+0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.viplatavop.club
+0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oshad.24get.site
 0.0.0.0 oshadbank.online
@@ -722,6 +734,7 @@
 0.0.0.0 ovs-gos.top
 0.0.0.0 ox-pay.me
 0.0.0.0 p-invest.site
+0.0.0.0 pac-pay.online
 0.0.0.0 palyvo.shop
 0.0.0.0 partmone.space
 0.0.0.0 parts-m.com.ua
@@ -768,6 +781,7 @@
 0.0.0.0 perekazprivat.com
 0.0.0.0 perekazu.com
 0.0.0.0 perekazy-24pay.com
+0.0.0.0 perevojugroshi.com
 0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
 0.0.0.0 peyidgo.pro
@@ -797,6 +811,7 @@
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat.sutary.com
+0.0.0.0 privat.vi-plata.vip
 0.0.0.0 privat.viplatavop.club
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-viplata-help.online
@@ -926,6 +941,7 @@
 0.0.0.0 raif.okpay24-grn.com
 0.0.0.0 raif.onlinediya.uk
 0.0.0.0 raif.oplataofficial.life
+0.0.0.0 raif.pac-pay.online
 0.0.0.0 raif.pay-chs.me
 0.0.0.0 raif.pay-ukraine.com
 0.0.0.0 raif.pay-unv.me
@@ -964,6 +980,7 @@
 0.0.0.0 raiffeiesen.simdif.com
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
+0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
@@ -975,6 +992,7 @@
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
 0.0.0.0 raiffeisen.sutary.com
+0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.viplatavop.club
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
@@ -1192,6 +1210,7 @@
 0.0.0.0 ves-gos.top
 0.0.0.0 vh20153.hv4.ru
 0.0.0.0 vi-plata.com
+0.0.0.0 vi-plata.vip
 0.0.0.0 vipfoix.wixsite.com
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.club
