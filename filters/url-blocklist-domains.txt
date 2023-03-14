@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 13 March 2023 16:58 EET
+# Last modified: Tue, 14 March 2023 13:21 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -77,12 +77,14 @@ agmarkets.cc
 agro-souz.simdif.com
 agro-souzz.simdif.com
 ai.marketing
+aidopomoga.site
 alf-gos.top
 alfa-gos.top
 algofx.me
 allost-pay.top
 alyakosenko86.wixsite.com
 amazetto.com.ua
+amerisn.com
 amo-opros.top
 an-gos.top
 an-ukr.top
@@ -192,6 +194,7 @@ dear-gos.top
 dersch.online
 dershoplate.com
 determinecrust.top
+diadopomoga.me
 diia-dopomoga.pro
 diia-gov.pp.ua
 diiadopomoga.pro
@@ -199,6 +202,8 @@ diiapidpys.uk
 diiaua.com
 direktolog.vipmoney.xyz
 dis6.site
+diya-edopomoga.online
+diyadopomoga.online
 diyaviplati.vip
 dl-gos.top
 dochlend.com
@@ -229,6 +234,7 @@ dopomoga23.top
 dopomogaa-id03914.website
 dopomogaa.site
 dopomogaa.website
+dopomogadia.me
 dopomogainukraine.com
 dopomogaonline.xyz
 dopomogasoshiall.website
@@ -272,6 +278,7 @@ escrowbox.world
 escrowboxua.site
 eti-opros.top
 eu-at.site
+eu-dopomoga.com
 eu-st.site
 euro-gadget.com.ua
 eurodigital.store
@@ -536,6 +543,7 @@ next24.okpay24-grn.com
 next24.onlinediya.uk
 next24.oplataofficial.life
 next24.ox-pay.me
+next24.pac-pay.online
 next24.pay-chs.me
 next24.pay-ukraine.com
 next24.pay-unv.me
@@ -654,6 +662,7 @@ oschad.oficial-viplata.info
 oschad.okpay24-grn.com
 oschad.onlinediya.uk
 oschad.oplataofficial.life
+oschad.pac-pay.online
 oschad.pay-chs.me
 oschad.pay-ukraine.com
 oschad.pay-unv.me
@@ -693,6 +702,7 @@ oschad.yatreba.com
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
+oschadbank.amerisn.com
 oschadbank.bake-pays.me
 oschadbank.chydovo.com
 oschadbank.eviplata.vip
@@ -705,7 +715,9 @@ oschadbank.sutary.com
 oschadbank.top
 oschadbank.ua-send.website
 oschadbank.ul-pay.me
+oschadbank.vi-plata.vip
 oschadbank.viplatavop.club
+oschadbankukr.com
 oschadnybank.com.ua
 oshad.24get.site
 oshadbank.online
@@ -722,6 +734,7 @@ otp.ua-send.website
 ovs-gos.top
 ox-pay.me
 p-invest.site
+pac-pay.online
 palyvo.shop
 partmone.space
 parts-m.com.ua
@@ -768,6 +781,7 @@ perekazio.com
 perekazprivat.com
 perekazu.com
 perekazy-24pay.com
+perevojugroshi.com
 personalnot.online
 pestrio.site
 peyidgo.pro
@@ -797,6 +811,7 @@ privat.gertinn.com
 privat.rozym.com
 privat.shepir.com
 privat.sutary.com
+privat.vi-plata.vip
 privat.viplatavop.club
 privat24-help.link
 privat24-viplata-help.online
@@ -926,6 +941,7 @@ raif.oficial-viplata.info
 raif.okpay24-grn.com
 raif.onlinediya.uk
 raif.oplataofficial.life
+raif.pac-pay.online
 raif.pay-chs.me
 raif.pay-ukraine.com
 raif.pay-unv.me
@@ -964,6 +980,7 @@ raif.yatreba.com
 raiffeiesen.simdif.com
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
+raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
 raiffeisen.chydovo.com
 raiffeisen.dopomogaua.xyz
@@ -975,6 +992,7 @@ raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
 raiffeisen.sutary.com
+raiffeisen.vi-plata.vip
 raiffeisen.viplatavop.club
 raiffeizen-viplata-help.online
 raiffesen.pro
@@ -1192,6 +1210,7 @@ uz-gos.top
 ves-gos.top
 vh20153.hv4.ru
 vi-plata.com
+vi-plata.vip
 vipfoix.wixsite.com
 viplata.agency
 viplata.club
