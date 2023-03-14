@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 13 March 2023 16:58 EET
+! Last modified: Tue, 14 March 2023 13:21 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -42,11 +42,13 @@
 ||afters-opros.top^
 ||agmarkets.cc^
 ||ai.marketing^
+||aidopomoga.site^
 ||alf-gos.top^
 ||alfa-gos.top^
 ||algofx.me^
 ||allost-pay.top^
 ||amazetto.com.ua^
+||amerisn.com^
 ||amo-opros.top^
 ||an-gos.top^
 ||an-ukr.top^
@@ -141,12 +143,15 @@
 ||dersch.online^
 ||dershoplate.com^
 ||determinecrust.top^
+||diadopomoga.me^
 ||diia-dopomoga.pro^
 ||diia-gov.pp.ua^
 ||diiadopomoga.pro^
 ||diiapidpys.uk^
 ||diiaua.com^
 ||dis6.site^
+||diya-edopomoga.online^
+||diyadopomoga.online^
 ||diyaviplati.vip^
 ||dl-gos.top^
 ||dochlend.com^
@@ -174,6 +179,7 @@
 ||dopomogaa-id03914.website^
 ||dopomogaa.site^
 ||dopomogaa.website^
+||dopomogadia.me^
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
 ||dopomogasoshiall.website^
@@ -212,6 +218,7 @@
 ||escrowboxua.site^
 ||eti-opros.top^
 ||eu-at.site^
+||eu-dopomoga.com^
 ||eu-st.site^
 ||euro-gadget.com.ua^
 ||eurodigital.store^
@@ -458,6 +465,7 @@
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
+||oschadbankukr.com^
 ||oschadnybank.com.ua^
 ||oshadbank.online^
 ||oshadbank.pro^
@@ -468,6 +476,7 @@
 ||ovs-gos.top^
 ||ox-pay.me^
 ||p-invest.site^
+||pac-pay.online^
 ||palyvo.shop^
 ||partmone.space^
 ||parts-m.com.ua^
@@ -504,6 +513,7 @@
 ||perekazprivat.com^
 ||perekazu.com^
 ||perekazy-24pay.com^
+||perevojugroshi.com^
 ||personalnot.online^
 ||pestrio.site^
 ||peyidgo.pro^
@@ -743,6 +753,7 @@
 ||uz-gos.top^
 ||ves-gos.top^
 ||vi-plata.com^
+||vi-plata.vip^
 ||viplata.agency^
 ||viplata.club^
 ||viplata.digital^
