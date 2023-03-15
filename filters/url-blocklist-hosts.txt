@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 14 March 2023 14:35 EET
+# Last modified: Wed, 15 March 2023 14:22 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -33,17 +33,21 @@
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
 0.0.0.0 a-bank.dopomoga.agency
+0.0.0.0 a-bank.dopomoga.buzz
+0.0.0.0 a-bank.dopomoga.place
 0.0.0.0 a-bank.dopomoga.social
 0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
 0.0.0.0 a-bank.eviplata.vip
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
+0.0.0.0 a-bank.gon-order.me
 0.0.0.0 a-bank.no-pay.me
 0.0.0.0 a-bank.pay-chs.me
 0.0.0.0 a-bank.pay-ukraine.com
 0.0.0.0 a-bank.pay-unv.me
 0.0.0.0 a-bank.pcs-order.me
+0.0.0.0 a-bank.privat.today
 0.0.0.0 a-bank.securitypay.me
 0.0.0.0 a-bank.soc-order.me
 0.0.0.0 a-bank.socialassistance.social
@@ -55,6 +59,7 @@
 0.0.0.0 a-bank.viplata.space
 0.0.0.0 a-bank.viplataua.shop
 0.0.0.0 a-bank.viplatavop.club
+0.0.0.0 a-bank.vorkviplata.biz
 0.0.0.0 a-dopomoga.info
 0.0.0.0 a-pay-link.tech
 0.0.0.0 abank.gate-pays.me
@@ -224,11 +229,14 @@
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga.agency
+0.0.0.0 dopomoga.buzz
 0.0.0.0 dopomoga.fans
 0.0.0.0 dopomoga.govdia.pro
 0.0.0.0 dopomoga.in
 0.0.0.0 dopomoga.observer
+0.0.0.0 dopomoga.place
 0.0.0.0 dopomoga.social
+0.0.0.0 dopomoga.solutions
 0.0.0.0 dopomoga.viplatu.com
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga23.top
@@ -244,6 +252,7 @@
 0.0.0.0 dopomogi.top
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
+0.0.0.0 dopuakv.shop
 0.0.0.0 draw-opros.top
 0.0.0.0 dufafaststinen.gq
 0.0.0.0 e-dopomoga-perekazy24.space
@@ -260,6 +269,7 @@
 0.0.0.0 edopomoga.land
 0.0.0.0 edopomoga.mobi
 0.0.0.0 edopomoga.udemixcr.com
+0.0.0.0 edopomogae.info
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 ef-gos.top
 0.0.0.0 ek-gos.top
@@ -331,6 +341,7 @@
 0.0.0.0 go2winner.com
 0.0.0.0 goeth.io
 0.0.0.0 goldenstanley.com
+0.0.0.0 gon-order.me
 0.0.0.0 good-opros.top
 0.0.0.0 good-store.in.ua
 0.0.0.0 goodstore-ua.shop
@@ -406,6 +417,7 @@
 0.0.0.0 ivl-gos.top
 0.0.0.0 izibank.gate-pays.me
 0.0.0.0 izibank.pay-ukraine.com
+0.0.0.0 izibank.vorkviplata.biz
 0.0.0.0 izibanking.com.ua
 0.0.0.0 j9-wersii.buzz
 0.0.0.0 jar-gos.top
@@ -505,6 +517,7 @@
 0.0.0.0 nato-gov.com
 0.0.0.0 neobank.idopomoga.online
 0.0.0.0 neobank.pcs-order.me
+0.0.0.0 neobank.vorkviplata.biz
 0.0.0.0 nettgola.site
 0.0.0.0 newauction.com.ua
 0.0.0.0 newbaroque.org
@@ -531,11 +544,15 @@
 0.0.0.0 next24.dopomoga.fans
 0.0.0.0 next24.dopomoga.in
 0.0.0.0 next24.dopomoga.observer
+0.0.0.0 next24.dopomoga.place
 0.0.0.0 next24.dopomoga.social
+0.0.0.0 next24.dopomoga.solutions
 0.0.0.0 next24.dopomogasoshiall.website
 0.0.0.0 next24.edopomoga.land
+0.0.0.0 next24.edopomogae.info
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
+0.0.0.0 next24.gon-order.me
 0.0.0.0 next24.govdia.pro
 0.0.0.0 next24.idregister.pro
 0.0.0.0 next24.jay-order.me
@@ -561,6 +578,8 @@
 0.0.0.0 next24.perekazy-24pay.com
 0.0.0.0 next24.peyidgo.pro
 0.0.0.0 next24.popomoga.com
+0.0.0.0 next24.poshyx.com
+0.0.0.0 next24.privat.today
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.soc-order.me
 0.0.0.0 next24.socialassistance.social
@@ -651,14 +670,18 @@
 0.0.0.0 oschad.dopomoga.fans
 0.0.0.0 oschad.dopomoga.in
 0.0.0.0 oschad.dopomoga.observer
+0.0.0.0 oschad.dopomoga.place
 0.0.0.0 oschad.dopomoga.social
+0.0.0.0 oschad.dopomoga.solutions
 0.0.0.0 oschad.dopomogaonline.xyz
 0.0.0.0 oschad.dopomogasoshiall.website
 0.0.0.0 oschad.edopomoga.land
+0.0.0.0 oschad.edopomogae.info
 0.0.0.0 oschad.finstor.online
 0.0.0.0 oschad.finua.online
 0.0.0.0 oschad.gate-pays.me
 0.0.0.0 oschad.glopay.site
+0.0.0.0 oschad.gon-order.me
 0.0.0.0 oschad.jay-order.me
 0.0.0.0 oschad.nato-gov.com
 0.0.0.0 oschad.newua.info
@@ -680,6 +703,9 @@
 0.0.0.0 oschad.perekazy-24pay.com
 0.0.0.0 oschad.peyidgo.pro
 0.0.0.0 oschad.popomoga.com
+0.0.0.0 oschad.poshyq.com
+0.0.0.0 oschad.poshyx.com
+0.0.0.0 oschad.privat.today
 0.0.0.0 oschad.pruity.com
 0.0.0.0 oschad.securitypay.me
 0.0.0.0 oschad.simdif.com
@@ -720,10 +746,13 @@
 0.0.0.0 oschadbank.shepir.com
 0.0.0.0 oschadbank.sutary.com
 0.0.0.0 oschadbank.top
+0.0.0.0 oschadbank.ua-send.site
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
+0.0.0.0 oschadbank.viplata-com.store
 0.0.0.0 oschadbank.viplatavop.club
+0.0.0.0 oschadbank.vorkviplata.biz
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
@@ -807,6 +836,8 @@
 0.0.0.0 popovny-mobile.com
 0.0.0.0 portmone24.store
 0.0.0.0 portmonee.space
+0.0.0.0 poshyq.com
+0.0.0.0 poshyx.com
 0.0.0.0 pr-invest.org
 0.0.0.0 pre-opros.top
 0.0.0.0 primanka.com.ua
@@ -820,8 +851,11 @@
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat.sutary.com
+0.0.0.0 privat.today
 0.0.0.0 privat.vi-plata.vip
+0.0.0.0 privat.viplata-com.store
 0.0.0.0 privat.viplatavop.club
+0.0.0.0 privat.vorkviplata.biz
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.0pru.site
@@ -849,6 +883,7 @@
 0.0.0.0 privat24.tech
 0.0.0.0 privat24.top
 0.0.0.0 privat24.ua-payout.site
+0.0.0.0 privat24.ua-send.site
 0.0.0.0 privat24.ua-send.website
 0.0.0.0 privat24.uasafe.online
 0.0.0.0 privat24.uno
@@ -895,6 +930,9 @@
 0.0.0.0 pumb.pay-chs.me
 0.0.0.0 pumb.pay-ukraine.com
 0.0.0.0 pumb.pcs-order.me
+0.0.0.0 pumb.poshyq.com
+0.0.0.0 pumb.poshyx.com
+0.0.0.0 pumb.privat.today
 0.0.0.0 pumb.secure2dpay.store
 0.0.0.0 pumb.securitypay.me
 0.0.0.0 pumb.socialassistance.social
@@ -934,13 +972,16 @@
 0.0.0.0 raif.dopomoga.in
 0.0.0.0 raif.dopomoga.observer
 0.0.0.0 raif.dopomoga.social
+0.0.0.0 raif.dopomoga.solutions
 0.0.0.0 raif.dopomogaonline.xyz
 0.0.0.0 raif.dopomogasoshiall.website
 0.0.0.0 raif.edopomoga.land
+0.0.0.0 raif.edopomogae.info
 0.0.0.0 raif.finstor.online
 0.0.0.0 raif.finua.online
 0.0.0.0 raif.gate-pays.me
 0.0.0.0 raif.glopay.site
+0.0.0.0 raif.gon-order.me
 0.0.0.0 raif.jay-order.me
 0.0.0.0 raif.nato-gov.com
 0.0.0.0 raif.next-bp.info
@@ -961,6 +1002,9 @@
 0.0.0.0 raif.perekazu.com
 0.0.0.0 raif.perekazy-24pay.com
 0.0.0.0 raif.popomoga.com
+0.0.0.0 raif.poshyq.com
+0.0.0.0 raif.poshyx.com
+0.0.0.0 raif.privat.today
 0.0.0.0 raif.pruity.com
 0.0.0.0 raif.secure2dpay.store
 0.0.0.0 raif.securitypay.me
@@ -969,6 +1013,7 @@
 0.0.0.0 raif.socialassistancefromedopomaka.social
 0.0.0.0 raif.tsa.airforce
 0.0.0.0 raif.ua-receipt.com
+0.0.0.0 raif.ua-send.site
 0.0.0.0 raif.ua-send.website
 0.0.0.0 raif.ua-viplata.me
 0.0.0.0 raif.uadostawka.com
@@ -1004,7 +1049,9 @@
 0.0.0.0 raiffeisen.shepir.com
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.vi-plata.vip
+0.0.0.0 raiffeisen.viplata-com.store
 0.0.0.0 raiffeisen.viplatavop.club
+0.0.0.0 raiffeisen.vorkviplata.biz
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
 0.0.0.0 rastamogka.net
@@ -1117,6 +1164,7 @@
 0.0.0.0 ua-redress.buzz
 0.0.0.0 ua-safepya.info
 0.0.0.0 ua-securepaym.co
+0.0.0.0 ua-send.site
 0.0.0.0 ua-send.website
 0.0.0.0 ua-tax-compens.top
 0.0.0.0 ua-taxes-compens.xyz
@@ -1191,15 +1239,18 @@
 0.0.0.0 ukrsib.cake-payment.me
 0.0.0.0 ukrsib.dershoplate.com
 0.0.0.0 ukrsib.dopomoga.agency
+0.0.0.0 ukrsib.dopomoga.solutions
 0.0.0.0 ukrsib.gate-pays.me
 0.0.0.0 ukrsib.np-pay.me
 0.0.0.0 ukrsib.pcs-order.me
+0.0.0.0 ukrsib.poshyx.com
 0.0.0.0 ukrsib.securitypay.me
 0.0.0.0 ukrsib.sutary.com
 0.0.0.0 ukrsib.uasocial-viplata.company
 0.0.0.0 ukrsib.vi-plata.com
 0.0.0.0 ukrsib.viplata.digital
 0.0.0.0 ukrsib.viplata.space
+0.0.0.0 ukrsib.vorkviplata.biz
 0.0.0.0 ukrsib.xx-pay.co
 0.0.0.0 ukrsibbank.top
 0.0.0.0 uks6.site
@@ -1224,6 +1275,7 @@
 0.0.0.0 vi-plata.com
 0.0.0.0 vi-plata.vip
 0.0.0.0 vipfoix.wixsite.com
+0.0.0.0 viplata-com.store
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.club
 0.0.0.0 viplata.digital
@@ -1251,6 +1303,8 @@
 0.0.0.0 vizatravel.ru.com
 0.0.0.0 vo-dopomoga.net
 0.0.0.0 voram-net.blogspot.com
+0.0.0.0 vorkviplata.biz
+0.0.0.0 vostok.vorkviplata.biz
 0.0.0.0 vsad.com.ua
 0.0.0.0 vuplatu.in
 0.0.0.0 vyplata-help.com
