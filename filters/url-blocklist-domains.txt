@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 15 March 2023 14:22 EET
+# Last modified: Wed, 15 March 2023 22:14 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@ a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
 a-bank.dopomoga.place
 a-bank.dopomoga.social
+a-bank.dopomogas.com
 a-bank.dopomogasoshiall.website
 a-bank.edopomoga.land
 a-bank.eviplata.vip
@@ -122,6 +123,7 @@ back.multistream.space
 badge-gos.top
 bake-pays.me
 balantins.com.ua
+bank-com.biz
 bankallianceua.com
 bbaja.cn
 beautiful-pays.site
@@ -247,6 +249,7 @@ dopomogadia.me
 dopomogainukraine.com
 dopomogaonline.xyz
 dopomogaooh.pro
+dopomogas.com
 dopomogasoshiall.website
 dopomogaua.xyz
 dopomogi.top
@@ -737,7 +740,9 @@ oschadbank-inform.com.ua
 oschadbank-viplata-help.online
 oschadbank.amerisn.com
 oschadbank.bake-pays.me
+oschadbank.bank-com.biz
 oschadbank.chydovo.com
+oschadbank.dopomogas.com
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
 oschadbank.no-pay.me
@@ -846,6 +851,7 @@ privat.24unicef.org
 privat.bake-pays.me
 privat.chydovo.com
 privat.diafes.com
+privat.dopomogas.com
 privat.eviplata.vip
 privat.gertinn.com
 privat.rozym.com
@@ -1038,7 +1044,9 @@ raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
 raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
+raiffeisen.bank-com.biz
 raiffeisen.chydovo.com
+raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.eviplata.vip
 raiffeisen.gertinn.com
