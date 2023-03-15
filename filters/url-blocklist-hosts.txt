@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 15 March 2023 14:22 EET
+# Last modified: Wed, 15 March 2023 22:14 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@
 0.0.0.0 a-bank.dopomoga.buzz
 0.0.0.0 a-bank.dopomoga.place
 0.0.0.0 a-bank.dopomoga.social
+0.0.0.0 a-bank.dopomogas.com
 0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
 0.0.0.0 a-bank.eviplata.vip
@@ -122,6 +123,7 @@
 0.0.0.0 badge-gos.top
 0.0.0.0 bake-pays.me
 0.0.0.0 balantins.com.ua
+0.0.0.0 bank-com.biz
 0.0.0.0 bankallianceua.com
 0.0.0.0 bbaja.cn
 0.0.0.0 beautiful-pays.site
@@ -247,6 +249,7 @@
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaonline.xyz
 0.0.0.0 dopomogaooh.pro
+0.0.0.0 dopomogas.com
 0.0.0.0 dopomogasoshiall.website
 0.0.0.0 dopomogaua.xyz
 0.0.0.0 dopomogi.top
@@ -737,7 +740,9 @@
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
+0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.chydovo.com
+0.0.0.0 oschadbank.dopomogas.com
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.no-pay.me
@@ -846,6 +851,7 @@
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.chydovo.com
 0.0.0.0 privat.diafes.com
+0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.rozym.com
@@ -1038,7 +1044,9 @@
 0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
+0.0.0.0 raiffeisen.bank-com.biz
 0.0.0.0 raiffeisen.chydovo.com
+0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.gertinn.com
