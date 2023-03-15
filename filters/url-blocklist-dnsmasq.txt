@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 15 March 2023 14:22 EET
+# Last modified: Wed, 15 March 2023 22:14 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@ address=/a-bank.dopomoga.agency/
 address=/a-bank.dopomoga.buzz/
 address=/a-bank.dopomoga.place/
 address=/a-bank.dopomoga.social/
+address=/a-bank.dopomogas.com/
 address=/a-bank.dopomogasoshiall.website/
 address=/a-bank.edopomoga.land/
 address=/a-bank.eviplata.vip/
@@ -122,6 +123,7 @@ address=/back.multistream.space/
 address=/badge-gos.top/
 address=/bake-pays.me/
 address=/balantins.com.ua/
+address=/bank-com.biz/
 address=/bankallianceua.com/
 address=/bbaja.cn/
 address=/beautiful-pays.site/
@@ -247,6 +249,7 @@ address=/dopomogadia.me/
 address=/dopomogainukraine.com/
 address=/dopomogaonline.xyz/
 address=/dopomogaooh.pro/
+address=/dopomogas.com/
 address=/dopomogasoshiall.website/
 address=/dopomogaua.xyz/
 address=/dopomogi.top/
@@ -737,7 +740,9 @@ address=/oschadbank-inform.com.ua/
 address=/oschadbank-viplata-help.online/
 address=/oschadbank.amerisn.com/
 address=/oschadbank.bake-pays.me/
+address=/oschadbank.bank-com.biz/
 address=/oschadbank.chydovo.com/
+address=/oschadbank.dopomogas.com/
 address=/oschadbank.eviplata.vip/
 address=/oschadbank.gertinn.com/
 address=/oschadbank.no-pay.me/
@@ -846,6 +851,7 @@ address=/privat.24unicef.org/
 address=/privat.bake-pays.me/
 address=/privat.chydovo.com/
 address=/privat.diafes.com/
+address=/privat.dopomogas.com/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
 address=/privat.rozym.com/
@@ -1038,7 +1044,9 @@ address=/raiffeisen-uapay.shop/
 address=/raiffeisen.3dss-pays.info/
 address=/raiffeisen.amerisn.com/
 address=/raiffeisen.bake-pays.me/
+address=/raiffeisen.bank-com.biz/
 address=/raiffeisen.chydovo.com/
+address=/raiffeisen.dopomogas.com/
 address=/raiffeisen.dopomogaua.xyz/
 address=/raiffeisen.eviplata.vip/
 address=/raiffeisen.gertinn.com/
