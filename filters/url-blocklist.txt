@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 14 March 2023 14:35 EET
+! Last modified: Wed, 15 March 2023 14:22 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -171,10 +171,13 @@
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
 ||dopomoga.agency^
+||dopomoga.buzz^
 ||dopomoga.fans^
 ||dopomoga.in^
 ||dopomoga.observer^
+||dopomoga.place^
 ||dopomoga.social^
+||dopomoga.solutions^
 ||dopomoga2023.com^
 ||dopomoga23.top^
 ||dopomogaa-id03914.website^
@@ -188,6 +191,7 @@
 ||dopomogaua.xyz^
 ||dopomogi.top^
 ||dopomogs-ukr.top^
+||dopuakv.shop^
 ||draw-opros.top^
 ||dufafaststinen.gq^
 ||e-dopomoga-perekazy24.space^
@@ -202,6 +206,7 @@
 ||edopomoga-gov.website^
 ||edopomoga.land^
 ||edopomoga.mobi^
+||edopomogae.info^
 ||ef-gos.top^
 ||ek-gos.top^
 ||elec-gos.top^
@@ -237,12 +242,14 @@
 ||f-dopomoga.online^
 ||f3mb4u.cyou^
 ||f6x.site^
-||facebook.com/News-Info-UA-107681682060482/^$document
-||facebook.com/people/News-for-people/100081961447678/^$document
-||facebook.com/people/Новини-247/100084930128994/^$document
+||facebook.com/News-Info-UA-107681682060482^$document
+||facebook.com/people/News-for-people/100081961447678^$document
+||facebook.com/people/Новини-247/100084930128994^$document
+||facebook.com/profile.php?id=100088224776200^$document
+||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/uappl.org^$document
-||facebook.com/Допомога-українцям-104110342431366/^$document
-||facebook.com/ЄДoпoмoгa-107571865413656/^$document
+||facebook.com/Допомога-українцям-104110342431366^$document
+||facebook.com/ЄДoпoмoгa-107571865413656^$document
 ||fad-gos.top^
 ||fam-gos.top^
 ||farbgold.com.ua^
@@ -276,6 +283,7 @@
 ||go2winner.com^
 ||goeth.io^
 ||goldenstanley.com^
+||gon-order.me^
 ||good-opros.top^
 ||good-store.in.ua^
 ||goodstore-ua.shop^
@@ -536,10 +544,13 @@
 ||popovny-mobile.com^
 ||portmone24.store^
 ||portmonee.space^
+||poshyq.com^
+||poshyx.com^
 ||pr-invest.org^
 ||pre-opros.top^
 ||primanka.com.ua^
 ||privat-trade.com^
+||privat.today^
 ||privat24-help.link^
 ||privat24-viplata-help.online^
 ||privat24.cloud^
@@ -631,7 +642,16 @@
 ||swap-pro.trade^
 ||t.me/d0p0m0ga^$document
 ||t.me/dopomogaonline2023_bot^$document
+||t.me/eDopomogaUA_official^$document
+||t.me/s/d0p0m0ga^$document
+||t.me/s/dopomogaonline2023_bot^$document
+||t.me/s/eDopomogaUA_official^$document
+||t.me/s/ua_findopomoga^$document
+||t.me/s/UkrainaDopomoga_UKR^$document
+||t.me/s/vyplaty_ukraine^$document
+||t.me/ua_findopomoga^$document
 ||t.me/UkrainaDopomoga_UKR^$document
+||t.me/vyplaty_ukraine^$document
 ||t0p2pay.fun^
 ||tas-gos.top^
 ||tax-compensation.bar^
@@ -678,6 +698,7 @@
 ||ua-redress.buzz^
 ||ua-safepya.info^
 ||ua-securepaym.co^
+||ua-send.site^
 ||ua-send.website^
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
@@ -762,6 +783,7 @@
 ||ves-gos.top^
 ||vi-plata.com^
 ||vi-plata.vip^
+||viplata-com.store^
 ||viplata.agency^
 ||viplata.club^
 ||viplata.digital^
@@ -788,6 +810,7 @@
 ||viuplata.com^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
+||vorkviplata.biz^
 ||vsad.com.ua^
 ||vuplatu.in^
 ||vyplata-help.com^
