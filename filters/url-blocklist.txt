@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 16 March 2023 11:47 EET
+! Last modified: Thu, 16 March 2023 18:32 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -78,6 +78,7 @@
 ||bake-pays.me^
 ||balantins.com.ua^
 ||bank-com.biz^
+||bank-viplata.online^
 ||bankallianceua.com^
 ||bbaja.cn^
 ||beautiful-pays.site^
@@ -249,6 +250,8 @@
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
 ||facebook.com/profile.php?id=100088224776200^$document
+||facebook.com/profile.php?id=100088487322815^$document
+||facebook.com/profile.php?id=100088981431611^$document
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
@@ -539,6 +542,7 @@
 ||peyidgo.pro^
 ||platizh.com^
 ||platizhmob.com^
+||po-teq.com^
 ||pochta1.com^
 ||poluchenie.pw^
 ||pomoshukraine.website^
