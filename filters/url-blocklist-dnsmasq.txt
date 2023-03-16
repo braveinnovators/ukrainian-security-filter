@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 16 March 2023 11:47 EET
+# Last modified: Thu, 16 March 2023 18:32 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -124,6 +124,7 @@ address=/badge-gos.top/
 address=/bake-pays.me/
 address=/balantins.com.ua/
 address=/bank-com.biz/
+address=/bank-viplata.online/
 address=/bankallianceua.com/
 address=/bbaja.cn/
 address=/beautiful-pays.site/
@@ -746,12 +747,14 @@ address=/oschadbank-viplata-help.online/
 address=/oschadbank.amerisn.com/
 address=/oschadbank.bake-pays.me/
 address=/oschadbank.bank-com.biz/
+address=/oschadbank.bank-viplata.online/
 address=/oschadbank.chydovo.com/
 address=/oschadbank.dopomogas.com/
 address=/oschadbank.epidtrumka.org/
 address=/oschadbank.eviplata.vip/
 address=/oschadbank.gertinn.com/
 address=/oschadbank.no-pay.me/
+address=/oschadbank.po-teq.com/
 address=/oschadbank.reliefukraine.today/
 address=/oschadbank.rozym.com/
 address=/oschadbank.shepir.com/
@@ -837,6 +840,7 @@ address=/pestrio.site/
 address=/peyidgo.pro/
 address=/platizh.com/
 address=/platizhmob.com/
+address=/po-teq.com/
 address=/pochta1.com/
 address=/poluchenie.pw/
 address=/poluchka.3dss-pays.info/
@@ -862,6 +866,7 @@ address=/privat.diafes.com/
 address=/privat.dopomogas.com/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
+address=/privat.po-teq.com/
 address=/privat.rozym.com/
 address=/privat.shepir.com/
 address=/privat.sutary.com/
@@ -1056,6 +1061,7 @@ address=/raiffeisen.3dss-pays.info/
 address=/raiffeisen.amerisn.com/
 address=/raiffeisen.bake-pays.me/
 address=/raiffeisen.bank-com.biz/
+address=/raiffeisen.bank-viplata.online/
 address=/raiffeisen.chydovo.com/
 address=/raiffeisen.dopomogas.com/
 address=/raiffeisen.dopomogaua.xyz/
@@ -1064,6 +1070,7 @@ address=/raiffeisen.eviplata.vip/
 address=/raiffeisen.gertinn.com/
 address=/raiffeisen.helpua.top/
 address=/raiffeisen.log-ins543325235345.cloud/
+address=/raiffeisen.po-teq.com/
 address=/raiffeisen.reliefukraine.today/
 address=/raiffeisen.rozym.com/
 address=/raiffeisen.shepir.com/
