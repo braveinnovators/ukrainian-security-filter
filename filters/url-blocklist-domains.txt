@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 15 March 2023 22:14 EET
+# Last modified: Thu, 16 March 2023 11:47 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -217,6 +217,7 @@ dl-gos.top
 dochlend.com
 domennet.com
 domennn.com
+domopoga-ua.nopersonexty.online
 dopomih.com
 dopomoga-2023.top
 dopomoga-aid.top
@@ -284,6 +285,7 @@ epaidslife.shop
 epicentrk-bonus.online
 epicentrk-bonus.store
 epidtrimka.com
+epidtrumka.org
 epmes.hollydrew3winster.xyz
 epomoh.biz
 epotrepa-edopomoga.org
@@ -576,6 +578,7 @@ next24.pay-unv.me
 next24.payidgow.pro
 next24.paysdayl.click
 next24.pcs-order.me
+next24.perekaz-perek.com
 next24.perekazio.com
 next24.perekazu.com
 next24.perekazy-24pay.com
@@ -609,6 +612,7 @@ nextpay.pw
 nextpayments.org.ru
 niceeuphoria.com
 no-pay.me
+nopersonexty.online
 nost-pays.shop
 nova-pay.net
 novaposhta-ua.recive-money.icu
@@ -701,6 +705,7 @@ oschad.pay-ukraine.com
 oschad.pay-unv.me
 oschad.paysdayl.click
 oschad.pcs-order.me
+oschad.perekaz-perek.com
 oschad.perekazio.com
 oschad.perekazu.com
 oschad.perekazy-24pay.com
@@ -743,6 +748,7 @@ oschadbank.bake-pays.me
 oschadbank.bank-com.biz
 oschadbank.chydovo.com
 oschadbank.dopomogas.com
+oschadbank.epidtrumka.org
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
 oschadbank.no-pay.me
@@ -757,6 +763,7 @@ oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.viplata-com.store
 oschadbank.viplatavop.club
+oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
 oschadbankuk.com
 oschadbankukr.com
@@ -816,6 +823,7 @@ pce6.site
 pcs-order.me
 pe6.site
 peer-gos.top
+perekaz-perek.com
 perekaz.com
 perekaz24privat.com
 perekazi-privat24.online
@@ -861,6 +869,7 @@ privat.today
 privat.vi-plata.vip
 privat.viplata-com.store
 privat.viplatavop.club
+privat.vipplata.com
 privat.vorkviplata.biz
 privat24-help.link
 privat24-viplata-help.online
@@ -936,6 +945,7 @@ pumb.oplataofficial.life
 pumb.pay-chs.me
 pumb.pay-ukraine.com
 pumb.pcs-order.me
+pumb.perekaz-perek.com
 pumb.poshyq.com
 pumb.poshyx.com
 pumb.privat.today
@@ -1004,6 +1014,7 @@ raif.pay-ukraine.com
 raif.pay-unv.me
 raif.paysdayl.click
 raif.pcs-order.me
+raif.perekaz-perek.com
 raif.perekazio.com
 raif.perekazu.com
 raif.perekazy-24pay.com
@@ -1048,6 +1059,7 @@ raiffeisen.bank-com.biz
 raiffeisen.chydovo.com
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
+raiffeisen.epidtrumka.org
 raiffeisen.eviplata.vip
 raiffeisen.gertinn.com
 raiffeisen.helpua.top
@@ -1059,6 +1071,7 @@ raiffeisen.sutary.com
 raiffeisen.vi-plata.vip
 raiffeisen.viplata-com.store
 raiffeisen.viplatavop.club
+raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeizen-viplata-help.online
 raiffesen.pro
@@ -1158,6 +1171,7 @@ trust-gos.top
 trust-group.pro
 tsa.airforce
 tvshop.site
+ua-cash.com
 ua-compens.top
 ua-compensation.top
 ua-compensations.xyz
@@ -1307,6 +1321,7 @@ viplatu.com
 viplaty.online
 viplatyy.com
 vipmoney.xyz
+vipplata.com
 viuplata.com
 vizatravel.ru.com
 vo-dopomoga.net
