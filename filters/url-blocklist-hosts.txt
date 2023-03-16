@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 16 March 2023 11:47 EET
+# Last modified: Thu, 16 March 2023 18:32 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -124,6 +124,7 @@
 0.0.0.0 bake-pays.me
 0.0.0.0 balantins.com.ua
 0.0.0.0 bank-com.biz
+0.0.0.0 bank-viplata.online
 0.0.0.0 bankallianceua.com
 0.0.0.0 bbaja.cn
 0.0.0.0 beautiful-pays.site
@@ -746,12 +747,14 @@
 0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
+0.0.0.0 oschadbank.bank-viplata.online
 0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.dopomogas.com
 0.0.0.0 oschadbank.epidtrumka.org
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.no-pay.me
+0.0.0.0 oschadbank.po-teq.com
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
 0.0.0.0 oschadbank.shepir.com
@@ -837,6 +840,7 @@
 0.0.0.0 peyidgo.pro
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
+0.0.0.0 po-teq.com
 0.0.0.0 pochta1.com
 0.0.0.0 poluchenie.pw
 0.0.0.0 poluchka.3dss-pays.info
@@ -862,6 +866,7 @@
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
+0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat.sutary.com
@@ -1056,6 +1061,7 @@
 0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
+0.0.0.0 raiffeisen.bank-viplata.online
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
@@ -1064,6 +1070,7 @@
 0.0.0.0 raiffeisen.gertinn.com
 0.0.0.0 raiffeisen.helpua.top
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
+0.0.0.0 raiffeisen.po-teq.com
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
