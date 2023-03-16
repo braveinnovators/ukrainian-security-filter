@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 15 March 2023 22:14 EET
+# Last modified: Thu, 16 March 2023 11:47 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -217,6 +217,7 @@
 0.0.0.0 dochlend.com
 0.0.0.0 domennet.com
 0.0.0.0 domennn.com
+0.0.0.0 domopoga-ua.nopersonexty.online
 0.0.0.0 dopomih.com
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-aid.top
@@ -284,6 +285,7 @@
 0.0.0.0 epicentrk-bonus.online
 0.0.0.0 epicentrk-bonus.store
 0.0.0.0 epidtrimka.com
+0.0.0.0 epidtrumka.org
 0.0.0.0 epmes.hollydrew3winster.xyz
 0.0.0.0 epomoh.biz
 0.0.0.0 epotrepa-edopomoga.org
@@ -576,6 +578,7 @@
 0.0.0.0 next24.payidgow.pro
 0.0.0.0 next24.paysdayl.click
 0.0.0.0 next24.pcs-order.me
+0.0.0.0 next24.perekaz-perek.com
 0.0.0.0 next24.perekazio.com
 0.0.0.0 next24.perekazu.com
 0.0.0.0 next24.perekazy-24pay.com
@@ -609,6 +612,7 @@
 0.0.0.0 nextpayments.org.ru
 0.0.0.0 niceeuphoria.com
 0.0.0.0 no-pay.me
+0.0.0.0 nopersonexty.online
 0.0.0.0 nost-pays.shop
 0.0.0.0 nova-pay.net
 0.0.0.0 novaposhta-ua.recive-money.icu
@@ -701,6 +705,7 @@
 0.0.0.0 oschad.pay-unv.me
 0.0.0.0 oschad.paysdayl.click
 0.0.0.0 oschad.pcs-order.me
+0.0.0.0 oschad.perekaz-perek.com
 0.0.0.0 oschad.perekazio.com
 0.0.0.0 oschad.perekazu.com
 0.0.0.0 oschad.perekazy-24pay.com
@@ -743,6 +748,7 @@
 0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.dopomogas.com
+0.0.0.0 oschadbank.epidtrumka.org
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.no-pay.me
@@ -757,6 +763,7 @@
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.viplata-com.store
 0.0.0.0 oschadbank.viplatavop.club
+0.0.0.0 oschadbank.vipplata.com
 0.0.0.0 oschadbank.vorkviplata.biz
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
@@ -816,6 +823,7 @@
 0.0.0.0 pcs-order.me
 0.0.0.0 pe6.site
 0.0.0.0 peer-gos.top
+0.0.0.0 perekaz-perek.com
 0.0.0.0 perekaz.com
 0.0.0.0 perekaz24privat.com
 0.0.0.0 perekazi-privat24.online
@@ -861,6 +869,7 @@
 0.0.0.0 privat.vi-plata.vip
 0.0.0.0 privat.viplata-com.store
 0.0.0.0 privat.viplatavop.club
+0.0.0.0 privat.vipplata.com
 0.0.0.0 privat.vorkviplata.biz
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-viplata-help.online
@@ -936,6 +945,7 @@
 0.0.0.0 pumb.pay-chs.me
 0.0.0.0 pumb.pay-ukraine.com
 0.0.0.0 pumb.pcs-order.me
+0.0.0.0 pumb.perekaz-perek.com
 0.0.0.0 pumb.poshyq.com
 0.0.0.0 pumb.poshyx.com
 0.0.0.0 pumb.privat.today
@@ -1004,6 +1014,7 @@
 0.0.0.0 raif.pay-unv.me
 0.0.0.0 raif.paysdayl.click
 0.0.0.0 raif.pcs-order.me
+0.0.0.0 raif.perekaz-perek.com
 0.0.0.0 raif.perekazio.com
 0.0.0.0 raif.perekazu.com
 0.0.0.0 raif.perekazy-24pay.com
@@ -1048,6 +1059,7 @@
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
+0.0.0.0 raiffeisen.epidtrumka.org
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.gertinn.com
 0.0.0.0 raiffeisen.helpua.top
@@ -1059,6 +1071,7 @@
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.viplata-com.store
 0.0.0.0 raiffeisen.viplatavop.club
+0.0.0.0 raiffeisen.vipplata.com
 0.0.0.0 raiffeisen.vorkviplata.biz
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
@@ -1158,6 +1171,7 @@
 0.0.0.0 trust-group.pro
 0.0.0.0 tsa.airforce
 0.0.0.0 tvshop.site
+0.0.0.0 ua-cash.com
 0.0.0.0 ua-compens.top
 0.0.0.0 ua-compensation.top
 0.0.0.0 ua-compensations.xyz
@@ -1307,6 +1321,7 @@
 0.0.0.0 viplaty.online
 0.0.0.0 viplatyy.com
 0.0.0.0 vipmoney.xyz
+0.0.0.0 vipplata.com
 0.0.0.0 viuplata.com
 0.0.0.0 vizatravel.ru.com
 0.0.0.0 vo-dopomoga.net
