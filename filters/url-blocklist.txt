@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Wed, 15 March 2023 22:14 EET
+! Last modified: Thu, 16 March 2023 11:47 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -219,6 +219,7 @@
 ||epicentrk-bonus.online^
 ||epicentrk-bonus.store^
 ||epidtrimka.com^
+||epidtrumka.org^
 ||epomoh.biz^
 ||epotrepa-edopomoga.org^
 ||erinekenney.com^
@@ -447,6 +448,7 @@
 ||nextpayments.org.ru^
 ||niceeuphoria.com^
 ||no-pay.me^
+||nopersonexty.online^
 ||nost-pays.shop^
 ||nova-pay.net^
 ||novok.com.ua^
@@ -523,6 +525,7 @@
 ||pcs-order.me^
 ||pe6.site^
 ||peer-gos.top^
+||perekaz-perek.com^
 ||perekaz.com^
 ||perekaz24privat.com^
 ||perekazi-privat24.online^
@@ -655,6 +658,7 @@
 ||t.me/UkrainaDopomoga_UKR^$document
 ||t.me/vyplaty_ukraine^$document
 ||t0p2pay.fun^
+||taplink.cc/diia.gov.com^$document
 ||tas-gos.top^
 ||tax-compensation.bar^
 ||tax-compenses.xyz^
@@ -686,6 +690,7 @@
 ||trust-group.pro^
 ||tsa.airforce^
 ||tvshop.site^
+||ua-cash.com^
 ||ua-compens.top^
 ||ua-compensation.top^
 ||ua-compensations.xyz^
@@ -809,6 +814,7 @@
 ||viplaty.online^
 ||viplatyy.com^
 ||vipmoney.xyz^
+||vipplata.com^
 ||viuplata.com^
 ||vo-dopomoga.net^
 ||voram-net.blogspot.com^
