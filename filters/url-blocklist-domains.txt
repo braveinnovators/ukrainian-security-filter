@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 16 March 2023 18:32 EET
+# Last modified: Fri, 17 March 2023 14:01 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -219,6 +219,7 @@ dochlend.com
 domennet.com
 domennn.com
 domopoga-ua.nopersonexty.online
+donttech.com
 dopomih.com
 dopomoga-2023.top
 dopomoga-aid.top
@@ -749,6 +750,7 @@ oschadbank.bake-pays.me
 oschadbank.bank-com.biz
 oschadbank.bank-viplata.online
 oschadbank.chydovo.com
+oschadbank.donttech.com
 oschadbank.dopomogas.com
 oschadbank.epidtrumka.org
 oschadbank.eviplata.vip
@@ -766,6 +768,7 @@ oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.viplata-com.store
 oschadbank.viplatavop.club
+oschadbank.viplatavpo.biz
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
 oschadbankuk.com
@@ -863,6 +866,7 @@ privat.24unicef.org
 privat.bake-pays.me
 privat.chydovo.com
 privat.diafes.com
+privat.donttech.com
 privat.dopomogas.com
 privat.eviplata.vip
 privat.gertinn.com
@@ -874,6 +878,7 @@ privat.today
 privat.vi-plata.vip
 privat.viplata-com.store
 privat.viplatavop.club
+privat.viplatavpo.biz
 privat.vipplata.com
 privat.vorkviplata.biz
 privat24-help.link
@@ -1063,6 +1068,7 @@ raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
 raiffeisen.bank-viplata.online
 raiffeisen.chydovo.com
+raiffeisen.donttech.com
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.epidtrumka.org
@@ -1078,6 +1084,7 @@ raiffeisen.sutary.com
 raiffeisen.vi-plata.vip
 raiffeisen.viplata-com.store
 raiffeisen.viplatavop.club
+raiffeisen.viplatavpo.biz
 raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeizen-viplata-help.online
@@ -1322,6 +1329,7 @@ viplataua.net
 viplataua.org
 viplataua.shop
 viplatavop.club
+viplatavpo.biz
 viplati-uah.top
 viplatka.com
 viplatu.com
