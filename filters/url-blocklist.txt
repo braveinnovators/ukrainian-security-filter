@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 16 March 2023 18:32 EET
+! Last modified: Fri, 17 March 2023 14:01 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -160,6 +160,7 @@
 ||dochlend.com^
 ||domennet.com^
 ||domennn.com^
+||donttech.com^
 ||dopomih.com^
 ||dopomoga-2023.top^
 ||dopomoga-aid.top^
@@ -812,6 +813,7 @@
 ||viplataua.org^
 ||viplataua.shop^
 ||viplatavop.club^
+||viplatavpo.biz^
 ||viplati-uah.top^
 ||viplatka.com^
 ||viplatu.com^
