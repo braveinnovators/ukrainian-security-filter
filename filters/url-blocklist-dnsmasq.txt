@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 16 March 2023 18:32 EET
+# Last modified: Fri, 17 March 2023 14:01 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -219,6 +219,7 @@ address=/dochlend.com/
 address=/domennet.com/
 address=/domennn.com/
 address=/domopoga-ua.nopersonexty.online/
+address=/donttech.com/
 address=/dopomih.com/
 address=/dopomoga-2023.top/
 address=/dopomoga-aid.top/
@@ -749,6 +750,7 @@ address=/oschadbank.bake-pays.me/
 address=/oschadbank.bank-com.biz/
 address=/oschadbank.bank-viplata.online/
 address=/oschadbank.chydovo.com/
+address=/oschadbank.donttech.com/
 address=/oschadbank.dopomogas.com/
 address=/oschadbank.epidtrumka.org/
 address=/oschadbank.eviplata.vip/
@@ -766,6 +768,7 @@ address=/oschadbank.ul-pay.me/
 address=/oschadbank.vi-plata.vip/
 address=/oschadbank.viplata-com.store/
 address=/oschadbank.viplatavop.club/
+address=/oschadbank.viplatavpo.biz/
 address=/oschadbank.vipplata.com/
 address=/oschadbank.vorkviplata.biz/
 address=/oschadbankuk.com/
@@ -863,6 +866,7 @@ address=/privat.24unicef.org/
 address=/privat.bake-pays.me/
 address=/privat.chydovo.com/
 address=/privat.diafes.com/
+address=/privat.donttech.com/
 address=/privat.dopomogas.com/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
@@ -874,6 +878,7 @@ address=/privat.today/
 address=/privat.vi-plata.vip/
 address=/privat.viplata-com.store/
 address=/privat.viplatavop.club/
+address=/privat.viplatavpo.biz/
 address=/privat.vipplata.com/
 address=/privat.vorkviplata.biz/
 address=/privat24-help.link/
@@ -1063,6 +1068,7 @@ address=/raiffeisen.bake-pays.me/
 address=/raiffeisen.bank-com.biz/
 address=/raiffeisen.bank-viplata.online/
 address=/raiffeisen.chydovo.com/
+address=/raiffeisen.donttech.com/
 address=/raiffeisen.dopomogas.com/
 address=/raiffeisen.dopomogaua.xyz/
 address=/raiffeisen.epidtrumka.org/
@@ -1078,6 +1084,7 @@ address=/raiffeisen.sutary.com/
 address=/raiffeisen.vi-plata.vip/
 address=/raiffeisen.viplata-com.store/
 address=/raiffeisen.viplatavop.club/
+address=/raiffeisen.viplatavpo.biz/
 address=/raiffeisen.vipplata.com/
 address=/raiffeisen.vorkviplata.biz/
 address=/raiffeizen-viplata-help.online/
@@ -1322,6 +1329,7 @@ address=/viplataua.net/
 address=/viplataua.org/
 address=/viplataua.shop/
 address=/viplatavop.club/
+address=/viplatavpo.biz/
 address=/viplati-uah.top/
 address=/viplatka.com/
 address=/viplatu.com/
