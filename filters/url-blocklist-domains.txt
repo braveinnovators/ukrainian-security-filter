@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 17 March 2023 14:01 EET
+# Last modified: Mon, 20 March 2023 12:31 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
+a-bank.diyaviplati.co
 a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
 a-bank.dopomoga.place
@@ -58,6 +59,7 @@ a-bank.ua-send.website
 a-bank.ul-pay.me
 a-bank.viplata.digital
 a-bank.viplata.space
+a-bank.viplataes.vip
 a-bank.viplataua.shop
 a-bank.viplatavop.club
 a-bank.vorkviplata.biz
@@ -124,6 +126,7 @@ badge-gos.top
 bake-pays.me
 balantins.com.ua
 bank-com.biz
+bank-com.shop
 bank-viplata.online
 bankallianceua.com
 bbaja.cn
@@ -199,6 +202,7 @@ d3ya.site
 dazzlingcortex.com
 de-gos.top
 dear-gos.top
+dengi.fyi
 dersch.online
 dershoplate.com
 determinecrust.top
@@ -213,6 +217,7 @@ direktolog.vipmoney.xyz
 dis6.site
 diya-edopomoga.online
 diyadopomoga.online
+diyaviplati.co
 diyaviplati.vip
 dl-gos.top
 dochlend.com
@@ -542,6 +547,7 @@ next24.ckx-pay.me
 next24.cq-pay.me
 next24.dersch.online
 next24.dershoplate.com
+next24.diyaviplati.co
 next24.dochlend.com
 next24.domennet.com
 next24.domennn.com
@@ -670,6 +676,7 @@ oschad.ckx-pay.me
 oschad.cq-pay.me
 oschad.dersch.online
 oschad.dershoplate.com
+oschad.diyaviplati.co
 oschad.dochlend.com
 oschad.domennet.com
 oschad.domennn.com
@@ -748,8 +755,10 @@ oschadbank-viplata-help.online
 oschadbank.amerisn.com
 oschadbank.bake-pays.me
 oschadbank.bank-com.biz
+oschadbank.bank-com.shop
 oschadbank.bank-viplata.online
 oschadbank.chydovo.com
+oschadbank.dengi.fyi
 oschadbank.donttech.com
 oschadbank.dopomogas.com
 oschadbank.epidtrumka.org
@@ -767,6 +776,7 @@ oschadbank.ua-send.website
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.viplata-com.store
+oschadbank.viplataes.vip
 oschadbank.viplatavop.club
 oschadbank.viplatavpo.biz
 oschadbank.vipplata.com
@@ -865,6 +875,7 @@ privat-trade.com
 privat.24unicef.org
 privat.bake-pays.me
 privat.chydovo.com
+privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
 privat.dopomogas.com
@@ -877,6 +888,7 @@ privat.sutary.com
 privat.today
 privat.vi-plata.vip
 privat.viplata-com.store
+privat.viplataes.vip
 privat.viplatavop.club
 privat.viplatavpo.biz
 privat.vipplata.com
@@ -942,6 +954,7 @@ pumb.ca-pay.me
 pumb.cake-payment.me
 pumb.ckx-pay.me
 pumb.dershoplate.com
+pumb.diyaviplati.co
 pumb.dopomoga.agency
 pumb.dopomoga.in
 pumb.dopomoga.social
@@ -988,6 +1001,7 @@ raif.cake-payment.me
 raif.ckx-pay.me
 raif.dersch.online
 raif.dershoplate.com
+raif.diyaviplati.co
 raif.dochlend.com
 raif.domennet.com
 raif.domennn.com
@@ -1066,8 +1080,10 @@ raiffeisen.3dss-pays.info
 raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
+raiffeisen.bank-com.shop
 raiffeisen.bank-viplata.online
 raiffeisen.chydovo.com
+raiffeisen.dengi.fyi
 raiffeisen.donttech.com
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
@@ -1083,6 +1099,7 @@ raiffeisen.shepir.com
 raiffeisen.sutary.com
 raiffeisen.vi-plata.vip
 raiffeisen.viplata-com.store
+raiffeisen.viplataes.vip
 raiffeisen.viplatavop.club
 raiffeisen.viplatavpo.biz
 raiffeisen.vipplata.com
@@ -1323,6 +1340,7 @@ viplata.me
 viplata.org
 viplata.space
 viplatadiya.site
+viplataes.vip
 viplatanow.online
 viplataua.com
 viplataua.net
