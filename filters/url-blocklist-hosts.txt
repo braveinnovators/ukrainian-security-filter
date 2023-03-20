@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 17 March 2023 14:01 EET
+# Last modified: Mon, 20 March 2023 12:31 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 0.0.0.0 6sij-prom.wickywin.com
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
+0.0.0.0 a-bank.diyaviplati.co
 0.0.0.0 a-bank.dopomoga.agency
 0.0.0.0 a-bank.dopomoga.buzz
 0.0.0.0 a-bank.dopomoga.place
@@ -58,6 +59,7 @@
 0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-bank.viplata.digital
 0.0.0.0 a-bank.viplata.space
+0.0.0.0 a-bank.viplataes.vip
 0.0.0.0 a-bank.viplataua.shop
 0.0.0.0 a-bank.viplatavop.club
 0.0.0.0 a-bank.vorkviplata.biz
@@ -124,6 +126,7 @@
 0.0.0.0 bake-pays.me
 0.0.0.0 balantins.com.ua
 0.0.0.0 bank-com.biz
+0.0.0.0 bank-com.shop
 0.0.0.0 bank-viplata.online
 0.0.0.0 bankallianceua.com
 0.0.0.0 bbaja.cn
@@ -199,6 +202,7 @@
 0.0.0.0 dazzlingcortex.com
 0.0.0.0 de-gos.top
 0.0.0.0 dear-gos.top
+0.0.0.0 dengi.fyi
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
 0.0.0.0 determinecrust.top
@@ -213,6 +217,7 @@
 0.0.0.0 dis6.site
 0.0.0.0 diya-edopomoga.online
 0.0.0.0 diyadopomoga.online
+0.0.0.0 diyaviplati.co
 0.0.0.0 diyaviplati.vip
 0.0.0.0 dl-gos.top
 0.0.0.0 dochlend.com
@@ -542,6 +547,7 @@
 0.0.0.0 next24.cq-pay.me
 0.0.0.0 next24.dersch.online
 0.0.0.0 next24.dershoplate.com
+0.0.0.0 next24.diyaviplati.co
 0.0.0.0 next24.dochlend.com
 0.0.0.0 next24.domennet.com
 0.0.0.0 next24.domennn.com
@@ -670,6 +676,7 @@
 0.0.0.0 oschad.cq-pay.me
 0.0.0.0 oschad.dersch.online
 0.0.0.0 oschad.dershoplate.com
+0.0.0.0 oschad.diyaviplati.co
 0.0.0.0 oschad.dochlend.com
 0.0.0.0 oschad.domennet.com
 0.0.0.0 oschad.domennn.com
@@ -748,8 +755,10 @@
 0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
+0.0.0.0 oschadbank.bank-com.shop
 0.0.0.0 oschadbank.bank-viplata.online
 0.0.0.0 oschadbank.chydovo.com
+0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.donttech.com
 0.0.0.0 oschadbank.dopomogas.com
 0.0.0.0 oschadbank.epidtrumka.org
@@ -767,6 +776,7 @@
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.viplata-com.store
+0.0.0.0 oschadbank.viplataes.vip
 0.0.0.0 oschadbank.viplatavop.club
 0.0.0.0 oschadbank.viplatavpo.biz
 0.0.0.0 oschadbank.vipplata.com
@@ -865,6 +875,7 @@
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.chydovo.com
+0.0.0.0 privat.dengi.fyi
 0.0.0.0 privat.diafes.com
 0.0.0.0 privat.donttech.com
 0.0.0.0 privat.dopomogas.com
@@ -877,6 +888,7 @@
 0.0.0.0 privat.today
 0.0.0.0 privat.vi-plata.vip
 0.0.0.0 privat.viplata-com.store
+0.0.0.0 privat.viplataes.vip
 0.0.0.0 privat.viplatavop.club
 0.0.0.0 privat.viplatavpo.biz
 0.0.0.0 privat.vipplata.com
@@ -942,6 +954,7 @@
 0.0.0.0 pumb.cake-payment.me
 0.0.0.0 pumb.ckx-pay.me
 0.0.0.0 pumb.dershoplate.com
+0.0.0.0 pumb.diyaviplati.co
 0.0.0.0 pumb.dopomoga.agency
 0.0.0.0 pumb.dopomoga.in
 0.0.0.0 pumb.dopomoga.social
@@ -988,6 +1001,7 @@
 0.0.0.0 raif.ckx-pay.me
 0.0.0.0 raif.dersch.online
 0.0.0.0 raif.dershoplate.com
+0.0.0.0 raif.diyaviplati.co
 0.0.0.0 raif.dochlend.com
 0.0.0.0 raif.domennet.com
 0.0.0.0 raif.domennn.com
@@ -1066,8 +1080,10 @@
 0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
+0.0.0.0 raiffeisen.bank-com.shop
 0.0.0.0 raiffeisen.bank-viplata.online
 0.0.0.0 raiffeisen.chydovo.com
+0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.donttech.com
 0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
@@ -1083,6 +1099,7 @@
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.viplata-com.store
+0.0.0.0 raiffeisen.viplataes.vip
 0.0.0.0 raiffeisen.viplatavop.club
 0.0.0.0 raiffeisen.viplatavpo.biz
 0.0.0.0 raiffeisen.vipplata.com
@@ -1323,6 +1340,7 @@
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
 0.0.0.0 viplatadiya.site
+0.0.0.0 viplataes.vip
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataua.com
 0.0.0.0 viplataua.net
