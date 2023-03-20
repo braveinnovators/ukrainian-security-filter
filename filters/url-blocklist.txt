@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 17 March 2023 14:01 EET
+! Last modified: Mon, 20 March 2023 12:31 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -78,6 +78,7 @@
 ||bake-pays.me^
 ||balantins.com.ua^
 ||bank-com.biz^
+||bank-com.shop^
 ||bank-viplata.online^
 ||bankallianceua.com^
 ||bbaja.cn^
@@ -142,6 +143,7 @@
 ||dazzlingcortex.com^
 ||de-gos.top^
 ||dear-gos.top^
+||dengi.fyi^
 ||dersch.online^
 ||dershoplate.com^
 ||determinecrust.top^
@@ -155,6 +157,7 @@
 ||dis6.site^
 ||diya-edopomoga.online^
 ||diyadopomoga.online^
+||diyaviplati.co^
 ||diyaviplati.vip^
 ||dl-gos.top^
 ||dochlend.com^
@@ -652,9 +655,11 @@
 ||swap-pro.trade^
 ||t.me/d0p0m0ga^$document
 ||t.me/dopomogaonline2023_bot^$document
+||t.me/doponoga8500^$document
 ||t.me/eDopomogaUA_official^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/dopomogaonline2023_bot^$document
+||t.me/s/doponoga8500^$document
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
@@ -807,6 +812,7 @@
 ||viplata.org^
 ||viplata.space^
 ||viplatadiya.site^
+||viplataes.vip^
 ||viplatanow.online^
 ||viplataua.com^
 ||viplataua.net^
