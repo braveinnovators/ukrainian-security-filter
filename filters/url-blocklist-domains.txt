@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 20 March 2023 12:31 EET
+# Last modified: Tue, 21 March 2023 13:42 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@ a-bank.ua-send.website
 a-bank.ul-pay.me
 a-bank.viplata.digital
 a-bank.viplata.space
+a-bank.viplataes.site
 a-bank.viplataes.vip
 a-bank.viplataua.shop
 a-bank.viplatavop.club
@@ -765,6 +766,7 @@ oschadbank.epidtrumka.org
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
 oschadbank.no-pay.me
+oschadbank.po-mosh.com
 oschadbank.po-teq.com
 oschadbank.reliefukraine.today
 oschadbank.rozym.com
@@ -776,6 +778,7 @@ oschadbank.ua-send.website
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.viplata-com.store
+oschadbank.viplataes.site
 oschadbank.viplataes.vip
 oschadbank.viplatavop.club
 oschadbank.viplatavpo.biz
@@ -853,6 +856,7 @@ pestrio.site
 peyidgo.pro
 platizh.com
 platizhmob.com
+po-mosh.com
 po-teq.com
 pochta1.com
 poluchenie.pw
@@ -881,6 +885,7 @@ privat.donttech.com
 privat.dopomogas.com
 privat.eviplata.vip
 privat.gertinn.com
+privat.po-mosh.com
 privat.po-teq.com
 privat.rozym.com
 privat.shepir.com
@@ -888,6 +893,7 @@ privat.sutary.com
 privat.today
 privat.vi-plata.vip
 privat.viplata-com.store
+privat.viplataes.site
 privat.viplataes.vip
 privat.viplatavop.club
 privat.viplatavpo.biz
@@ -984,6 +990,7 @@ pumb.ul-pay.me
 pumb.upayment.me
 pumb.vi-plata.com
 pumb.viplata.fun
+pumb.viplataes.site
 pumb.viplataua.shop
 pumb.viplatavop.club
 pumb.viplatyy.com
@@ -1099,6 +1106,7 @@ raiffeisen.shepir.com
 raiffeisen.sutary.com
 raiffeisen.vi-plata.vip
 raiffeisen.viplata-com.store
+raiffeisen.viplataes.site
 raiffeisen.viplataes.vip
 raiffeisen.viplatavop.club
 raiffeisen.viplatavpo.biz
@@ -1340,6 +1348,7 @@ viplata.me
 viplata.org
 viplata.space
 viplatadiya.site
+viplataes.site
 viplataes.vip
 viplatanow.online
 viplataua.com
