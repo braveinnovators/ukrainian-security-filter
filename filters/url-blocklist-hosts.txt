@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 20 March 2023 12:31 EET
+# Last modified: Tue, 21 March 2023 13:42 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@
 0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-bank.viplata.digital
 0.0.0.0 a-bank.viplata.space
+0.0.0.0 a-bank.viplataes.site
 0.0.0.0 a-bank.viplataes.vip
 0.0.0.0 a-bank.viplataua.shop
 0.0.0.0 a-bank.viplatavop.club
@@ -765,6 +766,7 @@
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.no-pay.me
+0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
@@ -776,6 +778,7 @@
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.viplata-com.store
+0.0.0.0 oschadbank.viplataes.site
 0.0.0.0 oschadbank.viplataes.vip
 0.0.0.0 oschadbank.viplatavop.club
 0.0.0.0 oschadbank.viplatavpo.biz
@@ -853,6 +856,7 @@
 0.0.0.0 peyidgo.pro
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
+0.0.0.0 po-mosh.com
 0.0.0.0 po-teq.com
 0.0.0.0 pochta1.com
 0.0.0.0 poluchenie.pw
@@ -881,6 +885,7 @@
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
+0.0.0.0 privat.po-mosh.com
 0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
@@ -888,6 +893,7 @@
 0.0.0.0 privat.today
 0.0.0.0 privat.vi-plata.vip
 0.0.0.0 privat.viplata-com.store
+0.0.0.0 privat.viplataes.site
 0.0.0.0 privat.viplataes.vip
 0.0.0.0 privat.viplatavop.club
 0.0.0.0 privat.viplatavpo.biz
@@ -984,6 +990,7 @@
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.vi-plata.com
 0.0.0.0 pumb.viplata.fun
+0.0.0.0 pumb.viplataes.site
 0.0.0.0 pumb.viplataua.shop
 0.0.0.0 pumb.viplatavop.club
 0.0.0.0 pumb.viplatyy.com
@@ -1099,6 +1106,7 @@
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.viplata-com.store
+0.0.0.0 raiffeisen.viplataes.site
 0.0.0.0 raiffeisen.viplataes.vip
 0.0.0.0 raiffeisen.viplatavop.club
 0.0.0.0 raiffeisen.viplatavpo.biz
@@ -1340,6 +1348,7 @@
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
 0.0.0.0 viplatadiya.site
+0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataua.com
