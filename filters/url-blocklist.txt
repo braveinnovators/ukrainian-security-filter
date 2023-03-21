@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 20 March 2023 12:31 EET
+! Last modified: Tue, 21 March 2023 13:42 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -546,6 +546,7 @@
 ||peyidgo.pro^
 ||platizh.com^
 ||platizhmob.com^
+||po-mosh.com^
 ||po-teq.com^
 ||pochta1.com^
 ||poluchenie.pw^
@@ -812,6 +813,7 @@
 ||viplata.org^
 ||viplata.space^
 ||viplatadiya.site^
+||viplataes.site^
 ||viplataes.vip^
 ||viplatanow.online^
 ||viplataua.com^
