@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 20 March 2023 12:31 EET
+# Last modified: Tue, 21 March 2023 13:42 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@ address=/a-bank.ua-send.website/
 address=/a-bank.ul-pay.me/
 address=/a-bank.viplata.digital/
 address=/a-bank.viplata.space/
+address=/a-bank.viplataes.site/
 address=/a-bank.viplataes.vip/
 address=/a-bank.viplataua.shop/
 address=/a-bank.viplatavop.club/
@@ -765,6 +766,7 @@ address=/oschadbank.epidtrumka.org/
 address=/oschadbank.eviplata.vip/
 address=/oschadbank.gertinn.com/
 address=/oschadbank.no-pay.me/
+address=/oschadbank.po-mosh.com/
 address=/oschadbank.po-teq.com/
 address=/oschadbank.reliefukraine.today/
 address=/oschadbank.rozym.com/
@@ -776,6 +778,7 @@ address=/oschadbank.ua-send.website/
 address=/oschadbank.ul-pay.me/
 address=/oschadbank.vi-plata.vip/
 address=/oschadbank.viplata-com.store/
+address=/oschadbank.viplataes.site/
 address=/oschadbank.viplataes.vip/
 address=/oschadbank.viplatavop.club/
 address=/oschadbank.viplatavpo.biz/
@@ -853,6 +856,7 @@ address=/pestrio.site/
 address=/peyidgo.pro/
 address=/platizh.com/
 address=/platizhmob.com/
+address=/po-mosh.com/
 address=/po-teq.com/
 address=/pochta1.com/
 address=/poluchenie.pw/
@@ -881,6 +885,7 @@ address=/privat.donttech.com/
 address=/privat.dopomogas.com/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
+address=/privat.po-mosh.com/
 address=/privat.po-teq.com/
 address=/privat.rozym.com/
 address=/privat.shepir.com/
@@ -888,6 +893,7 @@ address=/privat.sutary.com/
 address=/privat.today/
 address=/privat.vi-plata.vip/
 address=/privat.viplata-com.store/
+address=/privat.viplataes.site/
 address=/privat.viplataes.vip/
 address=/privat.viplatavop.club/
 address=/privat.viplatavpo.biz/
@@ -984,6 +990,7 @@ address=/pumb.ul-pay.me/
 address=/pumb.upayment.me/
 address=/pumb.vi-plata.com/
 address=/pumb.viplata.fun/
+address=/pumb.viplataes.site/
 address=/pumb.viplataua.shop/
 address=/pumb.viplatavop.club/
 address=/pumb.viplatyy.com/
@@ -1099,6 +1106,7 @@ address=/raiffeisen.shepir.com/
 address=/raiffeisen.sutary.com/
 address=/raiffeisen.vi-plata.vip/
 address=/raiffeisen.viplata-com.store/
+address=/raiffeisen.viplataes.site/
 address=/raiffeisen.viplataes.vip/
 address=/raiffeisen.viplatavop.club/
 address=/raiffeisen.viplatavpo.biz/
@@ -1340,6 +1348,7 @@ address=/viplata.me/
 address=/viplata.org/
 address=/viplata.space/
 address=/viplatadiya.site/
+address=/viplataes.site/
 address=/viplataes.vip/
 address=/viplatanow.online/
 address=/viplataua.com/
