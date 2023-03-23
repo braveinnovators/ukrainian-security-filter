@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 21 March 2023 13:42 EET
+# Last modified: Thu, 23 March 2023 12:57 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 6sij-prom.wickywin.com
 770capital.com
 80w19v.cn
+a-bank.ads-pid.me
 a-bank.diyaviplati.co
 a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
@@ -78,6 +79,7 @@ abs-techno.ru
 adi-gos.top
 admru.top
 admus.top
+ads-pid.me
 aff-opros.top
 affirmac.blogspot.com
 afi-opros.top
@@ -182,7 +184,6 @@ co-opros.top
 co-uah.top
 coinmarket1.zzz.com.ua
 com1465.website
-company.site
 compen-ua.sbs
 compen-ua.website
 compens.ocxa-ua.top
@@ -327,6 +328,7 @@ finance-dopomoga.site
 finance-helpya.com
 finstor.online
 finua.online
+fl-work.com.ua
 flexcapital.com
 for-gos.top
 forhome.site
@@ -372,6 +374,7 @@ govdia.pro
 grac-opros.top
 great-gos.top
 grinta-invest.com
+groshi.world
 groshovadopomoga.com
 grow-gos.top
 growthstrategyinstitute.com
@@ -443,6 +446,7 @@ job-opros.top
 join-gos.top
 jonnyashcroft.com
 jpobyt.site
+k-auch.quest
 kassirticket.art
 kel-gos.top
 kievstar.online
@@ -505,6 +509,7 @@ moblobmen.org
 moblpay.com.ua
 monitor-igr.blogspot.com
 mono-bank.org
+mono.ads-pid.me
 mono.gate-pays.me
 mono.viplata.space
 mono.viplataua.shop
@@ -753,6 +758,7 @@ oschad.yatreba.com
 oschadavtorizaciya.simdif.com
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
+oschadbank.ads-pid.me
 oschadbank.amerisn.com
 oschadbank.bake-pays.me
 oschadbank.bank-com.biz
@@ -765,12 +771,15 @@ oschadbank.dopomogas.com
 oschadbank.epidtrumka.org
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
+oschadbank.groshi.world
+oschadbank.k-auch.quest
 oschadbank.no-pay.me
 oschadbank.po-mosh.com
 oschadbank.po-teq.com
 oschadbank.reliefukraine.today
 oschadbank.rozym.com
 oschadbank.shepir.com
+oschadbank.socialvuplata.net
 oschadbank.sutary.com
 oschadbank.top
 oschadbank.ua-send.site
@@ -889,6 +898,7 @@ privat.po-mosh.com
 privat.po-teq.com
 privat.rozym.com
 privat.shepir.com
+privat.socialvuplata.net
 privat.sutary.com
 privat.today
 privat.vi-plata.vip
@@ -956,6 +966,7 @@ pruity.com
 prytulafoundation.net
 prytulafoundation.site
 pumb.3dss-pays.info
+pumb.ads-pid.me
 pumb.ca-pay.me
 pumb.cake-payment.me
 pumb.ckx-pay.me
@@ -1084,6 +1095,7 @@ raif.yatreba.com
 raiffeiesen.simdif.com
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
+raiffeisen.ads-pid.me
 raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
@@ -1097,12 +1109,15 @@ raiffeisen.dopomogaua.xyz
 raiffeisen.epidtrumka.org
 raiffeisen.eviplata.vip
 raiffeisen.gertinn.com
+raiffeisen.groshi.world
 raiffeisen.helpua.top
+raiffeisen.k-auch.quest
 raiffeisen.log-ins543325235345.cloud
 raiffeisen.po-teq.com
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
+raiffeisen.socialvuplata.net
 raiffeisen.sutary.com
 raiffeisen.vi-plata.vip
 raiffeisen.viplata-com.store
@@ -1158,6 +1173,7 @@ snp-broker.io
 soc-order.me
 socialassistance.social
 socialassistancefromedopomaka.social
+socialvuplata.net
 specheart.com
 spion-market.com.ua
 sportbank.epomoh.biz
@@ -1297,6 +1313,7 @@ ukrhelp.org.ua
 ukrmall.com.ua
 ukrmob.com.ua
 ukrsib-bank.top
+ukrsib.ads-pid.me
 ukrsib.cake-payment.me
 ukrsib.dershoplate.com
 ukrsib.dopomoga.agency
@@ -1410,4 +1427,3 @@ zacordon.servicehelp.com.ua
 zakks.top
 zanimalo.com.ua
 zevs.trade
-zzz.com.ua
