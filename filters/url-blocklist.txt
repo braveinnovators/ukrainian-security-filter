@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 21 March 2023 13:42 EET
+! Last modified: Thu, 23 March 2023 12:57 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -36,6 +36,7 @@
 ||adi-gos.top^
 ||admru.top^
 ||admus.top^
+||ads-pid.me^
 ||aff-opros.top^
 ||affirmac.blogspot.com^
 ||afi-opros.top^
@@ -125,8 +126,8 @@
 ||clubkassa24.top^
 ||co-opros.top^
 ||co-uah.top^
+||coinmarket1.zzz.com.ua^
 ||com1465.website^
-||company.site^
 ||compen-ua.sbs^
 ||compen-ua.website^
 ||compensation-ua.xyz^
@@ -198,6 +199,7 @@
 ||dopomogaua.xyz^
 ||dopomogi.top^
 ||dopomogs-ukr.top^
+||dopomoha-ua.company.site^
 ||dopuakv.shop^
 ||draw-opros.top^
 ||dufafaststinen.gq^
@@ -267,6 +269,7 @@
 ||finance-helpya.com^
 ||finstor.online^
 ||finua.online^
+||fl-work.com.ua^
 ||flexcapital.com^
 ||for-gos.top^
 ||forhome.site^
@@ -309,6 +312,7 @@
 ||grac-opros.top^
 ||great-gos.top^
 ||grinta-invest.com^
+||groshi.world^
 ||groshovadopomoga.com^
 ||grow-gos.top^
 ||growthstrategyinstitute.com^
@@ -374,6 +378,7 @@
 ||join-gos.top^
 ||jonnyashcroft.com^
 ||jpobyt.site^
+||k-auch.quest^
 ||kassirticket.art^
 ||kel-gos.top^
 ||kievstar.online^
@@ -640,6 +645,7 @@
 ||soc-order.me^
 ||socialassistance.social^
 ||socialassistancefromedopomaka.social^
+||socialvuplata.net^
 ||specheart.com^
 ||spion-market.com.ua^
 ||squirtvid.com^
@@ -869,4 +875,3 @@
 ||zakks.top^
 ||zanimalo.com.ua^
 ||zevs.trade^
-||zzz.com.ua^
