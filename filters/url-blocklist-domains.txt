@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 23 March 2023 21:09 EET
+# Last modified: Thu, 23 March 2023 21:51 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -481,6 +481,7 @@ oschadbank.viplataes.site
 oschadbank.viplataes.vip
 oschadbank.viplatavop.club
 oschadbank.viplatavpo.biz
+oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
 oschadbankuk.com
@@ -567,6 +568,7 @@ privat.viplataes.site
 privat.viplataes.vip
 privat.viplatavop.club
 privat.viplatavpo.biz
+privat.viplatavsem.site
 privat.vipplata.com
 privat.vorkviplata.biz
 privat24-help.link
@@ -765,6 +767,7 @@ raiffeisen.viplataes.site
 raiffeisen.viplataes.vip
 raiffeisen.viplatavop.club
 raiffeisen.viplatavpo.biz
+raiffeisen.viplatavsem.site
 raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeizen-viplata-help.online
@@ -923,6 +926,7 @@ viplataua.org
 viplataua.shop
 viplatavop.club
 viplatavpo.biz
+viplatavsem.site
 viplati-uah.top
 viplatka.com
 viplatu.com
