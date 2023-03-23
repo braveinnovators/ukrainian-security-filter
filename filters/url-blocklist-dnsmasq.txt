@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 23 March 2023 21:09 EET
+# Last modified: Thu, 23 March 2023 21:51 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -481,6 +481,7 @@ address=/oschadbank.viplataes.site/
 address=/oschadbank.viplataes.vip/
 address=/oschadbank.viplatavop.club/
 address=/oschadbank.viplatavpo.biz/
+address=/oschadbank.viplatavsem.site/
 address=/oschadbank.vipplata.com/
 address=/oschadbank.vorkviplata.biz/
 address=/oschadbankuk.com/
@@ -567,6 +568,7 @@ address=/privat.viplataes.site/
 address=/privat.viplataes.vip/
 address=/privat.viplatavop.club/
 address=/privat.viplatavpo.biz/
+address=/privat.viplatavsem.site/
 address=/privat.vipplata.com/
 address=/privat.vorkviplata.biz/
 address=/privat24-help.link/
@@ -765,6 +767,7 @@ address=/raiffeisen.viplataes.site/
 address=/raiffeisen.viplataes.vip/
 address=/raiffeisen.viplatavop.club/
 address=/raiffeisen.viplatavpo.biz/
+address=/raiffeisen.viplatavsem.site/
 address=/raiffeisen.vipplata.com/
 address=/raiffeisen.vorkviplata.biz/
 address=/raiffeizen-viplata-help.online/
@@ -923,6 +926,7 @@ address=/viplataua.org/
 address=/viplataua.shop/
 address=/viplatavop.club/
 address=/viplatavpo.biz/
+address=/viplatavsem.site/
 address=/viplati-uah.top/
 address=/viplatka.com/
 address=/viplatu.com/
