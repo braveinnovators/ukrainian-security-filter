@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 21 March 2023 13:42 EET
+# Last modified: Thu, 23 March 2023 12:57 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 0.0.0.0 6sij-prom.wickywin.com
 0.0.0.0 770capital.com
 0.0.0.0 80w19v.cn
+0.0.0.0 a-bank.ads-pid.me
 0.0.0.0 a-bank.diyaviplati.co
 0.0.0.0 a-bank.dopomoga.agency
 0.0.0.0 a-bank.dopomoga.buzz
@@ -78,6 +79,7 @@
 0.0.0.0 adi-gos.top
 0.0.0.0 admru.top
 0.0.0.0 admus.top
+0.0.0.0 ads-pid.me
 0.0.0.0 aff-opros.top
 0.0.0.0 affirmac.blogspot.com
 0.0.0.0 afi-opros.top
@@ -182,7 +184,6 @@
 0.0.0.0 co-uah.top
 0.0.0.0 coinmarket1.zzz.com.ua
 0.0.0.0 com1465.website
-0.0.0.0 company.site
 0.0.0.0 compen-ua.sbs
 0.0.0.0 compen-ua.website
 0.0.0.0 compens.ocxa-ua.top
@@ -327,6 +328,7 @@
 0.0.0.0 finance-helpya.com
 0.0.0.0 finstor.online
 0.0.0.0 finua.online
+0.0.0.0 fl-work.com.ua
 0.0.0.0 flexcapital.com
 0.0.0.0 for-gos.top
 0.0.0.0 forhome.site
@@ -372,6 +374,7 @@
 0.0.0.0 grac-opros.top
 0.0.0.0 great-gos.top
 0.0.0.0 grinta-invest.com
+0.0.0.0 groshi.world
 0.0.0.0 groshovadopomoga.com
 0.0.0.0 grow-gos.top
 0.0.0.0 growthstrategyinstitute.com
@@ -443,6 +446,7 @@
 0.0.0.0 join-gos.top
 0.0.0.0 jonnyashcroft.com
 0.0.0.0 jpobyt.site
+0.0.0.0 k-auch.quest
 0.0.0.0 kassirticket.art
 0.0.0.0 kel-gos.top
 0.0.0.0 kievstar.online
@@ -505,6 +509,7 @@
 0.0.0.0 moblpay.com.ua
 0.0.0.0 monitor-igr.blogspot.com
 0.0.0.0 mono-bank.org
+0.0.0.0 mono.ads-pid.me
 0.0.0.0 mono.gate-pays.me
 0.0.0.0 mono.viplata.space
 0.0.0.0 mono.viplataua.shop
@@ -753,6 +758,7 @@
 0.0.0.0 oschadavtorizaciya.simdif.com
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
+0.0.0.0 oschadbank.ads-pid.me
 0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
@@ -765,12 +771,15 @@
 0.0.0.0 oschadbank.epidtrumka.org
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
+0.0.0.0 oschadbank.groshi.world
+0.0.0.0 oschadbank.k-auch.quest
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
 0.0.0.0 oschadbank.shepir.com
+0.0.0.0 oschadbank.socialvuplata.net
 0.0.0.0 oschadbank.sutary.com
 0.0.0.0 oschadbank.top
 0.0.0.0 oschadbank.ua-send.site
@@ -889,6 +898,7 @@
 0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
+0.0.0.0 privat.socialvuplata.net
 0.0.0.0 privat.sutary.com
 0.0.0.0 privat.today
 0.0.0.0 privat.vi-plata.vip
@@ -956,6 +966,7 @@
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
 0.0.0.0 pumb.3dss-pays.info
+0.0.0.0 pumb.ads-pid.me
 0.0.0.0 pumb.ca-pay.me
 0.0.0.0 pumb.cake-payment.me
 0.0.0.0 pumb.ckx-pay.me
@@ -1084,6 +1095,7 @@
 0.0.0.0 raiffeiesen.simdif.com
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
+0.0.0.0 raiffeisen.ads-pid.me
 0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
@@ -1097,12 +1109,15 @@
 0.0.0.0 raiffeisen.epidtrumka.org
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.gertinn.com
+0.0.0.0 raiffeisen.groshi.world
 0.0.0.0 raiffeisen.helpua.top
+0.0.0.0 raiffeisen.k-auch.quest
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.po-teq.com
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
+0.0.0.0 raiffeisen.socialvuplata.net
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.viplata-com.store
@@ -1158,6 +1173,7 @@
 0.0.0.0 soc-order.me
 0.0.0.0 socialassistance.social
 0.0.0.0 socialassistancefromedopomaka.social
+0.0.0.0 socialvuplata.net
 0.0.0.0 specheart.com
 0.0.0.0 spion-market.com.ua
 0.0.0.0 sportbank.epomoh.biz
@@ -1297,6 +1313,7 @@
 0.0.0.0 ukrmall.com.ua
 0.0.0.0 ukrmob.com.ua
 0.0.0.0 ukrsib-bank.top
+0.0.0.0 ukrsib.ads-pid.me
 0.0.0.0 ukrsib.cake-payment.me
 0.0.0.0 ukrsib.dershoplate.com
 0.0.0.0 ukrsib.dopomoga.agency
@@ -1410,4 +1427,3 @@
 0.0.0.0 zakks.top
 0.0.0.0 zanimalo.com.ua
 0.0.0.0 zevs.trade
-0.0.0.0 zzz.com.ua
