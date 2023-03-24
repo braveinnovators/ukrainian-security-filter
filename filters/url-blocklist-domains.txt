@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 23 March 2023 21:51 EET
+# Last modified: Fri, 24 March 2023 12:30 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -14,6 +14,7 @@
 24unicef.org
 3dss-pays.info
 63f66fdf58d3d.site123.me
+640e06527233d.site123.me
 a-bank.ads-pid.me
 a-bank.diyaviplati.co
 a-bank.dopomoga.agency
@@ -81,6 +82,7 @@ cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
+deneg-help.top
 dengi.fyi
 dersch.online
 dershoplate.com
@@ -142,6 +144,7 @@ e-dopomoga-perekazy24.space
 e-dopomoga.click
 e-grivn.com
 e-gryvnia.com
+e-viplata.space
 ec-compensation.xyz
 ed-edopomoga.com
 edi6.site
@@ -193,6 +196,7 @@ help-fynancegov.com
 help-ukrain.xyz
 help.squirtvid.com
 helpfond-ua.buzz
+helpforua.me
 helpua.top
 helpukraine.direct
 helpzzfound.site
@@ -219,6 +223,7 @@ kredobank.no-pay.me
 kyivstarbezlim.com
 linktr.ee/dopomoha.center
 liqpay.info
+localregi.pro
 log-ins543325235345.cloud
 lpayments.org
 lzdq6btw.cn
@@ -248,7 +253,6 @@ motohouseua.com
 my-gov.uperevod.icu
 my-gov.uplata.cyou
 my-gov.uvyplata.icu
-mya5.ru
 mygraphbook.com
 mytax-compensation.xyz
 mytechno.com.ua
@@ -284,6 +288,7 @@ next24.dopomoga.place
 next24.dopomoga.social
 next24.dopomoga.solutions
 next24.dopomogasoshiall.website
+next24.e-viplata.space
 next24.edopomoga.land
 next24.edopomogae.info
 next24.gate-pays.me
@@ -292,6 +297,7 @@ next24.gon-order.me
 next24.govdia.pro
 next24.idregister.pro
 next24.jay-order.me
+next24.localregi.pro
 next24.nato-gov.com
 next24.next-bp.net
 next24.no-pay.me
@@ -321,6 +327,7 @@ next24.securitypay.me
 next24.soc-order.me
 next24.socialassistance.social
 next24.socialassistancefromedopomaka.social
+next24.speed-perekaz.com
 next24.tsa.airforce
 next24.ua-receipt.com
 next24.uadostawka.com
@@ -505,6 +512,7 @@ pac-pay.online
 pay-chs.me
 pay-privat24.site
 pay-remuneration.top
+pay-ua.website
 pay-ukraine.com
 pay-unv.me
 pay.liqpay.info
@@ -683,6 +691,7 @@ raif.finua.online
 raif.gate-pays.me
 raif.glopay.site
 raif.gon-order.me
+raif.helpforua.me
 raif.jay-order.me
 raif.nato-gov.com
 raif.next-bp.info
@@ -775,6 +784,7 @@ raiffesen.pro
 rastamogka.net
 recive-money.icu
 recivemoney.icu
+redcrossbezl.yolasite.com
 reliefukraine.today
 rozetkaukraine.cc
 rozetkaukraine.com
@@ -793,6 +803,7 @@ soc-order.me
 socialassistance.social
 socialassistancefromedopomaka.social
 socialvuplata.net
+speed-perekaz.com
 sportbank.epomoh.biz
 squirtvid.com
 storeeu.site
@@ -808,6 +819,7 @@ toppaidsexpert.top
 touristrestaurant.com
 trpayuan.site
 trust-group.pro
+trustis-ua.top
 tsa.airforce
 ua-cash.com
 ua-compens.top
@@ -841,6 +853,7 @@ uappl.org
 uasafe.online
 uasocial-viplata.company
 udemixcr.com
+ukr-cash.top
 ukr-compens.top
 ukr-compens.xyz
 ukr-compensate.top
@@ -857,6 +870,7 @@ ukr-receive.icu
 ukr-receive.sbs
 ukr-savess.icu
 ukr-savess.sbs
+ukraina-gos.top
 ukrainapomosh.site
 ukraine-furniture.com.ua
 ukraineamazon.com
@@ -880,6 +894,7 @@ ukrsib.dopomoga.agency
 ukrsib.dopomoga.solutions
 ukrsib.gate-pays.me
 ukrsib.np-pay.me
+ukrsib.pay-ua.website
 ukrsib.pcs-order.me
 ukrsib.poshyx.com
 ukrsib.securitypay.me
@@ -946,11 +961,11 @@ weekpaidlife.top
 world-help.udemixcr.com
 wr-rescan.com
 x7-mikepike.buzz
-xrates.ru
 xu-pay.me
 xv-dopomoga.net
 xwallet.website
 xx-pay.co
 xx-pay.me
 y-pay.pro
+y4-nurimuri.buzz
 yatreba.com
