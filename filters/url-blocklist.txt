@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 23 March 2023 21:51 EET
+! Last modified: Fri, 24 March 2023 12:30 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -14,6 +14,7 @@
 ||24unicef.org^
 ||3dss-pays.info^
 ||63f66fdf58d3d.site123.me^
+||640e06527233d.site123.me^
 ||ads-pid.me^
 ||amerisn.com^
 ||apayments.pro^
@@ -37,6 +38,7 @@
 ||compensationua.com^
 ||compensationukr.com^
 ||cq-pay.me^
+||deneg-help.top^
 ||dengi.fyi^
 ||dersch.online^
 ||dershoplate.com^
@@ -94,6 +96,7 @@
 ||e-dopomoga.click^
 ||e-grivn.com^
 ||e-gryvnia.com^
+||e-viplata.space^
 ||ec-compensation.xyz^
 ||ed-edopomoga.com^
 ||edi6.site^
@@ -149,6 +152,7 @@
 ||help-fynancegov.com^
 ||help-ukrain.xyz^
 ||helpfond-ua.buzz^
+||helpforua.me^
 ||helpua.top^
 ||helpukraine.direct^
 ||helpzzfound.site^
@@ -169,6 +173,7 @@
 ||kyivstarbezlim.com^
 ||linktr.ee/dopomoha.center^$document
 ||liqpay.info^
+||localregi.pro^
 ||log-ins543325235345.cloud^
 ||lpayments.org^
 ||lzdq6btw.cn^
@@ -236,6 +241,7 @@
 ||pay-chs.me^
 ||pay-privat24.site^
 ||pay-remuneration.top^
+||pay-ua.website^
 ||pay-ukraine.com^
 ||pay-unv.me^
 ||payboxua.com^
@@ -296,6 +302,7 @@
 ||rastamogka.net^
 ||recive-money.icu^
 ||recivemoney.icu^
+||redcrossbezl.yolasite.com^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
@@ -314,6 +321,7 @@
 ||socialassistance.social^
 ||socialassistancefromedopomaka.social^
 ||socialvuplata.net^
+||speed-perekaz.com^
 ||squirtvid.com^
 ||storeeu.site^
 ||streuro.site^
@@ -343,6 +351,7 @@
 ||touristrestaurant.com^
 ||trpayuan.site^
 ||trust-group.pro^
+||trustis-ua.top^
 ||tsa.airforce^
 ||ua-cash.com^
 ||ua-compens.top^
@@ -375,6 +384,7 @@
 ||uasafe.online^
 ||uasocial-viplata.company^
 ||udemixcr.com^
+||ukr-cash.top^
 ||ukr-compens.top^
 ||ukr-compens.xyz^
 ||ukr-compensate.top^
@@ -391,6 +401,7 @@
 ||ukr-receive.sbs^
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
+||ukraina-gos.top^
 ||ukrainapomosh.site^
 ||ukraine-furniture.com.ua^
 ||ukraineamazon.com^
@@ -461,11 +472,11 @@
 ||weekpaidlife.top^
 ||wr-rescan.com^
 ||x7-mikepike.buzz^
-||xrates.ru^
 ||xu-pay.me^
 ||xv-dopomoga.net^
 ||xwallet.website^
 ||xx-pay.co^
 ||xx-pay.me^
 ||y-pay.pro^
+||y4-nurimuri.buzz^
 ||yatreba.com^
