@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 23 March 2023 21:51 EET
+# Last modified: Fri, 24 March 2023 12:30 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -14,6 +14,7 @@
 0.0.0.0 24unicef.org
 0.0.0.0 3dss-pays.info
 0.0.0.0 63f66fdf58d3d.site123.me
+0.0.0.0 640e06527233d.site123.me
 0.0.0.0 a-bank.ads-pid.me
 0.0.0.0 a-bank.diyaviplati.co
 0.0.0.0 a-bank.dopomoga.agency
@@ -81,6 +82,7 @@
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
 0.0.0.0 crediacgricole.xu-pay.me
+0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
@@ -142,6 +144,7 @@
 0.0.0.0 e-dopomoga.click
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
+0.0.0.0 e-viplata.space
 0.0.0.0 ec-compensation.xyz
 0.0.0.0 ed-edopomoga.com
 0.0.0.0 edi6.site
@@ -193,6 +196,7 @@
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help.squirtvid.com
 0.0.0.0 helpfond-ua.buzz
+0.0.0.0 helpforua.me
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpzzfound.site
@@ -219,6 +223,7 @@
 0.0.0.0 kyivstarbezlim.com
 0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
+0.0.0.0 localregi.pro
 0.0.0.0 log-ins543325235345.cloud
 0.0.0.0 lpayments.org
 0.0.0.0 lzdq6btw.cn
@@ -248,7 +253,6 @@
 0.0.0.0 my-gov.uperevod.icu
 0.0.0.0 my-gov.uplata.cyou
 0.0.0.0 my-gov.uvyplata.icu
-0.0.0.0 mya5.ru
 0.0.0.0 mygraphbook.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 mytechno.com.ua
@@ -284,6 +288,7 @@
 0.0.0.0 next24.dopomoga.social
 0.0.0.0 next24.dopomoga.solutions
 0.0.0.0 next24.dopomogasoshiall.website
+0.0.0.0 next24.e-viplata.space
 0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.edopomogae.info
 0.0.0.0 next24.gate-pays.me
@@ -292,6 +297,7 @@
 0.0.0.0 next24.govdia.pro
 0.0.0.0 next24.idregister.pro
 0.0.0.0 next24.jay-order.me
+0.0.0.0 next24.localregi.pro
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
 0.0.0.0 next24.no-pay.me
@@ -321,6 +327,7 @@
 0.0.0.0 next24.soc-order.me
 0.0.0.0 next24.socialassistance.social
 0.0.0.0 next24.socialassistancefromedopomaka.social
+0.0.0.0 next24.speed-perekaz.com
 0.0.0.0 next24.tsa.airforce
 0.0.0.0 next24.ua-receipt.com
 0.0.0.0 next24.uadostawka.com
@@ -505,6 +512,7 @@
 0.0.0.0 pay-chs.me
 0.0.0.0 pay-privat24.site
 0.0.0.0 pay-remuneration.top
+0.0.0.0 pay-ua.website
 0.0.0.0 pay-ukraine.com
 0.0.0.0 pay-unv.me
 0.0.0.0 pay.liqpay.info
@@ -683,6 +691,7 @@
 0.0.0.0 raif.gate-pays.me
 0.0.0.0 raif.glopay.site
 0.0.0.0 raif.gon-order.me
+0.0.0.0 raif.helpforua.me
 0.0.0.0 raif.jay-order.me
 0.0.0.0 raif.nato-gov.com
 0.0.0.0 raif.next-bp.info
@@ -775,6 +784,7 @@
 0.0.0.0 rastamogka.net
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
+0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
@@ -793,6 +803,7 @@
 0.0.0.0 socialassistance.social
 0.0.0.0 socialassistancefromedopomaka.social
 0.0.0.0 socialvuplata.net
+0.0.0.0 speed-perekaz.com
 0.0.0.0 sportbank.epomoh.biz
 0.0.0.0 squirtvid.com
 0.0.0.0 storeeu.site
@@ -808,6 +819,7 @@
 0.0.0.0 touristrestaurant.com
 0.0.0.0 trpayuan.site
 0.0.0.0 trust-group.pro
+0.0.0.0 trustis-ua.top
 0.0.0.0 tsa.airforce
 0.0.0.0 ua-cash.com
 0.0.0.0 ua-compens.top
@@ -841,6 +853,7 @@
 0.0.0.0 uasafe.online
 0.0.0.0 uasocial-viplata.company
 0.0.0.0 udemixcr.com
+0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-compens.top
 0.0.0.0 ukr-compens.xyz
 0.0.0.0 ukr-compensate.top
@@ -857,6 +870,7 @@
 0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
+0.0.0.0 ukraina-gos.top
 0.0.0.0 ukrainapomosh.site
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraineamazon.com
@@ -880,6 +894,7 @@
 0.0.0.0 ukrsib.dopomoga.solutions
 0.0.0.0 ukrsib.gate-pays.me
 0.0.0.0 ukrsib.np-pay.me
+0.0.0.0 ukrsib.pay-ua.website
 0.0.0.0 ukrsib.pcs-order.me
 0.0.0.0 ukrsib.poshyx.com
 0.0.0.0 ukrsib.securitypay.me
@@ -946,11 +961,11 @@
 0.0.0.0 world-help.udemixcr.com
 0.0.0.0 wr-rescan.com
 0.0.0.0 x7-mikepike.buzz
-0.0.0.0 xrates.ru
 0.0.0.0 xu-pay.me
 0.0.0.0 xv-dopomoga.net
 0.0.0.0 xwallet.website
 0.0.0.0 xx-pay.co
 0.0.0.0 xx-pay.me
 0.0.0.0 y-pay.pro
+0.0.0.0 y4-nurimuri.buzz
 0.0.0.0 yatreba.com
