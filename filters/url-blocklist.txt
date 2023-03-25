@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 25 March 2023 12:54 EET
+! Last modified: Sat, 25 March 2023 19:24 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -16,6 +16,7 @@
 ||63f66fdf58d3d.site123.me^
 ||640e06527233d.site123.me^
 ||ads-pid.me^
+||aid-edopomoga.com^
 ||amerisn.com^
 ||apayments.pro^
 ||bake-pays.me^
@@ -38,6 +39,7 @@
 ||compensations-ukrain.sbs^
 ||compensationua.com^
 ||compensationukr.com^
+||comreviews.club^
 ||cq-pay.me^
 ||deneg-help.top^
 ||dengi.fyi^
@@ -45,8 +47,15 @@
 ||dershoplate.com^
 ||diadopomoga.me^
 ||diafes.com^
+||diia-d0p0moga.com^
 ||diia-dopomoga.pro^
+||diia-gov.com^
+||diia-gov.me^
 ||diia-gov.pp.ua^
+||diia-uadopomogga.cloud^
+||diia-uadopomogga.me^
+||diia-uadopomogga.pro^
+||diiadopom0ga.click^
 ||diiadopomoga.pro^
 ||diiapidpys.uk^
 ||diiaua.com^
@@ -94,6 +103,7 @@
 ||dopomogi.top^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
+||dovua.shop^
 ||e-dopomoga-perekazy24.space^
 ||e-dopomoga.click^
 ||e-grivn.com^
@@ -110,12 +120,14 @@
 ||edopomogae.info^
 ||epidtrimka.com^
 ||epidtrumka.org^
+||epidtrymka.cloud^
 ||epomoh.biz^
 ||epotrepa-edopomoga.org^
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eviplata.vip^
 ||facebook.com/groups/1350163552384956^$document
+||facebook.com/groups/555728743285368^$document
 ||facebook.com/News-Info-UA-107681682060482^$document
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
@@ -304,7 +316,9 @@
 ||quickpay.pw^
 ||quickpaymentss.expert^
 ||quicktrans.space^
+||raif-dopomoga.com^
 ||raiffaisen-next.online^
+||raiffeisen-approve.com^
 ||raiffeisen-uapay.shop^
 ||raiffeizen-viplata-help.online^
 ||raiffesen.pro^
@@ -348,9 +362,11 @@
 ||t.me/s/edopomogaOOH_bot^$document
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/ua_findopomoga^$document
+||t.me/s/UA_OOH_bot^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
 ||t.me/s/vyplaty_ukraine^$document
 ||t.me/ua_findopomoga^$document
+||t.me/UA_OOH_bot^$document
 ||t.me/UkrainaDopomoga_UKR^$document
 ||t.me/vyplaty_ukraine^$document
 ||taplink.cc/diia.gov.com^$document
@@ -485,6 +501,7 @@
 ||weekpaidlife.top^
 ||wr-rescan.com^
 ||x7-mikepike.buzz^
+||xn--80aae0btu3d.life^
 ||xu-pay.me^
 ||xv-dopomoga.net^
 ||xwallet.website^
