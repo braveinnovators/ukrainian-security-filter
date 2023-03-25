@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 24 March 2023 12:30 EET
+! Last modified: Sat, 25 March 2023 12:54 EET
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -21,6 +21,7 @@
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
+||bank-verif.com^
 ||bank-viplata.online^
 ||blesk24.com^
 ||ca-pay.me^
@@ -53,6 +54,7 @@
 ||diyadopomoga.online^
 ||diyaviplati.co^
 ||diyaviplati.vip^
+||do-pom-oga.com^
 ||dochlend.com^
 ||domennet.com^
 ||domennn.com^
@@ -103,6 +105,8 @@
 ||edopomoga-gov.website^
 ||edopomoga.land^
 ||edopomoga.mobi^
+||edopomoga.today^
+||edopomoga.world^
 ||edopomogae.info^
 ||epidtrimka.com^
 ||epidtrumka.org^
@@ -111,6 +115,7 @@
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eviplata.vip^
+||facebook.com/groups/1350163552384956^$document
 ||facebook.com/News-Info-UA-107681682060482^$document
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
@@ -118,6 +123,7 @@
 ||facebook.com/profile.php?id=100088487322815^$document
 ||facebook.com/profile.php?id=100088981431611^$document
 ||facebook.com/profile.php?id=100090441506962^$document
+||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
@@ -278,6 +284,7 @@
 ||poshyq.com^
 ||poshyx.com^
 ||privat24-help.link^
+||privat24-next.ga^
 ||privat24-viplata-help.online^
 ||privat24.fun^
 ||privat24.press^
@@ -292,10 +299,12 @@
 ||pruity.com^
 ||prytulafoundation.net^
 ||prytulafoundation.site^
+||pumb-next.online^
 ||qs-dopomoga.me^
 ||quickpay.pw^
 ||quickpaymentss.expert^
 ||quicktrans.space^
+||raiffaisen-next.online^
 ||raiffeisen-uapay.shop^
 ||raiffeizen-viplata-help.online^
 ||raiffesen.pro^
@@ -329,10 +338,14 @@
 ||t.me/d0p0m0ga^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/doponoga8500^$document
+||t.me/DtekYASNO^$document
+||t.me/edopomogaOOH_bot^$document
 ||t.me/eDopomogaUA_official^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/doponoga8500^$document
+||t.me/s/DtekYASNO^$document
+||t.me/s/edopomogaOOH_bot^$document
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
