@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 24 March 2023 12:30 EET
+# Last modified: Sat, 25 March 2023 12:54 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -24,6 +24,7 @@ a-bank.dopomoga.social
 a-bank.dopomogas.com
 a-bank.dopomogasoshiall.website
 a-bank.edopomoga.land
+a-bank.edopomoga.today
 a-bank.eviplata.vip
 a-bank.gate-pays.me
 a-bank.glopay.site
@@ -61,6 +62,7 @@ apayments.pro
 bake-pays.me
 bank-com.biz
 bank-com.shop
+bank-verif.com
 bank-viplata.online
 blesk24.com
 ca-pay.me
@@ -97,6 +99,7 @@ diya-edopomoga.online
 diyadopomoga.online
 diyaviplati.co
 diyaviplati.vip
+do-pom-oga.com
 dochlend.com
 domennet.com
 domennn.com
@@ -152,7 +155,9 @@ edopomoga-gov.website
 edopomoga.edi6.site
 edopomoga.land
 edopomoga.mobi
+edopomoga.today
 edopomoga.udemixcr.com
+edopomoga.world
 edopomogae.info
 edopomogai24.edi6.site
 epidtrimka.com
@@ -290,6 +295,7 @@ next24.dopomoga.solutions
 next24.dopomogasoshiall.website
 next24.e-viplata.space
 next24.edopomoga.land
+next24.edopomoga.world
 next24.edopomogae.info
 next24.gate-pays.me
 next24.glopay.site
@@ -382,6 +388,7 @@ oschad.cq-pay.me
 oschad.dersch.online
 oschad.dershoplate.com
 oschad.diyaviplati.co
+oschad.do-pom-oga.com
 oschad.dochlend.com
 oschad.domennet.com
 oschad.domennn.com
@@ -397,6 +404,7 @@ oschad.dopomoga.solutions
 oschad.dopomogaonline.xyz
 oschad.dopomogasoshiall.website
 oschad.edopomoga.land
+oschad.edopomoga.world
 oschad.edopomogae.info
 oschad.finstor.online
 oschad.finua.online
@@ -460,11 +468,13 @@ oschadbank.amerisn.com
 oschadbank.bake-pays.me
 oschadbank.bank-com.biz
 oschadbank.bank-com.shop
+oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
 oschadbank.chydovo.com
 oschadbank.dengi.fyi
 oschadbank.donttech.com
 oschadbank.dopomogas.com
+oschadbank.edopomoga.today
 oschadbank.epidtrumka.org
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
@@ -557,11 +567,13 @@ poshyq.com
 poshyx.com
 privat.24unicef.org
 privat.bake-pays.me
+privat.bank-verif.com
 privat.chydovo.com
 privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
 privat.dopomogas.com
+privat.edopomoga.today
 privat.eviplata.vip
 privat.gertinn.com
 privat.po-mosh.com
@@ -580,6 +592,7 @@ privat.viplatavsem.site
 privat.vipplata.com
 privat.vorkviplata.biz
 privat24-help.link
+privat24-next.ga
 privat24-viplata-help.online
 privat24.apayments.pro
 privat24.com1465.website
@@ -618,6 +631,7 @@ prlvatbank24.pw
 pruity.com
 prytulafoundation.net
 prytulafoundation.site
+pumb-next.online
 pumb.3dss-pays.info
 pumb.ads-pid.me
 pumb.ca-pay.me
@@ -630,6 +644,7 @@ pumb.dopomoga.in
 pumb.dopomoga.social
 pumb.dopomogaooh.pro
 pumb.dopomogasoshiall.website
+pumb.edopomoga.today
 pumb.jay-order.me
 pumb.nato-gov.com
 pumb.no-pay.me
@@ -671,6 +686,7 @@ raif.ckx-pay.me
 raif.dersch.online
 raif.dershoplate.com
 raif.diyaviplati.co
+raif.do-pom-oga.com
 raif.dochlend.com
 raif.domennet.com
 raif.domennn.com
@@ -685,6 +701,7 @@ raif.dopomoga.solutions
 raif.dopomogaonline.xyz
 raif.dopomogasoshiall.website
 raif.edopomoga.land
+raif.edopomoga.world
 raif.edopomogae.info
 raif.finstor.online
 raif.finua.online
@@ -744,6 +761,7 @@ raif.vyplata-help.com
 raif.vyplaty.pro
 raif.xx-pay.co
 raif.yatreba.com
+raiffaisen-next.online
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
 raiffeisen.ads-pid.me
@@ -751,12 +769,14 @@ raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
 raiffeisen.bank-com.shop
+raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
 raiffeisen.chydovo.com
 raiffeisen.dengi.fyi
 raiffeisen.donttech.com
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
+raiffeisen.edopomoga.today
 raiffeisen.epidtrumka.org
 raiffeisen.eviplata.vip
 raiffeisen.gertinn.com
