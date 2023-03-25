@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 25 March 2023 12:54 EET
+# Last modified: Sat, 25 March 2023 19:24 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -25,6 +25,7 @@
 0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
 0.0.0.0 a-bank.edopomoga.today
+0.0.0.0 a-bank.epidtrymka.cloud
 0.0.0.0 a-bank.eviplata.vip
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
@@ -57,6 +58,7 @@
 0.0.0.0 abank.uadostawka.com
 0.0.0.0 abank.uah-perekaz24.com
 0.0.0.0 ads-pid.me
+0.0.0.0 aid-edopomoga.com
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 bake-pays.me
@@ -80,6 +82,7 @@
 0.0.0.0 compensations-ukrain.sbs
 0.0.0.0 compensationua.com
 0.0.0.0 compensationukr.com
+0.0.0.0 comreviews.club
 0.0.0.0 cq-pay.me
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
@@ -90,8 +93,15 @@
 0.0.0.0 dershoplate.com
 0.0.0.0 diadopomoga.me
 0.0.0.0 diafes.com
+0.0.0.0 diia-d0p0moga.com
 0.0.0.0 diia-dopomoga.pro
+0.0.0.0 diia-gov.com
+0.0.0.0 diia-gov.me
 0.0.0.0 diia-gov.pp.ua
+0.0.0.0 diia-uadopomogga.cloud
+0.0.0.0 diia-uadopomogga.me
+0.0.0.0 diia-uadopomogga.pro
+0.0.0.0 diiadopom0ga.click
 0.0.0.0 diiadopomoga.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
@@ -143,6 +153,7 @@
 0.0.0.0 dopomogi.top
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
+0.0.0.0 dovua.shop
 0.0.0.0 e-dopomoga-perekazy24.space
 0.0.0.0 e-dopomoga.click
 0.0.0.0 e-grivn.com
@@ -162,6 +173,7 @@
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrumka.org
+0.0.0.0 epidtrymka.cloud
 0.0.0.0 epomoh.biz
 0.0.0.0 epotrepa-edopomoga.org
 0.0.0.0 eu-dopomoga.com
@@ -297,6 +309,7 @@
 0.0.0.0 next24.edopomoga.land
 0.0.0.0 next24.edopomoga.world
 0.0.0.0 next24.edopomogae.info
+0.0.0.0 next24.epidtrymka.cloud
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
 0.0.0.0 next24.gon-order.me
@@ -406,6 +419,7 @@
 0.0.0.0 oschad.edopomoga.land
 0.0.0.0 oschad.edopomoga.world
 0.0.0.0 oschad.edopomogae.info
+0.0.0.0 oschad.epidtrymka.cloud
 0.0.0.0 oschad.finstor.online
 0.0.0.0 oschad.finua.online
 0.0.0.0 oschad.gate-pays.me
@@ -471,6 +485,7 @@
 0.0.0.0 oschadbank.bank-verif.com
 0.0.0.0 oschadbank.bank-viplata.online
 0.0.0.0 oschadbank.chydovo.com
+0.0.0.0 oschadbank.comreviews.club
 0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.donttech.com
 0.0.0.0 oschadbank.dopomogas.com
@@ -501,6 +516,7 @@
 0.0.0.0 oschadbank.viplatavsem.site
 0.0.0.0 oschadbank.vipplata.com
 0.0.0.0 oschadbank.vorkviplata.biz
+0.0.0.0 oschadbank.xn--80aae0btu3d.life
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
@@ -591,6 +607,7 @@
 0.0.0.0 privat.viplatavsem.site
 0.0.0.0 privat.vipplata.com
 0.0.0.0 privat.vorkviplata.biz
+0.0.0.0 privat.xn--80aae0btu3d.life
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
@@ -645,6 +662,7 @@
 0.0.0.0 pumb.dopomogaooh.pro
 0.0.0.0 pumb.dopomogasoshiall.website
 0.0.0.0 pumb.edopomoga.today
+0.0.0.0 pumb.epidtrymka.cloud
 0.0.0.0 pumb.jay-order.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
@@ -679,6 +697,7 @@
 0.0.0.0 quickpay.pw
 0.0.0.0 quickpaymentss.expert
 0.0.0.0 quicktrans.space
+0.0.0.0 raif-dopomoga.com
 0.0.0.0 raif.24get.site
 0.0.0.0 raif.blesk24.com
 0.0.0.0 raif.cake-payment.me
@@ -703,6 +722,7 @@
 0.0.0.0 raif.edopomoga.land
 0.0.0.0 raif.edopomoga.world
 0.0.0.0 raif.edopomogae.info
+0.0.0.0 raif.epidtrymka.cloud
 0.0.0.0 raif.finstor.online
 0.0.0.0 raif.finua.online
 0.0.0.0 raif.gate-pays.me
@@ -762,6 +782,7 @@
 0.0.0.0 raif.xx-pay.co
 0.0.0.0 raif.yatreba.com
 0.0.0.0 raiffaisen-next.online
+0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 raiffeisen.ads-pid.me
@@ -772,6 +793,7 @@
 0.0.0.0 raiffeisen.bank-verif.com
 0.0.0.0 raiffeisen.bank-viplata.online
 0.0.0.0 raiffeisen.chydovo.com
+0.0.0.0 raiffeisen.comreviews.club
 0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.donttech.com
 0.0.0.0 raiffeisen.dopomogas.com
@@ -799,6 +821,7 @@
 0.0.0.0 raiffeisen.viplatavsem.site
 0.0.0.0 raiffeisen.vipplata.com
 0.0.0.0 raiffeisen.vorkviplata.biz
+0.0.0.0 raiffeisen.xn--80aae0btu3d.life
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
 0.0.0.0 rastamogka.net
@@ -981,6 +1004,7 @@
 0.0.0.0 world-help.udemixcr.com
 0.0.0.0 wr-rescan.com
 0.0.0.0 x7-mikepike.buzz
+0.0.0.0 xn--80aae0btu3d.life
 0.0.0.0 xu-pay.me
 0.0.0.0 xv-dopomoga.net
 0.0.0.0 xwallet.website
