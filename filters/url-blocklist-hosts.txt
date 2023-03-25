@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 24 March 2023 12:30 EET
+# Last modified: Sat, 25 March 2023 12:54 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -24,6 +24,7 @@
 0.0.0.0 a-bank.dopomogas.com
 0.0.0.0 a-bank.dopomogasoshiall.website
 0.0.0.0 a-bank.edopomoga.land
+0.0.0.0 a-bank.edopomoga.today
 0.0.0.0 a-bank.eviplata.vip
 0.0.0.0 a-bank.gate-pays.me
 0.0.0.0 a-bank.glopay.site
@@ -61,6 +62,7 @@
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
+0.0.0.0 bank-verif.com
 0.0.0.0 bank-viplata.online
 0.0.0.0 blesk24.com
 0.0.0.0 ca-pay.me
@@ -97,6 +99,7 @@
 0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.co
 0.0.0.0 diyaviplati.vip
+0.0.0.0 do-pom-oga.com
 0.0.0.0 dochlend.com
 0.0.0.0 domennet.com
 0.0.0.0 domennn.com
@@ -152,7 +155,9 @@
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.land
 0.0.0.0 edopomoga.mobi
+0.0.0.0 edopomoga.today
 0.0.0.0 edopomoga.udemixcr.com
+0.0.0.0 edopomoga.world
 0.0.0.0 edopomogae.info
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 epidtrimka.com
@@ -290,6 +295,7 @@
 0.0.0.0 next24.dopomogasoshiall.website
 0.0.0.0 next24.e-viplata.space
 0.0.0.0 next24.edopomoga.land
+0.0.0.0 next24.edopomoga.world
 0.0.0.0 next24.edopomogae.info
 0.0.0.0 next24.gate-pays.me
 0.0.0.0 next24.glopay.site
@@ -382,6 +388,7 @@
 0.0.0.0 oschad.dersch.online
 0.0.0.0 oschad.dershoplate.com
 0.0.0.0 oschad.diyaviplati.co
+0.0.0.0 oschad.do-pom-oga.com
 0.0.0.0 oschad.dochlend.com
 0.0.0.0 oschad.domennet.com
 0.0.0.0 oschad.domennn.com
@@ -397,6 +404,7 @@
 0.0.0.0 oschad.dopomogaonline.xyz
 0.0.0.0 oschad.dopomogasoshiall.website
 0.0.0.0 oschad.edopomoga.land
+0.0.0.0 oschad.edopomoga.world
 0.0.0.0 oschad.edopomogae.info
 0.0.0.0 oschad.finstor.online
 0.0.0.0 oschad.finua.online
@@ -460,11 +468,13 @@
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.bank-com.shop
+0.0.0.0 oschadbank.bank-verif.com
 0.0.0.0 oschadbank.bank-viplata.online
 0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.donttech.com
 0.0.0.0 oschadbank.dopomogas.com
+0.0.0.0 oschadbank.edopomoga.today
 0.0.0.0 oschadbank.epidtrumka.org
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
@@ -557,11 +567,13 @@
 0.0.0.0 poshyx.com
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
+0.0.0.0 privat.bank-verif.com
 0.0.0.0 privat.chydovo.com
 0.0.0.0 privat.dengi.fyi
 0.0.0.0 privat.diafes.com
 0.0.0.0 privat.donttech.com
 0.0.0.0 privat.dopomogas.com
+0.0.0.0 privat.edopomoga.today
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.po-mosh.com
@@ -580,6 +592,7 @@
 0.0.0.0 privat.vipplata.com
 0.0.0.0 privat.vorkviplata.biz
 0.0.0.0 privat24-help.link
+0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.apayments.pro
 0.0.0.0 privat24.com1465.website
@@ -618,6 +631,7 @@
 0.0.0.0 pruity.com
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
+0.0.0.0 pumb-next.online
 0.0.0.0 pumb.3dss-pays.info
 0.0.0.0 pumb.ads-pid.me
 0.0.0.0 pumb.ca-pay.me
@@ -630,6 +644,7 @@
 0.0.0.0 pumb.dopomoga.social
 0.0.0.0 pumb.dopomogaooh.pro
 0.0.0.0 pumb.dopomogasoshiall.website
+0.0.0.0 pumb.edopomoga.today
 0.0.0.0 pumb.jay-order.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
@@ -671,6 +686,7 @@
 0.0.0.0 raif.dersch.online
 0.0.0.0 raif.dershoplate.com
 0.0.0.0 raif.diyaviplati.co
+0.0.0.0 raif.do-pom-oga.com
 0.0.0.0 raif.dochlend.com
 0.0.0.0 raif.domennet.com
 0.0.0.0 raif.domennn.com
@@ -685,6 +701,7 @@
 0.0.0.0 raif.dopomogaonline.xyz
 0.0.0.0 raif.dopomogasoshiall.website
 0.0.0.0 raif.edopomoga.land
+0.0.0.0 raif.edopomoga.world
 0.0.0.0 raif.edopomogae.info
 0.0.0.0 raif.finstor.online
 0.0.0.0 raif.finua.online
@@ -744,6 +761,7 @@
 0.0.0.0 raif.vyplaty.pro
 0.0.0.0 raif.xx-pay.co
 0.0.0.0 raif.yatreba.com
+0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 raiffeisen.ads-pid.me
@@ -751,12 +769,14 @@
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
 0.0.0.0 raiffeisen.bank-com.shop
+0.0.0.0 raiffeisen.bank-verif.com
 0.0.0.0 raiffeisen.bank-viplata.online
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.donttech.com
 0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
+0.0.0.0 raiffeisen.edopomoga.today
 0.0.0.0 raiffeisen.epidtrumka.org
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.gertinn.com
