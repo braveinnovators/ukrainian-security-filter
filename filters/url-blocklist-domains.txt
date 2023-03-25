@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 25 March 2023 12:54 EET
+# Last modified: Sat, 25 March 2023 19:24 EET
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -25,6 +25,7 @@ a-bank.dopomogas.com
 a-bank.dopomogasoshiall.website
 a-bank.edopomoga.land
 a-bank.edopomoga.today
+a-bank.epidtrymka.cloud
 a-bank.eviplata.vip
 a-bank.gate-pays.me
 a-bank.glopay.site
@@ -57,6 +58,7 @@ abank.peyidgo.pro
 abank.uadostawka.com
 abank.uah-perekaz24.com
 ads-pid.me
+aid-edopomoga.com
 amerisn.com
 apayments.pro
 bake-pays.me
@@ -80,6 +82,7 @@ compensations-ukrain.bar
 compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
+comreviews.club
 cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
@@ -90,8 +93,15 @@ dersch.online
 dershoplate.com
 diadopomoga.me
 diafes.com
+diia-d0p0moga.com
 diia-dopomoga.pro
+diia-gov.com
+diia-gov.me
 diia-gov.pp.ua
+diia-uadopomogga.cloud
+diia-uadopomogga.me
+diia-uadopomogga.pro
+diiadopom0ga.click
 diiadopomoga.pro
 diiapidpys.uk
 diiaua.com
@@ -143,6 +153,7 @@ dopomogaua.xyz
 dopomogi.top
 dopomogs-ukr.top
 dopomoha-ua.company.site
+dovua.shop
 e-dopomoga-perekazy24.space
 e-dopomoga.click
 e-grivn.com
@@ -162,6 +173,7 @@ edopomogae.info
 edopomogai24.edi6.site
 epidtrimka.com
 epidtrumka.org
+epidtrymka.cloud
 epomoh.biz
 epotrepa-edopomoga.org
 eu-dopomoga.com
@@ -297,6 +309,7 @@ next24.e-viplata.space
 next24.edopomoga.land
 next24.edopomoga.world
 next24.edopomogae.info
+next24.epidtrymka.cloud
 next24.gate-pays.me
 next24.glopay.site
 next24.gon-order.me
@@ -406,6 +419,7 @@ oschad.dopomogasoshiall.website
 oschad.edopomoga.land
 oschad.edopomoga.world
 oschad.edopomogae.info
+oschad.epidtrymka.cloud
 oschad.finstor.online
 oschad.finua.online
 oschad.gate-pays.me
@@ -471,6 +485,7 @@ oschadbank.bank-com.shop
 oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
 oschadbank.chydovo.com
+oschadbank.comreviews.club
 oschadbank.dengi.fyi
 oschadbank.donttech.com
 oschadbank.dopomogas.com
@@ -501,6 +516,7 @@ oschadbank.viplatavpo.biz
 oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
+oschadbank.xn--80aae0btu3d.life
 oschadbankuk.com
 oschadbankukr.com
 oschadnybank.com.ua
@@ -591,6 +607,7 @@ privat.viplatavpo.biz
 privat.viplatavsem.site
 privat.vipplata.com
 privat.vorkviplata.biz
+privat.xn--80aae0btu3d.life
 privat24-help.link
 privat24-next.ga
 privat24-viplata-help.online
@@ -645,6 +662,7 @@ pumb.dopomoga.social
 pumb.dopomogaooh.pro
 pumb.dopomogasoshiall.website
 pumb.edopomoga.today
+pumb.epidtrymka.cloud
 pumb.jay-order.me
 pumb.nato-gov.com
 pumb.no-pay.me
@@ -679,6 +697,7 @@ qs-dopomoga.me
 quickpay.pw
 quickpaymentss.expert
 quicktrans.space
+raif-dopomoga.com
 raif.24get.site
 raif.blesk24.com
 raif.cake-payment.me
@@ -703,6 +722,7 @@ raif.dopomogasoshiall.website
 raif.edopomoga.land
 raif.edopomoga.world
 raif.edopomogae.info
+raif.epidtrymka.cloud
 raif.finstor.online
 raif.finua.online
 raif.gate-pays.me
@@ -762,6 +782,7 @@ raif.vyplaty.pro
 raif.xx-pay.co
 raif.yatreba.com
 raiffaisen-next.online
+raiffeisen-approve.com
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
 raiffeisen.ads-pid.me
@@ -772,6 +793,7 @@ raiffeisen.bank-com.shop
 raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
 raiffeisen.chydovo.com
+raiffeisen.comreviews.club
 raiffeisen.dengi.fyi
 raiffeisen.donttech.com
 raiffeisen.dopomogas.com
@@ -799,6 +821,7 @@ raiffeisen.viplatavpo.biz
 raiffeisen.viplatavsem.site
 raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
+raiffeisen.xn--80aae0btu3d.life
 raiffeizen-viplata-help.online
 raiffesen.pro
 rastamogka.net
@@ -981,6 +1004,7 @@ weekpaidlife.top
 world-help.udemixcr.com
 wr-rescan.com
 x7-mikepike.buzz
+xn--80aae0btu3d.life
 xu-pay.me
 xv-dopomoga.net
 xwallet.website
