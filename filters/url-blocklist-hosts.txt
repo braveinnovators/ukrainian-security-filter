@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 25 March 2023 19:24 EET
+# Last modified: Sun, 26 March 2023 19:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -365,6 +365,7 @@
 0.0.0.0 next24.vuplatu.in
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
+0.0.0.0 next24.yrliqupay.com
 0.0.0.0 nextpay.pw
 0.0.0.0 no-pay.me
 0.0.0.0 nopersonexty.online
@@ -475,6 +476,7 @@
 0.0.0.0 oschad.wr-rescan.com
 0.0.0.0 oschad.xx-pay.co
 0.0.0.0 oschad.yatreba.com
+0.0.0.0 oschad.yrliqupay.com
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
@@ -781,6 +783,7 @@
 0.0.0.0 raif.vyplaty.pro
 0.0.0.0 raif.xx-pay.co
 0.0.0.0 raif.yatreba.com
+0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-uapay.shop
@@ -995,6 +998,7 @@
 0.0.0.0 vo-dopomoga.net
 0.0.0.0 vorkviplata.biz
 0.0.0.0 vostok.vorkviplata.biz
+0.0.0.0 vuplata.casa
 0.0.0.0 vuplatu.in
 0.0.0.0 vyplata-help.com
 0.0.0.0 vyplata24.com
@@ -1013,3 +1017,4 @@
 0.0.0.0 y-pay.pro
 0.0.0.0 y4-nurimuri.buzz
 0.0.0.0 yatreba.com
+0.0.0.0 yrliqupay.com
