@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 25 March 2023 19:24 EET
+# Last modified: Sun, 26 March 2023 19:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -365,6 +365,7 @@ address=/next24.viplatka.com/
 address=/next24.vuplatu.in/
 address=/next24.xx-pay.co/
 address=/next24.xx-pay.me/
+address=/next24.yrliqupay.com/
 address=/nextpay.pw/
 address=/no-pay.me/
 address=/nopersonexty.online/
@@ -475,6 +476,7 @@ address=/oschad.vyplata-help.com/
 address=/oschad.wr-rescan.com/
 address=/oschad.xx-pay.co/
 address=/oschad.yatreba.com/
+address=/oschad.yrliqupay.com/
 address=/oschadbank-inform.com.ua/
 address=/oschadbank-viplata-help.online/
 address=/oschadbank.ads-pid.me/
@@ -781,6 +783,7 @@ address=/raif.vyplata-help.com/
 address=/raif.vyplaty.pro/
 address=/raif.xx-pay.co/
 address=/raif.yatreba.com/
+address=/raif.yrliqupay.com/
 address=/raiffaisen-next.online/
 address=/raiffeisen-approve.com/
 address=/raiffeisen-uapay.shop/
@@ -995,6 +998,7 @@ address=/viuplata.com/
 address=/vo-dopomoga.net/
 address=/vorkviplata.biz/
 address=/vostok.vorkviplata.biz/
+address=/vuplata.casa/
 address=/vuplatu.in/
 address=/vyplata-help.com/
 address=/vyplata24.com/
@@ -1013,3 +1017,4 @@ address=/xx-pay.me/
 address=/y-pay.pro/
 address=/y4-nurimuri.buzz/
 address=/yatreba.com/
+address=/yrliqupay.com/
