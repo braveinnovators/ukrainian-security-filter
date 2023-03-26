@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 25 March 2023 19:24 EET
+! Last modified: Sun, 26 March 2023 19:25 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -136,6 +136,7 @@
 ||facebook.com/profile.php?id=100088981431611^$document
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
+||facebook.com/profile.php?id=100091443002635^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
@@ -351,12 +352,14 @@
 ||sutary.com^
 ||t.me/d0p0m0ga^$document
 ||t.me/dopomogaonline2023_bot^$document
+||t.me/dopomogaukraine7600^$document
 ||t.me/doponoga8500^$document
 ||t.me/DtekYASNO^$document
 ||t.me/edopomogaOOH_bot^$document
 ||t.me/eDopomogaUA_official^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/dopomogaonline2023_bot^$document
+||t.me/s/dopomogaukraine7600^$document
 ||t.me/s/doponoga8500^$document
 ||t.me/s/DtekYASNO^$document
 ||t.me/s/edopomogaOOH_bot^$document
@@ -493,6 +496,7 @@
 ||viuplata.com^
 ||vo-dopomoga.net^
 ||vorkviplata.biz^
+||vuplata.casa^
 ||vuplatu.in^
 ||vyplata-help.com^
 ||vyplata24.com^
@@ -510,3 +514,4 @@
 ||y-pay.pro^
 ||y4-nurimuri.buzz^
 ||yatreba.com^
+||yrliqupay.com^
