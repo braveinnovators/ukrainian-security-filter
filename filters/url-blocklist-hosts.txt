@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 26 March 2023 19:25 EEST
+# Last modified: Mon, 27 March 2023 17:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -83,6 +83,7 @@
 0.0.0.0 compensationua.com
 0.0.0.0 compensationukr.com
 0.0.0.0 comreviews.club
+0.0.0.0 cozialedop.info
 0.0.0.0 cq-pay.me
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
@@ -171,6 +172,8 @@
 0.0.0.0 edopomoga.world
 0.0.0.0 edopomogae.info
 0.0.0.0 edopomogai24.edi6.site
+0.0.0.0 edopomogaua.site
+0.0.0.0 edopomogaua.website
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
@@ -238,6 +241,7 @@
 0.0.0.0 kredo.securitypay.me
 0.0.0.0 kredobank.no-pay.me
 0.0.0.0 kyivstarbezlim.com
+0.0.0.0 likpay.me
 0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
 0.0.0.0 localregi.pro
@@ -316,6 +320,7 @@
 0.0.0.0 next24.govdia.pro
 0.0.0.0 next24.idregister.pro
 0.0.0.0 next24.jay-order.me
+0.0.0.0 next24.likpay.me
 0.0.0.0 next24.localregi.pro
 0.0.0.0 next24.nato-gov.com
 0.0.0.0 next24.next-bp.net
@@ -386,6 +391,7 @@
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
 0.0.0.0 online-pays.tech
 0.0.0.0 onlinediya.uk
+0.0.0.0 onlineviplata.me
 0.0.0.0 onlini24-oschadbank.osv6.site
 0.0.0.0 onlinis24-ukrsibbanci.uks6.site
 0.0.0.0 onlins24-oschadbank.osv6.site
@@ -427,6 +433,7 @@
 0.0.0.0 oschad.glopay.site
 0.0.0.0 oschad.gon-order.me
 0.0.0.0 oschad.jay-order.me
+0.0.0.0 oschad.likpay.me
 0.0.0.0 oschad.nato-gov.com
 0.0.0.0 oschad.newua.info
 0.0.0.0 oschad.next-bp.info
@@ -488,6 +495,7 @@
 0.0.0.0 oschadbank.bank-viplata.online
 0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.comreviews.club
+0.0.0.0 oschadbank.cozialedop.info
 0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.donttech.com
 0.0.0.0 oschadbank.dopomogas.com
@@ -498,6 +506,9 @@
 0.0.0.0 oschadbank.groshi.world
 0.0.0.0 oschadbank.k-auch.quest
 0.0.0.0 oschadbank.no-pay.me
+0.0.0.0 oschadbank.onlineviplata.me
+0.0.0.0 oschadbank.otrimanya.me
+0.0.0.0 oschadbank.pays-org.me
 0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
 0.0.0.0 oschadbank.reliefukraine.today
@@ -508,9 +519,12 @@
 0.0.0.0 oschadbank.top
 0.0.0.0 oschadbank.ua-send.site
 0.0.0.0 oschadbank.ua-send.website
+0.0.0.0 oschadbank.uahelp.press
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
+0.0.0.0 oschadbank.vil-ha.com
 0.0.0.0 oschadbank.viplata-com.store
+0.0.0.0 oschadbank.viplata.biz
 0.0.0.0 oschadbank.viplataes.site
 0.0.0.0 oschadbank.viplataes.vip
 0.0.0.0 oschadbank.viplatavop.club
@@ -519,6 +533,7 @@
 0.0.0.0 oschadbank.vipplata.com
 0.0.0.0 oschadbank.vorkviplata.biz
 0.0.0.0 oschadbank.xn--80aae0btu3d.life
+0.0.0.0 oschadbankoon.social
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
@@ -534,6 +549,7 @@
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pcs-order.me
 0.0.0.0 otp.ua-send.website
+0.0.0.0 otrimanya.me
 0.0.0.0 ox-pay.me
 0.0.0.0 p-invest.site
 0.0.0.0 pac-pay.online
@@ -551,6 +567,7 @@
 0.0.0.0 payment-system.cloud
 0.0.0.0 payments.prytulafoundation.net
 0.0.0.0 payments.prytulafoundation.site
+0.0.0.0 pays-org.me
 0.0.0.0 pays.cards
 0.0.0.0 pays.credit
 0.0.0.0 pays.creditcard
@@ -587,6 +604,7 @@
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.bank-verif.com
 0.0.0.0 privat.chydovo.com
+0.0.0.0 privat.cozialedop.info
 0.0.0.0 privat.dengi.fyi
 0.0.0.0 privat.diafes.com
 0.0.0.0 privat.donttech.com
@@ -600,8 +618,10 @@
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat.socialvuplata.net
 0.0.0.0 privat.sutary.com
+0.0.0.0 privat.uahelp.press
 0.0.0.0 privat.vi-plata.vip
 0.0.0.0 privat.viplata-com.store
+0.0.0.0 privat.viplata.biz
 0.0.0.0 privat.viplataes.site
 0.0.0.0 privat.viplataes.vip
 0.0.0.0 privat.viplatavop.club
@@ -640,6 +660,7 @@
 0.0.0.0 privat24.y-pay.pro
 0.0.0.0 privat24bank.net
 0.0.0.0 privat24investt.xyz
+0.0.0.0 privat24oon.social
 0.0.0.0 privatbank.cardpay.onl
 0.0.0.0 privatbank.in.ua
 0.0.0.0 privatbank.online-pays.tech
@@ -666,6 +687,7 @@
 0.0.0.0 pumb.edopomoga.today
 0.0.0.0 pumb.epidtrymka.cloud
 0.0.0.0 pumb.jay-order.me
+0.0.0.0 pumb.likpay.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
 0.0.0.0 pumb.np-pay.me
@@ -732,6 +754,7 @@
 0.0.0.0 raif.gon-order.me
 0.0.0.0 raif.helpforua.me
 0.0.0.0 raif.jay-order.me
+0.0.0.0 raif.likpay.me
 0.0.0.0 raif.nato-gov.com
 0.0.0.0 raif.next-bp.info
 0.0.0.0 raif.next-bp.net
@@ -797,6 +820,7 @@
 0.0.0.0 raiffeisen.bank-viplata.online
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.comreviews.club
+0.0.0.0 raiffeisen.cozialedop.info
 0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.donttech.com
 0.0.0.0 raiffeisen.dopomogas.com
@@ -809,14 +833,20 @@
 0.0.0.0 raiffeisen.helpua.top
 0.0.0.0 raiffeisen.k-auch.quest
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
+0.0.0.0 raiffeisen.onlineviplata.me
+0.0.0.0 raiffeisen.otrimanya.me
+0.0.0.0 raiffeisen.pays-org.me
 0.0.0.0 raiffeisen.po-teq.com
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
 0.0.0.0 raiffeisen.socialvuplata.net
 0.0.0.0 raiffeisen.sutary.com
+0.0.0.0 raiffeisen.uahelp.press
 0.0.0.0 raiffeisen.vi-plata.vip
+0.0.0.0 raiffeisen.vil-ha.com
 0.0.0.0 raiffeisen.viplata-com.store
+0.0.0.0 raiffeisen.viplata.biz
 0.0.0.0 raiffeisen.viplataes.site
 0.0.0.0 raiffeisen.viplataes.vip
 0.0.0.0 raiffeisen.viplatavop.club
@@ -825,6 +855,7 @@
 0.0.0.0 raiffeisen.vipplata.com
 0.0.0.0 raiffeisen.vorkviplata.biz
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
+0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
 0.0.0.0 rastamogka.net
@@ -836,6 +867,7 @@
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 rozym.com
+0.0.0.0 s1.edopomogaua.site
 0.0.0.0 saferegulatory.com
 0.0.0.0 secure2dpay.store
 0.0.0.0 secure3ds.org
@@ -891,6 +923,7 @@
 0.0.0.0 uadostawka.com
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
+0.0.0.0 uahelp.press
 0.0.0.0 uanext24help.icu
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.health
@@ -966,8 +999,10 @@
 0.0.0.0 uw-edopomoga.com
 0.0.0.0 vi-plata.com
 0.0.0.0 vi-plata.vip
+0.0.0.0 vil-ha.com
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata.agency
+0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
 0.0.0.0 viplata.digital
 0.0.0.0 viplata.foundation
