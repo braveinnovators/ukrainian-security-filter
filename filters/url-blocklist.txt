@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 26 March 2023 19:25 EEST
+! Last modified: Mon, 27 March 2023 17:30 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -40,6 +40,7 @@
 ||compensationua.com^
 ||compensationukr.com^
 ||comreviews.club^
+||cozialedop.info^
 ||cq-pay.me^
 ||deneg-help.top^
 ||dengi.fyi^
@@ -118,6 +119,8 @@
 ||edopomoga.today^
 ||edopomoga.world^
 ||edopomogae.info^
+||edopomogaua.site^
+||edopomogaua.website^
 ||epidtrimka.com^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
@@ -134,6 +137,8 @@
 ||facebook.com/profile.php?id=100088224776200^$document
 ||facebook.com/profile.php?id=100088487322815^$document
 ||facebook.com/profile.php?id=100088981431611^$document
+||facebook.com/profile.php?id=100089893400755^$document
+||facebook.com/profile.php?id=100089962761567^$document
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/profile.php?id=100091443002635^$document
@@ -190,6 +195,7 @@
 ||konkurs-golos.ltd^
 ||kpayments.cc^
 ||kyivstarbezlim.com^
+||likpay.me^
 ||linktr.ee/dopomoha.center^$document
 ||liqpay.info^
 ||localregi.pro^
@@ -237,6 +243,7 @@
 ||okpay24-grn.com^
 ||online-pays.tech^
 ||onlinediya.uk^
+||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
 ||opay365.com^
@@ -245,6 +252,7 @@
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
+||oschadbankoon.social^
 ||oschadbankuk.com^
 ||oschadbankukr.com^
 ||oschadnybank.com.ua^
@@ -254,6 +262,7 @@
 ||oshcadbank.top^
 ||osv6.site^
 ||osxi-ua.xyz^
+||otrimanya.me^
 ||ox-pay.me^
 ||p-invest.site^
 ||pac-pay.online^
@@ -266,6 +275,7 @@
 ||payboxua.com^
 ||payidgow.pro^
 ||payment-system.cloud^
+||pays-org.me^
 ||pays.cards^
 ||pays.credit^
 ||pays.creditcard^
@@ -305,6 +315,7 @@
 ||privat24.uno^
 ||privat24bank.net^
 ||privat24investt.xyz^
+||privat24oon.social^
 ||privatbank.in.ua^
 ||privatpay.me^
 ||privatpay.online^
@@ -321,6 +332,7 @@
 ||raiffaisen-next.online^
 ||raiffeisen-approve.com^
 ||raiffeisen-uapay.shop^
+||raiffeisenbankoon.social^
 ||raiffeizen-viplata-help.online^
 ||raiffesen.pro^
 ||rastamogka.net^
@@ -409,6 +421,7 @@
 ||uadostawka.com^
 ||uah-perekaz.com^
 ||uah-perekaz24.com^
+||uahelp.press^
 ||uanext24help.icu^
 ||uapay.cloud^
 ||uapay.health^
@@ -465,8 +478,10 @@
 ||uw-edopomoga.com^
 ||vi-plata.com^
 ||vi-plata.vip^
+||vil-ha.com^
 ||viplata-com.store^
 ||viplata.agency^
+||viplata.biz^
 ||viplata.club^
 ||viplata.digital^
 ||viplata.foundation^
