@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 26 March 2023 19:25 EEST
+# Last modified: Mon, 27 March 2023 17:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -83,6 +83,7 @@ compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
 comreviews.club
+cozialedop.info
 cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
@@ -171,6 +172,8 @@ edopomoga.udemixcr.com
 edopomoga.world
 edopomogae.info
 edopomogai24.edi6.site
+edopomogaua.site
+edopomogaua.website
 epidtrimka.com
 epidtrumka.org
 epidtrymka.cloud
@@ -238,6 +241,7 @@ kredo.pay-ukraine.com
 kredo.securitypay.me
 kredobank.no-pay.me
 kyivstarbezlim.com
+likpay.me
 linktr.ee/dopomoha.center
 liqpay.info
 localregi.pro
@@ -316,6 +320,7 @@ next24.gon-order.me
 next24.govdia.pro
 next24.idregister.pro
 next24.jay-order.me
+next24.likpay.me
 next24.localregi.pro
 next24.nato-gov.com
 next24.next-bp.net
@@ -386,6 +391,7 @@ olx-ua.recivemoney.icu
 onlin24-ukrsibbanck.uks6.site
 online-pays.tech
 onlinediya.uk
+onlineviplata.me
 onlini24-oschadbank.osv6.site
 onlinis24-ukrsibbanci.uks6.site
 onlins24-oschadbank.osv6.site
@@ -427,6 +433,7 @@ oschad.gate-pays.me
 oschad.glopay.site
 oschad.gon-order.me
 oschad.jay-order.me
+oschad.likpay.me
 oschad.nato-gov.com
 oschad.newua.info
 oschad.next-bp.info
@@ -488,6 +495,7 @@ oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
 oschadbank.chydovo.com
 oschadbank.comreviews.club
+oschadbank.cozialedop.info
 oschadbank.dengi.fyi
 oschadbank.donttech.com
 oschadbank.dopomogas.com
@@ -498,6 +506,9 @@ oschadbank.gertinn.com
 oschadbank.groshi.world
 oschadbank.k-auch.quest
 oschadbank.no-pay.me
+oschadbank.onlineviplata.me
+oschadbank.otrimanya.me
+oschadbank.pays-org.me
 oschadbank.po-mosh.com
 oschadbank.po-teq.com
 oschadbank.reliefukraine.today
@@ -508,9 +519,12 @@ oschadbank.sutary.com
 oschadbank.top
 oschadbank.ua-send.site
 oschadbank.ua-send.website
+oschadbank.uahelp.press
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
+oschadbank.vil-ha.com
 oschadbank.viplata-com.store
+oschadbank.viplata.biz
 oschadbank.viplataes.site
 oschadbank.viplataes.vip
 oschadbank.viplatavop.club
@@ -519,6 +533,7 @@ oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
 oschadbank.xn--80aae0btu3d.life
+oschadbankoon.social
 oschadbankuk.com
 oschadbankukr.com
 oschadnybank.com.ua
@@ -534,6 +549,7 @@ otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
 otp.ua-send.website
+otrimanya.me
 ox-pay.me
 p-invest.site
 pac-pay.online
@@ -551,6 +567,7 @@ payidgow.pro
 payment-system.cloud
 payments.prytulafoundation.net
 payments.prytulafoundation.site
+pays-org.me
 pays.cards
 pays.credit
 pays.creditcard
@@ -587,6 +604,7 @@ privat.24unicef.org
 privat.bake-pays.me
 privat.bank-verif.com
 privat.chydovo.com
+privat.cozialedop.info
 privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
@@ -600,8 +618,10 @@ privat.rozym.com
 privat.shepir.com
 privat.socialvuplata.net
 privat.sutary.com
+privat.uahelp.press
 privat.vi-plata.vip
 privat.viplata-com.store
+privat.viplata.biz
 privat.viplataes.site
 privat.viplataes.vip
 privat.viplatavop.club
@@ -640,6 +660,7 @@ privat24.xwallet.website
 privat24.y-pay.pro
 privat24bank.net
 privat24investt.xyz
+privat24oon.social
 privatbank.cardpay.onl
 privatbank.in.ua
 privatbank.online-pays.tech
@@ -666,6 +687,7 @@ pumb.dopomogasoshiall.website
 pumb.edopomoga.today
 pumb.epidtrymka.cloud
 pumb.jay-order.me
+pumb.likpay.me
 pumb.nato-gov.com
 pumb.no-pay.me
 pumb.np-pay.me
@@ -732,6 +754,7 @@ raif.glopay.site
 raif.gon-order.me
 raif.helpforua.me
 raif.jay-order.me
+raif.likpay.me
 raif.nato-gov.com
 raif.next-bp.info
 raif.next-bp.net
@@ -797,6 +820,7 @@ raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
 raiffeisen.chydovo.com
 raiffeisen.comreviews.club
+raiffeisen.cozialedop.info
 raiffeisen.dengi.fyi
 raiffeisen.donttech.com
 raiffeisen.dopomogas.com
@@ -809,14 +833,20 @@ raiffeisen.groshi.world
 raiffeisen.helpua.top
 raiffeisen.k-auch.quest
 raiffeisen.log-ins543325235345.cloud
+raiffeisen.onlineviplata.me
+raiffeisen.otrimanya.me
+raiffeisen.pays-org.me
 raiffeisen.po-teq.com
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
 raiffeisen.socialvuplata.net
 raiffeisen.sutary.com
+raiffeisen.uahelp.press
 raiffeisen.vi-plata.vip
+raiffeisen.vil-ha.com
 raiffeisen.viplata-com.store
+raiffeisen.viplata.biz
 raiffeisen.viplataes.site
 raiffeisen.viplataes.vip
 raiffeisen.viplatavop.club
@@ -825,6 +855,7 @@ raiffeisen.viplatavsem.site
 raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeisen.xn--80aae0btu3d.life
+raiffeisenbankoon.social
 raiffeizen-viplata-help.online
 raiffesen.pro
 rastamogka.net
@@ -836,6 +867,7 @@ rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
 rozym.com
+s1.edopomogaua.site
 saferegulatory.com
 secure2dpay.store
 secure3ds.org
@@ -891,6 +923,7 @@ uacompensation.xyz
 uadostawka.com
 uah-perekaz.com
 uah-perekaz24.com
+uahelp.press
 uanext24help.icu
 uapay.cloud
 uapay.health
@@ -966,8 +999,10 @@ uvyplata.icu
 uw-edopomoga.com
 vi-plata.com
 vi-plata.vip
+vil-ha.com
 viplata-com.store
 viplata.agency
+viplata.biz
 viplata.club
 viplata.digital
 viplata.foundation
