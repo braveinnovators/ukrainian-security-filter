@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 28 March 2023 12:21 EEST
+! Last modified: Tue, 28 March 2023 17:35 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -28,6 +28,7 @@
 ||ca-pay.me^
 ||cake-payment.me^
 ||cardpay.onl^
+||cashnew.pro^
 ||chydovo.com^
 ||ckx-pay.me^
 ||com1465.website^
@@ -40,6 +41,7 @@
 ||compensationua.com^
 ||compensationukr.com^
 ||comreviews.club^
+||coshi.online^
 ||cozialedop.info^
 ||cq-pay.me^
 ||deneg-help.top^
@@ -69,6 +71,7 @@
 ||domennet.com^
 ||domennn.com^
 ||donttech.com^
+||dopomegatm.me^
 ||dopomih.com^
 ||dopomoga-2023.top^
 ||dopomoga-aid.top^
@@ -128,6 +131,7 @@
 ||epotrepa-edopomoga.org^
 ||eu-dopomoga.com^
 ||eu-st.site^
+||eurohelp.tilda.ws^
 ||eviplata.vip^
 ||facebook.com/groups/1350163552384956^$document
 ||facebook.com/groups/555728743285368^$document
@@ -150,6 +154,7 @@
 ||finua.online^
 ||fl-work.com.ua^
 ||flexcapital.com^
+||fond-dopomogy.shop^
 ||g-pay.me^
 ||gate-pays.me^
 ||gertinn.com^
@@ -338,6 +343,7 @@
 ||rastamogka.net^
 ||recive-money.icu^
 ||recivemoney.icu^
+||rectivs.com^
 ||redcrossbezl.yolasite.com^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
@@ -380,10 +386,12 @@
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
 ||t.me/s/vyplaty_ukraine^$document
+||t.me/s/zayavka_ua_bot^$document
 ||t.me/ua_findopomoga^$document
 ||t.me/UA_OOH_bot^$document
 ||t.me/UkrainaDopomoga_UKR^$document
 ||t.me/vyplaty_ukraine^$document
+||t.me/zayavka_ua_bot^$document
 ||taplink.cc/diia.gov.com^$document
 ||tax-compensation.bar^
 ||tax-compenses.xyz^
@@ -419,9 +427,11 @@
 ||uacmplnk.xyz^
 ||uacompensation.xyz^
 ||uadostawka.com^
+||uaedopomoga-online^
 ||uah-perekaz.com^
 ||uah-perekaz24.com^
 ||uahelp.press^
+||uahs.buzz^
 ||uanext24help.icu^
 ||uapay.cloud^
 ||uapay.health^
