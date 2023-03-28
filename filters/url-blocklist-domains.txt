@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 27 March 2023 17:30 EEST
+# Last modified: Tue, 28 March 2023 12:21 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -527,11 +527,13 @@ oschadbank.viplata-com.store
 oschadbank.viplata.biz
 oschadbank.viplataes.site
 oschadbank.viplataes.vip
+oschadbank.viplatasozshial.club
 oschadbank.viplatavop.club
 oschadbank.viplatavpo.biz
 oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
+oschadbank.vuplatyi.com
 oschadbank.xn--80aae0btu3d.life
 oschadbankoon.social
 oschadbankuk.com
@@ -624,11 +626,13 @@ privat.viplata-com.store
 privat.viplata.biz
 privat.viplataes.site
 privat.viplataes.vip
+privat.viplatasozshial.club
 privat.viplatavop.club
 privat.viplatavpo.biz
 privat.viplatavsem.site
 privat.vipplata.com
 privat.vorkviplata.biz
+privat.vuplatyi.com
 privat.xn--80aae0btu3d.life
 privat24-help.link
 privat24-next.ga
@@ -849,11 +853,13 @@ raiffeisen.viplata-com.store
 raiffeisen.viplata.biz
 raiffeisen.viplataes.site
 raiffeisen.viplataes.vip
+raiffeisen.viplatasozshial.club
 raiffeisen.viplatavop.club
 raiffeisen.viplatavpo.biz
 raiffeisen.viplatavsem.site
 raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
+raiffeisen.vuplatyi.com
 raiffeisen.xn--80aae0btu3d.life
 raiffeisenbankoon.social
 raiffeizen-viplata-help.online
@@ -1016,6 +1022,7 @@ viplatadiya.site
 viplataes.site
 viplataes.vip
 viplatanow.online
+viplatasozshial.club
 viplataua.com
 viplataua.net
 viplataua.org
@@ -1035,6 +1042,7 @@ vorkviplata.biz
 vostok.vorkviplata.biz
 vuplata.casa
 vuplatu.in
+vuplatyi.com
 vyplata-help.com
 vyplata24.com
 vyplataua.com
