@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 27 March 2023 17:30 EEST
+# Last modified: Tue, 28 March 2023 12:21 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -527,11 +527,13 @@ address=/oschadbank.viplata-com.store/
 address=/oschadbank.viplata.biz/
 address=/oschadbank.viplataes.site/
 address=/oschadbank.viplataes.vip/
+address=/oschadbank.viplatasozshial.club/
 address=/oschadbank.viplatavop.club/
 address=/oschadbank.viplatavpo.biz/
 address=/oschadbank.viplatavsem.site/
 address=/oschadbank.vipplata.com/
 address=/oschadbank.vorkviplata.biz/
+address=/oschadbank.vuplatyi.com/
 address=/oschadbank.xn--80aae0btu3d.life/
 address=/oschadbankoon.social/
 address=/oschadbankuk.com/
@@ -624,11 +626,13 @@ address=/privat.viplata-com.store/
 address=/privat.viplata.biz/
 address=/privat.viplataes.site/
 address=/privat.viplataes.vip/
+address=/privat.viplatasozshial.club/
 address=/privat.viplatavop.club/
 address=/privat.viplatavpo.biz/
 address=/privat.viplatavsem.site/
 address=/privat.vipplata.com/
 address=/privat.vorkviplata.biz/
+address=/privat.vuplatyi.com/
 address=/privat.xn--80aae0btu3d.life/
 address=/privat24-help.link/
 address=/privat24-next.ga/
@@ -849,11 +853,13 @@ address=/raiffeisen.viplata-com.store/
 address=/raiffeisen.viplata.biz/
 address=/raiffeisen.viplataes.site/
 address=/raiffeisen.viplataes.vip/
+address=/raiffeisen.viplatasozshial.club/
 address=/raiffeisen.viplatavop.club/
 address=/raiffeisen.viplatavpo.biz/
 address=/raiffeisen.viplatavsem.site/
 address=/raiffeisen.vipplata.com/
 address=/raiffeisen.vorkviplata.biz/
+address=/raiffeisen.vuplatyi.com/
 address=/raiffeisen.xn--80aae0btu3d.life/
 address=/raiffeisenbankoon.social/
 address=/raiffeizen-viplata-help.online/
@@ -1016,6 +1022,7 @@ address=/viplatadiya.site/
 address=/viplataes.site/
 address=/viplataes.vip/
 address=/viplatanow.online/
+address=/viplatasozshial.club/
 address=/viplataua.com/
 address=/viplataua.net/
 address=/viplataua.org/
@@ -1035,6 +1042,7 @@ address=/vorkviplata.biz/
 address=/vostok.vorkviplata.biz/
 address=/vuplata.casa/
 address=/vuplatu.in/
+address=/vuplatyi.com/
 address=/vyplata-help.com/
 address=/vyplata24.com/
 address=/vyplataua.com/
