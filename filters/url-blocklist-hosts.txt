@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 28 March 2023 12:21 EEST
+# Last modified: Tue, 28 March 2023 17:35 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,7 @@
 0.0.0.0 ca-pay.me
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
+0.0.0.0 cashnew.pro
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
 0.0.0.0 com1465.website
@@ -83,6 +84,7 @@
 0.0.0.0 compensationua.com
 0.0.0.0 compensationukr.com
 0.0.0.0 comreviews.club
+0.0.0.0 coshi.online
 0.0.0.0 cozialedop.info
 0.0.0.0 cq-pay.me
 0.0.0.0 crediacgricole.no-pay.me
@@ -114,8 +116,11 @@
 0.0.0.0 dochlend.com
 0.0.0.0 domennet.com
 0.0.0.0 domennn.com
+0.0.0.0 domopoga-ua.coshi.online
 0.0.0.0 domopoga-ua.nopersonexty.online
+0.0.0.0 domopoga.coshi.online
 0.0.0.0 donttech.com
+0.0.0.0 dopomegatm.me
 0.0.0.0 dopomih.com
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-aid.top
@@ -181,12 +186,14 @@
 0.0.0.0 epotrepa-edopomoga.org
 0.0.0.0 eu-dopomoga.com
 0.0.0.0 eu-st.site
+0.0.0.0 eurohelp.tilda.ws
 0.0.0.0 eviplata.vip
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 finstor.online
 0.0.0.0 finua.online
 0.0.0.0 fl-work.com.ua
 0.0.0.0 flexcapital.com
+0.0.0.0 fond-dopomogy.shop
 0.0.0.0 g-pay.me
 0.0.0.0 gate-pays.me
 0.0.0.0 gertinn.com
@@ -291,6 +298,7 @@
 0.0.0.0 next-privat24.online
 0.0.0.0 next.privat24.fun
 0.0.0.0 next24.blesk24.com
+0.0.0.0 next24.cashnew.pro
 0.0.0.0 next24.ckx-pay.me
 0.0.0.0 next24.cq-pay.me
 0.0.0.0 next24.dersch.online
@@ -347,6 +355,7 @@
 0.0.0.0 next24.popomoga.com
 0.0.0.0 next24.poshyx.com
 0.0.0.0 next24.privat.today
+0.0.0.0 next24.rectivs.com
 0.0.0.0 next24.securitypay.me
 0.0.0.0 next24.soc-order.me
 0.0.0.0 next24.socialassistance.social
@@ -610,6 +619,7 @@
 0.0.0.0 privat.dengi.fyi
 0.0.0.0 privat.diafes.com
 0.0.0.0 privat.donttech.com
+0.0.0.0 privat.dopomegatm.me
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.edopomoga.today
 0.0.0.0 privat.eviplata.vip
@@ -794,6 +804,7 @@
 0.0.0.0 raif.ua-send.website
 0.0.0.0 raif.ua-viplata.me
 0.0.0.0 raif.uadostawka.com
+0.0.0.0 raif.uahs.buzz
 0.0.0.0 raif.uasocial-viplata.company
 0.0.0.0 raif.ukreyns.com
 0.0.0.0 raif.ul-pay.me
@@ -867,6 +878,7 @@
 0.0.0.0 rastamogka.net
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
+0.0.0.0 rectivs.com
 0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
@@ -927,9 +939,11 @@
 0.0.0.0 uacmplnk.xyz
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uadostawka.com
+0.0.0.0 uaedopomoga-online
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
 0.0.0.0 uahelp.press
+0.0.0.0 uahs.buzz
 0.0.0.0 uanext24help.icu
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.health
@@ -984,6 +998,7 @@
 0.0.0.0 ukrsib.poshyx.com
 0.0.0.0 ukrsib.securitypay.me
 0.0.0.0 ukrsib.sutary.com
+0.0.0.0 ukrsib.uaedopomoga-online.com
 0.0.0.0 ukrsib.uasocial-viplata.company
 0.0.0.0 ukrsib.vi-plata.com
 0.0.0.0 ukrsib.viplata.digital
