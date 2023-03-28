@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 27 March 2023 17:30 EEST
+# Last modified: Tue, 28 March 2023 12:21 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -527,11 +527,13 @@
 0.0.0.0 oschadbank.viplata.biz
 0.0.0.0 oschadbank.viplataes.site
 0.0.0.0 oschadbank.viplataes.vip
+0.0.0.0 oschadbank.viplatasozshial.club
 0.0.0.0 oschadbank.viplatavop.club
 0.0.0.0 oschadbank.viplatavpo.biz
 0.0.0.0 oschadbank.viplatavsem.site
 0.0.0.0 oschadbank.vipplata.com
 0.0.0.0 oschadbank.vorkviplata.biz
+0.0.0.0 oschadbank.vuplatyi.com
 0.0.0.0 oschadbank.xn--80aae0btu3d.life
 0.0.0.0 oschadbankoon.social
 0.0.0.0 oschadbankuk.com
@@ -624,11 +626,13 @@
 0.0.0.0 privat.viplata.biz
 0.0.0.0 privat.viplataes.site
 0.0.0.0 privat.viplataes.vip
+0.0.0.0 privat.viplatasozshial.club
 0.0.0.0 privat.viplatavop.club
 0.0.0.0 privat.viplatavpo.biz
 0.0.0.0 privat.viplatavsem.site
 0.0.0.0 privat.vipplata.com
 0.0.0.0 privat.vorkviplata.biz
+0.0.0.0 privat.vuplatyi.com
 0.0.0.0 privat.xn--80aae0btu3d.life
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-next.ga
@@ -849,11 +853,13 @@
 0.0.0.0 raiffeisen.viplata.biz
 0.0.0.0 raiffeisen.viplataes.site
 0.0.0.0 raiffeisen.viplataes.vip
+0.0.0.0 raiffeisen.viplatasozshial.club
 0.0.0.0 raiffeisen.viplatavop.club
 0.0.0.0 raiffeisen.viplatavpo.biz
 0.0.0.0 raiffeisen.viplatavsem.site
 0.0.0.0 raiffeisen.vipplata.com
 0.0.0.0 raiffeisen.vorkviplata.biz
+0.0.0.0 raiffeisen.vuplatyi.com
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeizen-viplata-help.online
@@ -1016,6 +1022,7 @@
 0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
 0.0.0.0 viplatanow.online
+0.0.0.0 viplatasozshial.club
 0.0.0.0 viplataua.com
 0.0.0.0 viplataua.net
 0.0.0.0 viplataua.org
@@ -1035,6 +1042,7 @@
 0.0.0.0 vostok.vorkviplata.biz
 0.0.0.0 vuplata.casa
 0.0.0.0 vuplatu.in
+0.0.0.0 vuplatyi.com
 0.0.0.0 vyplata-help.com
 0.0.0.0 vyplata24.com
 0.0.0.0 vyplataua.com
