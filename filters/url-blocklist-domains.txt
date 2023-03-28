@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 28 March 2023 12:21 EEST
+# Last modified: Tue, 28 March 2023 17:35 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,7 @@ blesk24.com
 ca-pay.me
 cake-payment.me
 cardpay.onl
+cashnew.pro
 chydovo.com
 ckx-pay.me
 com1465.website
@@ -83,6 +84,7 @@ compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
 comreviews.club
+coshi.online
 cozialedop.info
 cq-pay.me
 crediacgricole.no-pay.me
@@ -114,8 +116,11 @@ do-pom-oga.com
 dochlend.com
 domennet.com
 domennn.com
+domopoga-ua.coshi.online
 domopoga-ua.nopersonexty.online
+domopoga.coshi.online
 donttech.com
+dopomegatm.me
 dopomih.com
 dopomoga-2023.top
 dopomoga-aid.top
@@ -181,12 +186,14 @@ epomoh.biz
 epotrepa-edopomoga.org
 eu-dopomoga.com
 eu-st.site
+eurohelp.tilda.ws
 eviplata.vip
 finance-dopomoga.site
 finstor.online
 finua.online
 fl-work.com.ua
 flexcapital.com
+fond-dopomogy.shop
 g-pay.me
 gate-pays.me
 gertinn.com
@@ -291,6 +298,7 @@ next-bp.net
 next-privat24.online
 next.privat24.fun
 next24.blesk24.com
+next24.cashnew.pro
 next24.ckx-pay.me
 next24.cq-pay.me
 next24.dersch.online
@@ -347,6 +355,7 @@ next24.peyidgo.pro
 next24.popomoga.com
 next24.poshyx.com
 next24.privat.today
+next24.rectivs.com
 next24.securitypay.me
 next24.soc-order.me
 next24.socialassistance.social
@@ -610,6 +619,7 @@ privat.cozialedop.info
 privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
+privat.dopomegatm.me
 privat.dopomogas.com
 privat.edopomoga.today
 privat.eviplata.vip
@@ -794,6 +804,7 @@ raif.ua-send.site
 raif.ua-send.website
 raif.ua-viplata.me
 raif.uadostawka.com
+raif.uahs.buzz
 raif.uasocial-viplata.company
 raif.ukreyns.com
 raif.ul-pay.me
@@ -867,6 +878,7 @@ raiffesen.pro
 rastamogka.net
 recive-money.icu
 recivemoney.icu
+rectivs.com
 redcrossbezl.yolasite.com
 reliefukraine.today
 rozetkaukraine.cc
@@ -927,9 +939,11 @@ uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
 uadostawka.com
+uaedopomoga-online
 uah-perekaz.com
 uah-perekaz24.com
 uahelp.press
+uahs.buzz
 uanext24help.icu
 uapay.cloud
 uapay.health
@@ -984,6 +998,7 @@ ukrsib.pcs-order.me
 ukrsib.poshyx.com
 ukrsib.securitypay.me
 ukrsib.sutary.com
+ukrsib.uaedopomoga-online.com
 ukrsib.uasocial-viplata.company
 ukrsib.vi-plata.com
 ukrsib.viplata.digital
