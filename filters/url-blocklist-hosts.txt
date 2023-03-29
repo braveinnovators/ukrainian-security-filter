@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 15:35 EEST
+# Last modified: Wed, 29 March 2023 20:14 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -211,6 +211,7 @@
 0.0.0.0 gg-pay.me
 0.0.0.0 glopay.site
 0.0.0.0 gon-order.me
+0.0.0.0 gos-cash.top
 0.0.0.0 gos-dopomoga.top
 0.0.0.0 gos-ukraine.info
 0.0.0.0 gosdopomoga.com
@@ -302,6 +303,7 @@
 0.0.0.0 neobank.idopomoga.online
 0.0.0.0 neobank.pcs-order.me
 0.0.0.0 neobank.vorkviplata.biz
+0.0.0.0 news-debet.kyiv.ua
 0.0.0.0 newsukraine3.yolasite.com
 0.0.0.0 newua.info
 0.0.0.0 next-24.next-bp.net
@@ -550,6 +552,7 @@
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.vil-ha.com
+0.0.0.0 oschadbank.vip-onlain.site
 0.0.0.0 oschadbank.viplata-com.store
 0.0.0.0 oschadbank.viplata.biz
 0.0.0.0 oschadbank.viplataes.site
@@ -605,6 +608,7 @@
 0.0.0.0 paysdayl.click
 0.0.0.0 paystarted.com
 0.0.0.0 pcs-order.me
+0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz-perek.com
 0.0.0.0 perekaz.com
 0.0.0.0 perekaz24privat.com
@@ -629,6 +633,7 @@
 0.0.0.0 popolnim.info
 0.0.0.0 popolnimob.com
 0.0.0.0 popomoga.com
+0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 poshyq.com
 0.0.0.0 poshyx.com
 0.0.0.0 privat.24unicef.org
@@ -655,6 +660,7 @@
 0.0.0.0 privat.sutary.com
 0.0.0.0 privat.uahelp.press
 0.0.0.0 privat.vi-plata.vip
+0.0.0.0 privat.vip-onlain.site
 0.0.0.0 privat.viplata-com.store
 0.0.0.0 privat.viplata.biz
 0.0.0.0 privat.viplataes.site
@@ -698,6 +704,7 @@
 0.0.0.0 privat24.xwallet.website
 0.0.0.0 privat24.y-pay.pro
 0.0.0.0 privat24bank.net
+0.0.0.0 privat24eviplati.online
 0.0.0.0 privat24investt.xyz
 0.0.0.0 privat24oon.social
 0.0.0.0 privatbank.cardpay.onl
@@ -749,6 +756,7 @@
 0.0.0.0 pumb.ul-pay.me
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.vi-plata.com
+0.0.0.0 pumb.vip-onlain.site
 0.0.0.0 pumb.viplata.fun
 0.0.0.0 pumb.viplataes.site
 0.0.0.0 pumb.viplataua.shop
@@ -889,6 +897,7 @@
 0.0.0.0 raiffeisen.uahelp.press
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.vil-ha.com
+0.0.0.0 raiffeisen.vip-onlain.site
 0.0.0.0 raiffeisen.viplata-com.store
 0.0.0.0 raiffeisen.viplata.biz
 0.0.0.0 raiffeisen.viplataes.site
@@ -1054,6 +1063,7 @@
 0.0.0.0 vi-plata.com
 0.0.0.0 vi-plata.vip
 0.0.0.0 vil-ha.com
+0.0.0.0 vip-onlain.site
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
