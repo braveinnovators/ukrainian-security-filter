@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 15:35 EEST
+# Last modified: Wed, 29 March 2023 20:14 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -211,6 +211,7 @@ address=/getfunds.pw/
 address=/gg-pay.me/
 address=/glopay.site/
 address=/gon-order.me/
+address=/gos-cash.top/
 address=/gos-dopomoga.top/
 address=/gos-ukraine.info/
 address=/gosdopomoga.com/
@@ -302,6 +303,7 @@ address=/nato-gov.com/
 address=/neobank.idopomoga.online/
 address=/neobank.pcs-order.me/
 address=/neobank.vorkviplata.biz/
+address=/news-debet.kyiv.ua/
 address=/newsukraine3.yolasite.com/
 address=/newua.info/
 address=/next-24.next-bp.net/
@@ -550,6 +552,7 @@ address=/oschadbank.uahelp.press/
 address=/oschadbank.ul-pay.me/
 address=/oschadbank.vi-plata.vip/
 address=/oschadbank.vil-ha.com/
+address=/oschadbank.vip-onlain.site/
 address=/oschadbank.viplata-com.store/
 address=/oschadbank.viplata.biz/
 address=/oschadbank.viplataes.site/
@@ -605,6 +608,7 @@ address=/pays.creditcard/
 address=/paysdayl.click/
 address=/paystarted.com/
 address=/pcs-order.me/
+address=/perekaz-koshtiv.online/
 address=/perekaz-perek.com/
 address=/perekaz.com/
 address=/perekaz24privat.com/
@@ -629,6 +633,7 @@ address=/popolni.info/
 address=/popolnim.info/
 address=/popolnimob.com/
 address=/popomoga.com/
+address=/portal-diya.kyiv.ua/
 address=/poshyq.com/
 address=/poshyx.com/
 address=/privat.24unicef.org/
@@ -655,6 +660,7 @@ address=/privat.socialvuplata.net/
 address=/privat.sutary.com/
 address=/privat.uahelp.press/
 address=/privat.vi-plata.vip/
+address=/privat.vip-onlain.site/
 address=/privat.viplata-com.store/
 address=/privat.viplata.biz/
 address=/privat.viplataes.site/
@@ -698,6 +704,7 @@ address=/privat24.vuplata.online/
 address=/privat24.xwallet.website/
 address=/privat24.y-pay.pro/
 address=/privat24bank.net/
+address=/privat24eviplati.online/
 address=/privat24investt.xyz/
 address=/privat24oon.social/
 address=/privatbank.cardpay.onl/
@@ -749,6 +756,7 @@ address=/pumb.uasocial-viplata.company/
 address=/pumb.ul-pay.me/
 address=/pumb.upayment.me/
 address=/pumb.vi-plata.com/
+address=/pumb.vip-onlain.site/
 address=/pumb.viplata.fun/
 address=/pumb.viplataes.site/
 address=/pumb.viplataua.shop/
@@ -889,6 +897,7 @@ address=/raiffeisen.sutary.com/
 address=/raiffeisen.uahelp.press/
 address=/raiffeisen.vi-plata.vip/
 address=/raiffeisen.vil-ha.com/
+address=/raiffeisen.vip-onlain.site/
 address=/raiffeisen.viplata-com.store/
 address=/raiffeisen.viplata.biz/
 address=/raiffeisen.viplataes.site/
@@ -1054,6 +1063,7 @@ address=/uw-edopomoga.com/
 address=/vi-plata.com/
 address=/vi-plata.vip/
 address=/vil-ha.com/
+address=/vip-onlain.site/
 address=/viplata-com.store/
 address=/viplata.agency/
 address=/viplata.biz/
