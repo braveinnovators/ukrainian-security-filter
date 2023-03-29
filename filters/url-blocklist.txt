@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 28 March 2023 17:35 EEST
+! Last modified: Wed, 29 March 2023 15:35 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -24,6 +24,7 @@
 ||bank-com.shop^
 ||bank-verif.com^
 ||bank-viplata.online^
+||bankverif.live^
 ||blesk24.com^
 ||ca-pay.me^
 ||cake-payment.me^
@@ -98,6 +99,11 @@
 ||dopomogaa.site^
 ||dopomogaa.website^
 ||dopomogadia.me^
+||dopomogae.eu^
+||dopomogae.info^
+||dopomogae.online^
+||dopomogae.social^
+||dopomogae.xyz^
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
 ||dopomogaooh.pro^
@@ -117,6 +123,8 @@
 ||ed-edopomoga.com^
 ||edi6.site^
 ||edopomoga-gov.website^
+||edopomoga-viplata.com^
+||edopomoga-vyplata.com^
 ||edopomoga.land^
 ||edopomoga.mobi^
 ||edopomoga.today^
@@ -129,12 +137,14 @@
 ||epidtrymka.cloud^
 ||epomoh.biz^
 ||epotrepa-edopomoga.org^
+||escrowbox.online^
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eurohelp.tilda.ws^
 ||eviplata.vip^
 ||facebook.com/groups/1350163552384956^$document
 ||facebook.com/groups/555728743285368^$document
+||facebook.com/groups/878353433127852^$document
 ||facebook.com/News-Info-UA-107681682060482^$document
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
@@ -146,6 +156,8 @@
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/profile.php?id=100091443002635^$document
+||facebook.com/profile.php?id=100091514463233^$document
+||facebook.com/profile.php?id=100091549560072^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
@@ -193,6 +205,7 @@
 ||infcjal.cn^
 ||j9-wersii.buzz^
 ||jay-order.me^
+||k-auch.buzz^
 ||k-auch.quest^
 ||kievstar.online^
 ||klespo.site^
@@ -200,6 +213,7 @@
 ||konkurs-golos.ltd^
 ||kpayments.cc^
 ||kyivstarbezlim.com^
+||lataepitrimka.vip^
 ||likpay.me^
 ||linktr.ee/dopomoha.center^$document
 ||liqpay.info^
@@ -354,6 +368,7 @@
 ||secure2dpay.store^
 ||secure3ds.org^
 ||securitypay.me^
+||securitypays.online^
 ||sendex.online^
 ||shepir.com^
 ||sites.google.com/view/d362g5d2^$document
@@ -375,6 +390,7 @@
 ||t.me/DtekYASNO^$document
 ||t.me/edopomogaOOH_bot^$document
 ||t.me/eDopomogaUA_official^$document
+||t.me/esviatoloveUA^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogaukraine7600^$document
@@ -382,6 +398,7 @@
 ||t.me/s/DtekYASNO^$document
 ||t.me/s/edopomogaOOH_bot^$document
 ||t.me/s/eDopomogaUA_official^$document
+||t.me/s/esviatoloveUA^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
@@ -426,6 +443,7 @@
 ||uabayrakua.com^
 ||uacmplnk.xyz^
 ||uacompensation.xyz^
+||uadia.buzz^
 ||uadostawka.com^
 ||uaedopomoga-online^
 ||uah-perekaz.com^
@@ -505,6 +523,7 @@
 ||viplataes.site^
 ||viplataes.vip^
 ||viplatanow.online^
+||viplataonline.com^
 ||viplatasozshial.club^
 ||viplataua.com^
 ||viplataua.net^
@@ -523,12 +542,14 @@
 ||vo-dopomoga.net^
 ||vorkviplata.biz^
 ||vuplata.casa^
+||vuplata.online^
 ||vuplatu.in^
 ||vuplatyi.com^
 ||vyplata-help.com^
 ||vyplata24.com^
 ||vyplataua.com^
 ||vyplaty.pro^
+||vyplatyedopomoga.com^
 ||weekpaidlife.top^
 ||wr-rescan.com^
 ||x7-mikepike.buzz^
