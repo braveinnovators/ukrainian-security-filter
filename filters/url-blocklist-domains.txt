@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 28 March 2023 17:35 EEST
+# Last modified: Wed, 29 March 2023 15:35 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -66,6 +66,7 @@ bank-com.biz
 bank-com.shop
 bank-verif.com
 bank-viplata.online
+bankverif.live
 blesk24.com
 ca-pay.me
 cake-payment.me
@@ -90,6 +91,7 @@ cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
+credit-agricole.vuplata.online
 deneg-help.top
 dengi.fyi
 dersch.online
@@ -150,6 +152,11 @@ dopomogaa-id03914.website
 dopomogaa.site
 dopomogaa.website
 dopomogadia.me
+dopomogae.eu
+dopomogae.info
+dopomogae.online
+dopomogae.social
+dopomogae.xyz
 dopomogainukraine.com
 dopomogaonline.xyz
 dopomogaooh.pro
@@ -169,6 +176,8 @@ ec-compensation.xyz
 ed-edopomoga.com
 edi6.site
 edopomoga-gov.website
+edopomoga-viplata.com
+edopomoga-vyplata.com
 edopomoga.edi6.site
 edopomoga.land
 edopomoga.mobi
@@ -184,6 +193,7 @@ epidtrumka.org
 epidtrymka.cloud
 epomoh.biz
 epotrepa-edopomoga.org
+escrowbox.online
 eu-dopomoga.com
 eu-st.site
 eurohelp.tilda.ws
@@ -238,6 +248,7 @@ izibank.pay-ukraine.com
 izibank.vorkviplata.biz
 j9-wersii.buzz
 jay-order.me
+k-auch.buzz
 k-auch.quest
 kievstar.online
 klespo.site
@@ -248,6 +259,7 @@ kredo.pay-ukraine.com
 kredo.securitypay.me
 kredobank.no-pay.me
 kyivstarbezlim.com
+lataepitrimka.vip
 likpay.me
 linktr.ee/dopomoha.center
 liqpay.info
@@ -357,12 +369,14 @@ next24.poshyx.com
 next24.privat.today
 next24.rectivs.com
 next24.securitypay.me
+next24.securitypays.online
 next24.soc-order.me
 next24.socialassistance.social
 next24.socialassistancefromedopomaka.social
 next24.speed-perekaz.com
 next24.tsa.airforce
 next24.ua-receipt.com
+next24.uadia.buzz
 next24.uadostawka.com
 next24.uah-perekaz.com
 next24.uasocial-viplata.company
@@ -469,6 +483,7 @@ oschad.poshyx.com
 oschad.privat.today
 oschad.pruity.com
 oschad.securitypay.me
+oschad.securitypays.online
 oschad.soc-order.me
 oschad.socialassistance.social
 oschad.socialassistancefromedopomaka.social
@@ -502,11 +517,13 @@ oschadbank.bank-com.biz
 oschadbank.bank-com.shop
 oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
+oschadbank.bankverif.live
 oschadbank.chydovo.com
 oschadbank.comreviews.club
 oschadbank.cozialedop.info
 oschadbank.dengi.fyi
 oschadbank.donttech.com
+oschadbank.dopomogae.info
 oschadbank.dopomogas.com
 oschadbank.edopomoga.today
 oschadbank.epidtrumka.org
@@ -514,6 +531,7 @@ oschadbank.eviplata.vip
 oschadbank.gertinn.com
 oschadbank.groshi.world
 oschadbank.k-auch.quest
+oschadbank.lataepitrimka.vip
 oschadbank.no-pay.me
 oschadbank.onlineviplata.me
 oschadbank.otrimanya.me
@@ -536,12 +554,14 @@ oschadbank.viplata-com.store
 oschadbank.viplata.biz
 oschadbank.viplataes.site
 oschadbank.viplataes.vip
+oschadbank.viplataonline.com
 oschadbank.viplatasozshial.club
 oschadbank.viplatavop.club
 oschadbank.viplatavpo.biz
 oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
+oschadbank.vuplata.online
 oschadbank.vuplatyi.com
 oschadbank.xn--80aae0btu3d.life
 oschadbankoon.social
@@ -614,16 +634,19 @@ poshyx.com
 privat.24unicef.org
 privat.bake-pays.me
 privat.bank-verif.com
+privat.bankverif.live
 privat.chydovo.com
 privat.cozialedop.info
 privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
 privat.dopomegatm.me
+privat.dopomogae.info
 privat.dopomogas.com
 privat.edopomoga.today
 privat.eviplata.vip
 privat.gertinn.com
+privat.lataepitrimka.vip
 privat.po-mosh.com
 privat.po-teq.com
 privat.rozym.com
@@ -636,6 +659,7 @@ privat.viplata-com.store
 privat.viplata.biz
 privat.viplataes.site
 privat.viplataes.vip
+privat.viplataonline.com
 privat.viplatasozshial.club
 privat.viplatavop.club
 privat.viplatavpo.biz
@@ -670,6 +694,7 @@ privat24.ua-send.site
 privat24.ua-send.website
 privat24.uasafe.online
 privat24.uno
+privat24.vuplata.online
 privat24.xwallet.website
 privat24.y-pay.pro
 privat24bank.net
@@ -816,6 +841,7 @@ raif.viplata.space
 raif.viplatanow.online
 raif.viplataua.shop
 raif.viplatka.com
+raif.vuplata.online
 raif.vuplatu.in
 raif.vyplata-help.com
 raif.vyplaty.pro
@@ -833,11 +859,13 @@ raiffeisen.bank-com.biz
 raiffeisen.bank-com.shop
 raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
+raiffeisen.bankverif.live
 raiffeisen.chydovo.com
 raiffeisen.comreviews.club
 raiffeisen.cozialedop.info
 raiffeisen.dengi.fyi
 raiffeisen.donttech.com
+raiffeisen.dopomogae.info
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.edopomoga.today
@@ -847,6 +875,7 @@ raiffeisen.gertinn.com
 raiffeisen.groshi.world
 raiffeisen.helpua.top
 raiffeisen.k-auch.quest
+raiffeisen.lataepitrimka.vip
 raiffeisen.log-ins543325235345.cloud
 raiffeisen.onlineviplata.me
 raiffeisen.otrimanya.me
@@ -864,6 +893,7 @@ raiffeisen.viplata-com.store
 raiffeisen.viplata.biz
 raiffeisen.viplataes.site
 raiffeisen.viplataes.vip
+raiffeisen.viplataonline.com
 raiffeisen.viplatasozshial.club
 raiffeisen.viplatavop.club
 raiffeisen.viplatavpo.biz
@@ -890,6 +920,7 @@ saferegulatory.com
 secure2dpay.store
 secure3ds.org
 securitypay.me
+securitypays.online
 sendex.online
 shepir.com
 sites.google.com/view/d362g5d2
@@ -938,6 +969,7 @@ ua24kompensacy.yolasite.com
 uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
+uadia.buzz
 uadostawka.com
 uaedopomoga-online
 uah-perekaz.com
@@ -1003,6 +1035,7 @@ ukrsib.uasocial-viplata.company
 ukrsib.vi-plata.com
 ukrsib.viplata.digital
 ukrsib.viplata.space
+ukrsib.viplataonline.com
 ukrsib.vorkviplata.biz
 ukrsib.xx-pay.co
 ukrsibbank.top
@@ -1037,6 +1070,7 @@ viplatadiya.site
 viplataes.site
 viplataes.vip
 viplatanow.online
+viplataonline.com
 viplatasozshial.club
 viplataua.com
 viplataua.net
@@ -1056,12 +1090,14 @@ vo-dopomoga.net
 vorkviplata.biz
 vostok.vorkviplata.biz
 vuplata.casa
+vuplata.online
 vuplatu.in
 vuplatyi.com
 vyplata-help.com
 vyplata24.com
 vyplataua.com
 vyplaty.pro
+vyplatyedopomoga.com
 weekpaidlife.top
 world-help.udemixcr.com
 wr-rescan.com
