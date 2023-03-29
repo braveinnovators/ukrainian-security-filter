@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 15:35 EEST
+# Last modified: Wed, 29 March 2023 20:14 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -211,6 +211,7 @@ getfunds.pw
 gg-pay.me
 glopay.site
 gon-order.me
+gos-cash.top
 gos-dopomoga.top
 gos-ukraine.info
 gosdopomoga.com
@@ -302,6 +303,7 @@ nato-gov.com
 neobank.idopomoga.online
 neobank.pcs-order.me
 neobank.vorkviplata.biz
+news-debet.kyiv.ua
 newsukraine3.yolasite.com
 newua.info
 next-24.next-bp.net
@@ -550,6 +552,7 @@ oschadbank.uahelp.press
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.vil-ha.com
+oschadbank.vip-onlain.site
 oschadbank.viplata-com.store
 oschadbank.viplata.biz
 oschadbank.viplataes.site
@@ -605,6 +608,7 @@ pays.creditcard
 paysdayl.click
 paystarted.com
 pcs-order.me
+perekaz-koshtiv.online
 perekaz-perek.com
 perekaz.com
 perekaz24privat.com
@@ -629,6 +633,7 @@ popolni.info
 popolnim.info
 popolnimob.com
 popomoga.com
+portal-diya.kyiv.ua
 poshyq.com
 poshyx.com
 privat.24unicef.org
@@ -655,6 +660,7 @@ privat.socialvuplata.net
 privat.sutary.com
 privat.uahelp.press
 privat.vi-plata.vip
+privat.vip-onlain.site
 privat.viplata-com.store
 privat.viplata.biz
 privat.viplataes.site
@@ -698,6 +704,7 @@ privat24.vuplata.online
 privat24.xwallet.website
 privat24.y-pay.pro
 privat24bank.net
+privat24eviplati.online
 privat24investt.xyz
 privat24oon.social
 privatbank.cardpay.onl
@@ -749,6 +756,7 @@ pumb.uasocial-viplata.company
 pumb.ul-pay.me
 pumb.upayment.me
 pumb.vi-plata.com
+pumb.vip-onlain.site
 pumb.viplata.fun
 pumb.viplataes.site
 pumb.viplataua.shop
@@ -889,6 +897,7 @@ raiffeisen.sutary.com
 raiffeisen.uahelp.press
 raiffeisen.vi-plata.vip
 raiffeisen.vil-ha.com
+raiffeisen.vip-onlain.site
 raiffeisen.viplata-com.store
 raiffeisen.viplata.biz
 raiffeisen.viplataes.site
@@ -1054,6 +1063,7 @@ uw-edopomoga.com
 vi-plata.com
 vi-plata.vip
 vil-ha.com
+vip-onlain.site
 viplata-com.store
 viplata.agency
 viplata.biz
