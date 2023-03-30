@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Wed, 29 March 2023 20:14 EEST
+! Last modified: Thu, 30 March 2023 18:31 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -138,6 +138,7 @@
 ||epomoh.biz^
 ||epotrepa-edopomoga.org^
 ||escrowbox.online^
+||etrimaty.pro^
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eurohelp.tilda.ws^
@@ -380,6 +381,7 @@
 ||smartlead.com.ua^
 ||sneakersadi2018.com^
 ||soc-order.me^
+||socialassistance.info^
 ||socialassistance.social^
 ||socialassistancefromedopomaka.social^
 ||socialvuplata.net^
