@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 20:14 EEST
+# Last modified: Thu, 30 March 2023 18:31 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -194,6 +194,7 @@ epidtrymka.cloud
 epomoh.biz
 epotrepa-edopomoga.org
 escrowbox.online
+etrimaty.pro
 eu-dopomoga.com
 eu-st.site
 eurohelp.tilda.ws
@@ -529,6 +530,7 @@ oschadbank.dopomogae.info
 oschadbank.dopomogas.com
 oschadbank.edopomoga.today
 oschadbank.epidtrumka.org
+oschadbank.etrimaty.pro
 oschadbank.eviplata.vip
 oschadbank.gertinn.com
 oschadbank.groshi.world
@@ -543,6 +545,7 @@ oschadbank.po-teq.com
 oschadbank.reliefukraine.today
 oschadbank.rozym.com
 oschadbank.shepir.com
+oschadbank.socialassistance.info
 oschadbank.socialvuplata.net
 oschadbank.sutary.com
 oschadbank.top
@@ -649,6 +652,7 @@ privat.dopomegatm.me
 privat.dopomogae.info
 privat.dopomogas.com
 privat.edopomoga.today
+privat.etrimaty.pro
 privat.eviplata.vip
 privat.gertinn.com
 privat.lataepitrimka.vip
@@ -656,6 +660,7 @@ privat.po-mosh.com
 privat.po-teq.com
 privat.rozym.com
 privat.shepir.com
+privat.socialassistance.info
 privat.socialvuplata.net
 privat.sutary.com
 privat.uahelp.press
@@ -878,6 +883,7 @@ raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.edopomoga.today
 raiffeisen.epidtrumka.org
+raiffeisen.etrimaty.pro
 raiffeisen.eviplata.vip
 raiffeisen.gertinn.com
 raiffeisen.groshi.world
@@ -892,6 +898,7 @@ raiffeisen.po-teq.com
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
+raiffeisen.socialassistance.info
 raiffeisen.socialvuplata.net
 raiffeisen.sutary.com
 raiffeisen.uahelp.press
@@ -936,6 +943,7 @@ sites.google.com/view/d362g5d2
 smartlead.com.ua
 sneakersadi2018.com
 soc-order.me
+socialassistance.info
 socialassistance.social
 socialassistancefromedopomaka.social
 socialvuplata.net
