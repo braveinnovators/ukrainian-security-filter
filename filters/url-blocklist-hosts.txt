@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 20:14 EEST
+# Last modified: Thu, 30 March 2023 18:31 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -194,6 +194,7 @@
 0.0.0.0 epomoh.biz
 0.0.0.0 epotrepa-edopomoga.org
 0.0.0.0 escrowbox.online
+0.0.0.0 etrimaty.pro
 0.0.0.0 eu-dopomoga.com
 0.0.0.0 eu-st.site
 0.0.0.0 eurohelp.tilda.ws
@@ -529,6 +530,7 @@
 0.0.0.0 oschadbank.dopomogas.com
 0.0.0.0 oschadbank.edopomoga.today
 0.0.0.0 oschadbank.epidtrumka.org
+0.0.0.0 oschadbank.etrimaty.pro
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.gertinn.com
 0.0.0.0 oschadbank.groshi.world
@@ -543,6 +545,7 @@
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
 0.0.0.0 oschadbank.shepir.com
+0.0.0.0 oschadbank.socialassistance.info
 0.0.0.0 oschadbank.socialvuplata.net
 0.0.0.0 oschadbank.sutary.com
 0.0.0.0 oschadbank.top
@@ -649,6 +652,7 @@
 0.0.0.0 privat.dopomogae.info
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.edopomoga.today
+0.0.0.0 privat.etrimaty.pro
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.lataepitrimka.vip
@@ -656,6 +660,7 @@
 0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
+0.0.0.0 privat.socialassistance.info
 0.0.0.0 privat.socialvuplata.net
 0.0.0.0 privat.sutary.com
 0.0.0.0 privat.uahelp.press
@@ -878,6 +883,7 @@
 0.0.0.0 raiffeisen.dopomogaua.xyz
 0.0.0.0 raiffeisen.edopomoga.today
 0.0.0.0 raiffeisen.epidtrumka.org
+0.0.0.0 raiffeisen.etrimaty.pro
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.gertinn.com
 0.0.0.0 raiffeisen.groshi.world
@@ -892,6 +898,7 @@
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
+0.0.0.0 raiffeisen.socialassistance.info
 0.0.0.0 raiffeisen.socialvuplata.net
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.uahelp.press
@@ -936,6 +943,7 @@
 0.0.0.0 smartlead.com.ua
 0.0.0.0 sneakersadi2018.com
 0.0.0.0 soc-order.me
+0.0.0.0 socialassistance.info
 0.0.0.0 socialassistance.social
 0.0.0.0 socialassistancefromedopomaka.social
 0.0.0.0 socialvuplata.net
