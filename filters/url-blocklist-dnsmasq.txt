@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 29 March 2023 20:14 EEST
+# Last modified: Thu, 30 March 2023 18:31 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -194,6 +194,7 @@ address=/epidtrymka.cloud/
 address=/epomoh.biz/
 address=/epotrepa-edopomoga.org/
 address=/escrowbox.online/
+address=/etrimaty.pro/
 address=/eu-dopomoga.com/
 address=/eu-st.site/
 address=/eurohelp.tilda.ws/
@@ -529,6 +530,7 @@ address=/oschadbank.dopomogae.info/
 address=/oschadbank.dopomogas.com/
 address=/oschadbank.edopomoga.today/
 address=/oschadbank.epidtrumka.org/
+address=/oschadbank.etrimaty.pro/
 address=/oschadbank.eviplata.vip/
 address=/oschadbank.gertinn.com/
 address=/oschadbank.groshi.world/
@@ -543,6 +545,7 @@ address=/oschadbank.po-teq.com/
 address=/oschadbank.reliefukraine.today/
 address=/oschadbank.rozym.com/
 address=/oschadbank.shepir.com/
+address=/oschadbank.socialassistance.info/
 address=/oschadbank.socialvuplata.net/
 address=/oschadbank.sutary.com/
 address=/oschadbank.top/
@@ -649,6 +652,7 @@ address=/privat.dopomegatm.me/
 address=/privat.dopomogae.info/
 address=/privat.dopomogas.com/
 address=/privat.edopomoga.today/
+address=/privat.etrimaty.pro/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
 address=/privat.lataepitrimka.vip/
@@ -656,6 +660,7 @@ address=/privat.po-mosh.com/
 address=/privat.po-teq.com/
 address=/privat.rozym.com/
 address=/privat.shepir.com/
+address=/privat.socialassistance.info/
 address=/privat.socialvuplata.net/
 address=/privat.sutary.com/
 address=/privat.uahelp.press/
@@ -878,6 +883,7 @@ address=/raiffeisen.dopomogas.com/
 address=/raiffeisen.dopomogaua.xyz/
 address=/raiffeisen.edopomoga.today/
 address=/raiffeisen.epidtrumka.org/
+address=/raiffeisen.etrimaty.pro/
 address=/raiffeisen.eviplata.vip/
 address=/raiffeisen.gertinn.com/
 address=/raiffeisen.groshi.world/
@@ -892,6 +898,7 @@ address=/raiffeisen.po-teq.com/
 address=/raiffeisen.reliefukraine.today/
 address=/raiffeisen.rozym.com/
 address=/raiffeisen.shepir.com/
+address=/raiffeisen.socialassistance.info/
 address=/raiffeisen.socialvuplata.net/
 address=/raiffeisen.sutary.com/
 address=/raiffeisen.uahelp.press/
@@ -936,6 +943,7 @@ address=/sites.google.com/view/d362g5d2/
 address=/smartlead.com.ua/
 address=/sneakersadi2018.com/
 address=/soc-order.me/
+address=/socialassistance.info/
 address=/socialassistance.social/
 address=/socialassistancefromedopomaka.social/
 address=/socialvuplata.net/
