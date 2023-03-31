@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 30 March 2023 18:31 EEST
+# Last modified: Fri, 31 March 2023 17:10 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -66,6 +66,7 @@ address=/bank-com.biz/
 address=/bank-com.shop/
 address=/bank-verif.com/
 address=/bank-viplata.online/
+address=/bankver.com/
 address=/bankverif.live/
 address=/blesk24.com/
 address=/ca-pay.me/
@@ -423,6 +424,7 @@ address=/onlinis24-ukrsibbanci.uks6.site/
 address=/onlins24-oschadbank.osv6.site/
 address=/oon-dopomoga.info/
 address=/oon-dopomoga.pro/
+address=/oon-viplata.social/
 address=/opay365.com/
 address=/oplat.pro/
 address=/oplataofficial.life/
@@ -539,6 +541,7 @@ address=/oschadbank.lataepitrimka.vip/
 address=/oschadbank.no-pay.me/
 address=/oschadbank.onlineviplata.me/
 address=/oschadbank.otrimanya.me/
+address=/oschadbank.payoutsonlyfrom21.info/
 address=/oschadbank.pays-org.me/
 address=/oschadbank.po-mosh.com/
 address=/oschadbank.po-teq.com/
@@ -604,6 +607,7 @@ address=/payidgow.pro/
 address=/payment-system.cloud/
 address=/payments.prytulafoundation.net/
 address=/payments.prytulafoundation.site/
+address=/payoutsonlyfrom21.info/
 address=/pays-org.me/
 address=/pays.cards/
 address=/pays.credit/
@@ -642,6 +646,7 @@ address=/poshyx.com/
 address=/privat.24unicef.org/
 address=/privat.bake-pays.me/
 address=/privat.bank-verif.com/
+address=/privat.bankver.com/
 address=/privat.bankverif.live/
 address=/privat.chydovo.com/
 address=/privat.cozialedop.info/
@@ -656,6 +661,7 @@ address=/privat.etrimaty.pro/
 address=/privat.eviplata.vip/
 address=/privat.gertinn.com/
 address=/privat.lataepitrimka.vip/
+address=/privat.payoutsonlyfrom21.info/
 address=/privat.po-mosh.com/
 address=/privat.po-teq.com/
 address=/privat.rozym.com/
@@ -872,6 +878,7 @@ address=/raiffeisen.bank-com.biz/
 address=/raiffeisen.bank-com.shop/
 address=/raiffeisen.bank-verif.com/
 address=/raiffeisen.bank-viplata.online/
+address=/raiffeisen.bankver.com/
 address=/raiffeisen.bankverif.live/
 address=/raiffeisen.chydovo.com/
 address=/raiffeisen.comreviews.club/
@@ -893,6 +900,7 @@ address=/raiffeisen.lataepitrimka.vip/
 address=/raiffeisen.log-ins543325235345.cloud/
 address=/raiffeisen.onlineviplata.me/
 address=/raiffeisen.otrimanya.me/
+address=/raiffeisen.payoutsonlyfrom21.info/
 address=/raiffeisen.pays-org.me/
 address=/raiffeisen.po-teq.com/
 address=/raiffeisen.reliefukraine.today/
@@ -1073,6 +1081,7 @@ address=/vi-plata.vip/
 address=/vil-ha.com/
 address=/vip-onlain.site/
 address=/viplata-com.store/
+address=/viplata-oon-ua.com/
 address=/viplata.agency/
 address=/viplata.biz/
 address=/viplata.club/
