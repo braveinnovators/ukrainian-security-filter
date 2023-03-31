@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 30 March 2023 18:31 EEST
+! Last modified: Fri, 31 March 2023 17:10 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -24,6 +24,7 @@
 ||bank-com.shop^
 ||bank-verif.com^
 ||bank-viplata.online^
+||bankver.com^
 ||bankverif.live^
 ||blesk24.com^
 ||ca-pay.me^
@@ -268,6 +269,7 @@
 ||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
+||oon-viplata.social^
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
@@ -297,6 +299,7 @@
 ||payboxua.com^
 ||payidgow.pro^
 ||payment-system.cloud^
+||payoutsonlyfrom21.info^
 ||pays-org.me^
 ||pays.cards^
 ||pays.credit^
@@ -516,6 +519,7 @@
 ||vil-ha.com^
 ||vip-onlain.site^
 ||viplata-com.store^
+||viplata-oon-ua.com^
 ||viplata.agency^
 ||viplata.biz^
 ||viplata.club^
