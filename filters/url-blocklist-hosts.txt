@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 30 March 2023 18:31 EEST
+# Last modified: Fri, 31 March 2023 17:10 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -66,6 +66,7 @@
 0.0.0.0 bank-com.shop
 0.0.0.0 bank-verif.com
 0.0.0.0 bank-viplata.online
+0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
 0.0.0.0 blesk24.com
 0.0.0.0 ca-pay.me
@@ -423,6 +424,7 @@
 0.0.0.0 onlins24-oschadbank.osv6.site
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
+0.0.0.0 oon-viplata.social
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
@@ -539,6 +541,7 @@
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.onlineviplata.me
 0.0.0.0 oschadbank.otrimanya.me
+0.0.0.0 oschadbank.payoutsonlyfrom21.info
 0.0.0.0 oschadbank.pays-org.me
 0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
@@ -604,6 +607,7 @@
 0.0.0.0 payment-system.cloud
 0.0.0.0 payments.prytulafoundation.net
 0.0.0.0 payments.prytulafoundation.site
+0.0.0.0 payoutsonlyfrom21.info
 0.0.0.0 pays-org.me
 0.0.0.0 pays.cards
 0.0.0.0 pays.credit
@@ -642,6 +646,7 @@
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.bank-verif.com
+0.0.0.0 privat.bankver.com
 0.0.0.0 privat.bankverif.live
 0.0.0.0 privat.chydovo.com
 0.0.0.0 privat.cozialedop.info
@@ -656,6 +661,7 @@
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.lataepitrimka.vip
+0.0.0.0 privat.payoutsonlyfrom21.info
 0.0.0.0 privat.po-mosh.com
 0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.rozym.com
@@ -872,6 +878,7 @@
 0.0.0.0 raiffeisen.bank-com.shop
 0.0.0.0 raiffeisen.bank-verif.com
 0.0.0.0 raiffeisen.bank-viplata.online
+0.0.0.0 raiffeisen.bankver.com
 0.0.0.0 raiffeisen.bankverif.live
 0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.comreviews.club
@@ -893,6 +900,7 @@
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.onlineviplata.me
 0.0.0.0 raiffeisen.otrimanya.me
+0.0.0.0 raiffeisen.payoutsonlyfrom21.info
 0.0.0.0 raiffeisen.pays-org.me
 0.0.0.0 raiffeisen.po-teq.com
 0.0.0.0 raiffeisen.reliefukraine.today
@@ -1073,6 +1081,7 @@
 0.0.0.0 vil-ha.com
 0.0.0.0 vip-onlain.site
 0.0.0.0 viplata-com.store
+0.0.0.0 viplata-oon-ua.com
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
