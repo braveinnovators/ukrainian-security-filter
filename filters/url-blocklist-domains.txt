@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 31 March 2023 17:10 EEST
+# Last modified: Sat, 01 April 2023 14:41 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -73,6 +73,7 @@ ca-pay.me
 cake-payment.me
 cardpay.onl
 cashnew.pro
+cercis-dopay24.biz
 chydovo.com
 ckx-pay.me
 com1465.website
@@ -111,6 +112,7 @@ diiadopom0ga.click
 diiadopomoga.pro
 diiapidpys.uk
 diiaua.com
+dipuplatservises24.sale
 diya-edopomoga.online
 diyadopomoga.online
 diyaviplati.co
@@ -189,11 +191,14 @@ edopomogae.info
 edopomogai24.edi6.site
 edopomogaua.site
 edopomogaua.website
+edopomogaukrainehelp.com
+edopomogavyplatahelp.com
 epidtrimka.com
 epidtrumka.org
 epidtrymka.cloud
 epomoh.biz
 epotrepa-edopomoga.org
+erservice.site
 escrowbox.online
 etrimaty.pro
 eu-dopomoga.com
@@ -267,6 +272,7 @@ likpay.me
 linktr.ee/dopomoha.center
 liqpay.info
 localregi.pro
+log-dopomogapays24.org
 log-ins543325235345.cloud
 lpayments.org
 lzdq6btw.cn
@@ -540,6 +546,7 @@ oschadbank.k-auch.quest
 oschadbank.lataepitrimka.vip
 oschadbank.no-pay.me
 oschadbank.onlineviplata.me
+oschadbank.otrimanti.site
 oschadbank.otrimanya.me
 oschadbank.payoutsonlyfrom21.info
 oschadbank.pays-org.me
@@ -577,6 +584,10 @@ oschadbankoon.social
 oschadbankuk.com
 oschadbankukr.com
 oschadnybank.com.ua
+oshad-ua.cercis-dopay24.biz
+oshad-ua.dipuplatservises24.sale
+oshad-ua.log-dopomogapays24.org
+oshad-ua.vip-viplatldop24.org
 oshad.24get.site
 oshadbank.online
 oshadbank.pro
@@ -589,6 +600,7 @@ otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
 otp.ua-send.website
+otrimanti.site
 otrimanya.me
 ox-pay.me
 p-invest.site
@@ -643,6 +655,11 @@ popomoga.com
 portal-diya.kyiv.ua
 poshyq.com
 poshyx.com
+privat-ua.cercis-dopay24.biz
+privat-ua.dipuplatservises24.sale
+privat-ua.erservice.site
+privat-ua.log-dopomogapays24.org
+privat-ua.vip-viplatldop24.org
 privat.24unicef.org
 privat.bake-pays.me
 privat.bank-verif.com
@@ -869,6 +886,10 @@ raif.yatreba.com
 raif.yrliqupay.com
 raiffaisen-next.online
 raiffeisen-approve.com
+raiffeisen-ua.cercis-dopay24.biz
+raiffeisen-ua.dipuplatservises24.sale
+raiffeisen-ua.log-dopomogapays24.org
+raiffeisen-ua.vip-viplatldop24.org
 raiffeisen-uapay.shop
 raiffeisen.3dss-pays.info
 raiffeisen.ads-pid.me
@@ -899,6 +920,7 @@ raiffeisen.k-auch.quest
 raiffeisen.lataepitrimka.vip
 raiffeisen.log-ins543325235345.cloud
 raiffeisen.onlineviplata.me
+raiffeisen.otrimanti.site
 raiffeisen.otrimanya.me
 raiffeisen.payoutsonlyfrom21.info
 raiffeisen.pays-org.me
@@ -1080,6 +1102,7 @@ vi-plata.com
 vi-plata.vip
 vil-ha.com
 vip-onlain.site
+vip-viplatldop24.org
 viplata-com.store
 viplata-oon-ua.com
 viplata.agency
