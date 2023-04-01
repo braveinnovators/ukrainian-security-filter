@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 31 March 2023 17:10 EEST
+# Last modified: Sat, 01 April 2023 14:41 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -73,6 +73,7 @@
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
 0.0.0.0 cashnew.pro
+0.0.0.0 cercis-dopay24.biz
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
 0.0.0.0 com1465.website
@@ -111,6 +112,7 @@
 0.0.0.0 diiadopomoga.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
+0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
 0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.co
@@ -189,11 +191,14 @@
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
+0.0.0.0 edopomogaukrainehelp.com
+0.0.0.0 edopomogavyplatahelp.com
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
 0.0.0.0 epomoh.biz
 0.0.0.0 epotrepa-edopomoga.org
+0.0.0.0 erservice.site
 0.0.0.0 escrowbox.online
 0.0.0.0 etrimaty.pro
 0.0.0.0 eu-dopomoga.com
@@ -267,6 +272,7 @@
 0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
 0.0.0.0 localregi.pro
+0.0.0.0 log-dopomogapays24.org
 0.0.0.0 log-ins543325235345.cloud
 0.0.0.0 lpayments.org
 0.0.0.0 lzdq6btw.cn
@@ -540,6 +546,7 @@
 0.0.0.0 oschadbank.lataepitrimka.vip
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.onlineviplata.me
+0.0.0.0 oschadbank.otrimanti.site
 0.0.0.0 oschadbank.otrimanya.me
 0.0.0.0 oschadbank.payoutsonlyfrom21.info
 0.0.0.0 oschadbank.pays-org.me
@@ -577,6 +584,10 @@
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
+0.0.0.0 oshad-ua.cercis-dopay24.biz
+0.0.0.0 oshad-ua.dipuplatservises24.sale
+0.0.0.0 oshad-ua.log-dopomogapays24.org
+0.0.0.0 oshad-ua.vip-viplatldop24.org
 0.0.0.0 oshad.24get.site
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
@@ -589,6 +600,7 @@
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pcs-order.me
 0.0.0.0 otp.ua-send.website
+0.0.0.0 otrimanti.site
 0.0.0.0 otrimanya.me
 0.0.0.0 ox-pay.me
 0.0.0.0 p-invest.site
@@ -643,6 +655,11 @@
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 poshyq.com
 0.0.0.0 poshyx.com
+0.0.0.0 privat-ua.cercis-dopay24.biz
+0.0.0.0 privat-ua.dipuplatservises24.sale
+0.0.0.0 privat-ua.erservice.site
+0.0.0.0 privat-ua.log-dopomogapays24.org
+0.0.0.0 privat-ua.vip-viplatldop24.org
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.bank-verif.com
@@ -869,6 +886,10 @@
 0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffeisen-approve.com
+0.0.0.0 raiffeisen-ua.cercis-dopay24.biz
+0.0.0.0 raiffeisen-ua.dipuplatservises24.sale
+0.0.0.0 raiffeisen-ua.log-dopomogapays24.org
+0.0.0.0 raiffeisen-ua.vip-viplatldop24.org
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 raiffeisen.ads-pid.me
@@ -899,6 +920,7 @@
 0.0.0.0 raiffeisen.lataepitrimka.vip
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.onlineviplata.me
+0.0.0.0 raiffeisen.otrimanti.site
 0.0.0.0 raiffeisen.otrimanya.me
 0.0.0.0 raiffeisen.payoutsonlyfrom21.info
 0.0.0.0 raiffeisen.pays-org.me
@@ -1080,6 +1102,7 @@
 0.0.0.0 vi-plata.vip
 0.0.0.0 vil-ha.com
 0.0.0.0 vip-onlain.site
+0.0.0.0 vip-viplatldop24.org
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata-oon-ua.com
 0.0.0.0 viplata.agency
