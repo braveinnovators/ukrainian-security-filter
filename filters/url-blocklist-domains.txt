@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 01 April 2023 14:41 EEST
+# Last modified: Sun, 02 April 2023 15:45 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -93,7 +93,9 @@ cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
+credit-agricole.ukraina.pics
 credit-agricole.vuplata.online
+cryptocurrency-helps-ukraine.com
 deneg-help.top
 dengi.fyi
 dersch.online
@@ -132,6 +134,7 @@ dopomoga-aid.top
 dopomoga-backing.top
 dopomoga-epay.site
 dopomoga-id04687.website
+dopomoga-in.pl
 dopomoga-oon.com
 dopomoga-ua.click
 dopomoga-ua.info
@@ -191,6 +194,7 @@ edopomogae.info
 edopomogai24.edi6.site
 edopomogaua.site
 edopomogaua.website
+edopomogauaa.com
 edopomogaukrainehelp.com
 edopomogavyplatahelp.com
 epidtrimka.com
@@ -232,6 +236,7 @@ govdia.pro
 groshi.world
 groshovadopomoga.com
 help-compensation-ua.xyz
+help-dlya-ukrainy.online
 help-dopomoga.online
 help-fond-ukrain.buzz
 help-fond-ukrain.cyou
@@ -430,6 +435,7 @@ onlinis24-ukrsibbanci.uks6.site
 onlins24-oschadbank.osv6.site
 oon-dopomoga.info
 oon-dopomoga.pro
+oon-viplata.eu
 oon-viplata.social
 opay365.com
 oplat.pro
@@ -562,6 +568,7 @@ oschadbank.top
 oschadbank.ua-send.site
 oschadbank.ua-send.website
 oschadbank.uahelp.press
+oschadbank.ukraina.pics
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.vil-ha.com
@@ -600,6 +607,7 @@ otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
 otp.ua-send.website
+otp.ukraina.pics
 otrimanti.site
 otrimanya.me
 ox-pay.me
@@ -616,6 +624,7 @@ pay.ocxa-ua.top
 pay.osxi-ua.xyz
 payboxua.com
 payidgow.pro
+paying-out.today
 payment-system.cloud
 payments.prytulafoundation.net
 payments.prytulafoundation.site
@@ -727,6 +736,7 @@ privat24.ua-payout.site
 privat24.ua-send.site
 privat24.ua-send.website
 privat24.uasafe.online
+privat24.ukraina.pics
 privat24.uno
 privat24.vuplata.online
 privat24.xwallet.website
@@ -738,6 +748,7 @@ privat24oon.social
 privatbank.cardpay.onl
 privatbank.in.ua
 privatbank.online-pays.tech
+privatbank.paying-out.today
 privatbank.payment-system.cloud
 privatpay.me
 privatpay.online
@@ -867,6 +878,7 @@ raif.ua-viplata.me
 raif.uadostawka.com
 raif.uahs.buzz
 raif.uasocial-viplata.company
+raif.ukraina.pics
 raif.ukreyns.com
 raif.ul-pay.me
 raif.vi-plata.com
@@ -1017,6 +1029,7 @@ uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
 uadia.buzz
+uadopomoga.biz
 uadostawka.com
 uaedopomoga-online
 uah-perekaz.com
@@ -1049,6 +1062,7 @@ ukr-receive.sbs
 ukr-savess.icu
 ukr-savess.sbs
 ukraina-gos.top
+ukraina.pics
 ukrainapomosh.site
 ukraine-furniture.com.ua
 ukraineamazon.com
@@ -1079,6 +1093,7 @@ ukrsib.securitypay.me
 ukrsib.sutary.com
 ukrsib.uaedopomoga-online.com
 ukrsib.uasocial-viplata.company
+ukrsib.ukraina.pics
 ukrsib.vi-plata.com
 ukrsib.viplata.digital
 ukrsib.viplata.space
@@ -1122,6 +1137,7 @@ viplataes.vip
 viplatanow.online
 viplataonline.com
 viplatasozshial.club
+viplataua.co
 viplataua.com
 viplataua.net
 viplataua.org
