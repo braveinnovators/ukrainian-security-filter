@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 01 April 2023 14:41 EEST
+# Last modified: Sun, 02 April 2023 15:45 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -93,7 +93,9 @@
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
 0.0.0.0 crediacgricole.xu-pay.me
+0.0.0.0 credit-agricole.ukraina.pics
 0.0.0.0 credit-agricole.vuplata.online
+0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
 0.0.0.0 dersch.online
@@ -132,6 +134,7 @@
 0.0.0.0 dopomoga-backing.top
 0.0.0.0 dopomoga-epay.site
 0.0.0.0 dopomoga-id04687.website
+0.0.0.0 dopomoga-in.pl
 0.0.0.0 dopomoga-oon.com
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.info
@@ -191,6 +194,7 @@
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
+0.0.0.0 edopomogauaa.com
 0.0.0.0 edopomogaukrainehelp.com
 0.0.0.0 edopomogavyplatahelp.com
 0.0.0.0 epidtrimka.com
@@ -232,6 +236,7 @@
 0.0.0.0 groshi.world
 0.0.0.0 groshovadopomoga.com
 0.0.0.0 help-compensation-ua.xyz
+0.0.0.0 help-dlya-ukrainy.online
 0.0.0.0 help-dopomoga.online
 0.0.0.0 help-fond-ukrain.buzz
 0.0.0.0 help-fond-ukrain.cyou
@@ -430,6 +435,7 @@
 0.0.0.0 onlins24-oschadbank.osv6.site
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
+0.0.0.0 oon-viplata.eu
 0.0.0.0 oon-viplata.social
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
@@ -562,6 +568,7 @@
 0.0.0.0 oschadbank.ua-send.site
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.uahelp.press
+0.0.0.0 oschadbank.ukraina.pics
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.vil-ha.com
@@ -600,6 +607,7 @@
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pcs-order.me
 0.0.0.0 otp.ua-send.website
+0.0.0.0 otp.ukraina.pics
 0.0.0.0 otrimanti.site
 0.0.0.0 otrimanya.me
 0.0.0.0 ox-pay.me
@@ -616,6 +624,7 @@
 0.0.0.0 pay.osxi-ua.xyz
 0.0.0.0 payboxua.com
 0.0.0.0 payidgow.pro
+0.0.0.0 paying-out.today
 0.0.0.0 payment-system.cloud
 0.0.0.0 payments.prytulafoundation.net
 0.0.0.0 payments.prytulafoundation.site
@@ -727,6 +736,7 @@
 0.0.0.0 privat24.ua-send.site
 0.0.0.0 privat24.ua-send.website
 0.0.0.0 privat24.uasafe.online
+0.0.0.0 privat24.ukraina.pics
 0.0.0.0 privat24.uno
 0.0.0.0 privat24.vuplata.online
 0.0.0.0 privat24.xwallet.website
@@ -738,6 +748,7 @@
 0.0.0.0 privatbank.cardpay.onl
 0.0.0.0 privatbank.in.ua
 0.0.0.0 privatbank.online-pays.tech
+0.0.0.0 privatbank.paying-out.today
 0.0.0.0 privatbank.payment-system.cloud
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
@@ -867,6 +878,7 @@
 0.0.0.0 raif.uadostawka.com
 0.0.0.0 raif.uahs.buzz
 0.0.0.0 raif.uasocial-viplata.company
+0.0.0.0 raif.ukraina.pics
 0.0.0.0 raif.ukreyns.com
 0.0.0.0 raif.ul-pay.me
 0.0.0.0 raif.vi-plata.com
@@ -1017,6 +1029,7 @@
 0.0.0.0 uacmplnk.xyz
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uadia.buzz
+0.0.0.0 uadopomoga.biz
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online
 0.0.0.0 uah-perekaz.com
@@ -1049,6 +1062,7 @@
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
 0.0.0.0 ukraina-gos.top
+0.0.0.0 ukraina.pics
 0.0.0.0 ukrainapomosh.site
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraineamazon.com
@@ -1079,6 +1093,7 @@
 0.0.0.0 ukrsib.sutary.com
 0.0.0.0 ukrsib.uaedopomoga-online.com
 0.0.0.0 ukrsib.uasocial-viplata.company
+0.0.0.0 ukrsib.ukraina.pics
 0.0.0.0 ukrsib.vi-plata.com
 0.0.0.0 ukrsib.viplata.digital
 0.0.0.0 ukrsib.viplata.space
@@ -1122,6 +1137,7 @@
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
 0.0.0.0 viplatasozshial.club
+0.0.0.0 viplataua.co
 0.0.0.0 viplataua.com
 0.0.0.0 viplataua.net
 0.0.0.0 viplataua.org
