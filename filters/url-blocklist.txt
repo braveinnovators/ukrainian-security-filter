@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 01 April 2023 14:41 EEST
+! Last modified: Sun, 02 April 2023 15:45 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -47,6 +47,7 @@
 ||coshi.online^
 ||cozialedop.info^
 ||cq-pay.me^
+||cryptocurrency-helps-ukraine.com^
 ||deneg-help.top^
 ||dengi.fyi^
 ||dersch.online^
@@ -82,6 +83,7 @@
 ||dopomoga-backing.top^
 ||dopomoga-epay.site^
 ||dopomoga-id04687.website^
+||dopomoga-in.pl^
 ||dopomoga-oon.com^
 ||dopomoga-ua.click^
 ||dopomoga-ua.info^
@@ -135,6 +137,7 @@
 ||edopomogae.info^
 ||edopomogaua.site^
 ||edopomogaua.website^
+||edopomogauaa.com^
 ||edopomogaukrainehelp.com^
 ||edopomogavyplatahelp.com^
 ||epidtrimka.com^
@@ -163,6 +166,7 @@
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/profile.php?id=100090998136488^
+||facebook.com/profile.php?id=100091442203527^$document
 ||facebook.com/profile.php?id=100091443002635^$document
 ||facebook.com/profile.php?id=100091514463233^$document
 ||facebook.com/profile.php?id=100091549560072^$document
@@ -196,6 +200,7 @@
 ||groshi.world^
 ||groshovadopomoga.com^
 ||help-compensation-ua.xyz^
+||help-dlya-ukrainy.online^
 ||help-dopomoga.online^
 ||help-fond-ukrain.buzz^
 ||help-fond-ukrain.cyou^
@@ -278,6 +283,7 @@
 ||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
+||oon-viplata.eu^
 ||oon-viplata.social^
 ||opay365.com^
 ||oplat.pro^
@@ -308,6 +314,7 @@
 ||pay-unv.me^
 ||payboxua.com^
 ||payidgow.pro^
+||paying-out.today^
 ||payment-system.cloud^
 ||payoutsonlyfrom21.info^
 ||pays-org.me^
@@ -413,6 +420,7 @@
 ||t.me/edopomogaOOH_bot^$document
 ||t.me/eDopomogaUA_official^$document
 ||t.me/esviatoloveUA^$document
+||t.me/OffisalAOOH^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/diia_govUA1_bot^
 ||t.me/s/dopomoga_diia^
@@ -423,6 +431,7 @@
 ||t.me/s/edopomogaOOH_bot^$document
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/esviatoloveUA^$document
+||t.me/s/OffisalAOOH^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
@@ -468,6 +477,7 @@
 ||uacmplnk.xyz^
 ||uacompensation.xyz^
 ||uadia.buzz^
+||uadopomoga.biz^
 ||uadostawka.com^
 ||uaedopomoga-online^
 ||uah-perekaz.com^
@@ -499,6 +509,7 @@
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
 ||ukraina-gos.top^
+||ukraina.pics^
 ||ukrainapomosh.site^
 ||ukraine-furniture.com.ua^
 ||ukraineamazon.com^
@@ -552,6 +563,7 @@
 ||viplatanow.online^
 ||viplataonline.com^
 ||viplatasozshial.club^
+||viplataua.co^
 ||viplataua.com^
 ||viplataua.net^
 ||viplataua.org^
