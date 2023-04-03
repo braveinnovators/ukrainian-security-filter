@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 02 April 2023 15:45 EEST
+! Last modified: Mon, 03 April 2023 13:19 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -76,6 +76,7 @@
 ||domennet.com^
 ||domennn.com^
 ||donttech.com^
+||dop-viplatisite24.online^
 ||dopomegatm.me^
 ||dopomih.com^
 ||dopomoga-2023.top^
@@ -228,6 +229,7 @@
 ||klisp-o.site^
 ||konkurs-golos.ltd^
 ||kpayments.cc^
+||kyivstar-sale.com.ua^
 ||kyivstarbezlim.com^
 ||lataepitrimka.vip^
 ||likpay.me^
@@ -239,6 +241,7 @@
 ||lpayments.org^
 ||lzdq6btw.cn^
 ||m39793.cn^
+||may-viplatservis24.org^
 ||mediaua-gov.com^
 ||minpolitici.com^
 ||mobi-dengi.com^
@@ -295,12 +298,15 @@
 ||oschadbankuk.com^
 ||oschadbankukr.com^
 ||oschadnybank.com.ua^
+||oshad-24.com^
+||oshad-cash.pro^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||osv6.site^
 ||osxi-ua.xyz^
+||otimat.site^
 ||otrimanti.site^
 ||otrimanya.me^
 ||ox-pay.me^
@@ -417,6 +423,7 @@
 ||t.me/dopomogaukraine7600^$document
 ||t.me/doponoga8500^$document
 ||t.me/DtekYASNO^$document
+||t.me/edopomogagov_bot^$document
 ||t.me/edopomogaOOH_bot^$document
 ||t.me/eDopomogaUA_official^$document
 ||t.me/esviatoloveUA^$document
@@ -428,6 +435,7 @@
 ||t.me/s/dopomogaukraine7600^$document
 ||t.me/s/doponoga8500^$document
 ||t.me/s/DtekYASNO^$document
+||t.me/s/edopomogagov_bot^$document
 ||t.me/s/edopomogaOOH_bot^$document
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/esviatoloveUA^$document
@@ -509,6 +517,7 @@
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
 ||ukraina-gos.top^
+||ukraina.buzz^
 ||ukraina.pics^
 ||ukrainapomosh.site^
 ||ukraine-furniture.com.ua^
@@ -560,6 +569,7 @@
 ||viplatadiya.site^
 ||viplataes.site^
 ||viplataes.vip^
+||viplataindo.com^
 ||viplatanow.online^
 ||viplataonline.com^
 ||viplatasozshial.club^
