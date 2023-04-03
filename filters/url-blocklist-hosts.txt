@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 02 April 2023 15:45 EEST
+# Last modified: Mon, 03 April 2023 13:19 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -127,6 +127,7 @@
 0.0.0.0 domopoga-ua.nopersonexty.online
 0.0.0.0 domopoga.coshi.online
 0.0.0.0 donttech.com
+0.0.0.0 dop-viplatisite24.online
 0.0.0.0 dopomegatm.me
 0.0.0.0 dopomih.com
 0.0.0.0 dopomoga-2023.top
@@ -271,6 +272,7 @@
 0.0.0.0 kredo.pay-ukraine.com
 0.0.0.0 kredo.securitypay.me
 0.0.0.0 kredobank.no-pay.me
+0.0.0.0 kyivstar-sale.com.ua
 0.0.0.0 kyivstarbezlim.com
 0.0.0.0 lataepitrimka.vip
 0.0.0.0 likpay.me
@@ -282,6 +284,7 @@
 0.0.0.0 lpayments.org
 0.0.0.0 lzdq6btw.cn
 0.0.0.0 m39793.cn
+0.0.0.0 may-viplatservis24.org
 0.0.0.0 mediaua-gov.com
 0.0.0.0 minpolitici.com
 0.0.0.0 mobi-dengi.com
@@ -577,6 +580,7 @@
 0.0.0.0 oschadbank.viplata.biz
 0.0.0.0 oschadbank.viplataes.site
 0.0.0.0 oschadbank.viplataes.vip
+0.0.0.0 oschadbank.viplataindo.com
 0.0.0.0 oschadbank.viplataonline.com
 0.0.0.0 oschadbank.viplatasozshial.club
 0.0.0.0 oschadbank.viplatavop.club
@@ -591,9 +595,13 @@
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
 0.0.0.0 oschadnybank.com.ua
+0.0.0.0 oshad-24.com
+0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-ua.cercis-dopay24.biz
 0.0.0.0 oshad-ua.dipuplatservises24.sale
+0.0.0.0 oshad-ua.dop-viplatisite24.online
 0.0.0.0 oshad-ua.log-dopomogapays24.org
+0.0.0.0 oshad-ua.may-viplatservis24.org
 0.0.0.0 oshad-ua.vip-viplatldop24.org
 0.0.0.0 oshad.24get.site
 0.0.0.0 oshadbank.online
@@ -603,6 +611,7 @@
 0.0.0.0 osschad.secure2dpay.store
 0.0.0.0 osv6.site
 0.0.0.0 osxi-ua.xyz
+0.0.0.0 otimat.site
 0.0.0.0 otp.no-pay.me
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pcs-order.me
@@ -666,8 +675,10 @@
 0.0.0.0 poshyx.com
 0.0.0.0 privat-ua.cercis-dopay24.biz
 0.0.0.0 privat-ua.dipuplatservises24.sale
+0.0.0.0 privat-ua.dop-viplatisite24.online
 0.0.0.0 privat-ua.erservice.site
 0.0.0.0 privat-ua.log-dopomogapays24.org
+0.0.0.0 privat-ua.may-viplatservis24.org
 0.0.0.0 privat-ua.vip-viplatldop24.org
 0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
@@ -687,6 +698,7 @@
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.lataepitrimka.vip
+0.0.0.0 privat.otimat.site
 0.0.0.0 privat.payoutsonlyfrom21.info
 0.0.0.0 privat.po-mosh.com
 0.0.0.0 privat.po-teq.com
@@ -702,6 +714,7 @@
 0.0.0.0 privat.viplata.biz
 0.0.0.0 privat.viplataes.site
 0.0.0.0 privat.viplataes.vip
+0.0.0.0 privat.viplataindo.com
 0.0.0.0 privat.viplataonline.com
 0.0.0.0 privat.viplatasozshial.club
 0.0.0.0 privat.viplatavop.club
@@ -900,7 +913,9 @@
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-ua.cercis-dopay24.biz
 0.0.0.0 raiffeisen-ua.dipuplatservises24.sale
+0.0.0.0 raiffeisen-ua.dop-viplatisite24.online
 0.0.0.0 raiffeisen-ua.log-dopomogapays24.org
+0.0.0.0 raiffeisen-ua.may-viplatservis24.org
 0.0.0.0 raiffeisen-ua.vip-viplatldop24.org
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen.3dss-pays.info
@@ -951,6 +966,7 @@
 0.0.0.0 raiffeisen.viplata.biz
 0.0.0.0 raiffeisen.viplataes.site
 0.0.0.0 raiffeisen.viplataes.vip
+0.0.0.0 raiffeisen.viplataindo.com
 0.0.0.0 raiffeisen.viplataonline.com
 0.0.0.0 raiffeisen.viplatasozshial.club
 0.0.0.0 raiffeisen.viplatavop.club
@@ -1062,6 +1078,7 @@
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
 0.0.0.0 ukraina-gos.top
+0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pics
 0.0.0.0 ukrainapomosh.site
 0.0.0.0 ukraine-furniture.com.ua
@@ -1134,6 +1151,7 @@
 0.0.0.0 viplatadiya.site
 0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
+0.0.0.0 viplataindo.com
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
 0.0.0.0 viplatasozshial.club
