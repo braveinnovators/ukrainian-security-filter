@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 03 April 2023 13:19 EEST
+! Last modified: Tue, 04 April 2023 15:23 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -31,6 +31,8 @@
 ||cake-payment.me^
 ||cardpay.onl^
 ||cashnew.pro^
+||ccx5.fun^
+||ccx5.net^
 ||cercis-dopay24.biz^
 ||chydovo.com^
 ||ckx-pay.me^
@@ -48,6 +50,7 @@
 ||cozialedop.info^
 ||cq-pay.me^
 ||cryptocurrency-helps-ukraine.com^
+||csx5.net^
 ||deneg-help.top^
 ||dengi.fyi^
 ||dersch.online^
@@ -166,16 +169,16 @@
 ||facebook.com/profile.php?id=100089962761567^$document
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
-||facebook.com/profile.php?id=100090998136488^
+||facebook.com/profile.php?id=100090998136488^$document
 ||facebook.com/profile.php?id=100091442203527^$document
 ||facebook.com/profile.php?id=100091443002635^$document
 ||facebook.com/profile.php?id=100091514463233^$document
 ||facebook.com/profile.php?id=100091549560072^$document
-||facebook.com/profile.php?id=100091590543953^
+||facebook.com/profile.php?id=100091590543953^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
-||facebook.com/Терміново-Офіційно-допомога-116759361369410^
+||facebook.com/Терміново-Офіційно-допомога-116759361369410^$document
 ||finance-dopomoga.site^
 ||finstor.online^
 ||finua.online^
@@ -214,6 +217,7 @@
 ||helpua.top^
 ||helpukraine.direct^
 ||helpzzfound.site^
+||hep5.online^
 ||homeanimal.site^
 ||i-dopomoga.space^
 ||id2047323.com^
@@ -258,6 +262,7 @@
 ||mopays.me^
 ||mospaidsmarket.top^
 ||motohouseua.com^
+||my-govuvvyplate.site^
 ||mygraphbook.com^
 ||mytax-compensation.xyz^
 ||mytechno.com.ua^
@@ -271,6 +276,7 @@
 ||next-bp.net^
 ||next-privat24.online^
 ||nextpay.pw^
+||nm6.info^
 ||no-pay.me^
 ||nopersonexty.online^
 ||nost-pays.shop^
@@ -286,7 +292,9 @@
 ||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
+||oon-viplata.co^
 ||oon-viplata.eu^
+||oon-viplata.org^
 ||oon-viplata.social^
 ||opay365.com^
 ||oplat.pro^
@@ -319,6 +327,7 @@
 ||pay-ukraine.com^
 ||pay-unv.me^
 ||payboxua.com^
+||payer.fun^
 ||payidgow.pro^
 ||paying-out.today^
 ||payment-system.cloud^
@@ -343,6 +352,7 @@
 ||personalnot.online^
 ||pestrio.site^
 ||peyidgo.pro^
+||pidrumka.co^
 ||platizh.com^
 ||platizhmob.com^
 ||po-mosh.com^
@@ -417,8 +427,8 @@
 ||streuro.site^
 ||sutary.com^
 ||t.me/d0p0m0ga^$document
-||t.me/diia_govUA1_bot^
-||t.me/dopomoga_diia^
+||t.me/diia_govUA1_bot^$document
+||t.me/dopomoga_diia^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/dopomogaukraine7600^$document
 ||t.me/doponoga8500^$document
@@ -428,9 +438,10 @@
 ||t.me/eDopomogaUA_official^$document
 ||t.me/esviatoloveUA^$document
 ||t.me/OffisalAOOH^$document
+||t.me/Raifaise20000^$document
 ||t.me/s/d0p0m0ga^$document
-||t.me/s/diia_govUA1_bot^
-||t.me/s/dopomoga_diia^
+||t.me/s/diia_govUA1_bot^$document
+||t.me/s/dopomoga_diia^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogaukraine7600^$document
 ||t.me/s/doponoga8500^$document
@@ -440,6 +451,7 @@
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/esviatoloveUA^$document
 ||t.me/s/OffisalAOOH^$document
+||t.me/s/Raifaise20000^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
@@ -548,9 +560,11 @@
 ||usdtrader.com^
 ||uvyplata.icu^
 ||uw-edopomoga.com^
+||vasic.website^
 ||vi-plata.com^
 ||vi-plata.vip^
 ||vil-ha.com^
+||vinplata.com^
 ||vip-onlain.site^
 ||vip-viplatldop24.org^
 ||viplata-com.store^
