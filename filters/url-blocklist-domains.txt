@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 03 April 2023 13:19 EEST
+# Last modified: Tue, 04 April 2023 15:23 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -68,11 +68,15 @@ bank-verif.com
 bank-viplata.online
 bankver.com
 bankverif.live
+blago-privatc24.ccx5.fun
+blagos-privatc24.nm6.info
 blesk24.com
 ca-pay.me
 cake-payment.me
 cardpay.onl
 cashnew.pro
+ccx5.fun
+ccx5.net
 cercis-dopay24.biz
 chydovo.com
 ckx-pay.me
@@ -93,9 +97,11 @@ cq-pay.me
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
+credit-agricole.pidrumka.co
 credit-agricole.ukraina.pics
 credit-agricole.vuplata.online
 cryptocurrency-helps-ukraine.com
+csx5.net
 deneg-help.top
 dengi.fyi
 dersch.online
@@ -251,6 +257,7 @@ helpforua.me
 helpua.top
 helpukraine.direct
 helpzzfound.site
+hep5.online
 homeanimal.site
 i-dopomoga.space
 id2047323.com
@@ -310,6 +317,7 @@ motohouseua.com
 my-gov.uperevod.icu
 my-gov.uplata.cyou
 my-gov.uvyplata.icu
+my-govuvvyplate.site
 mygraphbook.com
 mytax-compensation.xyz
 mytechno.com.ua
@@ -413,6 +421,7 @@ next24.xx-pay.co
 next24.xx-pay.me
 next24.yrliqupay.com
 nextpay.pw
+nm6.info
 no-pay.me
 nopersonexty.online
 nost-pays.shop
@@ -430,6 +439,7 @@ olx-ua.poluchenie.pw
 olx-ua.recive-money.icu
 olx-ua.recivemoney.icu
 onlin24-ukrsibbanck.uks6.site
+online-oschadbank.csx5.net
 online-pays.tech
 onlinediya.uk
 onlineviplata.me
@@ -438,7 +448,9 @@ onlinis24-ukrsibbanci.uks6.site
 onlins24-oschadbank.osv6.site
 oon-dopomoga.info
 oon-dopomoga.pro
+oon-viplata.co
 oon-viplata.eu
+oon-viplata.org
 oon-viplata.social
 opay365.com
 oplat.pro
@@ -555,10 +567,13 @@ oschadbank.k-auch.quest
 oschadbank.lataepitrimka.vip
 oschadbank.no-pay.me
 oschadbank.onlineviplata.me
+oschadbank.oon-viplata.co
 oschadbank.otrimanti.site
 oschadbank.otrimanya.me
+oschadbank.payer.fun
 oschadbank.payoutsonlyfrom21.info
 oschadbank.pays-org.me
+oschadbank.pidrumka.co
 oschadbank.po-mosh.com
 oschadbank.po-teq.com
 oschadbank.reliefukraine.today
@@ -575,6 +590,7 @@ oschadbank.ukraina.pics
 oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.vil-ha.com
+oschadbank.vinplata.com
 oschadbank.vip-onlain.site
 oschadbank.viplata-com.store
 oschadbank.viplata.biz
@@ -615,6 +631,7 @@ otimat.site
 otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
+otp.pidrumka.co
 otp.ua-send.website
 otp.ukraina.pics
 otrimanti.site
@@ -632,6 +649,7 @@ pay.liqpay.info
 pay.ocxa-ua.top
 pay.osxi-ua.xyz
 payboxua.com
+payer.fun
 payidgow.pro
 paying-out.today
 payment-system.cloud
@@ -658,6 +676,7 @@ perevojugroshi.com
 personalnot.online
 pestrio.site
 peyidgo.pro
+pidrumka.co
 platizh.com
 platizhmob.com
 po-mosh.com
@@ -699,6 +718,7 @@ privat.eviplata.vip
 privat.gertinn.com
 privat.lataepitrimka.vip
 privat.otimat.site
+privat.payer.fun
 privat.payoutsonlyfrom21.info
 privat.po-mosh.com
 privat.po-teq.com
@@ -709,6 +729,7 @@ privat.socialvuplata.net
 privat.sutary.com
 privat.uahelp.press
 privat.vi-plata.vip
+privat.vinplata.com
 privat.vip-onlain.site
 privat.viplata-com.store
 privat.viplata.biz
@@ -738,6 +759,7 @@ privat24.lpayments.org
 privat24.nextpay.pw
 privat24.onlinediya.uk
 privat24.perekaz.com
+privat24.pidrumka.co
 privat24.press
 privat24.privatbank.in.ua
 privat24.quickpay.pw
@@ -808,6 +830,7 @@ pumb.uasocial-viplata.company
 pumb.ul-pay.me
 pumb.upayment.me
 pumb.vi-plata.com
+pumb.vinplata.com
 pumb.vip-onlain.site
 pumb.viplata.fun
 pumb.viplataes.site
@@ -873,6 +896,7 @@ raif.perekaz-perek.com
 raif.perekazio.com
 raif.perekazu.com
 raif.perekazy-24pay.com
+raif.pidrumka.co
 raif.popomoga.com
 raif.poshyq.com
 raif.poshyx.com
@@ -949,6 +973,7 @@ raiffeisen.log-ins543325235345.cloud
 raiffeisen.onlineviplata.me
 raiffeisen.otrimanti.site
 raiffeisen.otrimanya.me
+raiffeisen.payer.fun
 raiffeisen.payoutsonlyfrom21.info
 raiffeisen.pays-org.me
 raiffeisen.po-teq.com
@@ -959,8 +984,10 @@ raiffeisen.socialassistance.info
 raiffeisen.socialvuplata.net
 raiffeisen.sutary.com
 raiffeisen.uahelp.press
+raiffeisen.vasic.website
 raiffeisen.vi-plata.vip
 raiffeisen.vil-ha.com
+raiffeisen.vinplata.com
 raiffeisen.vip-onlain.site
 raiffeisen.viplata-com.store
 raiffeisen.viplata.biz
@@ -1105,6 +1132,7 @@ ukrsib.gate-pays.me
 ukrsib.np-pay.me
 ukrsib.pay-ua.website
 ukrsib.pcs-order.me
+ukrsib.pidrumka.co
 ukrsib.poshyx.com
 ukrsib.securitypay.me
 ukrsib.sutary.com
@@ -1112,6 +1140,7 @@ ukrsib.uaedopomoga-online.com
 ukrsib.uasocial-viplata.company
 ukrsib.ukraina.pics
 ukrsib.vi-plata.com
+ukrsib.vinplata.com
 ukrsib.viplata.digital
 ukrsib.viplata.space
 ukrsib.viplataonline.com
@@ -1130,9 +1159,11 @@ uplata.cyou
 usdtrader.com
 uvyplata.icu
 uw-edopomoga.com
+vasic.website
 vi-plata.com
 vi-plata.vip
 vil-ha.com
+vinplata.com
 vip-onlain.site
 vip-viplatldop24.org
 viplata-com.store
