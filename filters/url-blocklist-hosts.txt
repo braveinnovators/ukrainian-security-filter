@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 03 April 2023 13:19 EEST
+# Last modified: Tue, 04 April 2023 15:23 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -68,11 +68,15 @@
 0.0.0.0 bank-viplata.online
 0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
+0.0.0.0 blago-privatc24.ccx5.fun
+0.0.0.0 blagos-privatc24.nm6.info
 0.0.0.0 blesk24.com
 0.0.0.0 ca-pay.me
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
 0.0.0.0 cashnew.pro
+0.0.0.0 ccx5.fun
+0.0.0.0 ccx5.net
 0.0.0.0 cercis-dopay24.biz
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
@@ -93,9 +97,11 @@
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
 0.0.0.0 crediacgricole.xu-pay.me
+0.0.0.0 credit-agricole.pidrumka.co
 0.0.0.0 credit-agricole.ukraina.pics
 0.0.0.0 credit-agricole.vuplata.online
 0.0.0.0 cryptocurrency-helps-ukraine.com
+0.0.0.0 csx5.net
 0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
 0.0.0.0 dersch.online
@@ -251,6 +257,7 @@
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpzzfound.site
+0.0.0.0 hep5.online
 0.0.0.0 homeanimal.site
 0.0.0.0 i-dopomoga.space
 0.0.0.0 id2047323.com
@@ -310,6 +317,7 @@
 0.0.0.0 my-gov.uperevod.icu
 0.0.0.0 my-gov.uplata.cyou
 0.0.0.0 my-gov.uvyplata.icu
+0.0.0.0 my-govuvvyplate.site
 0.0.0.0 mygraphbook.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 mytechno.com.ua
@@ -413,6 +421,7 @@
 0.0.0.0 next24.xx-pay.me
 0.0.0.0 next24.yrliqupay.com
 0.0.0.0 nextpay.pw
+0.0.0.0 nm6.info
 0.0.0.0 no-pay.me
 0.0.0.0 nopersonexty.online
 0.0.0.0 nost-pays.shop
@@ -430,6 +439,7 @@
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
+0.0.0.0 online-oschadbank.csx5.net
 0.0.0.0 online-pays.tech
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlineviplata.me
@@ -438,7 +448,9 @@
 0.0.0.0 onlins24-oschadbank.osv6.site
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
+0.0.0.0 oon-viplata.co
 0.0.0.0 oon-viplata.eu
+0.0.0.0 oon-viplata.org
 0.0.0.0 oon-viplata.social
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
@@ -555,10 +567,13 @@
 0.0.0.0 oschadbank.lataepitrimka.vip
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.onlineviplata.me
+0.0.0.0 oschadbank.oon-viplata.co
 0.0.0.0 oschadbank.otrimanti.site
 0.0.0.0 oschadbank.otrimanya.me
+0.0.0.0 oschadbank.payer.fun
 0.0.0.0 oschadbank.payoutsonlyfrom21.info
 0.0.0.0 oschadbank.pays-org.me
+0.0.0.0 oschadbank.pidrumka.co
 0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
 0.0.0.0 oschadbank.reliefukraine.today
@@ -575,6 +590,7 @@
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.vil-ha.com
+0.0.0.0 oschadbank.vinplata.com
 0.0.0.0 oschadbank.vip-onlain.site
 0.0.0.0 oschadbank.viplata-com.store
 0.0.0.0 oschadbank.viplata.biz
@@ -615,6 +631,7 @@
 0.0.0.0 otp.no-pay.me
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pcs-order.me
+0.0.0.0 otp.pidrumka.co
 0.0.0.0 otp.ua-send.website
 0.0.0.0 otp.ukraina.pics
 0.0.0.0 otrimanti.site
@@ -632,6 +649,7 @@
 0.0.0.0 pay.ocxa-ua.top
 0.0.0.0 pay.osxi-ua.xyz
 0.0.0.0 payboxua.com
+0.0.0.0 payer.fun
 0.0.0.0 payidgow.pro
 0.0.0.0 paying-out.today
 0.0.0.0 payment-system.cloud
@@ -658,6 +676,7 @@
 0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
 0.0.0.0 peyidgo.pro
+0.0.0.0 pidrumka.co
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
 0.0.0.0 po-mosh.com
@@ -699,6 +718,7 @@
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.lataepitrimka.vip
 0.0.0.0 privat.otimat.site
+0.0.0.0 privat.payer.fun
 0.0.0.0 privat.payoutsonlyfrom21.info
 0.0.0.0 privat.po-mosh.com
 0.0.0.0 privat.po-teq.com
@@ -709,6 +729,7 @@
 0.0.0.0 privat.sutary.com
 0.0.0.0 privat.uahelp.press
 0.0.0.0 privat.vi-plata.vip
+0.0.0.0 privat.vinplata.com
 0.0.0.0 privat.vip-onlain.site
 0.0.0.0 privat.viplata-com.store
 0.0.0.0 privat.viplata.biz
@@ -738,6 +759,7 @@
 0.0.0.0 privat24.nextpay.pw
 0.0.0.0 privat24.onlinediya.uk
 0.0.0.0 privat24.perekaz.com
+0.0.0.0 privat24.pidrumka.co
 0.0.0.0 privat24.press
 0.0.0.0 privat24.privatbank.in.ua
 0.0.0.0 privat24.quickpay.pw
@@ -808,6 +830,7 @@
 0.0.0.0 pumb.ul-pay.me
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.vi-plata.com
+0.0.0.0 pumb.vinplata.com
 0.0.0.0 pumb.vip-onlain.site
 0.0.0.0 pumb.viplata.fun
 0.0.0.0 pumb.viplataes.site
@@ -873,6 +896,7 @@
 0.0.0.0 raif.perekazio.com
 0.0.0.0 raif.perekazu.com
 0.0.0.0 raif.perekazy-24pay.com
+0.0.0.0 raif.pidrumka.co
 0.0.0.0 raif.popomoga.com
 0.0.0.0 raif.poshyq.com
 0.0.0.0 raif.poshyx.com
@@ -949,6 +973,7 @@
 0.0.0.0 raiffeisen.onlineviplata.me
 0.0.0.0 raiffeisen.otrimanti.site
 0.0.0.0 raiffeisen.otrimanya.me
+0.0.0.0 raiffeisen.payer.fun
 0.0.0.0 raiffeisen.payoutsonlyfrom21.info
 0.0.0.0 raiffeisen.pays-org.me
 0.0.0.0 raiffeisen.po-teq.com
@@ -959,8 +984,10 @@
 0.0.0.0 raiffeisen.socialvuplata.net
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.uahelp.press
+0.0.0.0 raiffeisen.vasic.website
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.vil-ha.com
+0.0.0.0 raiffeisen.vinplata.com
 0.0.0.0 raiffeisen.vip-onlain.site
 0.0.0.0 raiffeisen.viplata-com.store
 0.0.0.0 raiffeisen.viplata.biz
@@ -1105,6 +1132,7 @@
 0.0.0.0 ukrsib.np-pay.me
 0.0.0.0 ukrsib.pay-ua.website
 0.0.0.0 ukrsib.pcs-order.me
+0.0.0.0 ukrsib.pidrumka.co
 0.0.0.0 ukrsib.poshyx.com
 0.0.0.0 ukrsib.securitypay.me
 0.0.0.0 ukrsib.sutary.com
@@ -1112,6 +1140,7 @@
 0.0.0.0 ukrsib.uasocial-viplata.company
 0.0.0.0 ukrsib.ukraina.pics
 0.0.0.0 ukrsib.vi-plata.com
+0.0.0.0 ukrsib.vinplata.com
 0.0.0.0 ukrsib.viplata.digital
 0.0.0.0 ukrsib.viplata.space
 0.0.0.0 ukrsib.viplataonline.com
@@ -1130,9 +1159,11 @@
 0.0.0.0 usdtrader.com
 0.0.0.0 uvyplata.icu
 0.0.0.0 uw-edopomoga.com
+0.0.0.0 vasic.website
 0.0.0.0 vi-plata.com
 0.0.0.0 vi-plata.vip
 0.0.0.0 vil-ha.com
+0.0.0.0 vinplata.com
 0.0.0.0 vip-onlain.site
 0.0.0.0 vip-viplatldop24.org
 0.0.0.0 viplata-com.store
