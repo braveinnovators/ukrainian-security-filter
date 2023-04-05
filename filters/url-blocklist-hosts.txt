@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 04 April 2023 15:23 EEST
+# Last modified: Wed, 05 April 2023 11:04 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -75,8 +75,17 @@
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
 0.0.0.0 cashnew.pro
+0.0.0.0 cbn5.com
+0.0.0.0 cbn5.fun
+0.0.0.0 cbn5.uno
+0.0.0.0 cbx5.online
+0.0.0.0 cbx5.space
+0.0.0.0 cbx5.uno
 0.0.0.0 ccx5.fun
 0.0.0.0 ccx5.net
+0.0.0.0 ccx5.space
+0.0.0.0 ccx5.uno
+0.0.0.0 ccx5.website
 0.0.0.0 cercis-dopay24.biz
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
@@ -98,14 +107,18 @@
 0.0.0.0 crediacgricole.pcs-order.me
 0.0.0.0 crediacgricole.xu-pay.me
 0.0.0.0 credit-agricole.pidrumka.co
+0.0.0.0 credit-agricole.uk-raina.live
 0.0.0.0 credit-agricole.ukraina.pics
 0.0.0.0 credit-agricole.vuplata.online
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 csx5.net
+0.0.0.0 csx5.space
+0.0.0.0 csx5.uno
 0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
+0.0.0.0 dfgpaio.click
 0.0.0.0 diadopomoga.me
 0.0.0.0 diafes.com
 0.0.0.0 diia-d0p0moga.com
@@ -173,6 +186,7 @@
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaonline.xyz
 0.0.0.0 dopomogaooh.pro
+0.0.0.0 dopomogapays.site
 0.0.0.0 dopomogas.com
 0.0.0.0 dopomogasoshiall.website
 0.0.0.0 dopomogaua.xyz
@@ -182,13 +196,17 @@
 0.0.0.0 dovua.shop
 0.0.0.0 e-dopomoga-perekazy24.space
 0.0.0.0 e-dopomoga.click
+0.0.0.0 e-dopomogaua.me
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-viplata.space
 0.0.0.0 ec-compensation.xyz
 0.0.0.0 ed-edopomoga.com
 0.0.0.0 edi6.site
+0.0.0.0 edopomoga-epidtrimka.com
 0.0.0.0 edopomoga-gov.website
+0.0.0.0 edopomoga-pidtrimka.com
+0.0.0.0 edopomoga-uaoff.com
 0.0.0.0 edopomoga-viplata.com
 0.0.0.0 edopomoga-vyplata.com
 0.0.0.0 edopomoga.edi6.site
@@ -197,13 +215,17 @@
 0.0.0.0 edopomoga.today
 0.0.0.0 edopomoga.udemixcr.com
 0.0.0.0 edopomoga.world
+0.0.0.0 edopomoga24.csx5.space
 0.0.0.0 edopomogae.info
 0.0.0.0 edopomogai24.edi6.site
+0.0.0.0 edopomogaua-epidtimkaua.com
+0.0.0.0 edopomogaua-epidtrimka.com
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
 0.0.0.0 edopomogauaa.com
 0.0.0.0 edopomogaukrainehelp.com
 0.0.0.0 edopomogavyplatahelp.com
+0.0.0.0 epidrumka.info
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
@@ -256,6 +278,7 @@
 0.0.0.0 helpforua.me
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
+0.0.0.0 helpwar-privat24.shop
 0.0.0.0 helpzzfound.site
 0.0.0.0 hep5.online
 0.0.0.0 homeanimal.site
@@ -421,6 +444,7 @@
 0.0.0.0 next24.xx-pay.me
 0.0.0.0 next24.yrliqupay.com
 0.0.0.0 nextpay.pw
+0.0.0.0 nm6.fun
 0.0.0.0 nm6.info
 0.0.0.0 no-pay.me
 0.0.0.0 nopersonexty.online
@@ -439,9 +463,11 @@
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
+0.0.0.0 online-oschadbank.cbx5.space
 0.0.0.0 online-oschadbank.csx5.net
 0.0.0.0 online-pays.tech
 0.0.0.0 onlinediya.uk
+0.0.0.0 onlines-raiffeizen24.cbn5.fun
 0.0.0.0 onlineviplata.me
 0.0.0.0 onlini24-oschadbank.osv6.site
 0.0.0.0 onlinis24-ukrsibbanci.uks6.site
@@ -554,6 +580,7 @@
 0.0.0.0 oschadbank.comreviews.club
 0.0.0.0 oschadbank.cozialedop.info
 0.0.0.0 oschadbank.dengi.fyi
+0.0.0.0 oschadbank.dfgpaio.click
 0.0.0.0 oschadbank.donttech.com
 0.0.0.0 oschadbank.dopomogae.info
 0.0.0.0 oschadbank.dopomogas.com
@@ -586,6 +613,7 @@
 0.0.0.0 oschadbank.ua-send.site
 0.0.0.0 oschadbank.ua-send.website
 0.0.0.0 oschadbank.uahelp.press
+0.0.0.0 oschadbank.uk-raina.live
 0.0.0.0 oschadbank.ukraina.pics
 0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
@@ -633,6 +661,7 @@
 0.0.0.0 otp.pcs-order.me
 0.0.0.0 otp.pidrumka.co
 0.0.0.0 otp.ua-send.website
+0.0.0.0 otp.uk-raina.live
 0.0.0.0 otp.ukraina.pics
 0.0.0.0 otrimanti.site
 0.0.0.0 otrimanya.me
@@ -677,6 +706,7 @@
 0.0.0.0 pestrio.site
 0.0.0.0 peyidgo.pro
 0.0.0.0 pidrumka.co
+0.0.0.0 pidrumka.online
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
 0.0.0.0 po-mosh.com
@@ -771,6 +801,7 @@
 0.0.0.0 privat24.ua-send.site
 0.0.0.0 privat24.ua-send.website
 0.0.0.0 privat24.uasafe.online
+0.0.0.0 privat24.uk-raina.live
 0.0.0.0 privat24.ukraina.pics
 0.0.0.0 privat24.uno
 0.0.0.0 privat24.vuplata.online
@@ -778,6 +809,7 @@
 0.0.0.0 privat24.y-pay.pro
 0.0.0.0 privat24bank.net
 0.0.0.0 privat24eviplati.online
+0.0.0.0 privat24helps.shop
 0.0.0.0 privat24investt.xyz
 0.0.0.0 privat24oon.social
 0.0.0.0 privatbank.cardpay.onl
@@ -915,6 +947,7 @@
 0.0.0.0 raif.uadostawka.com
 0.0.0.0 raif.uahs.buzz
 0.0.0.0 raif.uasocial-viplata.company
+0.0.0.0 raif.uk-raina.live
 0.0.0.0 raif.ukraina.pics
 0.0.0.0 raif.ukreyns.com
 0.0.0.0 raif.ul-pay.me
@@ -956,6 +989,7 @@
 0.0.0.0 raiffeisen.comreviews.club
 0.0.0.0 raiffeisen.cozialedop.info
 0.0.0.0 raiffeisen.dengi.fyi
+0.0.0.0 raiffeisen.dfgpaio.click
 0.0.0.0 raiffeisen.donttech.com
 0.0.0.0 raiffeisen.dopomogae.info
 0.0.0.0 raiffeisen.dopomogas.com
@@ -1017,6 +1051,7 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 rozym.com
 0.0.0.0 s1.edopomogaua.site
+0.0.0.0 safe-ua-viplata.website
 0.0.0.0 saferegulatory.com
 0.0.0.0 secure2dpay.store
 0.0.0.0 secure3ds.org
@@ -1087,6 +1122,7 @@
 0.0.0.0 uasafe.online
 0.0.0.0 uasocial-viplata.company
 0.0.0.0 udemixcr.com
+0.0.0.0 uk-raina.live
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-compens.top
 0.0.0.0 ukr-compens.xyz
@@ -1138,6 +1174,7 @@
 0.0.0.0 ukrsib.sutary.com
 0.0.0.0 ukrsib.uaedopomoga-online.com
 0.0.0.0 ukrsib.uasocial-viplata.company
+0.0.0.0 ukrsib.uk-raina.live
 0.0.0.0 ukrsib.ukraina.pics
 0.0.0.0 ukrsib.vi-plata.com
 0.0.0.0 ukrsib.vinplata.com
@@ -1172,11 +1209,13 @@
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
 0.0.0.0 viplata.digital
+0.0.0.0 viplata.eu
 0.0.0.0 viplata.foundation
 0.0.0.0 viplata.fun
 0.0.0.0 viplata.fyi
 0.0.0.0 viplata.in
 0.0.0.0 viplata.me
+0.0.0.0 viplata.mobi
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
 0.0.0.0 viplatadiya.site
