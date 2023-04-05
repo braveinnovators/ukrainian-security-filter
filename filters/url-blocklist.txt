@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 04 April 2023 15:23 EEST
+! Last modified: Wed, 05 April 2023 11:04 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 !
@@ -31,8 +31,17 @@
 ||cake-payment.me^
 ||cardpay.onl^
 ||cashnew.pro^
+||cbn5.com^
+||cbn5.fun^
+||cbn5.uno^
+||cbx5.online^
+||cbx5.space^
+||cbx5.uno^
 ||ccx5.fun^
 ||ccx5.net^
+||ccx5.space^
+||ccx5.uno^
+||ccx5.website^
 ||cercis-dopay24.biz^
 ||chydovo.com^
 ||ckx-pay.me^
@@ -51,10 +60,13 @@
 ||cq-pay.me^
 ||cryptocurrency-helps-ukraine.com^
 ||csx5.net^
+||csx5.space^
+||csx5.uno^
 ||deneg-help.top^
 ||dengi.fyi^
 ||dersch.online^
 ||dershoplate.com^
+||dfgpaio.click^
 ||diadopomoga.me^
 ||diafes.com^
 ||diia-d0p0moga.com^
@@ -116,6 +128,7 @@
 ||dopomogainukraine.com^
 ||dopomogaonline.xyz^
 ||dopomogaooh.pro^
+||dopomogapays.site^
 ||dopomogas.com^
 ||dopomogasoshiall.website^
 ||dopomogaua.xyz^
@@ -125,13 +138,17 @@
 ||dovua.shop^
 ||e-dopomoga-perekazy24.space^
 ||e-dopomoga.click^
+||e-dopomogaua.me^
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-viplata.space^
 ||ec-compensation.xyz^
 ||ed-edopomoga.com^
 ||edi6.site^
+||edopomoga-epidtrimka.com^
 ||edopomoga-gov.website^
+||edopomoga-pidtrimka.com^
+||edopomoga-uaoff.com^
 ||edopomoga-viplata.com^
 ||edopomoga-vyplata.com^
 ||edopomoga.land^
@@ -139,11 +156,14 @@
 ||edopomoga.today^
 ||edopomoga.world^
 ||edopomogae.info^
+||edopomogaua-epidtimkaua.com^
+||edopomogaua-epidtrimka.com^
 ||edopomogaua.site^
 ||edopomogaua.website^
 ||edopomogauaa.com^
 ||edopomogaukrainehelp.com^
 ||edopomogavyplatahelp.com^
+||epidrumka.info^
 ||epidtrimka.com^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
@@ -216,6 +236,7 @@
 ||helpforua.me^
 ||helpua.top^
 ||helpukraine.direct^
+||helpwar-privat24.shop^
 ||helpzzfound.site^
 ||hep5.online^
 ||homeanimal.site^
@@ -276,6 +297,7 @@
 ||next-bp.net^
 ||next-privat24.online^
 ||nextpay.pw^
+||nm6.fun^
 ||nm6.info^
 ||no-pay.me^
 ||nopersonexty.online^
@@ -353,6 +375,7 @@
 ||pestrio.site^
 ||peyidgo.pro^
 ||pidrumka.co^
+||pidrumka.online^
 ||platizh.com^
 ||platizhmob.com^
 ||po-mosh.com^
@@ -375,6 +398,7 @@
 ||privat24.uno^
 ||privat24bank.net^
 ||privat24eviplati.online^
+||privat24helps.shop^
 ||privat24investt.xyz^
 ||privat24oon.social^
 ||privatbank.in.ua^
@@ -406,6 +430,7 @@
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
 ||rozym.com^
+||safe-ua-viplata.website^
 ||saferegulatory.com^
 ||secure2dpay.store^
 ||secure3ds.org^
@@ -511,6 +536,7 @@
 ||uasafe.online^
 ||uasocial-viplata.company^
 ||udemixcr.com^
+||uk-raina.live^
 ||ukr-cash.top^
 ||ukr-compens.top^
 ||ukr-compens.xyz^
@@ -573,11 +599,13 @@
 ||viplata.biz^
 ||viplata.club^
 ||viplata.digital^
+||viplata.eu^
 ||viplata.foundation^
 ||viplata.fun^
 ||viplata.fyi^
 ||viplata.in^
 ||viplata.me^
+||viplata.mobi^
 ||viplata.org^
 ||viplata.space^
 ||viplatadiya.site^
