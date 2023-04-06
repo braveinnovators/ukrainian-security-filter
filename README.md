@@ -63,7 +63,7 @@ https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-dnsmasq.t
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-Додаткова інформація: [https://github.com/s5innovators/url-blocklist/wiki/Brave](https://github.com/s5innovators/url-blocklist/wiki/Brave)
+Додаткова інформація: [https://github.com/S15UA/url-blocklist/wiki/Brave](https://github.com/S15UA/url-blocklist/wiki/Brave)
 
 ### uBlock Origin
 
@@ -74,7 +74,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-Додаткова інформація: [https://github.com/s5innovators/url-blocklist/wiki/uBlock-Origin](https://github.com/s5innovators/url-blocklist/wiki/uBlock-Origin)
+Додаткова інформація: [https://github.com/S15UA/url-blocklist/wiki/uBlock-Origin](https://github.com/S15UA/url-blocklist/wiki/uBlock-Origin)
 
 ### Adblock Plus
 
@@ -85,7 +85,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ```
 
-Додаткова інформація: [https://github.com/s5innovators/url-blocklist/wiki/Adblock-Plus](https://github.com/s5innovators/url-blocklist/wiki/Adblock-Plus)
+Додаткова інформація: [https://github.com/S15UA/url-blocklist/wiki/Adblock-Plus](https://github.com/S15UA/url-blocklist/wiki/Adblock-Plus)
 
 ## Особливості
 
@@ -103,8 +103,8 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ## Wiki
 
-[https://github.com/s5innovators/url-blocklist/wiki](https://github.com/s5innovators/url-blocklist/wiki)
+[https://github.com/S15UA/url-blocklist/wiki](https://github.com/S15UA/url-blocklist/wiki)
 
 ## Ліцензія
 
-На фільтр (список блокувань) UA: Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/s5innovators/url-blocklist/blob/main/LICENSE)
+На фільтр (список блокувань) UA: Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/S15UA/url-blocklist/blob/main/LICENSE)
