@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 06 April 2023 16:18 EEST
+# Last modified: Thu, 06 April 2023 21:00 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -157,6 +157,7 @@ dopomih.com
 dopomoga-2023.top
 dopomoga-aid.top
 dopomoga-backing.top
+dopomoga-dlia-ukraintsiv.life
 dopomoga-epay.site
 dopomoga-id04687.website
 dopomoga-in.pl
@@ -166,6 +167,7 @@ dopomoga-ua.click
 dopomoga-ua.info
 dopomoga-ua.online
 dopomoga-ua.personalnot.online
+dopomoga-ua.pro
 dopomoga-ua.site
 dopomoga-ua.website
 dopomoga.agency
@@ -198,6 +200,7 @@ dopomogapro.club
 dopomogas.com
 dopomogasoshiall.website
 dopomogaua-pidtrimka.com
+dopomogaua-pidtrimkaua.com
 dopomogaua.xyz
 dopomogi.top
 dopomogs-ukr.top
@@ -227,15 +230,18 @@ edopomoga.world
 edopomoga24.csx5.space
 edopomogae.info
 edopomogai24.edi6.site
+edopomogaofficialua.com
 edopomogaonline.com
 edopomogaua-epidtimkaua.com
 edopomogaua-epidtrimka.com
+edopomogaua-uknaine.com
 edopomogaua.site
 edopomogaua.website
 edopomogauaa.com
 edopomogaukrainehelp.com
 edopomogavyplatahelp.com
 epidrumka.info
+epidtrimka-edopomoga.com
 epidtrimka.com
 epidtrimkadopomoga.com
 epidtrumka.org
@@ -605,6 +611,7 @@ oschadbank.dopomogaofficialua.com
 oschadbank.dopomogapro.club
 oschadbank.dopomogas.com
 oschadbank.edopomoga.today
+oschadbank.edopomogaofficialua.com
 oschadbank.epidtrumka.org
 oschadbank.etrimaty.pro
 oschadbank.eviplata.vip
@@ -773,6 +780,7 @@ privat.dopomogaofficialua.com
 privat.dopomogapro.club
 privat.dopomogas.com
 privat.edopomoga.today
+privat.edopomogaofficialua.com
 privat.etrimaty.pro
 privat.eviplata.vip
 privat.gereta.live
@@ -1038,6 +1046,7 @@ raiffeisen.dopomogapro.club
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.edopomoga.today
+raiffeisen.edopomogaofficialua.com
 raiffeisen.epidtrumka.org
 raiffeisen.etrimaty.pro
 raiffeisen.eviplata.vip
@@ -1140,6 +1149,7 @@ ua-compensation.top
 ua-compensations.xyz
 ua-compenses.top
 ua-dopomoga.org
+ua-edopomoga.me
 ua-pay.space
 ua-payout.site
 ua-privat24.pro
@@ -1158,6 +1168,7 @@ uacmplnk.xyz
 uacompensation.xyz
 uadia.buzz
 uadopomoga.biz
+uadopomoga.com
 uadostawka.com
 uaedopomoga-online.com
 uah-perekaz.com
@@ -1194,6 +1205,7 @@ ukraina-gos.top
 ukraina.buzz
 ukraina.pics
 ukrainapomosh.site
+ukraine-dopomoga.online
 ukraine-furniture.com.ua
 ukraine-viplata.top
 ukraineamazon.com
@@ -1302,6 +1314,7 @@ vuplata.ink
 vuplata.online
 vuplatu.in
 vuplatyi.com
+vyplata-edopomoga.com
 vyplata-help.com
 vyplata24.com
 vyplataua.com
