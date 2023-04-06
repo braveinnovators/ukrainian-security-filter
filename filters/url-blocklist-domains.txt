@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 05 April 2023 11:04 EEST
+# Last modified: Thu, 06 April 2023 16:18 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -21,6 +21,7 @@ a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
 a-bank.dopomoga.place
 a-bank.dopomoga.social
+a-bank.dopomogapro.club
 a-bank.dopomogas.com
 a-bank.dopomogasoshiall.website
 a-bank.edopomoga.land
@@ -69,12 +70,14 @@ bank-viplata.online
 bankver.com
 bankverif.live
 blago-privatc24.ccx5.fun
+blago-privatc24.wf0.uno
 blagos-privatc24.nm6.info
 blesk24.com
 ca-pay.me
 cake-payment.me
 cardpay.onl
 cashnew.pro
+cashpayforukrainepeople.business
 cbn5.com
 cbn5.fun
 cbn5.uno
@@ -109,6 +112,7 @@ crediacgricole.xu-pay.me
 credit-agricole.pidrumka.co
 credit-agricole.uk-raina.live
 credit-agricole.ukraina.pics
+credit-agricole.vuplata.ink
 credit-agricole.vuplata.online
 cryptocurrency-helps-ukraine.com
 csx5.net
@@ -121,6 +125,7 @@ dershoplate.com
 dfgpaio.click
 diadopomoga.me
 diafes.com
+diahelpfulua.click
 diia-d0p0moga.com
 diia-dopomoga.pro
 diia-gov.com
@@ -156,6 +161,7 @@ dopomoga-epay.site
 dopomoga-id04687.website
 dopomoga-in.pl
 dopomoga-oon.com
+dopomoga-pidtrimkauaoff.com
 dopomoga-ua.click
 dopomoga-ua.info
 dopomoga-ua.online
@@ -184,11 +190,14 @@ dopomogae.online
 dopomogae.social
 dopomogae.xyz
 dopomogainukraine.com
+dopomogaofficialua.com
 dopomogaonline.xyz
 dopomogaooh.pro
 dopomogapays.site
+dopomogapro.club
 dopomogas.com
 dopomogasoshiall.website
+dopomogaua-pidtrimka.com
 dopomogaua.xyz
 dopomogi.top
 dopomogs-ukr.top
@@ -218,6 +227,7 @@ edopomoga.world
 edopomoga24.csx5.space
 edopomogae.info
 edopomogai24.edi6.site
+edopomogaonline.com
 edopomogaua-epidtimkaua.com
 edopomogaua-epidtrimka.com
 edopomogaua.site
@@ -227,6 +237,7 @@ edopomogaukrainehelp.com
 edopomogavyplatahelp.com
 epidrumka.info
 epidtrimka.com
+epidtrimkadopomoga.com
 epidtrumka.org
 epidtrymka.cloud
 epomoh.biz
@@ -246,6 +257,7 @@ flexcapital.com
 fond-dopomogy.shop
 g-pay.me
 gate-pays.me
+gereta.live
 gertinn.com
 getfunds.pw
 gg-pay.me
@@ -330,6 +342,7 @@ mono.ads-pid.me
 mono.gate-pays.me
 mono.viplata.space
 mono.viplataua.shop
+mono.vuplata.ink
 mono.xx-pay.co
 monobank.co.ua
 monobank.online
@@ -481,6 +494,7 @@ oon-viplata.social
 opay365.com
 oplat.pro
 oplataofficial.life
+oschad-ukr.buzz
 oschad.3dss-pays.info
 oschad.blesk24.com
 oschad.cake-payment.me
@@ -540,6 +554,7 @@ oschad.poshyq.com
 oschad.poshyx.com
 oschad.privat.today
 oschad.pruity.com
+oschad.ryjpay.com
 oschad.securitypay.me
 oschad.securitypays.online
 oschad.soc-order.me
@@ -565,6 +580,7 @@ oschad.vyplata-help.com
 oschad.wr-rescan.com
 oschad.xx-pay.co
 oschad.yatreba.com
+oschad.yrlipay.art
 oschad.yrliqupay.com
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
@@ -581,13 +597,18 @@ oschadbank.comreviews.club
 oschadbank.cozialedop.info
 oschadbank.dengi.fyi
 oschadbank.dfgpaio.click
+oschadbank.diahelpfulua.click
 oschadbank.donttech.com
+oschadbank.dopomoga-pidtrimkauaoff.com
 oschadbank.dopomogae.info
+oschadbank.dopomogaofficialua.com
+oschadbank.dopomogapro.club
 oschadbank.dopomogas.com
 oschadbank.edopomoga.today
 oschadbank.epidtrumka.org
 oschadbank.etrimaty.pro
 oschadbank.eviplata.vip
+oschadbank.gereta.live
 oschadbank.gertinn.com
 oschadbank.groshi.world
 oschadbank.k-auch.quest
@@ -632,6 +653,7 @@ oschadbank.viplatavpo.biz
 oschadbank.viplatavsem.site
 oschadbank.vipplata.com
 oschadbank.vorkviplata.biz
+oschadbank.vuplata.ink
 oschadbank.vuplata.online
 oschadbank.vuplatyi.com
 oschadbank.xn--80aae0btu3d.life
@@ -650,6 +672,10 @@ oshad-ua.vip-viplatldop24.org
 oshad.24get.site
 oshadbank.online
 oshadbank.pro
+oshadraif.biz
+oshadraif.cloud
+oshadraif.info
+oshadraif.pro
 oshcad-bank.top
 oshcadbank.top
 osschad.secure2dpay.store
@@ -663,6 +689,7 @@ otp.pidrumka.co
 otp.ua-send.website
 otp.uk-raina.live
 otp.ukraina.pics
+otp.vuplata.ink
 otrimanti.site
 otrimanya.me
 ox-pay.me
@@ -740,11 +767,15 @@ privat.dengi.fyi
 privat.diafes.com
 privat.donttech.com
 privat.dopomegatm.me
+privat.dopomoga-pidtrimkauaoff.com
 privat.dopomogae.info
+privat.dopomogaofficialua.com
+privat.dopomogapro.club
 privat.dopomogas.com
 privat.edopomoga.today
 privat.etrimaty.pro
 privat.eviplata.vip
+privat.gereta.live
 privat.gertinn.com
 privat.lataepitrimka.vip
 privat.otimat.site
@@ -752,6 +783,7 @@ privat.payer.fun
 privat.payoutsonlyfrom21.info
 privat.po-mosh.com
 privat.po-teq.com
+privat.realss.pro
 privat.rozym.com
 privat.shepir.com
 privat.socialassistance.info
@@ -804,6 +836,7 @@ privat24.uasafe.online
 privat24.uk-raina.live
 privat24.ukraina.pics
 privat24.uno
+privat24.vuplata.ink
 privat24.vuplata.online
 privat24.xwallet.website
 privat24.y-pay.pro
@@ -838,6 +871,7 @@ pumb.dopomogaooh.pro
 pumb.dopomogasoshiall.website
 pumb.edopomoga.today
 pumb.epidtrymka.cloud
+pumb.gereta.live
 pumb.jay-order.me
 pumb.likpay.me
 pumb.nato-gov.com
@@ -934,6 +968,7 @@ raif.poshyq.com
 raif.poshyx.com
 raif.privat.today
 raif.pruity.com
+raif.ryjpay.com
 raif.secure2dpay.store
 raif.securitypay.me
 raif.soc-order.me
@@ -959,13 +994,16 @@ raif.viplata.space
 raif.viplatanow.online
 raif.viplataua.shop
 raif.viplatka.com
+raif.vuplata.ink
 raif.vuplata.online
 raif.vuplatu.in
 raif.vyplata-help.com
 raif.vyplaty.pro
 raif.xx-pay.co
 raif.yatreba.com
+raif.yrlipay.art
 raif.yrliqupay.com
+raifesssen.com
 raiffaisen-next.online
 raiffeisen-approve.com
 raiffeisen-ua.cercis-dopay24.biz
@@ -975,6 +1013,7 @@ raiffeisen-ua.log-dopomogapays24.org
 raiffeisen-ua.may-viplatservis24.org
 raiffeisen-ua.vip-viplatldop24.org
 raiffeisen-uapay.shop
+raiffeisen-ukr.buzz
 raiffeisen.3dss-pays.info
 raiffeisen.ads-pid.me
 raiffeisen.amerisn.com
@@ -990,14 +1029,19 @@ raiffeisen.comreviews.club
 raiffeisen.cozialedop.info
 raiffeisen.dengi.fyi
 raiffeisen.dfgpaio.click
+raiffeisen.diahelpfulua.click
 raiffeisen.donttech.com
+raiffeisen.dopomoga-pidtrimkauaoff.com
 raiffeisen.dopomogae.info
+raiffeisen.dopomogaofficialua.com
+raiffeisen.dopomogapro.club
 raiffeisen.dopomogas.com
 raiffeisen.dopomogaua.xyz
 raiffeisen.edopomoga.today
 raiffeisen.epidtrumka.org
 raiffeisen.etrimaty.pro
 raiffeisen.eviplata.vip
+raiffeisen.gereta.live
 raiffeisen.gertinn.com
 raiffeisen.groshi.world
 raiffeisen.helpua.top
@@ -1040,7 +1084,11 @@ raiffeisen.xn--80aae0btu3d.life
 raiffeisenbankoon.social
 raiffeizen-viplata-help.online
 raiffesen.pro
+raiffeslen.biz
+raiffeslen.com
+raiffeslen.org
 rastamogka.net
+realss.pro
 recive-money.icu
 recivemoney.icu
 rectivs.com
@@ -1050,6 +1098,7 @@ rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
 rozym.com
+ryjpay.com
 s1.edopomogaua.site
 safe-ua-viplata.website
 saferegulatory.com
@@ -1103,13 +1152,14 @@ ua-viplata.me
 ua-wallet.pw
 ua2021priz.yolasite.com
 ua24kompensacy.yolasite.com
+uaabey.vip
 uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
 uadia.buzz
 uadopomoga.biz
 uadostawka.com
-uaedopomoga-online
+uaedopomoga-online.com
 uah-perekaz.com
 uah-perekaz24.com
 uahelp.press
@@ -1145,6 +1195,7 @@ ukraina.buzz
 ukraina.pics
 ukrainapomosh.site
 ukraine-furniture.com.ua
+ukraine-viplata.top
 ukraineamazon.com
 ukrainebayra.com
 ukrainehelp.cloud
@@ -1165,6 +1216,7 @@ ukrsib.dershoplate.com
 ukrsib.dopomoga.agency
 ukrsib.dopomoga.solutions
 ukrsib.gate-pays.me
+ukrsib.gereta.live
 ukrsib.np-pay.me
 ukrsib.pay-ua.website
 ukrsib.pcs-order.me
@@ -1182,6 +1234,7 @@ ukrsib.viplata.digital
 ukrsib.viplata.space
 ukrsib.viplataonline.com
 ukrsib.vorkviplata.biz
+ukrsib.vuplata.ink
 ukrsib.xx-pay.co
 ukrsibbank.top
 uks6.site
@@ -1204,6 +1257,7 @@ vinplata.com
 vip-onlain.site
 vip-viplatldop24.org
 viplata-com.store
+viplata-ooh.life
 viplata-oon-ua.com
 viplata.agency
 viplata.biz
@@ -1244,6 +1298,7 @@ vo-dopomoga.net
 vorkviplata.biz
 vostok.vorkviplata.biz
 vuplata.casa
+vuplata.ink
 vuplata.online
 vuplatu.in
 vuplatyi.com
@@ -1253,8 +1308,10 @@ vyplataua.com
 vyplaty.pro
 vyplatyedopomoga.com
 weekpaidlife.top
+wf0.uno
 world-help.udemixcr.com
 wr-rescan.com
+www-raiffeslen.me
 x7-mikepike.buzz
 xn--80aae0btu3d.life
 xu-pay.me
@@ -1265,4 +1322,5 @@ xx-pay.me
 y-pay.pro
 y4-nurimuri.buzz
 yatreba.com
+yrlipay.art
 yrliqupay.com
