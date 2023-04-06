@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 06 April 2023 16:18 EEST
+# Last modified: Thu, 06 April 2023 21:00 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -157,6 +157,7 @@
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-backing.top
+0.0.0.0 dopomoga-dlia-ukraintsiv.life
 0.0.0.0 dopomoga-epay.site
 0.0.0.0 dopomoga-id04687.website
 0.0.0.0 dopomoga-in.pl
@@ -166,6 +167,7 @@
 0.0.0.0 dopomoga-ua.info
 0.0.0.0 dopomoga-ua.online
 0.0.0.0 dopomoga-ua.personalnot.online
+0.0.0.0 dopomoga-ua.pro
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga.agency
@@ -198,6 +200,7 @@
 0.0.0.0 dopomogas.com
 0.0.0.0 dopomogasoshiall.website
 0.0.0.0 dopomogaua-pidtrimka.com
+0.0.0.0 dopomogaua-pidtrimkaua.com
 0.0.0.0 dopomogaua.xyz
 0.0.0.0 dopomogi.top
 0.0.0.0 dopomogs-ukr.top
@@ -227,15 +230,18 @@
 0.0.0.0 edopomoga24.csx5.space
 0.0.0.0 edopomogae.info
 0.0.0.0 edopomogai24.edi6.site
+0.0.0.0 edopomogaofficialua.com
 0.0.0.0 edopomogaonline.com
 0.0.0.0 edopomogaua-epidtimkaua.com
 0.0.0.0 edopomogaua-epidtrimka.com
+0.0.0.0 edopomogaua-uknaine.com
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
 0.0.0.0 edopomogauaa.com
 0.0.0.0 edopomogaukrainehelp.com
 0.0.0.0 edopomogavyplatahelp.com
 0.0.0.0 epidrumka.info
+0.0.0.0 epidtrimka-edopomoga.com
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrumka.org
@@ -605,6 +611,7 @@
 0.0.0.0 oschadbank.dopomogapro.club
 0.0.0.0 oschadbank.dopomogas.com
 0.0.0.0 oschadbank.edopomoga.today
+0.0.0.0 oschadbank.edopomogaofficialua.com
 0.0.0.0 oschadbank.epidtrumka.org
 0.0.0.0 oschadbank.etrimaty.pro
 0.0.0.0 oschadbank.eviplata.vip
@@ -773,6 +780,7 @@
 0.0.0.0 privat.dopomogapro.club
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.edopomoga.today
+0.0.0.0 privat.edopomogaofficialua.com
 0.0.0.0 privat.etrimaty.pro
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.gereta.live
@@ -1038,6 +1046,7 @@
 0.0.0.0 raiffeisen.dopomogas.com
 0.0.0.0 raiffeisen.dopomogaua.xyz
 0.0.0.0 raiffeisen.edopomoga.today
+0.0.0.0 raiffeisen.edopomogaofficialua.com
 0.0.0.0 raiffeisen.epidtrumka.org
 0.0.0.0 raiffeisen.etrimaty.pro
 0.0.0.0 raiffeisen.eviplata.vip
@@ -1140,6 +1149,7 @@
 0.0.0.0 ua-compensations.xyz
 0.0.0.0 ua-compenses.top
 0.0.0.0 ua-dopomoga.org
+0.0.0.0 ua-edopomoga.me
 0.0.0.0 ua-pay.space
 0.0.0.0 ua-payout.site
 0.0.0.0 ua-privat24.pro
@@ -1158,6 +1168,7 @@
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uadia.buzz
 0.0.0.0 uadopomoga.biz
+0.0.0.0 uadopomoga.com
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
 0.0.0.0 uah-perekaz.com
@@ -1194,6 +1205,7 @@
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pics
 0.0.0.0 ukrainapomosh.site
+0.0.0.0 ukraine-dopomoga.online
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraineamazon.com
@@ -1302,6 +1314,7 @@
 0.0.0.0 vuplata.online
 0.0.0.0 vuplatu.in
 0.0.0.0 vuplatyi.com
+0.0.0.0 vyplata-edopomoga.com
 0.0.0.0 vyplata-help.com
 0.0.0.0 vyplata24.com
 0.0.0.0 vyplataua.com
