@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 07 April 2023 14:23 EEST
+! Last modified: Fri, 07 April 2023 15:58 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -253,6 +253,7 @@
 ||letytas.world^
 ||likpay.me^
 ||liqpay.info^
+||ll0.uno^
 ||localregi.pro^
 ||log-dopomogapays24.org^
 ||log-ins543325235345.cloud^
@@ -630,6 +631,7 @@
 ||www-raiffeslen.me^
 ||x7-mikepike.buzz^
 ||xn--80aae0btu3d.life^
+||xs0.uno^
 ||xu-pay.me^
 ||xv-dopomoga.net^
 ||xwallet.website^
