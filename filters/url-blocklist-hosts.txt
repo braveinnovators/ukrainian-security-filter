@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 06 April 2023 21:00 EEST
+# Last modified: Fri, 07 April 2023 14:23 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -170,6 +170,7 @@
 0.0.0.0 dopomoga-ua.pro
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
+0.0.0.0 dopomoga-vyplata.com
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.buzz
 0.0.0.0 dopomoga.fans
@@ -323,6 +324,7 @@
 0.0.0.0 kyivstar-sale.com.ua
 0.0.0.0 kyivstarbezlim.com
 0.0.0.0 lataepitrimka.vip
+0.0.0.0 letytas.world
 0.0.0.0 likpay.me
 0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
@@ -342,6 +344,7 @@
 0.0.0.0 mobilka24.com
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobipay.in.ua
+0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 monitor-igr.blogspot.com
 0.0.0.0 mono-bank.org
 0.0.0.0 mono.ads-pid.me
@@ -620,11 +623,13 @@
 0.0.0.0 oschadbank.groshi.world
 0.0.0.0 oschadbank.k-auch.quest
 0.0.0.0 oschadbank.lataepitrimka.vip
+0.0.0.0 oschadbank.letytas.world
 0.0.0.0 oschadbank.no-pay.me
 0.0.0.0 oschadbank.onlineviplata.me
 0.0.0.0 oschadbank.oon-viplata.co
 0.0.0.0 oschadbank.otrimanti.site
 0.0.0.0 oschadbank.otrimanya.me
+0.0.0.0 oschadbank.otto-spotify.de
 0.0.0.0 oschadbank.payer.fun
 0.0.0.0 oschadbank.payoutsonlyfrom21.info
 0.0.0.0 oschadbank.pays-org.me
@@ -699,6 +704,7 @@
 0.0.0.0 otp.vuplata.ink
 0.0.0.0 otrimanti.site
 0.0.0.0 otrimanya.me
+0.0.0.0 otto-spotify.de
 0.0.0.0 ox-pay.me
 0.0.0.0 p-invest.site
 0.0.0.0 pac-pay.online
@@ -741,6 +747,7 @@
 0.0.0.0 peyidgo.pro
 0.0.0.0 pidrumka.co
 0.0.0.0 pidrumka.online
+0.0.0.0 pidrumkavuplata.ink
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
 0.0.0.0 po-mosh.com
@@ -787,6 +794,7 @@
 0.0.0.0 privat.gertinn.com
 0.0.0.0 privat.lataepitrimka.vip
 0.0.0.0 privat.otimat.site
+0.0.0.0 privat.otto-spotify.de
 0.0.0.0 privat.payer.fun
 0.0.0.0 privat.payoutsonlyfrom21.info
 0.0.0.0 privat.po-mosh.com
@@ -881,11 +889,13 @@
 0.0.0.0 pumb.epidtrymka.cloud
 0.0.0.0 pumb.gereta.live
 0.0.0.0 pumb.jay-order.me
+0.0.0.0 pumb.letytas.world
 0.0.0.0 pumb.likpay.me
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.no-pay.me
 0.0.0.0 pumb.np-pay.me
 0.0.0.0 pumb.oplataofficial.life
+0.0.0.0 pumb.otto-spotify.de
 0.0.0.0 pumb.pay-chs.me
 0.0.0.0 pumb.pay-ukraine.com
 0.0.0.0 pumb.pcs-order.me
@@ -1056,10 +1066,12 @@
 0.0.0.0 raiffeisen.helpua.top
 0.0.0.0 raiffeisen.k-auch.quest
 0.0.0.0 raiffeisen.lataepitrimka.vip
+0.0.0.0 raiffeisen.letytas.world
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.onlineviplata.me
 0.0.0.0 raiffeisen.otrimanti.site
 0.0.0.0 raiffeisen.otrimanya.me
+0.0.0.0 raiffeisen.otto-spotify.de
 0.0.0.0 raiffeisen.payer.fun
 0.0.0.0 raiffeisen.payoutsonlyfrom21.info
 0.0.0.0 raiffeisen.pays-org.me
@@ -1125,6 +1137,7 @@
 0.0.0.0 socialassistance.social
 0.0.0.0 socialassistancefromedopomaka.social
 0.0.0.0 socialvuplata.net
+0.0.0.0 sotsialvyplata.online
 0.0.0.0 speed-perekaz.com
 0.0.0.0 sportbank.epomoh.biz
 0.0.0.0 squirtvid.com
@@ -1209,6 +1222,7 @@
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraineamazon.com
+0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebayra.com
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
@@ -1229,6 +1243,7 @@
 0.0.0.0 ukrsib.dopomoga.solutions
 0.0.0.0 ukrsib.gate-pays.me
 0.0.0.0 ukrsib.gereta.live
+0.0.0.0 ukrsib.letytas.world
 0.0.0.0 ukrsib.np-pay.me
 0.0.0.0 ukrsib.pay-ua.website
 0.0.0.0 ukrsib.pcs-order.me
@@ -1316,7 +1331,10 @@
 0.0.0.0 vuplatyi.com
 0.0.0.0 vyplata-edopomoga.com
 0.0.0.0 vyplata-help.com
+0.0.0.0 vyplata-pays.fun
+0.0.0.0 vyplata-pays.kyiv.ua
 0.0.0.0 vyplata24.com
+0.0.0.0 vyplatadia.com
 0.0.0.0 vyplataua.com
 0.0.0.0 vyplaty.pro
 0.0.0.0 vyplatyedopomoga.com
