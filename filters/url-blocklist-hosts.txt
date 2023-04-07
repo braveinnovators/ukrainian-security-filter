@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 07 April 2023 14:23 EEST
+# Last modified: Fri, 07 April 2023 15:58 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -328,6 +328,7 @@
 0.0.0.0 likpay.me
 0.0.0.0 linktr.ee/dopomoha.center
 0.0.0.0 liqpay.info
+0.0.0.0 ll0.uno
 0.0.0.0 localregi.pro
 0.0.0.0 log-dopomogapays24.org
 0.0.0.0 log-ins543325235345.cloud
@@ -487,9 +488,11 @@
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
 0.0.0.0 online-oschadbank.cbx5.space
 0.0.0.0 online-oschadbank.csx5.net
+0.0.0.0 online-oshad24.ll0.uno
 0.0.0.0 online-pays.tech
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlines-raiffeizen24.cbn5.fun
+0.0.0.0 onlines-raiffeizen24.xs0.uno
 0.0.0.0 onlineviplata.me
 0.0.0.0 onlini24-oschadbank.osv6.site
 0.0.0.0 onlinis24-ukrsibbanci.uks6.site
@@ -1345,6 +1348,7 @@
 0.0.0.0 www-raiffeslen.me
 0.0.0.0 x7-mikepike.buzz
 0.0.0.0 xn--80aae0btu3d.life
+0.0.0.0 xs0.uno
 0.0.0.0 xu-pay.me
 0.0.0.0 xv-dopomoga.net
 0.0.0.0 xwallet.website
