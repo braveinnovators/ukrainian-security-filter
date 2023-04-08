@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 07 April 2023 15:58 EEST
+# Last modified: Sat, 08 April 2023 15:43 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -43,6 +43,7 @@
 0.0.0.0 a-bank.socialassistancefromedopomaka.social
 0.0.0.0 a-bank.ua-receipt.com
 0.0.0.0 a-bank.ua-send.website
+0.0.0.0 a-bank.ukraineinua.website
 0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-bank.viplata.digital
 0.0.0.0 a-bank.viplata.space
@@ -222,6 +223,7 @@
 0.0.0.0 edopomoga-uaoff.com
 0.0.0.0 edopomoga-viplata.com
 0.0.0.0 edopomoga-vyplata.com
+0.0.0.0 edopomoga-vyplataua.com
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.land
 0.0.0.0 edopomoga.mobi
@@ -283,7 +285,9 @@
 0.0.0.0 govdia.pro
 0.0.0.0 groshi.world
 0.0.0.0 groshovadopomoga.com
+0.0.0.0 grshi.fun
 0.0.0.0 help-compensation-ua.xyz
+0.0.0.0 help-dlya-ukrainians.site
 0.0.0.0 help-dlya-ukrainy.online
 0.0.0.0 help-dopomoga.online
 0.0.0.0 help-fond-ukrain.buzz
@@ -324,6 +328,7 @@
 0.0.0.0 kyivstar-sale.com.ua
 0.0.0.0 kyivstarbezlim.com
 0.0.0.0 lataepitrimka.vip
+0.0.0.0 leowallet.me
 0.0.0.0 letytas.world
 0.0.0.0 likpay.me
 0.0.0.0 linktr.ee/dopomoha.center
@@ -381,6 +386,8 @@
 0.0.0.0 next-bp.net
 0.0.0.0 next-privat24.online
 0.0.0.0 next.privat24.fun
+0.0.0.0 next24-privat.cloud
+0.0.0.0 next24-privat.us
 0.0.0.0 next24.blesk24.com
 0.0.0.0 next24.cashnew.pro
 0.0.0.0 next24.ckx-pay.me
@@ -410,6 +417,7 @@
 0.0.0.0 next24.glopay.site
 0.0.0.0 next24.gon-order.me
 0.0.0.0 next24.govdia.pro
+0.0.0.0 next24.grshi.fun
 0.0.0.0 next24.idregister.pro
 0.0.0.0 next24.jay-order.me
 0.0.0.0 next24.likpay.me
@@ -452,6 +460,8 @@
 0.0.0.0 next24.uadostawka.com
 0.0.0.0 next24.uah-perekaz.com
 0.0.0.0 next24.uasocial-viplata.company
+0.0.0.0 next24.ubc.agency
+0.0.0.0 next24.ukraineinua.website
 0.0.0.0 next24.ukreyns.com
 0.0.0.0 next24.upayment.me
 0.0.0.0 next24.vi-plata.com
@@ -578,6 +588,7 @@
 0.0.0.0 oschad.uadostawka.com
 0.0.0.0 oschad.uah-perekaz.com
 0.0.0.0 oschad.uasocial-viplata.company
+0.0.0.0 oschad.ubc.agency
 0.0.0.0 oschad.ukreyns.com
 0.0.0.0 oschad.vi-plata.com
 0.0.0.0 oschad.viplata.agency
@@ -639,6 +650,7 @@
 0.0.0.0 oschadbank.pidrumka.co
 0.0.0.0 oschadbank.po-mosh.com
 0.0.0.0 oschadbank.po-teq.com
+0.0.0.0 oschadbank.regsotsvyplat.online
 0.0.0.0 oschadbank.reliefukraine.today
 0.0.0.0 oschadbank.rozym.com
 0.0.0.0 oschadbank.shepir.com
@@ -766,6 +778,7 @@
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 poshyq.com
 0.0.0.0 poshyx.com
+0.0.0.0 privat-next24.shop
 0.0.0.0 privat-ua.cercis-dopay24.biz
 0.0.0.0 privat-ua.dipuplatservises24.sale
 0.0.0.0 privat-ua.dop-viplatisite24.online
@@ -803,6 +816,7 @@
 0.0.0.0 privat.po-mosh.com
 0.0.0.0 privat.po-teq.com
 0.0.0.0 privat.realss.pro
+0.0.0.0 privat.regsotsvyplat.online
 0.0.0.0 privat.rozym.com
 0.0.0.0 privat.shepir.com
 0.0.0.0 privat.socialassistance.info
@@ -826,7 +840,9 @@
 0.0.0.0 privat.vorkviplata.biz
 0.0.0.0 privat.vuplatyi.com
 0.0.0.0 privat.xn--80aae0btu3d.life
+0.0.0.0 privat24-help.biz
 0.0.0.0 privat24-help.link
+0.0.0.0 privat24-help.xyz
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.apayments.pro
@@ -860,6 +876,7 @@
 0.0.0.0 privat24.xwallet.website
 0.0.0.0 privat24.y-pay.pro
 0.0.0.0 privat24bank.net
+0.0.0.0 privat24donate.shop
 0.0.0.0 privat24eviplati.online
 0.0.0.0 privat24helps.shop
 0.0.0.0 privat24investt.xyz
@@ -891,6 +908,7 @@
 0.0.0.0 pumb.edopomoga.today
 0.0.0.0 pumb.epidtrymka.cloud
 0.0.0.0 pumb.gereta.live
+0.0.0.0 pumb.grshi.fun
 0.0.0.0 pumb.jay-order.me
 0.0.0.0 pumb.letytas.world
 0.0.0.0 pumb.likpay.me
@@ -906,6 +924,7 @@
 0.0.0.0 pumb.poshyq.com
 0.0.0.0 pumb.poshyx.com
 0.0.0.0 pumb.privat.today
+0.0.0.0 pumb.regsotsvyplat.online
 0.0.0.0 pumb.secure2dpay.store
 0.0.0.0 pumb.securitypay.me
 0.0.0.0 pumb.socialassistance.social
@@ -914,6 +933,8 @@
 0.0.0.0 pumb.uadostawka.com
 0.0.0.0 pumb.uah-perekaz.com
 0.0.0.0 pumb.uasocial-viplata.company
+0.0.0.0 pumb.ubc.agency
+0.0.0.0 pumb.ukraineinua.website
 0.0.0.0 pumb.ul-pay.me
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.vi-plata.com
@@ -961,6 +982,7 @@
 0.0.0.0 raif.gate-pays.me
 0.0.0.0 raif.glopay.site
 0.0.0.0 raif.gon-order.me
+0.0.0.0 raif.grshi.fun
 0.0.0.0 raif.helpforua.me
 0.0.0.0 raif.jay-order.me
 0.0.0.0 raif.likpay.me
@@ -1079,6 +1101,7 @@
 0.0.0.0 raiffeisen.payoutsonlyfrom21.info
 0.0.0.0 raiffeisen.pays-org.me
 0.0.0.0 raiffeisen.po-teq.com
+0.0.0.0 raiffeisen.regsotsvyplat.online
 0.0.0.0 raiffeisen.reliefukraine.today
 0.0.0.0 raiffeisen.rozym.com
 0.0.0.0 raiffeisen.shepir.com
@@ -1116,7 +1139,9 @@
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
 0.0.0.0 rectivs.com
+0.0.0.0 redcross-privat24.shop
 0.0.0.0 redcrossbezl.yolasite.com
+0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
@@ -1198,6 +1223,7 @@
 0.0.0.0 uappl.org
 0.0.0.0 uasafe.online
 0.0.0.0 uasocial-viplata.company
+0.0.0.0 ubc.agency
 0.0.0.0 udemixcr.com
 0.0.0.0 uk-raina.live
 0.0.0.0 ukr-cash.top
@@ -1227,14 +1253,17 @@
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebayra.com
+0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
 0.0.0.0 ukrainehelps.cloud
+0.0.0.0 ukraineinua.website
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
+0.0.0.0 ukrainianua.website
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
