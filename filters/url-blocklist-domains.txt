@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 07 April 2023 15:58 EEST
+# Last modified: Sat, 08 April 2023 15:43 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -43,6 +43,7 @@ a-bank.socialassistance.social
 a-bank.socialassistancefromedopomaka.social
 a-bank.ua-receipt.com
 a-bank.ua-send.website
+a-bank.ukraineinua.website
 a-bank.ul-pay.me
 a-bank.viplata.digital
 a-bank.viplata.space
@@ -222,6 +223,7 @@ edopomoga-pidtrimka.com
 edopomoga-uaoff.com
 edopomoga-viplata.com
 edopomoga-vyplata.com
+edopomoga-vyplataua.com
 edopomoga.edi6.site
 edopomoga.land
 edopomoga.mobi
@@ -283,7 +285,9 @@ gov.ukr-savess.sbs
 govdia.pro
 groshi.world
 groshovadopomoga.com
+grshi.fun
 help-compensation-ua.xyz
+help-dlya-ukrainians.site
 help-dlya-ukrainy.online
 help-dopomoga.online
 help-fond-ukrain.buzz
@@ -324,6 +328,7 @@ kredobank.no-pay.me
 kyivstar-sale.com.ua
 kyivstarbezlim.com
 lataepitrimka.vip
+leowallet.me
 letytas.world
 likpay.me
 linktr.ee/dopomoha.center
@@ -381,6 +386,8 @@ next-bp.info
 next-bp.net
 next-privat24.online
 next.privat24.fun
+next24-privat.cloud
+next24-privat.us
 next24.blesk24.com
 next24.cashnew.pro
 next24.ckx-pay.me
@@ -410,6 +417,7 @@ next24.gate-pays.me
 next24.glopay.site
 next24.gon-order.me
 next24.govdia.pro
+next24.grshi.fun
 next24.idregister.pro
 next24.jay-order.me
 next24.likpay.me
@@ -452,6 +460,8 @@ next24.uadia.buzz
 next24.uadostawka.com
 next24.uah-perekaz.com
 next24.uasocial-viplata.company
+next24.ubc.agency
+next24.ukraineinua.website
 next24.ukreyns.com
 next24.upayment.me
 next24.vi-plata.com
@@ -578,6 +588,7 @@ oschad.ua-viplata.me
 oschad.uadostawka.com
 oschad.uah-perekaz.com
 oschad.uasocial-viplata.company
+oschad.ubc.agency
 oschad.ukreyns.com
 oschad.vi-plata.com
 oschad.viplata.agency
@@ -639,6 +650,7 @@ oschadbank.pays-org.me
 oschadbank.pidrumka.co
 oschadbank.po-mosh.com
 oschadbank.po-teq.com
+oschadbank.regsotsvyplat.online
 oschadbank.reliefukraine.today
 oschadbank.rozym.com
 oschadbank.shepir.com
@@ -766,6 +778,7 @@ popomoga.com
 portal-diya.kyiv.ua
 poshyq.com
 poshyx.com
+privat-next24.shop
 privat-ua.cercis-dopay24.biz
 privat-ua.dipuplatservises24.sale
 privat-ua.dop-viplatisite24.online
@@ -803,6 +816,7 @@ privat.payoutsonlyfrom21.info
 privat.po-mosh.com
 privat.po-teq.com
 privat.realss.pro
+privat.regsotsvyplat.online
 privat.rozym.com
 privat.shepir.com
 privat.socialassistance.info
@@ -826,7 +840,9 @@ privat.vipplata.com
 privat.vorkviplata.biz
 privat.vuplatyi.com
 privat.xn--80aae0btu3d.life
+privat24-help.biz
 privat24-help.link
+privat24-help.xyz
 privat24-next.ga
 privat24-viplata-help.online
 privat24.apayments.pro
@@ -860,6 +876,7 @@ privat24.vuplata.online
 privat24.xwallet.website
 privat24.y-pay.pro
 privat24bank.net
+privat24donate.shop
 privat24eviplati.online
 privat24helps.shop
 privat24investt.xyz
@@ -891,6 +908,7 @@ pumb.dopomogasoshiall.website
 pumb.edopomoga.today
 pumb.epidtrymka.cloud
 pumb.gereta.live
+pumb.grshi.fun
 pumb.jay-order.me
 pumb.letytas.world
 pumb.likpay.me
@@ -906,6 +924,7 @@ pumb.perekaz-perek.com
 pumb.poshyq.com
 pumb.poshyx.com
 pumb.privat.today
+pumb.regsotsvyplat.online
 pumb.secure2dpay.store
 pumb.securitypay.me
 pumb.socialassistance.social
@@ -914,6 +933,8 @@ pumb.ua-send.website
 pumb.uadostawka.com
 pumb.uah-perekaz.com
 pumb.uasocial-viplata.company
+pumb.ubc.agency
+pumb.ukraineinua.website
 pumb.ul-pay.me
 pumb.upayment.me
 pumb.vi-plata.com
@@ -961,6 +982,7 @@ raif.finua.online
 raif.gate-pays.me
 raif.glopay.site
 raif.gon-order.me
+raif.grshi.fun
 raif.helpforua.me
 raif.jay-order.me
 raif.likpay.me
@@ -1079,6 +1101,7 @@ raiffeisen.payer.fun
 raiffeisen.payoutsonlyfrom21.info
 raiffeisen.pays-org.me
 raiffeisen.po-teq.com
+raiffeisen.regsotsvyplat.online
 raiffeisen.reliefukraine.today
 raiffeisen.rozym.com
 raiffeisen.shepir.com
@@ -1116,7 +1139,9 @@ realss.pro
 recive-money.icu
 recivemoney.icu
 rectivs.com
+redcross-privat24.shop
 redcrossbezl.yolasite.com
+regsotsvyplat.online
 reliefukraine.today
 rozetkaukraine.cc
 rozetkaukraine.com
@@ -1198,6 +1223,7 @@ uapdvkomp.yolasite.com
 uappl.org
 uasafe.online
 uasocial-viplata.company
+ubc.agency
 udemixcr.com
 uk-raina.live
 ukr-cash.top
@@ -1227,14 +1253,17 @@ ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
 ukrainebayra.com
+ukrainedostavka.store
 ukrainehelp.cloud
 ukrainehelp.gives
 ukrainehelp.wiki
 ukrainehelps.cloud
+ukraineinua.website
 ukrainerozetka.com
 ukrainerozetka.vip
 ukrainian-inform.com
 ukrainianamazon.com
+ukrainianua.website
 ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
