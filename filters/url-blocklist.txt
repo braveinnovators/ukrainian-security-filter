@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 07 April 2023 15:58 EEST
+! Last modified: Sat, 08 April 2023 15:43 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -161,6 +161,7 @@
 ||edopomoga-uaoff.com^
 ||edopomoga-viplata.com^
 ||edopomoga-vyplata.com^
+||edopomoga-vyplataua.com^
 ||edopomoga.land^
 ||edopomoga.mobi^
 ||edopomoga.today^
@@ -216,7 +217,9 @@
 ||govdia.pro^
 ||groshi.world^
 ||groshovadopomoga.com^
+||grshi.fun^
 ||help-compensation-ua.xyz^
+||help-dlya-ukrainians.site^
 ||help-dlya-ukrainy.online^
 ||help-dopomoga.online^
 ||help-fond-ukrain.buzz^
@@ -250,6 +253,7 @@
 ||kyivstar-sale.com.ua^
 ||kyivstarbezlim.com^
 ||lataepitrimka.vip^
+||leowallet.me^
 ||letytas.world^
 ||likpay.me^
 ||liqpay.info^
@@ -291,6 +295,8 @@
 ||next-bp.info^
 ||next-bp.net^
 ||next-privat24.online^
+||next24-privat.cloud^
+||next24-privat.us^
 ||nextpay.pw^
 ||nm6.fun^
 ||nm6.info^
@@ -391,7 +397,10 @@
 ||portal-diya.kyiv.ua^
 ||poshyq.com^
 ||poshyx.com^
+||privat-next24.shop^
+||privat24-help.biz^
 ||privat24-help.link^
+||privat24-help.xyz^
 ||privat24-next.ga^
 ||privat24-viplata-help.online^
 ||privat24.fun^
@@ -399,6 +408,7 @@
 ||privat24.tech^
 ||privat24.uno^
 ||privat24bank.net^
+||privat24donate.shop^
 ||privat24eviplati.online^
 ||privat24helps.shop^
 ||privat24investt.xyz^
@@ -432,7 +442,9 @@
 ||recive-money.icu^
 ||recivemoney.icu^
 ||rectivs.com^
+||redcross-privat24.shop^
 ||redcrossbezl.yolasite.com^
+||regsotsvyplat.online^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
@@ -510,6 +522,7 @@
 ||uappl.org^
 ||uasafe.online^
 ||uasocial-viplata.company^
+||ubc.agency^
 ||udemixcr.com^
 ||uk-raina.live^
 ||ukr-cash.top^
@@ -539,14 +552,17 @@
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainebayra.com^
+||ukrainedostavka.store^
 ||ukrainehelp.cloud^
 ||ukrainehelp.gives^
 ||ukrainehelp.wiki^
 ||ukrainehelps.cloud^
+||ukraineinua.website^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
+||ukrainianua.website^
 ||ukrcredits.com^
 ||ukreyns.com^
 ||ukrfinanspomog.site^
@@ -654,12 +670,14 @@
 ||facebook.com/people/Новини-247/100084930128994^$document
 ||facebook.com/profile.php?id=100088224776200^$document
 ||facebook.com/profile.php?id=100088487322815^$document
+||facebook.com/profile.php?id=100088793687379^$document
 ||facebook.com/profile.php?id=100088981431611^$document
 ||facebook.com/profile.php?id=100089893400755^$document
 ||facebook.com/profile.php?id=100089962761567^$document
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/profile.php?id=100090998136488^$document
+||facebook.com/profile.php?id=100091371410986^$document
 ||facebook.com/profile.php?id=100091442203527^$document
 ||facebook.com/profile.php?id=100091443002635^$document
 ||facebook.com/profile.php?id=100091514463233^$document
@@ -667,15 +685,20 @@
 ||facebook.com/profile.php?id=100091590543953^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
+||facebook.com/Допомога-Червоного-Хреста-100690672936127^$document
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
 ||facebook.com/Терміново-Офіційно-допомога-116759361369410^$document
 ||linktr.ee/dopomoha.center^$document
 ||sites.google.com/view/d362g5d2^$document
+||t.me/+AywXgY6Igj81Njli^$document
+||t.me/+tTyBunuSCxhlZmRi^$document
+||t.me/AidFromTheUnBot^$document
 ||t.me/d0p0m0ga^$document
 ||t.me/diia_govUA1_bot^$document
 ||t.me/dopomoga_diia^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/dopomogaukraine7600^$document
+||t.me/dopomogawebsite^$document
 ||t.me/doponoga8500^$document
 ||t.me/DtekYASNO^$document
 ||t.me/edopomoga_govua^$document
@@ -685,15 +708,19 @@
 ||t.me/eDopomogaUA_official^$document
 ||t.me/edopomogaukrainee^$document
 ||t.me/esviatoloveUA^$document
+||t.me/grosgovadopomoga^$document
 ||t.me/Helpiing_Ua^$document
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
+||t.me/pidrumkaua^$document
 ||t.me/Raifaise20000^$document
+||t.me/s/AidFromTheUnBot^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/diia_govUA1_bot^$document
 ||t.me/s/dopomoga_diia^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogaukraine7600^$document
+||t.me/s/dopomogawebsite^$document
 ||t.me/s/doponoga8500^$document
 ||t.me/s/DtekYASNO^$document
 ||t.me/s/edopomoga_govua^$document
@@ -703,9 +730,11 @@
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/edopomogaukrainee^$document
 ||t.me/s/esviatoloveUA^$document
+||t.me/s/grosgovadopomoga^$document
 ||t.me/s/Helpiing_Ua^$document
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
+||t.me/s/pidrumkaua^$document
 ||t.me/s/Raifaise20000^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
