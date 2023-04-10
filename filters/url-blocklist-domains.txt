@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 08 April 2023 15:43 EEST
+# Last modified: Mon, 10 April 2023 16:47 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -116,6 +116,7 @@ credit-agricole.ukraina.pics
 credit-agricole.vuplata.ink
 credit-agricole.vuplata.online
 cryptocurrency-helps-ukraine.com
+cs0.uno
 csx5.net
 csx5.space
 csx5.uno
@@ -232,15 +233,20 @@ edopomoga.udemixcr.com
 edopomoga.world
 edopomoga24.csx5.space
 edopomogae.info
+edopomogahelpua.com
 edopomogai24.edi6.site
 edopomogaofficialua.com
 edopomogaonline.com
+edopomogaoriginalukraine.com
 edopomogaua-epidtimkaua.com
 edopomogaua-epidtrimka.com
 edopomogaua-uknaine.com
 edopomogaua.site
 edopomogaua.website
 edopomogauaa.com
+edopomogaukraine-epidtrimkaua.com
+edopomogaukraine.com
+edopomogaukraineepidtrimkaua.com
 edopomogaukrainehelp.com
 edopomogavyplatahelp.com
 epidrumka.info
@@ -365,6 +371,7 @@ monobank.store
 mopays.me
 mospaidsmarket.top
 motohouseua.com
+ms0.uno
 my-gov.uperevod.icu
 my-gov.uplata.cyou
 my-gov.uvyplata.icu
@@ -496,10 +503,13 @@ olx-ua.poluchenie.pw
 olx-ua.recive-money.icu
 olx-ua.recivemoney.icu
 onlin24-ukrsibbanck.uks6.site
+online-exim24.sn0.uno
+online-monob24.ms0.uno
 online-oschadbank.cbx5.space
 online-oschadbank.csx5.net
 online-oshad24.ll0.uno
 online-pays.tech
+online-ukersib24.cs0.uno
 onlinediya.uk
 onlines-raiffeizen24.cbn5.fun
 onlines-raiffeizen24.xs0.uno
@@ -803,6 +813,7 @@ privat.dopomogaofficialua.com
 privat.dopomogapro.club
 privat.dopomogas.com
 privat.edopomoga.today
+privat.edopomogahelpua.com
 privat.edopomogaofficialua.com
 privat.etrimaty.pro
 privat.eviplata.vip
@@ -1159,6 +1170,7 @@ sendex.online
 shepir.com
 sites.google.com/view/d362g5d2
 smartlead.com.ua
+sn0.uno
 sneakersadi2018.com
 soc-order.me
 socialassistance.info
@@ -1214,6 +1226,7 @@ uadostawka.com
 uaedopomoga-online.com
 uah-perekaz.com
 uah-perekaz24.com
+uahelp-privat24.shop
 uahelp.press
 uahs.buzz
 uanext24help.icu
@@ -1237,6 +1250,7 @@ ukr-help.online
 ukr-kompenssations.buzz
 ukr-linker.xyz
 ukr-money.com.ua
+ukr-payment-system.online
 ukr-receive.cfd
 ukr-receive.cyou
 ukr-receive.icu
@@ -1249,6 +1263,8 @@ ukraina.pics
 ukrainapomosh.site
 ukraine-dopomoga.online
 ukraine-furniture.com.ua
+ukraine-raffasen.com
+ukraine-raffesen.com
 ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
@@ -1259,6 +1275,7 @@ ukrainehelp.gives
 ukrainehelp.wiki
 ukrainehelps.cloud
 ukraineinua.website
+ukrainepaymentsystem.pro
 ukrainerozetka.com
 ukrainerozetka.vip
 ukrainian-inform.com
@@ -1267,6 +1284,7 @@ ukrainianua.website
 ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
+ukrpaymentsystem.pro
 ukrsib-bank.top
 ukrsib.ads-pid.me
 ukrsib.cake-payment.me
