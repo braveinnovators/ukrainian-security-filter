@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 08 April 2023 15:43 EEST
+# Last modified: Mon, 10 April 2023 16:47 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -116,6 +116,7 @@
 0.0.0.0 credit-agricole.vuplata.ink
 0.0.0.0 credit-agricole.vuplata.online
 0.0.0.0 cryptocurrency-helps-ukraine.com
+0.0.0.0 cs0.uno
 0.0.0.0 csx5.net
 0.0.0.0 csx5.space
 0.0.0.0 csx5.uno
@@ -232,15 +233,20 @@
 0.0.0.0 edopomoga.world
 0.0.0.0 edopomoga24.csx5.space
 0.0.0.0 edopomogae.info
+0.0.0.0 edopomogahelpua.com
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 edopomogaofficialua.com
 0.0.0.0 edopomogaonline.com
+0.0.0.0 edopomogaoriginalukraine.com
 0.0.0.0 edopomogaua-epidtimkaua.com
 0.0.0.0 edopomogaua-epidtrimka.com
 0.0.0.0 edopomogaua-uknaine.com
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
 0.0.0.0 edopomogauaa.com
+0.0.0.0 edopomogaukraine-epidtrimkaua.com
+0.0.0.0 edopomogaukraine.com
+0.0.0.0 edopomogaukraineepidtrimkaua.com
 0.0.0.0 edopomogaukrainehelp.com
 0.0.0.0 edopomogavyplatahelp.com
 0.0.0.0 epidrumka.info
@@ -365,6 +371,7 @@
 0.0.0.0 mopays.me
 0.0.0.0 mospaidsmarket.top
 0.0.0.0 motohouseua.com
+0.0.0.0 ms0.uno
 0.0.0.0 my-gov.uperevod.icu
 0.0.0.0 my-gov.uplata.cyou
 0.0.0.0 my-gov.uvyplata.icu
@@ -496,10 +503,13 @@
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
+0.0.0.0 online-exim24.sn0.uno
+0.0.0.0 online-monob24.ms0.uno
 0.0.0.0 online-oschadbank.cbx5.space
 0.0.0.0 online-oschadbank.csx5.net
 0.0.0.0 online-oshad24.ll0.uno
 0.0.0.0 online-pays.tech
+0.0.0.0 online-ukersib24.cs0.uno
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlines-raiffeizen24.cbn5.fun
 0.0.0.0 onlines-raiffeizen24.xs0.uno
@@ -803,6 +813,7 @@
 0.0.0.0 privat.dopomogapro.club
 0.0.0.0 privat.dopomogas.com
 0.0.0.0 privat.edopomoga.today
+0.0.0.0 privat.edopomogahelpua.com
 0.0.0.0 privat.edopomogaofficialua.com
 0.0.0.0 privat.etrimaty.pro
 0.0.0.0 privat.eviplata.vip
@@ -1159,6 +1170,7 @@
 0.0.0.0 shepir.com
 0.0.0.0 sites.google.com/view/d362g5d2
 0.0.0.0 smartlead.com.ua
+0.0.0.0 sn0.uno
 0.0.0.0 sneakersadi2018.com
 0.0.0.0 soc-order.me
 0.0.0.0 socialassistance.info
@@ -1214,6 +1226,7 @@
 0.0.0.0 uaedopomoga-online.com
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
+0.0.0.0 uahelp-privat24.shop
 0.0.0.0 uahelp.press
 0.0.0.0 uahs.buzz
 0.0.0.0 uanext24help.icu
@@ -1237,6 +1250,7 @@
 0.0.0.0 ukr-kompenssations.buzz
 0.0.0.0 ukr-linker.xyz
 0.0.0.0 ukr-money.com.ua
+0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr-receive.cfd
 0.0.0.0 ukr-receive.cyou
 0.0.0.0 ukr-receive.icu
@@ -1249,6 +1263,8 @@
 0.0.0.0 ukrainapomosh.site
 0.0.0.0 ukraine-dopomoga.online
 0.0.0.0 ukraine-furniture.com.ua
+0.0.0.0 ukraine-raffasen.com
+0.0.0.0 ukraine-raffesen.com
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
@@ -1259,6 +1275,7 @@
 0.0.0.0 ukrainehelp.wiki
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukraineinua.website
+0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainian-inform.com
@@ -1267,6 +1284,7 @@
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
+0.0.0.0 ukrpaymentsystem.pro
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.ads-pid.me
 0.0.0.0 ukrsib.cake-payment.me
