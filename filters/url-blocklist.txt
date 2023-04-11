@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 10 April 2023 16:47 EEST
+! Last modified: Tue, 11 April 2023 14:08 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -718,9 +718,11 @@
 ||facebook.com/profile.php?id=100090441506962^$document
 ||facebook.com/profile.php?id=100090739257820^$document
 ||facebook.com/profile.php?id=100090998136488^$document
+||facebook.com/profile.php?id=100091133216478^$document
 ||facebook.com/profile.php?id=100091371410986^$document
 ||facebook.com/profile.php?id=100091442203527^$document
 ||facebook.com/profile.php?id=100091443002635^$document
+||facebook.com/profile.php?id=100091461742165^$document
 ||facebook.com/profile.php?id=100091514463233^$document
 ||facebook.com/profile.php?id=100091549560072^$document
 ||facebook.com/profile.php?id=100091590543953^$document
@@ -737,6 +739,7 @@
 ||t.me/d0p0m0ga^$document
 ||t.me/diia_govUA1_bot^$document
 ||t.me/dopomoga_diia^$document
+||t.me/dopomogaa2023^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/dopomogaukraine7600^$document
 ||t.me/dopomogawebsite^$document
@@ -760,6 +763,7 @@
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/diia_govUA1_bot^$document
 ||t.me/s/dopomoga_diia^$document
+||t.me/s/dopomogaa2023^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogaukraine7600^$document
 ||t.me/s/dopomogawebsite^$document
