@@ -1,6 +1,6 @@
 ! Title: UA: Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 11 April 2023 14:08 EEST
+! Last modified: Tue, 11 April 2023 19:23 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -72,6 +72,7 @@
 ||diadopomoga.me^
 ||diafes.com^
 ||diahelpfulua.click^
+||diia-2023help.me^
 ||diia-d0p0moga.com^
 ||diia-dopomoga.pro^
 ||diia-gov.com^
@@ -80,12 +81,14 @@
 ||diia-uadopomogga.cloud^
 ||diia-uadopomogga.me^
 ||diia-uadopomogga.pro^
+||diia2023help.pro^
 ||diiadopom0ga.click^
 ||diiadopomoga.pro^
 ||diiapidpys.uk^
 ||diiaua.com^
 ||dipuplatservises24.sale^
 ||diya-edopomoga.online^
+||diya-vyplata.kyiv.ua^
 ||diyadopomoga.online^
 ||diyaviplati.co^
 ||diyaviplati.vip^
@@ -106,6 +109,7 @@
 ||dopomoga-in.pl^
 ||dopomoga-oon.com^
 ||dopomoga-pidtrimkauaoff.com^
+||dopomoga-ua-online-web.site^
 ||dopomoga-ua.click^
 ||dopomoga-ua.info^
 ||dopomoga-ua.online^
@@ -172,12 +176,14 @@
 ||edopomogaofficialua.com^
 ||edopomogaonline.com^
 ||edopomogaoriginalukraine.com^
+||edopomogapidtrimka.com^
 ||edopomogaua-epidtimkaua.com^
 ||edopomogaua-epidtrimka.com^
 ||edopomogaua-uknaine.com^
 ||edopomogaua.site^
 ||edopomogaua.website^
 ||edopomogauaa.com^
+||edopomogauahelp.com^
 ||edopomogaukraine-epidtrimkaua.com^
 ||edopomogaukraine.com^
 ||edopomogaukraineepidtrimkaua.com^
@@ -305,6 +311,8 @@
 ||next24-privat.cloud^
 ||next24-privat.us^
 ||nextpay.pw^
+||nextprivat24.info^
+||nextprivat24.pro^
 ||nm6.fun^
 ||nm6.info^
 ||no-pay.me^
@@ -354,6 +362,7 @@
 ||otrimanya.me^
 ||otto-spotify.de^
 ||ox-pay.me^
+||p-dopomogah.com^
 ||p-invest.site^
 ||pac-pay.online^
 ||pay-chs.me^
@@ -518,6 +527,7 @@
 ||uadia.buzz^
 ||uadopomoga.biz^
 ||uadopomoga.com^
+||uadopomoga2023.org^
 ||uadostawka.com^
 ||uaedopomoga-online.com^
 ||uah-perekaz.com^
@@ -618,6 +628,7 @@
 ||viplata.org^
 ||viplata.space^
 ||viplatadiya.site^
+||viplatadopomogaua.com^
 ||viplataes.site^
 ||viplataes.vip^
 ||viplataindo.com^
@@ -757,6 +768,7 @@
 ||t.me/Helpiing_Ua^$document
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
+||t.me/onlinedopomoga2023_bot^$document
 ||t.me/pidrumkaua^$document
 ||t.me/Raifaise20000^$document
 ||t.me/s/AidFromTheUnBot^$document
@@ -781,6 +793,7 @@
 ||t.me/s/Helpiing_Ua^$document
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
+||t.me/s/onlinedopomoga2023_bot^$document
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/Raifaise20000^$document
 ||t.me/s/ua_findopomoga^$document
