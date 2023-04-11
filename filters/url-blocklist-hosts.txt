@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 10 April 2023 16:47 EEST
+# Last modified: Tue, 11 April 2023 19:23 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -128,6 +128,7 @@
 0.0.0.0 diadopomoga.me
 0.0.0.0 diafes.com
 0.0.0.0 diahelpfulua.click
+0.0.0.0 diia-2023help.me
 0.0.0.0 diia-d0p0moga.com
 0.0.0.0 diia-dopomoga.pro
 0.0.0.0 diia-gov.com
@@ -136,12 +137,14 @@
 0.0.0.0 diia-uadopomogga.cloud
 0.0.0.0 diia-uadopomogga.me
 0.0.0.0 diia-uadopomogga.pro
+0.0.0.0 diia2023help.pro
 0.0.0.0 diiadopom0ga.click
 0.0.0.0 diiadopomoga.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
+0.0.0.0 diya-vyplata.kyiv.ua
 0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.co
 0.0.0.0 diyaviplati.vip
@@ -165,6 +168,7 @@
 0.0.0.0 dopomoga-in.pl
 0.0.0.0 dopomoga-oon.com
 0.0.0.0 dopomoga-pidtrimkauaoff.com
+0.0.0.0 dopomoga-ua-online-web.site
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.info
 0.0.0.0 dopomoga-ua.online
@@ -238,12 +242,14 @@
 0.0.0.0 edopomogaofficialua.com
 0.0.0.0 edopomogaonline.com
 0.0.0.0 edopomogaoriginalukraine.com
+0.0.0.0 edopomogapidtrimka.com
 0.0.0.0 edopomogaua-epidtimkaua.com
 0.0.0.0 edopomogaua-epidtrimka.com
 0.0.0.0 edopomogaua-uknaine.com
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
 0.0.0.0 edopomogauaa.com
+0.0.0.0 edopomogauahelp.com
 0.0.0.0 edopomogaukraine-epidtrimkaua.com
 0.0.0.0 edopomogaukraine.com
 0.0.0.0 edopomogaukraineepidtrimkaua.com
@@ -484,6 +490,8 @@
 0.0.0.0 next24.xx-pay.me
 0.0.0.0 next24.yrliqupay.com
 0.0.0.0 nextpay.pw
+0.0.0.0 nextprivat24.info
+0.0.0.0 nextprivat24.pro
 0.0.0.0 nm6.fun
 0.0.0.0 nm6.info
 0.0.0.0 no-pay.me
@@ -731,6 +739,7 @@
 0.0.0.0 otrimanya.me
 0.0.0.0 otto-spotify.de
 0.0.0.0 ox-pay.me
+0.0.0.0 p-dopomogah.com
 0.0.0.0 p-invest.site
 0.0.0.0 pac-pay.online
 0.0.0.0 pay-chs.me
@@ -1222,6 +1231,7 @@
 0.0.0.0 uadia.buzz
 0.0.0.0 uadopomoga.biz
 0.0.0.0 uadopomoga.com
+0.0.0.0 uadopomoga2023.org
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
 0.0.0.0 uah-perekaz.com
@@ -1350,6 +1360,7 @@
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
 0.0.0.0 viplatadiya.site
+0.0.0.0 viplatadopomogaua.com
 0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
 0.0.0.0 viplataindo.com
