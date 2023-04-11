@@ -1,6 +1,6 @@
 # Title: UA: Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 10 April 2023 16:47 EEST
+# Last modified: Tue, 11 April 2023 19:23 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -128,6 +128,7 @@ address=/dfgpaio.click/
 address=/diadopomoga.me/
 address=/diafes.com/
 address=/diahelpfulua.click/
+address=/diia-2023help.me/
 address=/diia-d0p0moga.com/
 address=/diia-dopomoga.pro/
 address=/diia-gov.com/
@@ -136,12 +137,14 @@ address=/diia-gov.pp.ua/
 address=/diia-uadopomogga.cloud/
 address=/diia-uadopomogga.me/
 address=/diia-uadopomogga.pro/
+address=/diia2023help.pro/
 address=/diiadopom0ga.click/
 address=/diiadopomoga.pro/
 address=/diiapidpys.uk/
 address=/diiaua.com/
 address=/dipuplatservises24.sale/
 address=/diya-edopomoga.online/
+address=/diya-vyplata.kyiv.ua/
 address=/diyadopomoga.online/
 address=/diyaviplati.co/
 address=/diyaviplati.vip/
@@ -165,6 +168,7 @@ address=/dopomoga-id04687.website/
 address=/dopomoga-in.pl/
 address=/dopomoga-oon.com/
 address=/dopomoga-pidtrimkauaoff.com/
+address=/dopomoga-ua-online-web.site/
 address=/dopomoga-ua.click/
 address=/dopomoga-ua.info/
 address=/dopomoga-ua.online/
@@ -238,12 +242,14 @@ address=/edopomogai24.edi6.site/
 address=/edopomogaofficialua.com/
 address=/edopomogaonline.com/
 address=/edopomogaoriginalukraine.com/
+address=/edopomogapidtrimka.com/
 address=/edopomogaua-epidtimkaua.com/
 address=/edopomogaua-epidtrimka.com/
 address=/edopomogaua-uknaine.com/
 address=/edopomogaua.site/
 address=/edopomogaua.website/
 address=/edopomogauaa.com/
+address=/edopomogauahelp.com/
 address=/edopomogaukraine-epidtrimkaua.com/
 address=/edopomogaukraine.com/
 address=/edopomogaukraineepidtrimkaua.com/
@@ -484,6 +490,8 @@ address=/next24.xx-pay.co/
 address=/next24.xx-pay.me/
 address=/next24.yrliqupay.com/
 address=/nextpay.pw/
+address=/nextprivat24.info/
+address=/nextprivat24.pro/
 address=/nm6.fun/
 address=/nm6.info/
 address=/no-pay.me/
@@ -731,6 +739,7 @@ address=/otrimanti.site/
 address=/otrimanya.me/
 address=/otto-spotify.de/
 address=/ox-pay.me/
+address=/p-dopomogah.com/
 address=/p-invest.site/
 address=/pac-pay.online/
 address=/pay-chs.me/
@@ -1222,6 +1231,7 @@ address=/uacompensation.xyz/
 address=/uadia.buzz/
 address=/uadopomoga.biz/
 address=/uadopomoga.com/
+address=/uadopomoga2023.org/
 address=/uadostawka.com/
 address=/uaedopomoga-online.com/
 address=/uah-perekaz.com/
@@ -1350,6 +1360,7 @@ address=/viplata.mobi/
 address=/viplata.org/
 address=/viplata.space/
 address=/viplatadiya.site/
+address=/viplatadopomogaua.com/
 address=/viplataes.site/
 address=/viplataes.vip/
 address=/viplataindo.com/
