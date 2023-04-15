@@ -1,6 +1,6 @@
-# Title: UA: Malicious URL Blocklist (hosts-based)
+# Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 11 April 2023 19:23 EEST
+# Last modified: Sat, 15 April 2023 15:50 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -534,6 +534,7 @@
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
+0.0.0.0 oschad-paybank.xyz
 0.0.0.0 oschad-ukr.buzz
 0.0.0.0 oschad.3dss-pays.info
 0.0.0.0 oschad.blesk24.com
@@ -1114,6 +1115,7 @@
 0.0.0.0 raiffeisen.letytas.world
 0.0.0.0 raiffeisen.log-ins543325235345.cloud
 0.0.0.0 raiffeisen.onlineviplata.me
+0.0.0.0 raiffeisen.org.ua
 0.0.0.0 raiffeisen.otrimanti.site
 0.0.0.0 raiffeisen.otrimanya.me
 0.0.0.0 raiffeisen.otto-spotify.de
@@ -1267,6 +1269,8 @@
 0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
+0.0.0.0 ukraiff.mobi
+0.0.0.0 ukraiff.services
 0.0.0.0 ukraina-gos.top
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pics
