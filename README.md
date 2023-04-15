@@ -1,4 +1,4 @@
-# UA: Malicious URL Blocklist
+# Ukrainian Malicious URL Blocklist
 
 Фільтр (список блокувань) фішингових сайтів, які обманом виманюють в українців доступ до облікових записів банківських онлайн систем, реквізити платіжних карток, конфіденційну інформацію та гроші. До фільтру включені виключно шахрайські вебресурси, які орієнтовані саме на громадян України і які відсутні в інших наявних фільтрах.
 
@@ -42,7 +42,7 @@ https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-dnsmasq.t
 
 ## Сумісність з браузерами та розширеннями
 
-Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі UA: Malicious URL Blocklist.
+Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі Ukrainian Malicious URL Blocklist.
 
 #### Браузери (з власними модулями фільтрації контенту)
 * [Brave](https://brave.com/)
@@ -107,4 +107,4 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ## Ліцензія
 
-На фільтр (список блокувань) UA: Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/S15UA/url-blocklist/blob/main/LICENSE)
+На фільтр (список блокувань) Ukrainian Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/S15UA/url-blocklist/blob/main/LICENSE)
