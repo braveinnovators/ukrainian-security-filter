@@ -1,6 +1,6 @@
-# Title: UA: Malicious URL Blocklist (dnsmasq)
+# Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 11 April 2023 19:23 EEST
+# Last modified: Sat, 15 April 2023 15:50 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -534,6 +534,7 @@ address=/oon-viplata.social/
 address=/opay365.com/
 address=/oplat.pro/
 address=/oplataofficial.life/
+address=/oschad-paybank.xyz/
 address=/oschad-ukr.buzz/
 address=/oschad.3dss-pays.info/
 address=/oschad.blesk24.com/
@@ -1114,6 +1115,7 @@ address=/raiffeisen.lataepitrimka.vip/
 address=/raiffeisen.letytas.world/
 address=/raiffeisen.log-ins543325235345.cloud/
 address=/raiffeisen.onlineviplata.me/
+address=/raiffeisen.org.ua/
 address=/raiffeisen.otrimanti.site/
 address=/raiffeisen.otrimanya.me/
 address=/raiffeisen.otto-spotify.de/
@@ -1267,6 +1269,8 @@ address=/ukr-receive.icu/
 address=/ukr-receive.sbs/
 address=/ukr-savess.icu/
 address=/ukr-savess.sbs/
+address=/ukraiff.mobi/
+address=/ukraiff.services/
 address=/ukraina-gos.top/
 address=/ukraina.buzz/
 address=/ukraina.pics/
