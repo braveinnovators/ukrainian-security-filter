@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 15 April 2023 15:50 EEST
+# Last modified: Sun, 16 April 2023 14:27 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -63,6 +63,7 @@
 0.0.0.0 aid-edopomoga.com
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
+0.0.0.0 aval-ukraine.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
@@ -489,6 +490,7 @@
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
 0.0.0.0 next24.yrliqupay.com
+0.0.0.0 next24dopamoga.online
 0.0.0.0 nextpay.pw
 0.0.0.0 nextprivat24.info
 0.0.0.0 nextprivat24.pro
