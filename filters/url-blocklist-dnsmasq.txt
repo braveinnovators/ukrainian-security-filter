@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 15 April 2023 15:50 EEST
+# Last modified: Sun, 16 April 2023 14:27 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -63,6 +63,7 @@ address=/ads-pid.me/
 address=/aid-edopomoga.com/
 address=/amerisn.com/
 address=/apayments.pro/
+address=/aval-ukraine.com/
 address=/bake-pays.me/
 address=/bank-com.biz/
 address=/bank-com.shop/
@@ -489,6 +490,7 @@ address=/next24.vuplatu.in/
 address=/next24.xx-pay.co/
 address=/next24.xx-pay.me/
 address=/next24.yrliqupay.com/
+address=/next24dopamoga.online/
 address=/nextpay.pw/
 address=/nextprivat24.info/
 address=/nextprivat24.pro/
