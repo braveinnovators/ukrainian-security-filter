@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 18 April 2023 13:56 EEST
+# Last modified: Tue, 18 April 2023 15:45 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -78,6 +78,7 @@
 0.0.0.0 ca-pay.me
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
+0.0.0.0 cash-ua.website
 0.0.0.0 cashnew.pro
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 cbn5.com
@@ -127,6 +128,8 @@
 0.0.0.0 dershoplate.com
 0.0.0.0 dfgpaio.click
 0.0.0.0 diadopomoga.me
+0.0.0.0 diadopomoga6500.com
+0.0.0.0 diadopomogafree6500.com
 0.0.0.0 diafes.com
 0.0.0.0 diahelpfulua.click
 0.0.0.0 diia-2023help.me
@@ -177,6 +180,7 @@
 0.0.0.0 dopomoga-ua.pro
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
+0.0.0.0 dopomoga-uaweb.website
 0.0.0.0 dopomoga-vyplata.com
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.buzz
@@ -187,6 +191,7 @@
 0.0.0.0 dopomoga.place
 0.0.0.0 dopomoga.social
 0.0.0.0 dopomoga.solutions
+0.0.0.0 dopomoga.today
 0.0.0.0 dopomoga.viplatu.com
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga23.top
@@ -199,6 +204,7 @@
 0.0.0.0 dopomogae.online
 0.0.0.0 dopomogae.social
 0.0.0.0 dopomogae.xyz
+0.0.0.0 dopomogahelp.com
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaofficialua.com
 0.0.0.0 dopomogaonline.xyz
@@ -230,9 +236,13 @@
 0.0.0.0 edopomoga-viplata.com
 0.0.0.0 edopomoga-vyplata.com
 0.0.0.0 edopomoga-vyplataua.com
+0.0.0.0 edopomoga.app
+0.0.0.0 edopomoga.digital
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.land
+0.0.0.0 edopomoga.ltd
 0.0.0.0 edopomoga.mobi
+0.0.0.0 edopomoga.solutions
 0.0.0.0 edopomoga.today
 0.0.0.0 edopomoga.udemixcr.com
 0.0.0.0 edopomoga.world
@@ -246,11 +256,14 @@
 0.0.0.0 edopomogapidtrimka.com
 0.0.0.0 edopomogaua-epidtimkaua.com
 0.0.0.0 edopomogaua-epidtrimka.com
+0.0.0.0 edopomogaua-eviplataua.com
 0.0.0.0 edopomogaua-uknaine.com
+0.0.0.0 edopomogaua.ru
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
 0.0.0.0 edopomogauaa.com
 0.0.0.0 edopomogauahelp.com
+0.0.0.0 edopomogauaonline.com
 0.0.0.0 edopomogaukraine-epidtrimkaua.com
 0.0.0.0 edopomogaukraine.com
 0.0.0.0 edopomogaukraineepidtrimkaua.com
@@ -311,6 +324,7 @@
 0.0.0.0 help-fynancegov.com
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help.squirtvid.com
+0.0.0.0 helpdopomoga.com
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpforua.me
 0.0.0.0 helpua.top
@@ -901,6 +915,11 @@
 0.0.0.0 privat24.y-pay.pro
 0.0.0.0 privat24bank.net
 0.0.0.0 privat24donate.shop
+0.0.0.0 privat24dopomoga.com
+0.0.0.0 privat24dopomoga.info
+0.0.0.0 privat24dopomoga.life
+0.0.0.0 privat24dopomoga.online
+0.0.0.0 privat24dopomoga.org
 0.0.0.0 privat24eviplati.online
 0.0.0.0 privat24helps.shop
 0.0.0.0 privat24investt.xyz
@@ -1211,10 +1230,12 @@
 0.0.0.0 trustis-ua.top
 0.0.0.0 tsa.airforce
 0.0.0.0 ua-cash.com
+0.0.0.0 ua-cash.website
 0.0.0.0 ua-compens.top
 0.0.0.0 ua-compensation.top
 0.0.0.0 ua-compensations.xyz
 0.0.0.0 ua-compenses.top
+0.0.0.0 ua-diya.pro
 0.0.0.0 ua-dopomoga.org
 0.0.0.0 ua-edopomoga.me
 0.0.0.0 ua-pay.space
@@ -1239,6 +1260,7 @@
 0.0.0.0 uadopomoga2023.org
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
+0.0.0.0 uaedopomogavyplata.info
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
 0.0.0.0 uahelp-privat24.shop
@@ -1251,6 +1273,7 @@
 0.0.0.0 uappl.org
 0.0.0.0 uasafe.online
 0.0.0.0 uasocial-viplata.company
+0.0.0.0 uaviplata.xyz
 0.0.0.0 ubc.agency
 0.0.0.0 udemixcr.com
 0.0.0.0 uk-raina.live
@@ -1295,6 +1318,7 @@
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukrainesviplata.tilda.ws
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
@@ -1377,6 +1401,7 @@
 0.0.0.0 viplatasukraine.com
 0.0.0.0 viplataua.co
 0.0.0.0 viplataua.com
+0.0.0.0 viplataua.info
 0.0.0.0 viplataua.net
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
