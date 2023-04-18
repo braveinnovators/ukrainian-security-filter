@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 16 April 2023 14:27 EEST
+# Last modified: Tue, 18 April 2023 13:56 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -291,6 +291,7 @@ address=/gos-ukraine.info/
 address=/gosdopomoga.com/
 address=/goturozetka.com/
 address=/goturozetka.vip/
+address=/gov-oschad.shop/
 address=/gov-uah.top/
 address=/gov-ukr.top/
 address=/gov.ukr-savess.icu/
@@ -1373,6 +1374,7 @@ address=/viplataindo.com/
 address=/viplatanow.online/
 address=/viplataonline.com/
 address=/viplatasozshial.club/
+address=/viplatasukraine.com/
 address=/viplataua.co/
 address=/viplataua.com/
 address=/viplataua.net/
