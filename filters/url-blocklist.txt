@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 18 April 2023 13:56 EEST
+! Last modified: Tue, 18 April 2023 15:45 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -31,6 +31,7 @@
 ||ca-pay.me^
 ||cake-payment.me^
 ||cardpay.onl^
+||cash-ua.website^
 ||cashnew.pro^
 ||cashpayforukrainepeople.business^
 ||cbn5.com^
@@ -71,6 +72,8 @@
 ||dershoplate.com^
 ||dfgpaio.click^
 ||diadopomoga.me^
+||diadopomoga6500.com^
+||diadopomogafree6500.com^
 ||diafes.com^
 ||diahelpfulua.click^
 ||diia-2023help.me^
@@ -117,6 +120,7 @@
 ||dopomoga-ua.pro^
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
+||dopomoga-uaweb.website^
 ||dopomoga-vyplata.com^
 ||dopomoga.agency^
 ||dopomoga.buzz^
@@ -126,6 +130,7 @@
 ||dopomoga.place^
 ||dopomoga.social^
 ||dopomoga.solutions^
+||dopomoga.today^
 ||dopomoga2023.com^
 ||dopomoga23.top^
 ||dopomogaa-id03914.website^
@@ -137,6 +142,7 @@
 ||dopomogae.online^
 ||dopomogae.social^
 ||dopomogae.xyz^
+||dopomogahelp.com^
 ||dopomogainukraine.com^
 ||dopomogaofficialua.com^
 ||dopomogaonline.xyz^
@@ -168,8 +174,12 @@
 ||edopomoga-viplata.com^
 ||edopomoga-vyplata.com^
 ||edopomoga-vyplataua.com^
+||edopomoga.app^
+||edopomoga.digital^
 ||edopomoga.land^
+||edopomoga.ltd^
 ||edopomoga.mobi^
+||edopomoga.solutions^
 ||edopomoga.today^
 ||edopomoga.world^
 ||edopomogae.info^
@@ -180,11 +190,14 @@
 ||edopomogapidtrimka.com^
 ||edopomogaua-epidtimkaua.com^
 ||edopomogaua-epidtrimka.com^
+||edopomogaua-eviplataua.com^
 ||edopomogaua-uknaine.com^
+||edopomogaua.ru^
 ||edopomogaua.site^
 ||edopomogaua.website^
 ||edopomogauaa.com^
 ||edopomogauahelp.com^
+||edopomogauaonline.com^
 ||edopomogaukraine-epidtrimkaua.com^
 ||edopomogaukraine.com^
 ||edopomogaukraineepidtrimkaua.com^
@@ -242,6 +255,7 @@
 ||help-fond-ukrain.sbs^
 ||help-fynancegov.com^
 ||help-ukrain.xyz^
+||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
 ||helpua.top^
@@ -429,6 +443,11 @@
 ||privat24.uno^
 ||privat24bank.net^
 ||privat24donate.shop^
+||privat24dopomoga.com^
+||privat24dopomoga.info^
+||privat24dopomoga.life^
+||privat24dopomoga.online^
+||privat24dopomoga.org^
 ||privat24eviplati.online^
 ||privat24helps.shop^
 ||privat24investt.xyz^
@@ -507,10 +526,12 @@
 ||trustis-ua.top^
 ||tsa.airforce^
 ||ua-cash.com^
+||ua-cash.website^
 ||ua-compens.top^
 ||ua-compensation.top^
 ||ua-compensations.xyz^
 ||ua-compenses.top^
+||ua-diya.pro^
 ||ua-dopomoga.org^
 ||ua-edopomoga.me^
 ||ua-pay.space^
@@ -535,6 +556,7 @@
 ||uadopomoga2023.org^
 ||uadostawka.com^
 ||uaedopomoga-online.com^
+||uaedopomogavyplata.info^
 ||uah-perekaz.com^
 ||uah-perekaz24.com^
 ||uahelp-privat24.shop^
@@ -546,6 +568,7 @@
 ||uappl.org^
 ||uasafe.online^
 ||uasocial-viplata.company^
+||uaviplata.xyz^
 ||ubc.agency^
 ||udemixcr.com^
 ||uk-raina.live^
@@ -590,6 +613,7 @@
 ||ukrainepaymentsystem.pro^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukrainesviplata.tilda.ws^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
 ||ukrainianua.website^
@@ -645,6 +669,7 @@
 ||viplatasukraine.com^
 ||viplataua.co^
 ||viplataua.com^
+||viplataua.info^
 ||viplataua.net^
 ||viplataua.org^
 ||viplataua.shop^
