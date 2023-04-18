@@ -21,7 +21,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `example.com`
 
 ```
-https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-domains.txt
+https://github.com/S15UA/url-blocklist/raw/main/filters/url-blocklist-domains.txt
 ```
 
 ### Hosts-based blocklist
@@ -29,7 +29,7 @@ https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-domains.t
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `0.0.0.0 example.com`
 
 ```
-https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-hosts.txt
+https://github.com/S15UA/url-blocklist/raw/main/filters/url-blocklist-hosts.txt
 ```
 
 ### dnsmasq
@@ -37,7 +37,7 @@ https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-hosts.txt
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `address=/example.com/`
 
 ```
-https://github.com/S15UA/url-blocklist/blob/main/filters/url-blocklist-dnsmasq.txt
+https://github.com/S15UA/url-blocklist/raw/main/filters/url-blocklist-dnsmasq.txt
 ```
 
 ## Сумісність з браузерами та розширеннями
