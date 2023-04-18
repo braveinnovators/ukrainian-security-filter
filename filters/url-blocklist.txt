@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 16 April 2023 14:27 EEST
+! Last modified: Tue, 18 April 2023 13:56 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -225,6 +225,7 @@
 ||gosdopomoga.com^
 ||goturozetka.com^
 ||goturozetka.vip^
+||gov-oschad.shop^
 ||gov-uah.top^
 ||gov-ukr.top^
 ||govdia.pro^
@@ -641,6 +642,7 @@
 ||viplatanow.online^
 ||viplataonline.com^
 ||viplatasozshial.club^
+||viplatasukraine.com^
 ||viplataua.co^
 ||viplataua.com^
 ||viplataua.net^
