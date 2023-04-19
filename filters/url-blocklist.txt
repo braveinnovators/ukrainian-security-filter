@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 18 April 2023 15:45 EEST
+! Last modified: Wed, 19 April 2023 14:12 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -754,6 +754,7 @@
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
 ||facebook.com/profile.php?id=100088224776200^$document
+||facebook.com/profile.php?id=100088439483770^$document
 ||facebook.com/profile.php?id=100088487322815^$document
 ||facebook.com/profile.php?id=100088793687379^$document
 ||facebook.com/profile.php?id=100088981431611^$document
@@ -770,6 +771,7 @@
 ||facebook.com/profile.php?id=100091514463233^$document
 ||facebook.com/profile.php?id=100091549560072^$document
 ||facebook.com/profile.php?id=100091590543953^$document
+||facebook.com/profile.php?id=100091626205280^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/Допомога-Червоного-Хреста-100690672936127^$document
@@ -781,11 +783,13 @@
 ||t.me/+tTyBunuSCxhlZmRi^$document
 ||t.me/AidFromTheUnBot^$document
 ||t.me/d0p0m0ga^$document
+||t.me/DiaHelp24bot^$document
 ||t.me/diia_govUA1_bot^$document
 ||t.me/dopomoga_diia^$document
 ||t.me/dopomogaa2023^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/dopomogaukraine7600^$document
+||t.me/dopomogaukraine9350^$document
 ||t.me/dopomogawebsite^$document
 ||t.me/doponoga8500^$document
 ||t.me/DtekYASNO^$document
@@ -796,9 +800,11 @@
 ||t.me/eDopomogaUA_official^$document
 ||t.me/edopomogaukrainee^$document
 ||t.me/Edopomogauua^$document
+||t.me/epidtrymka6500^$document
 ||t.me/esviatoloveUA^$document
 ||t.me/grosgovadopomoga^$document
 ||t.me/Helpiing_Ua^$document
+||t.me/HelpUkraine24k^$document
 ||t.me/kassavam^$document
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
@@ -807,11 +813,13 @@
 ||t.me/Raifaise20000^$document
 ||t.me/s/AidFromTheUnBot^$document
 ||t.me/s/d0p0m0ga^$document
+||t.me/s/DiaHelp24bot^$document
 ||t.me/s/diia_govUA1_bot^$document
 ||t.me/s/dopomoga_diia^$document
 ||t.me/s/dopomogaa2023^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogaukraine7600^$document
+||t.me/s/dopomogaukraine9350^$document
 ||t.me/s/dopomogawebsite^$document
 ||t.me/s/doponoga8500^$document
 ||t.me/s/DtekYASNO^$document
@@ -822,9 +830,11 @@
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/edopomogaukrainee^$document
 ||t.me/s/Edopomogauua^$document
+||t.me/s/epidtrymka6500^$document
 ||t.me/s/esviatoloveUA^$document
 ||t.me/s/grosgovadopomoga^$document
 ||t.me/s/Helpiing_Ua^$document
+||t.me/s/HelpUkraine24k^$document
 ||t.me/s/kassavam^$document
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
@@ -836,6 +846,7 @@
 ||t.me/s/uafreeone^$document
 ||t.me/s/ukdopomoga01^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
+||t.me/s/vuplaty_ukraine^$document
 ||t.me/s/vyplaty_ukraine^$document
 ||t.me/s/zayavka_ua_bot^$document
 ||t.me/ua_findopomoga^$document
@@ -843,6 +854,7 @@
 ||t.me/uafreeone^$document
 ||t.me/ukdopomoga01^$document
 ||t.me/UkrainaDopomoga_UKR^$document
+||t.me/vuplaty_ukraine^$document
 ||t.me/vyplaty_ukraine^$document
 ||t.me/zayavka_ua_bot^$document
 ||taplink.cc/diia.gov.com^$document
