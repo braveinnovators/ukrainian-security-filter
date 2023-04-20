@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 18 April 2023 15:45 EEST
+# Last modified: Thu, 20 April 2023 13:48 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -166,6 +166,7 @@
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-backing.top
+0.0.0.0 dopomoga-dia.com
 0.0.0.0 dopomoga-dlia-ukraintsiv.life
 0.0.0.0 dopomoga-epay.site
 0.0.0.0 dopomoga-id04687.website
