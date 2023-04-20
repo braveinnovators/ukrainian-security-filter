@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 18 April 2023 15:45 EEST
+# Last modified: Thu, 20 April 2023 13:48 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -166,6 +166,7 @@ address=/dopomih.com/
 address=/dopomoga-2023.top/
 address=/dopomoga-aid.top/
 address=/dopomoga-backing.top/
+address=/dopomoga-dia.com/
 address=/dopomoga-dlia-ukraintsiv.life/
 address=/dopomoga-epay.site/
 address=/dopomoga-id04687.website/
