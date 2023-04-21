@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 20 April 2023 13:48 EEST
+! Last modified: Fri, 21 April 2023 17:27 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 
@@ -255,10 +255,12 @@
 ||help-fond-ukrain.icu^
 ||help-fond-ukrain.sbs^
 ||help-fynancegov.com^
+||help-oschad24.site^
 ||help-ukrain.xyz^
 ||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
+||helpprivat24.site^
 ||helpua.top^
 ||helpukraine.direct^
 ||helpwar-privat24.shop^
@@ -357,6 +359,8 @@
 ||oplataofficial.life^
 ||oschad-paybank.xyz^
 ||oschad-ukr.buzz^
+||oschad24.shop^
+||oschad24.site^
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
@@ -435,6 +439,7 @@
 ||privat-next24.shop^
 ||privat24-help.biz^
 ||privat24-help.link^
+||privat24-help.shop^
 ||privat24-help.xyz^
 ||privat24-next.ga^
 ||privat24-viplata-help.online^
@@ -450,6 +455,7 @@
 ||privat24dopomoga.online^
 ||privat24dopomoga.org^
 ||privat24eviplati.online^
+||privat24help.info^
 ||privat24helps.shop^
 ||privat24investt.xyz^
 ||privat24oon.social^
@@ -469,15 +475,18 @@
 ||raifesssen.com^
 ||raiffaisen-next.online^
 ||raiffeisen-approve.com^
+||raiffeisen-help.site^
 ||raiffeisen-uapay.shop^
 ||raiffeisen-ukr.buzz^
 ||raiffeisen.org.ua^
+||raiffeisen.space^
 ||raiffeisenbankoon.social^
 ||raiffeizen-viplata-help.online^
 ||raiffesen.pro^
 ||raiffeslen.biz^
 ||raiffeslen.com^
 ||raiffeslen.org^
+||raiffessen-ua.com^
 ||rastamogka.net^
 ||realss.pro^
 ||recive-money.icu^
