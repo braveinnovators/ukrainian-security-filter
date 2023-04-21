@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 20 April 2023 13:48 EEST
+# Last modified: Fri, 21 April 2023 17:27 EEST
 # Expires: 3 days
 # Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
 #
@@ -323,11 +323,13 @@
 0.0.0.0 help-fond-ukrain.icu
 0.0.0.0 help-fond-ukrain.sbs
 0.0.0.0 help-fynancegov.com
+0.0.0.0 help-oschad24.site
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help.squirtvid.com
 0.0.0.0 helpdopomoga.com
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpforua.me
+0.0.0.0 helpprivat24.site
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpwar-privat24.shop
@@ -642,6 +644,8 @@
 0.0.0.0 oschad.yatreba.com
 0.0.0.0 oschad.yrlipay.art
 0.0.0.0 oschad.yrliqupay.com
+0.0.0.0 oschad24.shop
+0.0.0.0 oschad24.site
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
@@ -881,6 +885,7 @@
 0.0.0.0 privat.xn--80aae0btu3d.life
 0.0.0.0 privat24-help.biz
 0.0.0.0 privat24-help.link
+0.0.0.0 privat24-help.shop
 0.0.0.0 privat24-help.xyz
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
@@ -922,6 +927,7 @@
 0.0.0.0 privat24dopomoga.online
 0.0.0.0 privat24dopomoga.org
 0.0.0.0 privat24eviplati.online
+0.0.0.0 privat24help.info
 0.0.0.0 privat24helps.shop
 0.0.0.0 privat24investt.xyz
 0.0.0.0 privat24oon.social
@@ -1093,6 +1099,7 @@
 0.0.0.0 raifesssen.com
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffeisen-approve.com
+0.0.0.0 raiffeisen-help.site
 0.0.0.0 raiffeisen-ua.cercis-dopay24.biz
 0.0.0.0 raiffeisen-ua.dipuplatservises24.sale
 0.0.0.0 raiffeisen-ua.dop-viplatisite24.online
@@ -1152,6 +1159,7 @@
 0.0.0.0 raiffeisen.shepir.com
 0.0.0.0 raiffeisen.socialassistance.info
 0.0.0.0 raiffeisen.socialvuplata.net
+0.0.0.0 raiffeisen.space
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.uahelp.press
 0.0.0.0 raiffeisen.vasic.website
@@ -1179,6 +1187,7 @@
 0.0.0.0 raiffeslen.biz
 0.0.0.0 raiffeslen.com
 0.0.0.0 raiffeslen.org
+0.0.0.0 raiffessen-ua.com
 0.0.0.0 rastamogka.net
 0.0.0.0 realss.pro
 0.0.0.0 recive-money.icu
