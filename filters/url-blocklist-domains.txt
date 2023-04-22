@@ -1,11 +1,11 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 21 April 2023 17:27 EEST
+# Last modified: Sat, 22 April 2023 19:25 EEST
 # Expires: 3 days
-# Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
+# Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
-# Homepage: https://github.com/S15UA/url-blocklist
-# Issues: https://github.com/S15UA/url-blocklist/issues
+# Homepage: https://github.com/braveinnovators/url-blocklist
+# Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
 0nlinepaidlife.shop
 0olut8.cn
@@ -64,11 +64,13 @@ aid-edopomoga.com
 amerisn.com
 apayments.pro
 aval-ukraine.com
+avalbank-ukraine.com
 bake-pays.me
 bank-com.biz
 bank-com.shop
 bank-verif.com
 bank-viplata.online
+bankaval-ukraine.com
 bankver.com
 bankverif.live
 blago-privatc24.ccx5.fun
@@ -76,6 +78,10 @@ blago-privatc24.wf0.uno
 blagos-privatc24.nm6.info
 blesk24.com
 ca-pay.me
+cabinet-raiffeisen.fun
+cabinet-raiffeisen.online
+cabinet-raiffeisen.pw
+cabinet-raiffeisen.site
 cake-payment.me
 cardpay.onl
 cash-ua.website
@@ -644,8 +650,12 @@ oschad.xx-pay.co
 oschad.yatreba.com
 oschad.yrlipay.art
 oschad.yrliqupay.com
+oschad24-help.shop
+oschad24-helps.shop
+oschad24-pay.shop
 oschad24.shop
 oschad24.site
+oschad24helps.shop
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
 oschadbank.ads-pid.me
@@ -775,6 +785,7 @@ pay.liqpay.info
 pay.ocxa-ua.top
 pay.osxi-ua.xyz
 payboxua.com
+payed-raiffeisen.space
 payer.fun
 payidgow.pro
 paying-out.today
@@ -1099,7 +1110,16 @@ raif.yrliqupay.com
 raifesssen.com
 raiffaisen-next.online
 raiffeisen-approve.com
+raiffeisen-cabinet.pw
+raiffeisen-cabinet.space
+raiffeisen-cabinet.website
 raiffeisen-help.site
+raiffeisen-helps.shop
+raiffeisen-pay.fun
+raiffeisen-payed.fun
+raiffeisen-payed.online
+raiffeisen-payed.site
+raiffeisen-payed.website
 raiffeisen-ua.cercis-dopay24.biz
 raiffeisen-ua.dipuplatservises24.sale
 raiffeisen-ua.dop-viplatisite24.online
@@ -1181,7 +1201,9 @@ raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeisen.vuplatyi.com
 raiffeisen.xn--80aae0btu3d.life
+raiffeisenbank.site
 raiffeisenbankoon.social
+raiffeisenhelps.shop
 raiffeizen-viplata-help.online
 raiffesen.pro
 raiffeslen.biz
