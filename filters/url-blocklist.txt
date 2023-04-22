@@ -1,11 +1,11 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 21 April 2023 17:27 EEST
+! Last modified: Sat, 22 April 2023 19:25 EEST
 ! Expires: 3 days
-! Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
+! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
-! Homepage: https://github.com/S15UA/url-blocklist
-! Issues: https://github.com/S15UA/url-blocklist/issues
+! Homepage: https://github.com/braveinnovators/url-blocklist
+! Issues: https://github.com/braveinnovators/url-blocklist/issues
 
 ||0nlinepaidlife.shop^
 ||0olut8.cn^
@@ -20,15 +20,21 @@
 ||amerisn.com^
 ||apayments.pro^
 ||aval-ukraine.com^
+||avalbank-ukraine.com^
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
 ||bank-verif.com^
 ||bank-viplata.online^
+||bankaval-ukraine.com^
 ||bankver.com^
 ||bankverif.live^
 ||blesk24.com^
 ||ca-pay.me^
+||cabinet-raiffeisen.fun^
+||cabinet-raiffeisen.online^
+||cabinet-raiffeisen.pw^
+||cabinet-raiffeisen.site^
 ||cake-payment.me^
 ||cardpay.onl^
 ||cash-ua.website^
@@ -359,8 +365,12 @@
 ||oplataofficial.life^
 ||oschad-paybank.xyz^
 ||oschad-ukr.buzz^
+||oschad24-help.shop^
+||oschad24-helps.shop^
+||oschad24-pay.shop^
 ||oschad24.shop^
 ||oschad24.site^
+||oschad24helps.shop^
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
@@ -395,6 +405,7 @@
 ||pay-ukraine.com^
 ||pay-unv.me^
 ||payboxua.com^
+||payed-raiffeisen.space^
 ||payer.fun^
 ||payidgow.pro^
 ||paying-out.today^
@@ -475,12 +486,23 @@
 ||raifesssen.com^
 ||raiffaisen-next.online^
 ||raiffeisen-approve.com^
+||raiffeisen-cabinet.pw^
+||raiffeisen-cabinet.space^
+||raiffeisen-cabinet.website^
 ||raiffeisen-help.site^
+||raiffeisen-helps.shop^
+||raiffeisen-pay.fun^
+||raiffeisen-payed.fun^
+||raiffeisen-payed.online^
+||raiffeisen-payed.site^
+||raiffeisen-payed.website^
 ||raiffeisen-uapay.shop^
 ||raiffeisen-ukr.buzz^
 ||raiffeisen.org.ua^
 ||raiffeisen.space^
+||raiffeisenbank.site^
 ||raiffeisenbankoon.social^
+||raiffeisenhelps.shop^
 ||raiffeizen-viplata-help.online^
 ||raiffesen.pro^
 ||raiffeslen.biz^
