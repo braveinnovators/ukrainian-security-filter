@@ -1,11 +1,11 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 21 April 2023 17:27 EEST
+# Last modified: Sat, 22 April 2023 19:25 EEST
 # Expires: 3 days
-# Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
+# Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
-# Homepage: https://github.com/S15UA/url-blocklist
-# Issues: https://github.com/S15UA/url-blocklist/issues
+# Homepage: https://github.com/braveinnovators/url-blocklist
+# Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
 address=/0nlinepaidlife.shop/
 address=/0olut8.cn/
@@ -64,11 +64,13 @@ address=/aid-edopomoga.com/
 address=/amerisn.com/
 address=/apayments.pro/
 address=/aval-ukraine.com/
+address=/avalbank-ukraine.com/
 address=/bake-pays.me/
 address=/bank-com.biz/
 address=/bank-com.shop/
 address=/bank-verif.com/
 address=/bank-viplata.online/
+address=/bankaval-ukraine.com/
 address=/bankver.com/
 address=/bankverif.live/
 address=/blago-privatc24.ccx5.fun/
@@ -76,6 +78,10 @@ address=/blago-privatc24.wf0.uno/
 address=/blagos-privatc24.nm6.info/
 address=/blesk24.com/
 address=/ca-pay.me/
+address=/cabinet-raiffeisen.fun/
+address=/cabinet-raiffeisen.online/
+address=/cabinet-raiffeisen.pw/
+address=/cabinet-raiffeisen.site/
 address=/cake-payment.me/
 address=/cardpay.onl/
 address=/cash-ua.website/
@@ -644,8 +650,12 @@ address=/oschad.xx-pay.co/
 address=/oschad.yatreba.com/
 address=/oschad.yrlipay.art/
 address=/oschad.yrliqupay.com/
+address=/oschad24-help.shop/
+address=/oschad24-helps.shop/
+address=/oschad24-pay.shop/
 address=/oschad24.shop/
 address=/oschad24.site/
+address=/oschad24helps.shop/
 address=/oschadbank-inform.com.ua/
 address=/oschadbank-viplata-help.online/
 address=/oschadbank.ads-pid.me/
@@ -775,6 +785,7 @@ address=/pay.liqpay.info/
 address=/pay.ocxa-ua.top/
 address=/pay.osxi-ua.xyz/
 address=/payboxua.com/
+address=/payed-raiffeisen.space/
 address=/payer.fun/
 address=/payidgow.pro/
 address=/paying-out.today/
@@ -1099,7 +1110,16 @@ address=/raif.yrliqupay.com/
 address=/raifesssen.com/
 address=/raiffaisen-next.online/
 address=/raiffeisen-approve.com/
+address=/raiffeisen-cabinet.pw/
+address=/raiffeisen-cabinet.space/
+address=/raiffeisen-cabinet.website/
 address=/raiffeisen-help.site/
+address=/raiffeisen-helps.shop/
+address=/raiffeisen-pay.fun/
+address=/raiffeisen-payed.fun/
+address=/raiffeisen-payed.online/
+address=/raiffeisen-payed.site/
+address=/raiffeisen-payed.website/
 address=/raiffeisen-ua.cercis-dopay24.biz/
 address=/raiffeisen-ua.dipuplatservises24.sale/
 address=/raiffeisen-ua.dop-viplatisite24.online/
@@ -1181,7 +1201,9 @@ address=/raiffeisen.vipplata.com/
 address=/raiffeisen.vorkviplata.biz/
 address=/raiffeisen.vuplatyi.com/
 address=/raiffeisen.xn--80aae0btu3d.life/
+address=/raiffeisenbank.site/
 address=/raiffeisenbankoon.social/
+address=/raiffeisenhelps.shop/
 address=/raiffeizen-viplata-help.online/
 address=/raiffesen.pro/
 address=/raiffeslen.biz/
