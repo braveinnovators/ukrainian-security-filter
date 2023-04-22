@@ -1,11 +1,11 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 21 April 2023 17:27 EEST
+# Last modified: Sat, 22 April 2023 19:25 EEST
 # Expires: 3 days
-# Licence: https://github.com/S15UA/url-blocklist/blob/main/LICENSE
+# Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
-# Homepage: https://github.com/S15UA/url-blocklist
-# Issues: https://github.com/S15UA/url-blocklist/issues
+# Homepage: https://github.com/braveinnovators/url-blocklist
+# Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
 0.0.0.0 0nlinepaidlife.shop
 0.0.0.0 0olut8.cn
@@ -64,11 +64,13 @@
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 aval-ukraine.com
+0.0.0.0 avalbank-ukraine.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
 0.0.0.0 bank-verif.com
 0.0.0.0 bank-viplata.online
+0.0.0.0 bankaval-ukraine.com
 0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
 0.0.0.0 blago-privatc24.ccx5.fun
@@ -76,6 +78,10 @@
 0.0.0.0 blagos-privatc24.nm6.info
 0.0.0.0 blesk24.com
 0.0.0.0 ca-pay.me
+0.0.0.0 cabinet-raiffeisen.fun
+0.0.0.0 cabinet-raiffeisen.online
+0.0.0.0 cabinet-raiffeisen.pw
+0.0.0.0 cabinet-raiffeisen.site
 0.0.0.0 cake-payment.me
 0.0.0.0 cardpay.onl
 0.0.0.0 cash-ua.website
@@ -644,8 +650,12 @@
 0.0.0.0 oschad.yatreba.com
 0.0.0.0 oschad.yrlipay.art
 0.0.0.0 oschad.yrliqupay.com
+0.0.0.0 oschad24-help.shop
+0.0.0.0 oschad24-helps.shop
+0.0.0.0 oschad24-pay.shop
 0.0.0.0 oschad24.shop
 0.0.0.0 oschad24.site
+0.0.0.0 oschad24helps.shop
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
@@ -775,6 +785,7 @@
 0.0.0.0 pay.ocxa-ua.top
 0.0.0.0 pay.osxi-ua.xyz
 0.0.0.0 payboxua.com
+0.0.0.0 payed-raiffeisen.space
 0.0.0.0 payer.fun
 0.0.0.0 payidgow.pro
 0.0.0.0 paying-out.today
@@ -1099,7 +1110,16 @@
 0.0.0.0 raifesssen.com
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffeisen-approve.com
+0.0.0.0 raiffeisen-cabinet.pw
+0.0.0.0 raiffeisen-cabinet.space
+0.0.0.0 raiffeisen-cabinet.website
 0.0.0.0 raiffeisen-help.site
+0.0.0.0 raiffeisen-helps.shop
+0.0.0.0 raiffeisen-pay.fun
+0.0.0.0 raiffeisen-payed.fun
+0.0.0.0 raiffeisen-payed.online
+0.0.0.0 raiffeisen-payed.site
+0.0.0.0 raiffeisen-payed.website
 0.0.0.0 raiffeisen-ua.cercis-dopay24.biz
 0.0.0.0 raiffeisen-ua.dipuplatservises24.sale
 0.0.0.0 raiffeisen-ua.dop-viplatisite24.online
@@ -1181,7 +1201,9 @@
 0.0.0.0 raiffeisen.vorkviplata.biz
 0.0.0.0 raiffeisen.vuplatyi.com
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
+0.0.0.0 raiffeisenbank.site
 0.0.0.0 raiffeisenbankoon.social
+0.0.0.0 raiffeisenhelps.shop
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffesen.pro
 0.0.0.0 raiffeslen.biz
