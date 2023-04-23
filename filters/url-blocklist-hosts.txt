@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 22 April 2023 19:25 EEST
+# Last modified: Sun, 23 April 2023 17:07 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -63,8 +63,11 @@
 0.0.0.0 aid-edopomoga.com
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
+0.0.0.0 aval-bank-online.com
 0.0.0.0 aval-ukraine.com
 0.0.0.0 avalbank-ukraine.com
+0.0.0.0 avalbankua-auth.com
+0.0.0.0 avalbankua-login.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
@@ -329,13 +332,21 @@
 0.0.0.0 help-fond-ukrain.icu
 0.0.0.0 help-fond-ukrain.sbs
 0.0.0.0 help-fynancegov.com
+0.0.0.0 help-oschad24.shop
 0.0.0.0 help-oschad24.site
+0.0.0.0 help-privat24.shop
+0.0.0.0 help-raiffaisen.site
+0.0.0.0 help-raiffeisen.shop
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help.squirtvid.com
+0.0.0.0 help24-oschad.win
 0.0.0.0 helpdopomoga.com
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpforua.me
+0.0.0.0 helposchad24.shop
+0.0.0.0 helpprivat24.shop
 0.0.0.0 helpprivat24.site
+0.0.0.0 helpraiffeisen.shop
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpwar-privat24.shop
@@ -397,6 +408,7 @@
 0.0.0.0 mono.vuplata.ink
 0.0.0.0 mono.xx-pay.co
 0.0.0.0 monobank.co.ua
+0.0.0.0 monobank.finance
 0.0.0.0 monobank.online
 0.0.0.0 monobank.store
 0.0.0.0 mopays.me
@@ -423,6 +435,7 @@
 0.0.0.0 next-bp.info
 0.0.0.0 next-bp.net
 0.0.0.0 next-privat24.online
+0.0.0.0 next-privat24help.win
 0.0.0.0 next.privat24.fun
 0.0.0.0 next24-privat.cloud
 0.0.0.0 next24-privat.us
@@ -516,6 +529,7 @@
 0.0.0.0 next24.yrliqupay.com
 0.0.0.0 next24dopamoga.online
 0.0.0.0 nextpay.pw
+0.0.0.0 nextprivat24-help.win
 0.0.0.0 nextprivat24.info
 0.0.0.0 nextprivat24.pro
 0.0.0.0 nm6.fun
@@ -560,6 +574,7 @@
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
+0.0.0.0 oschad-help.win
 0.0.0.0 oschad-paybank.xyz
 0.0.0.0 oschad-ukr.buzz
 0.0.0.0 oschad.3dss-pays.info
@@ -652,10 +667,12 @@
 0.0.0.0 oschad.yrliqupay.com
 0.0.0.0 oschad24-help.shop
 0.0.0.0 oschad24-helps.shop
+0.0.0.0 oschad24-helps.site
 0.0.0.0 oschad24-pay.shop
 0.0.0.0 oschad24.shop
 0.0.0.0 oschad24.site
 0.0.0.0 oschad24helps.shop
+0.0.0.0 oschad24helps.site
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
@@ -898,6 +915,7 @@
 0.0.0.0 privat24-help.link
 0.0.0.0 privat24-help.shop
 0.0.0.0 privat24-help.xyz
+0.0.0.0 privat24-helps.site
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24.apayments.pro
@@ -1109,12 +1127,21 @@
 0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raifesssen.com
 0.0.0.0 raiffaisen-next.online
+0.0.0.0 raiffaisen-pay.shop
+0.0.0.0 raiffaisen.online
+0.0.0.0 raiffaisen.shop
+0.0.0.0 raiffaisenbank.com
+0.0.0.0 raiffaisenpay.shop
+0.0.0.0 raiffeis24help.win
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-cabinet.pw
 0.0.0.0 raiffeisen-cabinet.space
 0.0.0.0 raiffeisen-cabinet.website
 0.0.0.0 raiffeisen-help.site
+0.0.0.0 raiffeisen-help.win
 0.0.0.0 raiffeisen-helps.shop
+0.0.0.0 raiffeisen-helps.site
+0.0.0.0 raiffeisen-online.website
 0.0.0.0 raiffeisen-pay.fun
 0.0.0.0 raiffeisen-payed.fun
 0.0.0.0 raiffeisen-payed.online
@@ -1210,6 +1237,8 @@
 0.0.0.0 raiffeslen.com
 0.0.0.0 raiffeslen.org
 0.0.0.0 raiffessen-ua.com
+0.0.0.0 raiffua.site
+0.0.0.0 raifua.site
 0.0.0.0 rastamogka.net
 0.0.0.0 realss.pro
 0.0.0.0 recive-money.icu
@@ -1217,6 +1246,7 @@
 0.0.0.0 rectivs.com
 0.0.0.0 redcross-privat24.shop
 0.0.0.0 redcrossbezl.yolasite.com
+0.0.0.0 redcrossdopomoga.info
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
@@ -1261,6 +1291,7 @@
 0.0.0.0 trust-group.pro
 0.0.0.0 trustis-ua.top
 0.0.0.0 tsa.airforce
+0.0.0.0 ua-avalbank.com
 0.0.0.0 ua-cash.com
 0.0.0.0 ua-cash.website
 0.0.0.0 ua-compens.top
@@ -1443,6 +1474,7 @@
 0.0.0.0 viplati-uah.top
 0.0.0.0 viplatka.com
 0.0.0.0 viplatu.com
+0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatyy.com
 0.0.0.0 vipplata.com
