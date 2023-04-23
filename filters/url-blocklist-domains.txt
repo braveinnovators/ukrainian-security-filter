@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 22 April 2023 19:25 EEST
+# Last modified: Sun, 23 April 2023 17:07 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -63,8 +63,11 @@ ads-pid.me
 aid-edopomoga.com
 amerisn.com
 apayments.pro
+aval-bank-online.com
 aval-ukraine.com
 avalbank-ukraine.com
+avalbankua-auth.com
+avalbankua-login.com
 bake-pays.me
 bank-com.biz
 bank-com.shop
@@ -329,13 +332,21 @@ help-fond-ukrain.cyou
 help-fond-ukrain.icu
 help-fond-ukrain.sbs
 help-fynancegov.com
+help-oschad24.shop
 help-oschad24.site
+help-privat24.shop
+help-raiffaisen.site
+help-raiffeisen.shop
 help-ukrain.xyz
 help.squirtvid.com
+help24-oschad.win
 helpdopomoga.com
 helpfond-ua.buzz
 helpforua.me
+helposchad24.shop
+helpprivat24.shop
 helpprivat24.site
+helpraiffeisen.shop
 helpua.top
 helpukraine.direct
 helpwar-privat24.shop
@@ -397,6 +408,7 @@ mono.viplataua.shop
 mono.vuplata.ink
 mono.xx-pay.co
 monobank.co.ua
+monobank.finance
 monobank.online
 monobank.store
 mopays.me
@@ -423,6 +435,7 @@ next-24.next-bp.net
 next-bp.info
 next-bp.net
 next-privat24.online
+next-privat24help.win
 next.privat24.fun
 next24-privat.cloud
 next24-privat.us
@@ -516,6 +529,7 @@ next24.xx-pay.me
 next24.yrliqupay.com
 next24dopamoga.online
 nextpay.pw
+nextprivat24-help.win
 nextprivat24.info
 nextprivat24.pro
 nm6.fun
@@ -560,6 +574,7 @@ oon-viplata.social
 opay365.com
 oplat.pro
 oplataofficial.life
+oschad-help.win
 oschad-paybank.xyz
 oschad-ukr.buzz
 oschad.3dss-pays.info
@@ -652,10 +667,12 @@ oschad.yrlipay.art
 oschad.yrliqupay.com
 oschad24-help.shop
 oschad24-helps.shop
+oschad24-helps.site
 oschad24-pay.shop
 oschad24.shop
 oschad24.site
 oschad24helps.shop
+oschad24helps.site
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
 oschadbank.ads-pid.me
@@ -898,6 +915,7 @@ privat24-help.biz
 privat24-help.link
 privat24-help.shop
 privat24-help.xyz
+privat24-helps.site
 privat24-next.ga
 privat24-viplata-help.online
 privat24.apayments.pro
@@ -1109,12 +1127,21 @@ raif.yrlipay.art
 raif.yrliqupay.com
 raifesssen.com
 raiffaisen-next.online
+raiffaisen-pay.shop
+raiffaisen.online
+raiffaisen.shop
+raiffaisenbank.com
+raiffaisenpay.shop
+raiffeis24help.win
 raiffeisen-approve.com
 raiffeisen-cabinet.pw
 raiffeisen-cabinet.space
 raiffeisen-cabinet.website
 raiffeisen-help.site
+raiffeisen-help.win
 raiffeisen-helps.shop
+raiffeisen-helps.site
+raiffeisen-online.website
 raiffeisen-pay.fun
 raiffeisen-payed.fun
 raiffeisen-payed.online
@@ -1210,6 +1237,8 @@ raiffeslen.biz
 raiffeslen.com
 raiffeslen.org
 raiffessen-ua.com
+raiffua.site
+raifua.site
 rastamogka.net
 realss.pro
 recive-money.icu
@@ -1217,6 +1246,7 @@ recivemoney.icu
 rectivs.com
 redcross-privat24.shop
 redcrossbezl.yolasite.com
+redcrossdopomoga.info
 regsotsvyplat.online
 reliefukraine.today
 rozetkaukraine.cc
@@ -1261,6 +1291,7 @@ trpayuan.site
 trust-group.pro
 trustis-ua.top
 tsa.airforce
+ua-avalbank.com
 ua-cash.com
 ua-cash.website
 ua-compens.top
@@ -1443,6 +1474,7 @@ viplatavsem.site
 viplati-uah.top
 viplatka.com
 viplatu.com
+viplaty.com.ua
 viplaty.online
 viplatyy.com
 vipplata.com
