@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 22 April 2023 19:25 EEST
+! Last modified: Sun, 23 April 2023 17:07 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -19,8 +19,11 @@
 ||aid-edopomoga.com^
 ||amerisn.com^
 ||apayments.pro^
+||aval-bank-online.com^
 ||aval-ukraine.com^
 ||avalbank-ukraine.com^
+||avalbankua-auth.com^
+||avalbankua-login.com^
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
@@ -261,12 +264,20 @@
 ||help-fond-ukrain.icu^
 ||help-fond-ukrain.sbs^
 ||help-fynancegov.com^
+||help-oschad24.shop^
 ||help-oschad24.site^
+||help-privat24.shop^
+||help-raiffaisen.site^
+||help-raiffeisen.shop^
 ||help-ukrain.xyz^
+||help24-oschad.win^
 ||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
+||helposchad24.shop^
+||helpprivat24.shop^
 ||helpprivat24.site^
+||helpraiffeisen.shop^
 ||helpua.top^
 ||helpukraine.direct^
 ||helpwar-privat24.shop^
@@ -314,6 +325,7 @@
 ||monitor-igr.blogspot.com^
 ||mono-bank.org^
 ||monobank.co.ua^
+||monobank.finance^
 ||monobank.online^
 ||monobank.store^
 ||mopays.me^
@@ -333,10 +345,12 @@
 ||next-bp.info^
 ||next-bp.net^
 ||next-privat24.online^
+||next-privat24help.win^
 ||next24-privat.cloud^
 ||next24-privat.us^
 ||next24dopamoga.online^
 ||nextpay.pw^
+||nextprivat24-help.win^
 ||nextprivat24.info^
 ||nextprivat24.pro^
 ||nm6.fun^
@@ -363,14 +377,17 @@
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
+||oschad-help.win^
 ||oschad-paybank.xyz^
 ||oschad-ukr.buzz^
 ||oschad24-help.shop^
 ||oschad24-helps.shop^
+||oschad24-helps.site^
 ||oschad24-pay.shop^
 ||oschad24.shop^
 ||oschad24.site^
 ||oschad24helps.shop^
+||oschad24helps.site^
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
@@ -452,6 +469,7 @@
 ||privat24-help.link^
 ||privat24-help.shop^
 ||privat24-help.xyz^
+||privat24-helps.site^
 ||privat24-next.ga^
 ||privat24-viplata-help.online^
 ||privat24.fun^
@@ -485,12 +503,21 @@
 ||raif-dopomoga.com^
 ||raifesssen.com^
 ||raiffaisen-next.online^
+||raiffaisen-pay.shop^
+||raiffaisen.online^
+||raiffaisen.shop^
+||raiffaisenbank.com^
+||raiffaisenpay.shop^
+||raiffeis24help.win^
 ||raiffeisen-approve.com^
 ||raiffeisen-cabinet.pw^
 ||raiffeisen-cabinet.space^
 ||raiffeisen-cabinet.website^
 ||raiffeisen-help.site^
+||raiffeisen-help.win^
 ||raiffeisen-helps.shop^
+||raiffeisen-helps.site^
+||raiffeisen-online.website^
 ||raiffeisen-pay.fun^
 ||raiffeisen-payed.fun^
 ||raiffeisen-payed.online^
@@ -509,6 +536,8 @@
 ||raiffeslen.com^
 ||raiffeslen.org^
 ||raiffessen-ua.com^
+||raiffua.site^
+||raifua.site^
 ||rastamogka.net^
 ||realss.pro^
 ||recive-money.icu^
@@ -516,6 +545,7 @@
 ||rectivs.com^
 ||redcross-privat24.shop^
 ||redcrossbezl.yolasite.com^
+||redcrossdopomoga.info^
 ||regsotsvyplat.online^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
@@ -557,6 +587,7 @@
 ||trust-group.pro^
 ||trustis-ua.top^
 ||tsa.airforce^
+||ua-avalbank.com^
 ||ua-cash.com^
 ||ua-cash.website^
 ||ua-compens.top^
@@ -711,6 +742,7 @@
 ||viplati-uah.top^
 ||viplatka.com^
 ||viplatu.com^
+||viplaty.com.ua^
 ||viplaty.online^
 ||viplatyy.com^
 ||vipplata.com^
@@ -842,6 +874,7 @@
 ||t.me/oficial_dopomoga^$document
 ||t.me/onlinedopomoga2023_bot^$document
 ||t.me/pidrumkaua^$document
+||t.me/PrivatBank24UK^$document
 ||t.me/Raifaise20000^$document
 ||t.me/s/AidFromTheUnBot^$document
 ||t.me/s/d0p0m0ga^$document
@@ -872,12 +905,14 @@
 ||t.me/s/oficial_dopomoga^$document
 ||t.me/s/onlinedopomoga2023_bot^$document
 ||t.me/s/pidrumkaua^$document
+||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/uafreeone^$document
 ||t.me/s/ukdopomoga01^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
+||t.me/s/UsdtUABot^$document
 ||t.me/s/Viplata6500^$document
 ||t.me/s/vuplaty_ukraine^$document
 ||t.me/s/vyplaty_ukraine^$document
@@ -887,6 +922,7 @@
 ||t.me/uafreeone^$document
 ||t.me/ukdopomoga01^$document
 ||t.me/UkrainaDopomoga_UKR^$document
+||t.me/UsdtUABot^$document
 ||t.me/Viplata6500^$document
 ||t.me/vuplaty_ukraine^$document
 ||t.me/vyplaty_ukraine^$document
