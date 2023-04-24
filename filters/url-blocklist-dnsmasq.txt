@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 23 April 2023 17:07 EEST
+# Last modified: Mon, 24 April 2023 12:52 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -68,9 +68,15 @@ address=/aval-ukraine.com/
 address=/avalbank-ukraine.com/
 address=/avalbankua-auth.com/
 address=/avalbankua-login.com/
+address=/avalbankualogin.com/
+address=/avalbaua.com/
 address=/bake-pays.me/
 address=/bank-com.biz/
 address=/bank-com.shop/
+address=/bank-raiff.fun/
+address=/bank-raiff.online/
+address=/bank-raiff.site/
+address=/bank-raiffeisen.fun/
 address=/bank-verif.com/
 address=/bank-viplata.online/
 address=/bankaval-ukraine.com/
@@ -153,6 +159,7 @@ address=/diia-uadopomogga.pro/
 address=/diia2023help.pro/
 address=/diiadopom0ga.click/
 address=/diiadopomoga.pro/
+address=/diiadopomoga2jd.pro/
 address=/diiapidpys.uk/
 address=/diiaua.com/
 address=/dipuplatservises24.sale/
@@ -559,6 +566,7 @@ address=/online-oshad24.ll0.uno/
 address=/online-pays.tech/
 address=/online-ukersib24.cs0.uno/
 address=/onlinediya.uk/
+address=/onlineraiffesen.com/
 address=/onlines-raiffeizen24.cbn5.fun/
 address=/onlines-raiffeizen24.xs0.uno/
 address=/onlineviplata.me/
@@ -820,6 +828,7 @@ address=/pcs-order.me/
 address=/perekaz-koshtiv.online/
 address=/perekaz-perek.com/
 address=/perekaz.com/
+address=/perekaz24.website/
 address=/perekaz24privat.com/
 address=/perekazi-privat24.online/
 address=/perekazio.com/
@@ -1126,10 +1135,14 @@ address=/raif.yatreba.com/
 address=/raif.yrlipay.art/
 address=/raif.yrliqupay.com/
 address=/raifesssen.com/
+address=/raiff-bank.fun/
+address=/raiff-bank.space/
+address=/raiff-bank.website/
 address=/raiffaisen-next.online/
 address=/raiffaisen-pay.shop/
 address=/raiffaisen.online/
 address=/raiffaisen.shop/
+address=/raiffaisen.site/
 address=/raiffaisenbank.com/
 address=/raiffaisenpay.shop/
 address=/raiffeis24help.win/
@@ -1232,6 +1245,7 @@ address=/raiffeisenbank.site/
 address=/raiffeisenbankoon.social/
 address=/raiffeisenhelps.shop/
 address=/raiffeizen-viplata-help.online/
+address=/raiffesen.com/
 address=/raiffesen.pro/
 address=/raiffeslen.biz/
 address=/raiffeslen.com/
