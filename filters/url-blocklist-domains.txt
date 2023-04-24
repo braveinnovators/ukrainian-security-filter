@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 23 April 2023 17:07 EEST
+# Last modified: Mon, 24 April 2023 12:52 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -68,9 +68,15 @@ aval-ukraine.com
 avalbank-ukraine.com
 avalbankua-auth.com
 avalbankua-login.com
+avalbankualogin.com
+avalbaua.com
 bake-pays.me
 bank-com.biz
 bank-com.shop
+bank-raiff.fun
+bank-raiff.online
+bank-raiff.site
+bank-raiffeisen.fun
 bank-verif.com
 bank-viplata.online
 bankaval-ukraine.com
@@ -153,6 +159,7 @@ diia-uadopomogga.pro
 diia2023help.pro
 diiadopom0ga.click
 diiadopomoga.pro
+diiadopomoga2jd.pro
 diiapidpys.uk
 diiaua.com
 dipuplatservises24.sale
@@ -559,6 +566,7 @@ online-oshad24.ll0.uno
 online-pays.tech
 online-ukersib24.cs0.uno
 onlinediya.uk
+onlineraiffesen.com
 onlines-raiffeizen24.cbn5.fun
 onlines-raiffeizen24.xs0.uno
 onlineviplata.me
@@ -820,6 +828,7 @@ pcs-order.me
 perekaz-koshtiv.online
 perekaz-perek.com
 perekaz.com
+perekaz24.website
 perekaz24privat.com
 perekazi-privat24.online
 perekazio.com
@@ -1126,10 +1135,14 @@ raif.yatreba.com
 raif.yrlipay.art
 raif.yrliqupay.com
 raifesssen.com
+raiff-bank.fun
+raiff-bank.space
+raiff-bank.website
 raiffaisen-next.online
 raiffaisen-pay.shop
 raiffaisen.online
 raiffaisen.shop
+raiffaisen.site
 raiffaisenbank.com
 raiffaisenpay.shop
 raiffeis24help.win
@@ -1232,6 +1245,7 @@ raiffeisenbank.site
 raiffeisenbankoon.social
 raiffeisenhelps.shop
 raiffeizen-viplata-help.online
+raiffesen.com
 raiffesen.pro
 raiffeslen.biz
 raiffeslen.com
