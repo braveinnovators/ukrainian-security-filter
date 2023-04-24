@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 23 April 2023 17:07 EEST
+! Last modified: Mon, 24 April 2023 12:52 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -24,9 +24,15 @@
 ||avalbank-ukraine.com^
 ||avalbankua-auth.com^
 ||avalbankua-login.com^
+||avalbankualogin.com^
+||avalbaua.com^
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
+||bank-raiff.fun^
+||bank-raiff.online^
+||bank-raiff.site^
+||bank-raiffeisen.fun^
 ||bank-verif.com^
 ||bank-viplata.online^
 ||bankaval-ukraine.com^
@@ -97,6 +103,7 @@
 ||diia2023help.pro^
 ||diiadopom0ga.click^
 ||diiadopomoga.pro^
+||diiadopomoga2jd.pro^
 ||diiapidpys.uk^
 ||diiaua.com^
 ||dipuplatservises24.sale^
@@ -367,6 +374,7 @@
 ||okpay24-grn.com^
 ||online-pays.tech^
 ||onlinediya.uk^
+||onlineraiffesen.com^
 ||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
@@ -438,6 +446,7 @@
 ||perekaz-koshtiv.online^
 ||perekaz-perek.com^
 ||perekaz.com^
+||perekaz24.website^
 ||perekaz24privat.com^
 ||perekazi-privat24.online^
 ||perekazio.com^
@@ -502,10 +511,14 @@
 ||quicktrans.space^
 ||raif-dopomoga.com^
 ||raifesssen.com^
+||raiff-bank.fun^
+||raiff-bank.space^
+||raiff-bank.website^
 ||raiffaisen-next.online^
 ||raiffaisen-pay.shop^
 ||raiffaisen.online^
 ||raiffaisen.shop^
+||raiffaisen.site^
 ||raiffaisenbank.com^
 ||raiffaisenpay.shop^
 ||raiffeis24help.win^
@@ -531,6 +544,7 @@
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
 ||raiffeizen-viplata-help.online^
+||raiffesen.com^
 ||raiffesen.pro^
 ||raiffeslen.biz^
 ||raiffeslen.com^
@@ -907,6 +921,7 @@
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
+||t.me/s/tiktokcashik_bot^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
 ||t.me/s/uafreeone^$document
@@ -917,6 +932,7 @@
 ||t.me/s/vuplaty_ukraine^$document
 ||t.me/s/vyplaty_ukraine^$document
 ||t.me/s/zayavka_ua_bot^$document
+||t.me/tiktokcashik_bot^$document
 ||t.me/ua_findopomoga^$document
 ||t.me/UA_OOH_bot^$document
 ||t.me/uafreeone^$document
