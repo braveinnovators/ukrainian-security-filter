@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 23 April 2023 17:07 EEST
+# Last modified: Mon, 24 April 2023 12:52 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -68,9 +68,15 @@
 0.0.0.0 avalbank-ukraine.com
 0.0.0.0 avalbankua-auth.com
 0.0.0.0 avalbankua-login.com
+0.0.0.0 avalbankualogin.com
+0.0.0.0 avalbaua.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
+0.0.0.0 bank-raiff.fun
+0.0.0.0 bank-raiff.online
+0.0.0.0 bank-raiff.site
+0.0.0.0 bank-raiffeisen.fun
 0.0.0.0 bank-verif.com
 0.0.0.0 bank-viplata.online
 0.0.0.0 bankaval-ukraine.com
@@ -153,6 +159,7 @@
 0.0.0.0 diia2023help.pro
 0.0.0.0 diiadopom0ga.click
 0.0.0.0 diiadopomoga.pro
+0.0.0.0 diiadopomoga2jd.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
 0.0.0.0 dipuplatservises24.sale
@@ -559,6 +566,7 @@
 0.0.0.0 online-pays.tech
 0.0.0.0 online-ukersib24.cs0.uno
 0.0.0.0 onlinediya.uk
+0.0.0.0 onlineraiffesen.com
 0.0.0.0 onlines-raiffeizen24.cbn5.fun
 0.0.0.0 onlines-raiffeizen24.xs0.uno
 0.0.0.0 onlineviplata.me
@@ -820,6 +828,7 @@
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz-perek.com
 0.0.0.0 perekaz.com
+0.0.0.0 perekaz24.website
 0.0.0.0 perekaz24privat.com
 0.0.0.0 perekazi-privat24.online
 0.0.0.0 perekazio.com
@@ -1126,10 +1135,14 @@
 0.0.0.0 raif.yrlipay.art
 0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raifesssen.com
+0.0.0.0 raiff-bank.fun
+0.0.0.0 raiff-bank.space
+0.0.0.0 raiff-bank.website
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffaisen-pay.shop
 0.0.0.0 raiffaisen.online
 0.0.0.0 raiffaisen.shop
+0.0.0.0 raiffaisen.site
 0.0.0.0 raiffaisenbank.com
 0.0.0.0 raiffaisenpay.shop
 0.0.0.0 raiffeis24help.win
@@ -1232,6 +1245,7 @@
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeisenhelps.shop
 0.0.0.0 raiffeizen-viplata-help.online
+0.0.0.0 raiffesen.com
 0.0.0.0 raiffesen.pro
 0.0.0.0 raiffeslen.biz
 0.0.0.0 raiffeslen.com
