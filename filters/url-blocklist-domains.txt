@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 25 April 2023 11:55 EEST
+# Last modified: Tue, 25 April 2023 19:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -335,6 +335,7 @@ govdia.pro
 groshi.world
 groshovadopomoga.com
 grshi.fun
+hel5.fun
 help-compensation-ua.xyz
 help-dlya-ukrainians.site
 help-dlya-ukrainy.online
@@ -349,6 +350,7 @@ help-oschad24.site
 help-privat24.shop
 help-raiffaisen.site
 help-raiffeisen.shop
+help-ua.social
 help-ukrain.xyz
 help.squirtvid.com
 help24-oschad.win
@@ -381,6 +383,7 @@ kievstar.online
 klespo.site
 klisp-o.site
 konkurs-golos.ltd
+konkurs-ukraine.site
 kpayments.cc
 kredo.pay-ukraine.com
 kredo.securitypay.me
@@ -807,6 +810,10 @@ p-invest.site
 pac-pay.online
 pay-chs.me
 pay-privat24.site
+pay-raif.fun
+pay-raif.online
+pay-raif.site
+pay-raif.space
 pay-remuneration.top
 pay-ua.website
 pay-ukraine.com
@@ -814,6 +821,7 @@ pay-unv.me
 pay.liqpay.info
 pay.ocxa-ua.top
 pay.osxi-ua.xyz
+pay24-dopomoga.win
 pay24dopomoga.win
 payboxua.com
 payed-raiffeisen.space
@@ -1047,6 +1055,13 @@ quickpay.pw
 quickpaymentss.expert
 quicktrans.space
 raif-dopomoga.com
+raif-online.fun
+raif-online.space
+raif-pay.fun
+raif-pay.online
+raif-pay.site
+raif-pay.space
+raif-pay.website
 raif.24get.site
 raif.blesk24.com
 raif.cake-payment.me
@@ -1269,6 +1284,7 @@ rectivs.com
 redcross-privat24.shop
 redcrossbezl.yolasite.com
 redcrossdopomoga.info
+redcrossukraine.co
 regsotsvyplat.online
 reliefukraine.today
 rozetkaukraine.cc
@@ -1338,6 +1354,7 @@ ua-wallet.pw
 ua2021priz.yolasite.com
 ua24kompensacy.yolasite.com
 uaabey.vip
+uabank-aval.com
 uabayrakua.com
 uacmplnk.xyz
 uacompensation.xyz
@@ -1356,6 +1373,7 @@ uahs.buzz
 uanext24help.icu
 uapay.cloud
 uapay.health
+uapay.online
 uapdvkomp.yolasite.com
 uappl.org
 uasafe.online
@@ -1374,6 +1392,7 @@ ukr-dopomog.top
 ukr-help.online
 ukr-kompenssations.buzz
 ukr-linker.xyz
+ukr-market24.com.ua
 ukr-money.com.ua
 ukr-payment-system.online
 ukr-receive.cfd
@@ -1534,6 +1553,7 @@ world-help.udemixcr.com
 wr-rescan.com
 www-raiffeslen.me
 x7-mikepike.buzz
+xn--80aa2annq7l.life
 xn--80aae0btu3d.life
 xs0.uno
 xu-pay.me
