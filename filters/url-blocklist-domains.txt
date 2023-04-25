@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 24 April 2023 12:52 EEST
+# Last modified: Tue, 25 April 2023 11:55 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -59,8 +59,10 @@ abank.perekazu.com
 abank.peyidgo.pro
 abank.uadostawka.com
 abank.uah-perekaz24.com
+actions-pay24.win
 ads-pid.me
 aid-edopomoga.com
+aid-for-ukraine.life
 amerisn.com
 apayments.pro
 aval-bank-online.com
@@ -75,6 +77,7 @@ bank-com.biz
 bank-com.shop
 bank-raiff.fun
 bank-raiff.online
+bank-raiff.pw
 bank-raiff.site
 bank-raiffeisen.fun
 bank-verif.com
@@ -180,6 +183,7 @@ dop-viplatisite24.online
 dopomegatm.me
 dopomih.com
 dopomoga-2023.top
+dopomoga-24pay.win
 dopomoga-aid.top
 dopomoga-backing.top
 dopomoga-dia.com
@@ -212,6 +216,7 @@ dopomoga.today
 dopomoga.viplatu.com
 dopomoga2023.com
 dopomoga23.top
+dopomoga24pay.win
 dopomogaa-id03914.website
 dopomogaa.site
 dopomogaa.website
@@ -809,6 +814,7 @@ pay-unv.me
 pay.liqpay.info
 pay.ocxa-ua.top
 pay.osxi-ua.xyz
+pay24dopomoga.win
 payboxua.com
 payed-raiffeisen.space
 payer.fun
@@ -977,6 +983,7 @@ privatbank.payment-system.cloud
 privatpay.me
 privatpay.online
 prlvatbank24.pw
+promo-pay24.win
 pruity.com
 prytulafoundation.net
 prytulafoundation.site
@@ -1136,6 +1143,7 @@ raif.yrlipay.art
 raif.yrliqupay.com
 raifesssen.com
 raiff-bank.fun
+raiff-bank.pw
 raiff-bank.space
 raiff-bank.website
 raiffaisen-next.online
@@ -1306,6 +1314,8 @@ trust-group.pro
 trustis-ua.top
 tsa.airforce
 ua-avalbank.com
+ua-bank.net
+ua-bank.org
 ua-cash.com
 ua-cash.website
 ua-compens.top
@@ -1382,6 +1392,7 @@ ukraine-dopomoga.online
 ukraine-furniture.com.ua
 ukraine-raffasen.com
 ukraine-raffesen.com
+ukraine-shop.uno
 ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
@@ -1402,6 +1413,8 @@ ukrainianua.website
 ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
+ukrpay.fun
+ukrpaymen.today
 ukrpaymentsystem.pro
 ukrsib-bank.top
 ukrsib.ads-pid.me
@@ -1432,6 +1445,10 @@ ukrsib.vorkviplata.biz
 ukrsib.vuplata.ink
 ukrsib.xx-pay.co
 ukrsibbank.top
+ukrspayman.bid
+ukrspayman.online
+ukrspayman.pics
+ukrspayman.site
 uks6.site
 ul-pay.me
 un-dopomoga.info
@@ -1454,6 +1471,7 @@ vip-viplatldop24.org
 viplata-com.store
 viplata-ooh.life
 viplata-oon-ua.com
+viplata-ua.me
 viplata.agency
 viplata.biz
 viplata.club
