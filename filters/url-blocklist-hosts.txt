@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 25 April 2023 11:55 EEST
+# Last modified: Tue, 25 April 2023 19:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -335,6 +335,7 @@
 0.0.0.0 groshi.world
 0.0.0.0 groshovadopomoga.com
 0.0.0.0 grshi.fun
+0.0.0.0 hel5.fun
 0.0.0.0 help-compensation-ua.xyz
 0.0.0.0 help-dlya-ukrainians.site
 0.0.0.0 help-dlya-ukrainy.online
@@ -349,6 +350,7 @@
 0.0.0.0 help-privat24.shop
 0.0.0.0 help-raiffaisen.site
 0.0.0.0 help-raiffeisen.shop
+0.0.0.0 help-ua.social
 0.0.0.0 help-ukrain.xyz
 0.0.0.0 help.squirtvid.com
 0.0.0.0 help24-oschad.win
@@ -381,6 +383,7 @@
 0.0.0.0 klespo.site
 0.0.0.0 klisp-o.site
 0.0.0.0 konkurs-golos.ltd
+0.0.0.0 konkurs-ukraine.site
 0.0.0.0 kpayments.cc
 0.0.0.0 kredo.pay-ukraine.com
 0.0.0.0 kredo.securitypay.me
@@ -807,6 +810,10 @@
 0.0.0.0 pac-pay.online
 0.0.0.0 pay-chs.me
 0.0.0.0 pay-privat24.site
+0.0.0.0 pay-raif.fun
+0.0.0.0 pay-raif.online
+0.0.0.0 pay-raif.site
+0.0.0.0 pay-raif.space
 0.0.0.0 pay-remuneration.top
 0.0.0.0 pay-ua.website
 0.0.0.0 pay-ukraine.com
@@ -814,6 +821,7 @@
 0.0.0.0 pay.liqpay.info
 0.0.0.0 pay.ocxa-ua.top
 0.0.0.0 pay.osxi-ua.xyz
+0.0.0.0 pay24-dopomoga.win
 0.0.0.0 pay24dopomoga.win
 0.0.0.0 payboxua.com
 0.0.0.0 payed-raiffeisen.space
@@ -1047,6 +1055,13 @@
 0.0.0.0 quickpaymentss.expert
 0.0.0.0 quicktrans.space
 0.0.0.0 raif-dopomoga.com
+0.0.0.0 raif-online.fun
+0.0.0.0 raif-online.space
+0.0.0.0 raif-pay.fun
+0.0.0.0 raif-pay.online
+0.0.0.0 raif-pay.site
+0.0.0.0 raif-pay.space
+0.0.0.0 raif-pay.website
 0.0.0.0 raif.24get.site
 0.0.0.0 raif.blesk24.com
 0.0.0.0 raif.cake-payment.me
@@ -1269,6 +1284,7 @@
 0.0.0.0 redcross-privat24.shop
 0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 redcrossdopomoga.info
+0.0.0.0 redcrossukraine.co
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
@@ -1338,6 +1354,7 @@
 0.0.0.0 ua2021priz.yolasite.com
 0.0.0.0 ua24kompensacy.yolasite.com
 0.0.0.0 uaabey.vip
+0.0.0.0 uabank-aval.com
 0.0.0.0 uabayrakua.com
 0.0.0.0 uacmplnk.xyz
 0.0.0.0 uacompensation.xyz
@@ -1356,6 +1373,7 @@
 0.0.0.0 uanext24help.icu
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.health
+0.0.0.0 uapay.online
 0.0.0.0 uapdvkomp.yolasite.com
 0.0.0.0 uappl.org
 0.0.0.0 uasafe.online
@@ -1374,6 +1392,7 @@
 0.0.0.0 ukr-help.online
 0.0.0.0 ukr-kompenssations.buzz
 0.0.0.0 ukr-linker.xyz
+0.0.0.0 ukr-market24.com.ua
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr-receive.cfd
@@ -1534,6 +1553,7 @@
 0.0.0.0 wr-rescan.com
 0.0.0.0 www-raiffeslen.me
 0.0.0.0 x7-mikepike.buzz
+0.0.0.0 xn--80aa2annq7l.life
 0.0.0.0 xn--80aae0btu3d.life
 0.0.0.0 xs0.uno
 0.0.0.0 xu-pay.me
