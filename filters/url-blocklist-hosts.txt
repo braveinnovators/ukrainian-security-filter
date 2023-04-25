@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 24 April 2023 12:52 EEST
+# Last modified: Tue, 25 April 2023 11:55 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -59,8 +59,10 @@
 0.0.0.0 abank.peyidgo.pro
 0.0.0.0 abank.uadostawka.com
 0.0.0.0 abank.uah-perekaz24.com
+0.0.0.0 actions-pay24.win
 0.0.0.0 ads-pid.me
 0.0.0.0 aid-edopomoga.com
+0.0.0.0 aid-for-ukraine.life
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 aval-bank-online.com
@@ -75,6 +77,7 @@
 0.0.0.0 bank-com.shop
 0.0.0.0 bank-raiff.fun
 0.0.0.0 bank-raiff.online
+0.0.0.0 bank-raiff.pw
 0.0.0.0 bank-raiff.site
 0.0.0.0 bank-raiffeisen.fun
 0.0.0.0 bank-verif.com
@@ -180,6 +183,7 @@
 0.0.0.0 dopomegatm.me
 0.0.0.0 dopomih.com
 0.0.0.0 dopomoga-2023.top
+0.0.0.0 dopomoga-24pay.win
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-backing.top
 0.0.0.0 dopomoga-dia.com
@@ -212,6 +216,7 @@
 0.0.0.0 dopomoga.viplatu.com
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga23.top
+0.0.0.0 dopomoga24pay.win
 0.0.0.0 dopomogaa-id03914.website
 0.0.0.0 dopomogaa.site
 0.0.0.0 dopomogaa.website
@@ -809,6 +814,7 @@
 0.0.0.0 pay.liqpay.info
 0.0.0.0 pay.ocxa-ua.top
 0.0.0.0 pay.osxi-ua.xyz
+0.0.0.0 pay24dopomoga.win
 0.0.0.0 payboxua.com
 0.0.0.0 payed-raiffeisen.space
 0.0.0.0 payer.fun
@@ -977,6 +983,7 @@
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
+0.0.0.0 promo-pay24.win
 0.0.0.0 pruity.com
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
@@ -1136,6 +1143,7 @@
 0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raifesssen.com
 0.0.0.0 raiff-bank.fun
+0.0.0.0 raiff-bank.pw
 0.0.0.0 raiff-bank.space
 0.0.0.0 raiff-bank.website
 0.0.0.0 raiffaisen-next.online
@@ -1306,6 +1314,8 @@
 0.0.0.0 trustis-ua.top
 0.0.0.0 tsa.airforce
 0.0.0.0 ua-avalbank.com
+0.0.0.0 ua-bank.net
+0.0.0.0 ua-bank.org
 0.0.0.0 ua-cash.com
 0.0.0.0 ua-cash.website
 0.0.0.0 ua-compens.top
@@ -1382,6 +1392,7 @@
 0.0.0.0 ukraine-furniture.com.ua
 0.0.0.0 ukraine-raffasen.com
 0.0.0.0 ukraine-raffesen.com
+0.0.0.0 ukraine-shop.uno
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
@@ -1402,6 +1413,8 @@
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
+0.0.0.0 ukrpay.fun
+0.0.0.0 ukrpaymen.today
 0.0.0.0 ukrpaymentsystem.pro
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.ads-pid.me
@@ -1432,6 +1445,10 @@
 0.0.0.0 ukrsib.vuplata.ink
 0.0.0.0 ukrsib.xx-pay.co
 0.0.0.0 ukrsibbank.top
+0.0.0.0 ukrspayman.bid
+0.0.0.0 ukrspayman.online
+0.0.0.0 ukrspayman.pics
+0.0.0.0 ukrspayman.site
 0.0.0.0 uks6.site
 0.0.0.0 ul-pay.me
 0.0.0.0 un-dopomoga.info
@@ -1454,6 +1471,7 @@
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata-ooh.life
 0.0.0.0 viplata-oon-ua.com
+0.0.0.0 viplata-ua.me
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
