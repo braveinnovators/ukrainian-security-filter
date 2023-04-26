@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 25 April 2023 19:25 EEST
+! Last modified: Wed, 26 April 2023 11:37 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -27,7 +27,6 @@
 ||avalbankua-auth.com^
 ||avalbankua-login.com^
 ||avalbankualogin.com^
-||avalbaua.com^
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
@@ -89,7 +88,9 @@
 ||dersch.online^
 ||dershoplate.com^
 ||dfgpaio.click^
+||diadopomoga.cloud^
 ||diadopomoga.me^
+||diadopomoga.org^
 ||diadopomoga6500.com^
 ||diadopomogafree6500.com^
 ||diafes.com^
@@ -205,6 +206,8 @@
 ||edopomoga.today^
 ||edopomoga.world^
 ||edopomogae.info^
+||edopomogagovua.online^
+||edopomogagovua.social^
 ||edopomogahelpua.com^
 ||edopomogaofficialua.com^
 ||edopomogaonline.com^
@@ -407,6 +410,7 @@
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
+||oschadbankclub.info^
 ||oschadbankoon.social^
 ||oschadbankuk.com^
 ||oschadbankukr.com^
@@ -619,6 +623,7 @@
 ||technolend.com.ua^
 ||techport.net.ua^
 ||tehnotop.net.ua^
+||thediadopomoga.online^
 ||toppaidsexpert.top^
 ||touristrestaurant.com^
 ||trpayuan.site^
@@ -837,6 +842,7 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 ||*-mono*.*.*^$document
+||*avalpay*.*.*^$document
 ||*oschad*.*.*^$document
 ||*oshad*.*.*^$document
 ||*oshcad*.*.*^$document
