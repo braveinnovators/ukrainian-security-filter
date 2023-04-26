@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 25 April 2023 19:25 EEST
+# Last modified: Wed, 26 April 2023 11:37 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -71,7 +71,6 @@ avalbank-ukraine.com
 avalbankua-auth.com
 avalbankua-login.com
 avalbankualogin.com
-avalbaua.com
 bake-pays.me
 bank-com.biz
 bank-com.shop
@@ -145,7 +144,9 @@ dengi.fyi
 dersch.online
 dershoplate.com
 dfgpaio.click
+diadopomoga.cloud
 diadopomoga.me
+diadopomoga.org
 diadopomoga6500.com
 diadopomogafree6500.com
 diafes.com
@@ -270,6 +271,8 @@ edopomoga.udemixcr.com
 edopomoga.world
 edopomoga24.csx5.space
 edopomogae.info
+edopomogagovua.online
+edopomogagovua.social
 edopomogahelpua.com
 edopomogai24.edi6.site
 edopomogaofficialua.com
@@ -768,6 +771,7 @@ oschadbank.vuplata.ink
 oschadbank.vuplata.online
 oschadbank.vuplatyi.com
 oschadbank.xn--80aae0btu3d.life
+oschadbankclub.info
 oschadbankoon.social
 oschadbankuk.com
 oschadbankukr.com
@@ -1323,6 +1327,7 @@ technobank.com.ua
 technolend.com.ua
 techport.net.ua
 tehnotop.net.ua
+thediadopomoga.online
 toppaidsexpert.top
 touristrestaurant.com
 trpayuan.site
