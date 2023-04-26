@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 26 April 2023 11:37 EEST
+# Last modified: Wed, 26 April 2023 19:20 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -124,6 +124,7 @@ compensationua.com
 compensationukr.com
 comreviews.club
 coshi.online
+coshipriem.online
 cozialedop.info
 cq-pay.me
 crediacgricole.no-pay.me
@@ -206,6 +207,7 @@ dopomoga-uaweb.website
 dopomoga-vyplata.com
 dopomoga.agency
 dopomoga.buzz
+dopomoga.coshipriem.online
 dopomoga.fans
 dopomoga.govdia.pro
 dopomoga.in
@@ -417,6 +419,7 @@ mobilka24.com
 mobilluck.com.ua
 mobipay.in.ua
 moneypay-for-ukrainians-people.pro
+moneypayua.online
 monitor-igr.blogspot.com
 mono-bank.org
 mono.ads-pid.me
@@ -555,9 +558,13 @@ nm6.info
 no-pay.me
 nopersonexty.online
 nost-pays.shop
+novaposhta-ua.com
+novaposhta-ua.org
 novaposhta-ua.recive-money.icu
 novaposhta-ua.recivemoney.icu
 novaposhta.ua-pay.space
+novaposhtashipping.com
+novaposhtatracking.com
 novok.com.ua
 np-pay.me
 ocha-ukrain.xyz
@@ -827,6 +834,7 @@ pay.ocxa-ua.top
 pay.osxi-ua.xyz
 pay24-dopomoga.win
 pay24dopomoga.win
+pay3700ua.online
 payboxua.com
 payed-raiffeisen.space
 payer.fun
@@ -1289,6 +1297,7 @@ redcross-privat24.shop
 redcrossbezl.yolasite.com
 redcrossdopomoga.info
 redcrossukraine.co
+redcrossukraine.top
 regsotsvyplat.online
 reliefukraine.today
 rozetkaukraine.cc
