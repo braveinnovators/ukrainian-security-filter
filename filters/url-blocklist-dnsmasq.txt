@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 26 April 2023 11:37 EEST
+# Last modified: Wed, 26 April 2023 19:20 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -124,6 +124,7 @@ address=/compensationua.com/
 address=/compensationukr.com/
 address=/comreviews.club/
 address=/coshi.online/
+address=/coshipriem.online/
 address=/cozialedop.info/
 address=/cq-pay.me/
 address=/crediacgricole.no-pay.me/
@@ -206,6 +207,7 @@ address=/dopomoga-uaweb.website/
 address=/dopomoga-vyplata.com/
 address=/dopomoga.agency/
 address=/dopomoga.buzz/
+address=/dopomoga.coshipriem.online/
 address=/dopomoga.fans/
 address=/dopomoga.govdia.pro/
 address=/dopomoga.in/
@@ -417,6 +419,7 @@ address=/mobilka24.com/
 address=/mobilluck.com.ua/
 address=/mobipay.in.ua/
 address=/moneypay-for-ukrainians-people.pro/
+address=/moneypayua.online/
 address=/monitor-igr.blogspot.com/
 address=/mono-bank.org/
 address=/mono.ads-pid.me/
@@ -555,9 +558,13 @@ address=/nm6.info/
 address=/no-pay.me/
 address=/nopersonexty.online/
 address=/nost-pays.shop/
+address=/novaposhta-ua.com/
+address=/novaposhta-ua.org/
 address=/novaposhta-ua.recive-money.icu/
 address=/novaposhta-ua.recivemoney.icu/
 address=/novaposhta.ua-pay.space/
+address=/novaposhtashipping.com/
+address=/novaposhtatracking.com/
 address=/novok.com.ua/
 address=/np-pay.me/
 address=/ocha-ukrain.xyz/
@@ -827,6 +834,7 @@ address=/pay.ocxa-ua.top/
 address=/pay.osxi-ua.xyz/
 address=/pay24-dopomoga.win/
 address=/pay24dopomoga.win/
+address=/pay3700ua.online/
 address=/payboxua.com/
 address=/payed-raiffeisen.space/
 address=/payer.fun/
@@ -1289,6 +1297,7 @@ address=/redcross-privat24.shop/
 address=/redcrossbezl.yolasite.com/
 address=/redcrossdopomoga.info/
 address=/redcrossukraine.co/
+address=/redcrossukraine.top/
 address=/regsotsvyplat.online/
 address=/reliefukraine.today/
 address=/rozetkaukraine.cc/
