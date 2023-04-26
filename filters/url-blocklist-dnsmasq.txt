@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 25 April 2023 19:25 EEST
+# Last modified: Wed, 26 April 2023 11:37 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -71,7 +71,6 @@ address=/avalbank-ukraine.com/
 address=/avalbankua-auth.com/
 address=/avalbankua-login.com/
 address=/avalbankualogin.com/
-address=/avalbaua.com/
 address=/bake-pays.me/
 address=/bank-com.biz/
 address=/bank-com.shop/
@@ -145,7 +144,9 @@ address=/dengi.fyi/
 address=/dersch.online/
 address=/dershoplate.com/
 address=/dfgpaio.click/
+address=/diadopomoga.cloud/
 address=/diadopomoga.me/
+address=/diadopomoga.org/
 address=/diadopomoga6500.com/
 address=/diadopomogafree6500.com/
 address=/diafes.com/
@@ -270,6 +271,8 @@ address=/edopomoga.udemixcr.com/
 address=/edopomoga.world/
 address=/edopomoga24.csx5.space/
 address=/edopomogae.info/
+address=/edopomogagovua.online/
+address=/edopomogagovua.social/
 address=/edopomogahelpua.com/
 address=/edopomogai24.edi6.site/
 address=/edopomogaofficialua.com/
@@ -768,6 +771,7 @@ address=/oschadbank.vuplata.ink/
 address=/oschadbank.vuplata.online/
 address=/oschadbank.vuplatyi.com/
 address=/oschadbank.xn--80aae0btu3d.life/
+address=/oschadbankclub.info/
 address=/oschadbankoon.social/
 address=/oschadbankuk.com/
 address=/oschadbankukr.com/
@@ -1323,6 +1327,7 @@ address=/technobank.com.ua/
 address=/technolend.com.ua/
 address=/techport.net.ua/
 address=/tehnotop.net.ua/
+address=/thediadopomoga.online/
 address=/toppaidsexpert.top/
 address=/touristrestaurant.com/
 address=/trpayuan.site/
