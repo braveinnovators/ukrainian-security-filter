@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 26 April 2023 11:37 EEST
+# Last modified: Wed, 26 April 2023 19:20 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -124,6 +124,7 @@
 0.0.0.0 compensationukr.com
 0.0.0.0 comreviews.club
 0.0.0.0 coshi.online
+0.0.0.0 coshipriem.online
 0.0.0.0 cozialedop.info
 0.0.0.0 cq-pay.me
 0.0.0.0 crediacgricole.no-pay.me
@@ -206,6 +207,7 @@
 0.0.0.0 dopomoga-vyplata.com
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.buzz
+0.0.0.0 dopomoga.coshipriem.online
 0.0.0.0 dopomoga.fans
 0.0.0.0 dopomoga.govdia.pro
 0.0.0.0 dopomoga.in
@@ -417,6 +419,7 @@
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobipay.in.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
+0.0.0.0 moneypayua.online
 0.0.0.0 monitor-igr.blogspot.com
 0.0.0.0 mono-bank.org
 0.0.0.0 mono.ads-pid.me
@@ -555,9 +558,13 @@
 0.0.0.0 no-pay.me
 0.0.0.0 nopersonexty.online
 0.0.0.0 nost-pays.shop
+0.0.0.0 novaposhta-ua.com
+0.0.0.0 novaposhta-ua.org
 0.0.0.0 novaposhta-ua.recive-money.icu
 0.0.0.0 novaposhta-ua.recivemoney.icu
 0.0.0.0 novaposhta.ua-pay.space
+0.0.0.0 novaposhtashipping.com
+0.0.0.0 novaposhtatracking.com
 0.0.0.0 novok.com.ua
 0.0.0.0 np-pay.me
 0.0.0.0 ocha-ukrain.xyz
@@ -827,6 +834,7 @@
 0.0.0.0 pay.osxi-ua.xyz
 0.0.0.0 pay24-dopomoga.win
 0.0.0.0 pay24dopomoga.win
+0.0.0.0 pay3700ua.online
 0.0.0.0 payboxua.com
 0.0.0.0 payed-raiffeisen.space
 0.0.0.0 payer.fun
@@ -1289,6 +1297,7 @@
 0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 redcrossdopomoga.info
 0.0.0.0 redcrossukraine.co
+0.0.0.0 redcrossukraine.top
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
