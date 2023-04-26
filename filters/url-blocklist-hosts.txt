@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 25 April 2023 19:25 EEST
+# Last modified: Wed, 26 April 2023 11:37 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -71,7 +71,6 @@
 0.0.0.0 avalbankua-auth.com
 0.0.0.0 avalbankua-login.com
 0.0.0.0 avalbankualogin.com
-0.0.0.0 avalbaua.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
@@ -145,7 +144,9 @@
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
 0.0.0.0 dfgpaio.click
+0.0.0.0 diadopomoga.cloud
 0.0.0.0 diadopomoga.me
+0.0.0.0 diadopomoga.org
 0.0.0.0 diadopomoga6500.com
 0.0.0.0 diadopomogafree6500.com
 0.0.0.0 diafes.com
@@ -270,6 +271,8 @@
 0.0.0.0 edopomoga.world
 0.0.0.0 edopomoga24.csx5.space
 0.0.0.0 edopomogae.info
+0.0.0.0 edopomogagovua.online
+0.0.0.0 edopomogagovua.social
 0.0.0.0 edopomogahelpua.com
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 edopomogaofficialua.com
@@ -768,6 +771,7 @@
 0.0.0.0 oschadbank.vuplata.online
 0.0.0.0 oschadbank.vuplatyi.com
 0.0.0.0 oschadbank.xn--80aae0btu3d.life
+0.0.0.0 oschadbankclub.info
 0.0.0.0 oschadbankoon.social
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
@@ -1323,6 +1327,7 @@
 0.0.0.0 technolend.com.ua
 0.0.0.0 techport.net.ua
 0.0.0.0 tehnotop.net.ua
+0.0.0.0 thediadopomoga.online
 0.0.0.0 toppaidsexpert.top
 0.0.0.0 touristrestaurant.com
 0.0.0.0 trpayuan.site
