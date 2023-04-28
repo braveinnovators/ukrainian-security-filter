@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 27 April 2023 10:39 EEST
+# Last modified: Fri, 28 April 2023 12:15 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -253,6 +253,8 @@ address=/e-dopomogaua.me/
 address=/e-grivn.com/
 address=/e-gryvnia.com/
 address=/e-viplata.space/
+address=/ebayua66.com/
+address=/ebayua66.vip/
 address=/ec-compensation.xyz/
 address=/ed-edopomoga.com/
 address=/edi6.site/
@@ -264,6 +266,7 @@ address=/edopomoga-viplata.com/
 address=/edopomoga-vyplata.com/
 address=/edopomoga-vyplataua.com/
 address=/edopomoga.app/
+address=/edopomoga.click/
 address=/edopomoga.digital/
 address=/edopomoga.edi6.site/
 address=/edopomoga.land/
@@ -602,6 +605,7 @@ address=/oon-viplata.social/
 address=/opay365.com/
 address=/oplat.pro/
 address=/oplataofficial.life/
+address=/oschad-banking.site/
 address=/oschad-help.win/
 address=/oschad-paybank.xyz/
 address=/oschad-ukr.buzz/
@@ -856,6 +860,7 @@ address=/pcs-order.me/
 address=/perekaz-koshtiv.online/
 address=/perekaz-perek.com/
 address=/perekaz.com/
+address=/perekaz.eu/
 address=/perekaz24.website/
 address=/perekaz24privat.com/
 address=/perekazi-privat24.online/
@@ -1068,6 +1073,7 @@ address=/qs-dopomoga.me/
 address=/quickpay.pw/
 address=/quickpaymentss.expert/
 address=/quicktrans.space/
+address=/raif-aval.com/
 address=/raif-dopomoga.com/
 address=/raif-online.fun/
 address=/raif-online.space/
@@ -1381,6 +1387,7 @@ address=/uadopomoga2023.org/
 address=/uadostawka.com/
 address=/uaedopomoga-online.com/
 address=/uaedopomogavyplata.info/
+address=/uagovdiia24.site/
 address=/uah-perekaz.com/
 address=/uah-perekaz24.com/
 address=/uahelp-privat24.shop/
@@ -1581,5 +1588,6 @@ address=/xx-pay.me/
 address=/y-pay.pro/
 address=/y4-nurimuri.buzz/
 address=/yatreba.com/
+address=/yourpay.world/
 address=/yrlipay.art/
 address=/yrliqupay.com/
