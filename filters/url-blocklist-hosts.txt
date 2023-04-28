@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 27 April 2023 10:39 EEST
+# Last modified: Fri, 28 April 2023 12:15 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -253,6 +253,8 @@
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-viplata.space
+0.0.0.0 ebayua66.com
+0.0.0.0 ebayua66.vip
 0.0.0.0 ec-compensation.xyz
 0.0.0.0 ed-edopomoga.com
 0.0.0.0 edi6.site
@@ -264,6 +266,7 @@
 0.0.0.0 edopomoga-vyplata.com
 0.0.0.0 edopomoga-vyplataua.com
 0.0.0.0 edopomoga.app
+0.0.0.0 edopomoga.click
 0.0.0.0 edopomoga.digital
 0.0.0.0 edopomoga.edi6.site
 0.0.0.0 edopomoga.land
@@ -602,6 +605,7 @@
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
+0.0.0.0 oschad-banking.site
 0.0.0.0 oschad-help.win
 0.0.0.0 oschad-paybank.xyz
 0.0.0.0 oschad-ukr.buzz
@@ -856,6 +860,7 @@
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz-perek.com
 0.0.0.0 perekaz.com
+0.0.0.0 perekaz.eu
 0.0.0.0 perekaz24.website
 0.0.0.0 perekaz24privat.com
 0.0.0.0 perekazi-privat24.online
@@ -1068,6 +1073,7 @@
 0.0.0.0 quickpay.pw
 0.0.0.0 quickpaymentss.expert
 0.0.0.0 quicktrans.space
+0.0.0.0 raif-aval.com
 0.0.0.0 raif-dopomoga.com
 0.0.0.0 raif-online.fun
 0.0.0.0 raif-online.space
@@ -1381,6 +1387,7 @@
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
 0.0.0.0 uaedopomogavyplata.info
+0.0.0.0 uagovdiia24.site
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
 0.0.0.0 uahelp-privat24.shop
@@ -1581,5 +1588,6 @@
 0.0.0.0 y-pay.pro
 0.0.0.0 y4-nurimuri.buzz
 0.0.0.0 yatreba.com
+0.0.0.0 yourpay.world
 0.0.0.0 yrlipay.art
 0.0.0.0 yrliqupay.com
