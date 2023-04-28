@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 27 April 2023 10:39 EEST
+# Last modified: Fri, 28 April 2023 12:15 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -253,6 +253,8 @@ e-dopomogaua.me
 e-grivn.com
 e-gryvnia.com
 e-viplata.space
+ebayua66.com
+ebayua66.vip
 ec-compensation.xyz
 ed-edopomoga.com
 edi6.site
@@ -264,6 +266,7 @@ edopomoga-viplata.com
 edopomoga-vyplata.com
 edopomoga-vyplataua.com
 edopomoga.app
+edopomoga.click
 edopomoga.digital
 edopomoga.edi6.site
 edopomoga.land
@@ -602,6 +605,7 @@ oon-viplata.social
 opay365.com
 oplat.pro
 oplataofficial.life
+oschad-banking.site
 oschad-help.win
 oschad-paybank.xyz
 oschad-ukr.buzz
@@ -856,6 +860,7 @@ pcs-order.me
 perekaz-koshtiv.online
 perekaz-perek.com
 perekaz.com
+perekaz.eu
 perekaz24.website
 perekaz24privat.com
 perekazi-privat24.online
@@ -1068,6 +1073,7 @@ qs-dopomoga.me
 quickpay.pw
 quickpaymentss.expert
 quicktrans.space
+raif-aval.com
 raif-dopomoga.com
 raif-online.fun
 raif-online.space
@@ -1381,6 +1387,7 @@ uadopomoga2023.org
 uadostawka.com
 uaedopomoga-online.com
 uaedopomogavyplata.info
+uagovdiia24.site
 uah-perekaz.com
 uah-perekaz24.com
 uahelp-privat24.shop
@@ -1581,5 +1588,6 @@ xx-pay.me
 y-pay.pro
 y4-nurimuri.buzz
 yatreba.com
+yourpay.world
 yrlipay.art
 yrliqupay.com
