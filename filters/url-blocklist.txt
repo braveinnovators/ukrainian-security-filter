@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 27 April 2023 10:39 EEST
+! Last modified: Fri, 28 April 2023 12:15 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -190,6 +190,8 @@
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-viplata.space^
+||ebayua66.com^
+||ebayua66.vip^
 ||ec-compensation.xyz^
 ||ed-edopomoga.com^
 ||edi6.site^
@@ -201,6 +203,7 @@
 ||edopomoga-vyplata.com^
 ||edopomoga-vyplataua.com^
 ||edopomoga.app^
+||edopomoga.click^
 ||edopomoga.digital^
 ||edopomoga.land^
 ||edopomoga.ltd^
@@ -404,6 +407,7 @@
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
+||oschad-banking.site^
 ||oschad-help.win^
 ||oschad-paybank.xyz^
 ||oschad-ukr.buzz^
@@ -473,6 +477,7 @@
 ||perekaz-koshtiv.online^
 ||perekaz-perek.com^
 ||perekaz.com^
+||perekaz.eu^
 ||perekaz24.website^
 ||perekaz24privat.com^
 ||perekazi-privat24.online^
@@ -537,6 +542,7 @@
 ||quickpay.pw^
 ||quickpaymentss.expert^
 ||quicktrans.space^
+||raif-aval.com^
 ||raif-dopomoga.com^
 ||raif-online.fun^
 ||raif-online.space^
@@ -676,6 +682,7 @@
 ||uadostawka.com^
 ||uaedopomoga-online.com^
 ||uaedopomogavyplata.info^
+||uagovdiia24.site^
 ||uah-perekaz.com^
 ||uah-perekaz24.com^
 ||uahelp-privat24.shop^
@@ -846,6 +853,7 @@
 ||y-pay.pro^
 ||y4-nurimuri.buzz^
 ||yatreba.com^
+||yourpay.world^
 ||yrlipay.art^
 ||yrliqupay.com^
 
@@ -853,12 +861,15 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 ||*-mono*.*.*^$document
+||*aval24*.*.*^$document
 ||*avalpay*.*.*^$document
 ||*oschad*.*.*^$document
 ||*oshad*.*.*^$document
 ||*oshcad*.*.*^$document
+||*privat24*.*.*^$document
 ||*raiffaisen*.*.*^$document
 ||*raiffei*.*.*^$document
+||*ukersb24*.*.*^$document
 ||*ukersib*.*.*^$document
 ||*ukrsib*.*.*^$document
 ||a-bank.*.*^$document
@@ -872,7 +883,6 @@
 ||next24.*.*^$document
 ||privat-ua.*.*^$document
 ||privat.*.*^$document
-||privat24.*.*^$document
 ||privatbank.*.*^$document
 ||pumb*.*.*^$document
 ||raif.*.*^$document
