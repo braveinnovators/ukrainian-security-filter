@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 28 April 2023 12:15 EEST
+! Last modified: Sat, 29 April 2023 16:12 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -75,6 +75,8 @@
 ||compensationua.com^
 ||compensationukr.com^
 ||comreviews.club^
+||connected4ukraine.org^
+||connectedforukraine.org^
 ||coshi.online^
 ||coshipriem.online^
 ||cozialedop.info^
@@ -303,6 +305,7 @@
 ||helpraiffeisen.shop^
 ||helpua.top^
 ||helpukraine.direct^
+||helpukrainian.site^
 ||helpwar-privat24.shop^
 ||helpzzfound.site^
 ||hep5.online^
@@ -345,6 +348,7 @@
 ||mobilgrosh.biz^
 ||mobilka24.com^
 ||mobilluck.com.ua^
+||mobitop.biz^
 ||moneypay-for-ukrainians-people.pro^
 ||moneypayua.online^
 ||monitor-igr.blogspot.com^
@@ -395,8 +399,10 @@
 ||okko-bonus.live^
 ||okpay24-grn.com^
 ||online-pays.tech^
+||online-raiffeisen.info^
 ||onlinediya.uk^
 ||onlineraiffesen.com^
+||onlineraiffoisen.com^
 ||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
@@ -473,6 +479,7 @@
 ||pays.creditcard^
 ||paysdayl.click^
 ||paystarted.com^
+||payukrainenow.com^
 ||pcs-order.me^
 ||perekaz-koshtiv.online^
 ||perekaz-perek.com^
@@ -563,6 +570,7 @@
 ||raiffaisen.site^
 ||raiffaisenbank.com^
 ||raiffaisenpay.shop^
+||raiffaissen.shop^
 ||raiffeis24help.win^
 ||raiffeisen-approve.com^
 ||raiffeisen-cabinet.pw^
@@ -595,6 +603,7 @@
 ||raiffua.site^
 ||raifua.site^
 ||rastamogka.net^
+||razomforukraine.in^
 ||realss.pro^
 ||recive-money.icu^
 ||recivemoney.icu^
@@ -749,9 +758,13 @@
 ||ukrcredits.com^
 ||ukreyns.com^
 ||ukrfinanspomog.site^
+||ukripaymens.online^
 ||ukrpay.fun^
 ||ukrpaymen.today^
 ||ukrpaymentsystem.pro^
+||ukrposhta.kr.ua^
+||ukrposhta.me^
+||ukrposhta.pl^
 ||ukrsib-bank.top^
 ||ukrsibbank.top^
 ||ukrspayman.bid^
@@ -923,6 +936,7 @@
 ||facebook.com/ЄДoпoмoгa-107571865413656^$document
 ||facebook.com/Терміново-Офіційно-допомога-116759361369410^$document
 ||linktr.ee/dopomoha.center^$document
+||nowpayments.io/payment/?iid=6401665851&paymentId=5609172507^$document
 ||sites.google.com/view/d362g5d2^$document
 ||t.me/+AywXgY6Igj81Njli^$document
 ||t.me/+tTyBunuSCxhlZmRi^$document
