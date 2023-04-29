@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 28 April 2023 12:15 EEST
+# Last modified: Sat, 29 April 2023 16:12 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -123,6 +123,8 @@ address=/compensations-ukrain.sbs/
 address=/compensationua.com/
 address=/compensationukr.com/
 address=/comreviews.club/
+address=/connected4ukraine.org/
+address=/connectedforukraine.org/
 address=/coshi.online/
 address=/coshipriem.online/
 address=/cozialedop.info/
@@ -373,6 +375,7 @@ address=/helpprivat24.site/
 address=/helpraiffeisen.shop/
 address=/helpua.top/
 address=/helpukraine.direct/
+address=/helpukrainian.site/
 address=/helpwar-privat24.shop/
 address=/helpzzfound.site/
 address=/hep5.online/
@@ -423,6 +426,7 @@ address=/mobilgrosh.biz/
 address=/mobilka24.com/
 address=/mobilluck.com.ua/
 address=/mobipay.in.ua/
+address=/mobitop.biz/
 address=/moneypay-for-ukrainians-people.pro/
 address=/moneypayua.online/
 address=/monitor-igr.blogspot.com/
@@ -587,9 +591,11 @@ address=/online-oschadbank.cbx5.space/
 address=/online-oschadbank.csx5.net/
 address=/online-oshad24.ll0.uno/
 address=/online-pays.tech/
+address=/online-raiffeisen.info/
 address=/online-ukersib24.cs0.uno/
 address=/onlinediya.uk/
 address=/onlineraiffesen.com/
+address=/onlineraiffoisen.com/
 address=/onlines-raiffeizen24.cbn5.fun/
 address=/onlines-raiffeizen24.xs0.uno/
 address=/onlineviplata.me/
@@ -856,6 +862,7 @@ address=/pays.credit/
 address=/pays.creditcard/
 address=/paysdayl.click/
 address=/paystarted.com/
+address=/payukrainenow.com/
 address=/pcs-order.me/
 address=/perekaz-koshtiv.online/
 address=/perekaz-perek.com/
@@ -1188,6 +1195,7 @@ address=/raiffaisen.shop/
 address=/raiffaisen.site/
 address=/raiffaisenbank.com/
 address=/raiffaisenpay.shop/
+address=/raiffaissen.shop/
 address=/raiffeis24help.win/
 address=/raiffeisen-approve.com/
 address=/raiffeisen-cabinet.pw/
@@ -1297,6 +1305,7 @@ address=/raiffessen-ua.com/
 address=/raiffua.site/
 address=/raifua.site/
 address=/rastamogka.net/
+address=/razomforukraine.in/
 address=/realss.pro/
 address=/recive-money.icu/
 address=/recivemoney.icu/
@@ -1455,9 +1464,13 @@ address=/ukrainianua.website/
 address=/ukrcredits.com/
 address=/ukreyns.com/
 address=/ukrfinanspomog.site/
+address=/ukripaymens.online/
 address=/ukrpay.fun/
 address=/ukrpaymen.today/
 address=/ukrpaymentsystem.pro/
+address=/ukrposhta.kr.ua/
+address=/ukrposhta.me/
+address=/ukrposhta.pl/
 address=/ukrsib-bank.top/
 address=/ukrsib.ads-pid.me/
 address=/ukrsib.cake-payment.me/
