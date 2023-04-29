@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 28 April 2023 12:15 EEST
+# Last modified: Sat, 29 April 2023 16:12 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -123,6 +123,8 @@ compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
 comreviews.club
+connected4ukraine.org
+connectedforukraine.org
 coshi.online
 coshipriem.online
 cozialedop.info
@@ -373,6 +375,7 @@ helpprivat24.site
 helpraiffeisen.shop
 helpua.top
 helpukraine.direct
+helpukrainian.site
 helpwar-privat24.shop
 helpzzfound.site
 hep5.online
@@ -423,6 +426,7 @@ mobilgrosh.biz
 mobilka24.com
 mobilluck.com.ua
 mobipay.in.ua
+mobitop.biz
 moneypay-for-ukrainians-people.pro
 moneypayua.online
 monitor-igr.blogspot.com
@@ -587,9 +591,11 @@ online-oschadbank.cbx5.space
 online-oschadbank.csx5.net
 online-oshad24.ll0.uno
 online-pays.tech
+online-raiffeisen.info
 online-ukersib24.cs0.uno
 onlinediya.uk
 onlineraiffesen.com
+onlineraiffoisen.com
 onlines-raiffeizen24.cbn5.fun
 onlines-raiffeizen24.xs0.uno
 onlineviplata.me
@@ -856,6 +862,7 @@ pays.credit
 pays.creditcard
 paysdayl.click
 paystarted.com
+payukrainenow.com
 pcs-order.me
 perekaz-koshtiv.online
 perekaz-perek.com
@@ -1188,6 +1195,7 @@ raiffaisen.shop
 raiffaisen.site
 raiffaisenbank.com
 raiffaisenpay.shop
+raiffaissen.shop
 raiffeis24help.win
 raiffeisen-approve.com
 raiffeisen-cabinet.pw
@@ -1297,6 +1305,7 @@ raiffessen-ua.com
 raiffua.site
 raifua.site
 rastamogka.net
+razomforukraine.in
 realss.pro
 recive-money.icu
 recivemoney.icu
@@ -1455,9 +1464,13 @@ ukrainianua.website
 ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
+ukripaymens.online
 ukrpay.fun
 ukrpaymen.today
 ukrpaymentsystem.pro
+ukrposhta.kr.ua
+ukrposhta.me
+ukrposhta.pl
 ukrsib-bank.top
 ukrsib.ads-pid.me
 ukrsib.cake-payment.me
