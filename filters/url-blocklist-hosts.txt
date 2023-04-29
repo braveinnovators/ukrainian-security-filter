@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 28 April 2023 12:15 EEST
+# Last modified: Sat, 29 April 2023 16:12 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -123,6 +123,8 @@
 0.0.0.0 compensationua.com
 0.0.0.0 compensationukr.com
 0.0.0.0 comreviews.club
+0.0.0.0 connected4ukraine.org
+0.0.0.0 connectedforukraine.org
 0.0.0.0 coshi.online
 0.0.0.0 coshipriem.online
 0.0.0.0 cozialedop.info
@@ -373,6 +375,7 @@
 0.0.0.0 helpraiffeisen.shop
 0.0.0.0 helpua.top
 0.0.0.0 helpukraine.direct
+0.0.0.0 helpukrainian.site
 0.0.0.0 helpwar-privat24.shop
 0.0.0.0 helpzzfound.site
 0.0.0.0 hep5.online
@@ -423,6 +426,7 @@
 0.0.0.0 mobilka24.com
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobipay.in.ua
+0.0.0.0 mobitop.biz
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneypayua.online
 0.0.0.0 monitor-igr.blogspot.com
@@ -587,9 +591,11 @@
 0.0.0.0 online-oschadbank.csx5.net
 0.0.0.0 online-oshad24.ll0.uno
 0.0.0.0 online-pays.tech
+0.0.0.0 online-raiffeisen.info
 0.0.0.0 online-ukersib24.cs0.uno
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlineraiffesen.com
+0.0.0.0 onlineraiffoisen.com
 0.0.0.0 onlines-raiffeizen24.cbn5.fun
 0.0.0.0 onlines-raiffeizen24.xs0.uno
 0.0.0.0 onlineviplata.me
@@ -856,6 +862,7 @@
 0.0.0.0 pays.creditcard
 0.0.0.0 paysdayl.click
 0.0.0.0 paystarted.com
+0.0.0.0 payukrainenow.com
 0.0.0.0 pcs-order.me
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz-perek.com
@@ -1188,6 +1195,7 @@
 0.0.0.0 raiffaisen.site
 0.0.0.0 raiffaisenbank.com
 0.0.0.0 raiffaisenpay.shop
+0.0.0.0 raiffaissen.shop
 0.0.0.0 raiffeis24help.win
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-cabinet.pw
@@ -1297,6 +1305,7 @@
 0.0.0.0 raiffua.site
 0.0.0.0 raifua.site
 0.0.0.0 rastamogka.net
+0.0.0.0 razomforukraine.in
 0.0.0.0 realss.pro
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
@@ -1455,9 +1464,13 @@
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
+0.0.0.0 ukripaymens.online
 0.0.0.0 ukrpay.fun
 0.0.0.0 ukrpaymen.today
 0.0.0.0 ukrpaymentsystem.pro
+0.0.0.0 ukrposhta.kr.ua
+0.0.0.0 ukrposhta.me
+0.0.0.0 ukrposhta.pl
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.ads-pid.me
 0.0.0.0 ukrsib.cake-payment.me
