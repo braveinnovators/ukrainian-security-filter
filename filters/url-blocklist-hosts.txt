@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 29 April 2023 16:12 EEST
+# Last modified: Mon, 01 May 2023 15:08 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -144,6 +144,7 @@
 0.0.0.0 csx5.uno
 0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
+0.0.0.0 departament.social
 0.0.0.0 dersch.online
 0.0.0.0 dershoplate.com
 0.0.0.0 dfgpaio.click
@@ -316,6 +317,7 @@
 0.0.0.0 etrimaty.pro
 0.0.0.0 eu-dopomoga.com
 0.0.0.0 eu-st.site
+0.0.0.0 eudopomoga.nicepage.io
 0.0.0.0 eurohelp.tilda.ws
 0.0.0.0 eviplata.vip
 0.0.0.0 finance-dopomoga.site
@@ -790,6 +792,7 @@
 0.0.0.0 oschadbank.vuplata.online
 0.0.0.0 oschadbank.vuplatyi.com
 0.0.0.0 oschadbank.xn--80aae0btu3d.life
+0.0.0.0 oschadbank24.shop
 0.0.0.0 oschadbankclub.info
 0.0.0.0 oschadbankoon.social
 0.0.0.0 oschadbankuk.com
@@ -1014,6 +1017,7 @@
 0.0.0.0 privatbank.online-pays.tech
 0.0.0.0 privatbank.paying-out.today
 0.0.0.0 privatbank.payment-system.cloud
+0.0.0.0 privatbank24.shop
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
@@ -1292,6 +1296,7 @@
 0.0.0.0 raiffeisen.vorkviplata.biz
 0.0.0.0 raiffeisen.vuplatyi.com
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
+0.0.0.0 raiffeisen24.shop
 0.0.0.0 raiffeisenbank.site
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeisenhelps.shop
@@ -1347,6 +1352,7 @@
 0.0.0.0 storeeu.site
 0.0.0.0 streuro.site
 0.0.0.0 sutary.com
+0.0.0.0 sz0.fun
 0.0.0.0 tax-compensation.bar
 0.0.0.0 tax-compenses.xyz
 0.0.0.0 technobank.com.ua
@@ -1458,6 +1464,7 @@
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainesviplata.tilda.ws
+0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
@@ -1524,9 +1531,11 @@
 0.0.0.0 vinplata.com
 0.0.0.0 vip-onlain.site
 0.0.0.0 vip-viplatldop24.org
+0.0.0.0 viplata-bot.eu
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata-ooh.life
 0.0.0.0 viplata-oon-ua.com
+0.0.0.0 viplata-ua.eu
 0.0.0.0 viplata-ua.me
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
