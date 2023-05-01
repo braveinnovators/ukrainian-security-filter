@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 29 April 2023 16:12 EEST
+# Last modified: Mon, 01 May 2023 15:08 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -144,6 +144,7 @@ csx5.space
 csx5.uno
 deneg-help.top
 dengi.fyi
+departament.social
 dersch.online
 dershoplate.com
 dfgpaio.click
@@ -316,6 +317,7 @@ escrowbox.online
 etrimaty.pro
 eu-dopomoga.com
 eu-st.site
+eudopomoga.nicepage.io
 eurohelp.tilda.ws
 eviplata.vip
 finance-dopomoga.site
@@ -790,6 +792,7 @@ oschadbank.vuplata.ink
 oschadbank.vuplata.online
 oschadbank.vuplatyi.com
 oschadbank.xn--80aae0btu3d.life
+oschadbank24.shop
 oschadbankclub.info
 oschadbankoon.social
 oschadbankuk.com
@@ -1014,6 +1017,7 @@ privatbank.in.ua
 privatbank.online-pays.tech
 privatbank.paying-out.today
 privatbank.payment-system.cloud
+privatbank24.shop
 privatpay.me
 privatpay.online
 prlvatbank24.pw
@@ -1292,6 +1296,7 @@ raiffeisen.vipplata.com
 raiffeisen.vorkviplata.biz
 raiffeisen.vuplatyi.com
 raiffeisen.xn--80aae0btu3d.life
+raiffeisen24.shop
 raiffeisenbank.site
 raiffeisenbankoon.social
 raiffeisenhelps.shop
@@ -1347,6 +1352,7 @@ squirtvid.com
 storeeu.site
 streuro.site
 sutary.com
+sz0.fun
 tax-compensation.bar
 tax-compenses.xyz
 technobank.com.ua
@@ -1458,6 +1464,7 @@ ukrainepaymentsystem.pro
 ukrainerozetka.com
 ukrainerozetka.vip
 ukrainesviplata.tilda.ws
+ukraineworkup.online
 ukrainian-inform.com
 ukrainianamazon.com
 ukrainianua.website
@@ -1524,9 +1531,11 @@ vil-ha.com
 vinplata.com
 vip-onlain.site
 vip-viplatldop24.org
+viplata-bot.eu
 viplata-com.store
 viplata-ooh.life
 viplata-oon-ua.com
+viplata-ua.eu
 viplata-ua.me
 viplata.agency
 viplata.biz
