@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 01 May 2023 15:08 EEST
+! Last modified: Mon, 01 May 2023 15:41 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -892,30 +892,30 @@
 @@||privat24.ua$document
 
 ||*oschadbank*.$document
-||*oschad.*.$document
-||*oshad.*.$document
-||*oshcad.*.$document
+||*oschad*.*.$document
+||*oshad*.*.$document
+||*oshcad*.*.$document
 @@||oschadbank.ua$document
 
 ||*monobank*.$document
-||*-mono.*.$document
+||*-mono*.*.$document
 ||mono.*.$document
 @@||monobank.ua$document
 
-||*aval24.*.$document
-||*avalpay.*.$document
-||*raiffaisen.*.$document
-||*raiffei.*.$document
+||*aval24*.*.$document
+||*avalpay*.*.$document
+||*raiffaisen*.*.$document
+||*raiffei*.*.$document
 ||raif.*.$document
 @@||raiffeisen.ua$document
 
 ||*ukrsibbank*.$document
-||*ukersb24.*.$document
-||*ukersib.*.$document
-||*ukrsib.*.$document
+||*ukersb24*.*.$document
+||*ukersib*.*.$document
+||*ukrsib*.*.$document
 @@||ukrsibbank.com$document
 
-||pumb.*.$document
+||pumb*.*.$document
 @@||pumb.ua$document
 
 ! !!!!!!!!!!!!!!!
