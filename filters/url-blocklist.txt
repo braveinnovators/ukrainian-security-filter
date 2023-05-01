@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 29 April 2023 16:12 EEST
+! Last modified: Mon, 01 May 2023 15:08 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -88,6 +88,7 @@
 ||csx5.uno^
 ||deneg-help.top^
 ||dengi.fyi^
+||departament.social^
 ||dersch.online^
 ||dershoplate.com^
 ||dfgpaio.click^
@@ -428,6 +429,7 @@
 ||oschadbank-inform.com.ua^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
+||oschadbank24.shop^
 ||oschadbankclub.info^
 ||oschadbankoon.social^
 ||oschadbankuk.com^
@@ -537,6 +539,7 @@
 ||privat24investt.xyz^
 ||privat24oon.social^
 ||privatbank.in.ua^
+||privatbank24.shop^
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
@@ -590,6 +593,7 @@
 ||raiffeisen-ukr.buzz^
 ||raiffeisen.org.ua^
 ||raiffeisen.space^
+||raiffeisen24.shop^
 ||raiffeisenbank.site^
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
@@ -642,6 +646,7 @@
 ||storeeu.site^
 ||streuro.site^
 ||sutary.com^
+||sz0.fun^
 ||tax-compensation.bar^
 ||tax-compenses.xyz^
 ||technobank.com.ua^
@@ -752,6 +757,7 @@
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukrainesviplata.tilda.ws^
+||ukraineworkup.online^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
 ||ukrainianua.website^
@@ -791,9 +797,11 @@
 ||vinplata.com^
 ||vip-onlain.site^
 ||vip-viplatldop24.org^
+||viplata-bot.eu^
 ||viplata-com.store^
 ||viplata-ooh.life^
 ||viplata-oon-ua.com^
+||viplata-ua.eu^
 ||viplata-ua.me^
 ||viplata.agency^
 ||viplata.biz^
@@ -873,39 +881,52 @@
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
-||*-mono*.*.*^$document
-||*aval24*.*.*^$document
-||*avalpay*.*.*^$document
-||*oschad*.*.*^$document
-||*oshad*.*.*^$document
-||*oshcad*.*.*^$document
-||*privat24*.*.*^$document
-||*raiffaisen*.*.*^$document
-||*raiffei*.*.*^$document
-||*ukersb24*.*.*^$document
-||*ukersib*.*.*^$document
-||*ukrsib*.*.*^$document
-||a-bank.*.*^$document
-||abank.*.*^$document
-||blago*-privat*.*.*^$document
-||credit-agricole.*.*^$document
-||izibank.*.*^$document
-||mono.*.*^$document
-||monobank.*.*^$document
-||neobank.*.*^$document
-||next24.*.*^$document
-||privat-ua.*.*^$document
-||privat.*.*^$document
-||privatbank.*.*^$document
-||pumb*.*.*^$document
-||raif.*.*^$document
+
+||*privatbank*.$document
+||blago*-privat*.$document
+||next24.*.$document
+||privat-ua.*.$document
+||privat.*.$document
+@@||privatbank.ua$document
+||*privat24*.$document
+@@||privat24.ua$document
+
+||*oschadbank*.$document
+||*oschad.*.$document
+||*oshad.*.$document
+||*oshcad.*.$document
+@@||oschadbank.ua$document
+
+||*monobank*.$document
+||*-mono.*.$document
+||mono.*.$document
+@@||monobank.ua$document
+
+||*aval24.*.$document
+||*avalpay.*.$document
+||*raiffaisen.*.$document
+||*raiffei.*.$document
+||raif.*.$document
+@@||raiffeisen.ua$document
+
+||*ukrsibbank*.$document
+||*ukersb24.*.$document
+||*ukersib.*.$document
+||*ukrsib.*.$document
+@@||ukrsibbank.com$document
+
+||pumb.*.$document
+@@||pumb.ua$document
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
+
+||eudopomoga.nicepage.io^$document
 ||facebook.com/groups/1350163552384956^$document
 ||facebook.com/groups/555728743285368^$document
 ||facebook.com/groups/878353433127852^$document
+||facebook.com/groups/950847565954330^$document
 ||facebook.com/News-Info-UA-107681682060482^$document
 ||facebook.com/people/News-for-people/100081961447678^$document
 ||facebook.com/people/Новини-247/100084930128994^$document
@@ -930,6 +951,7 @@
 ||facebook.com/profile.php?id=100091626205280^$document
 ||facebook.com/profile.php?id=100091757381334^$document
 ||facebook.com/profile.php?id=100091819432867^$document
+||facebook.com/profile.php?id=100092331997023^$document
 ||facebook.com/uappl.org^$document
 ||facebook.com/Допомога-українцям-104110342431366^$document
 ||facebook.com/Допомога-Червоного-Хреста-100690672936127^$document
@@ -967,13 +989,19 @@
 ||t.me/grosgovadopomoga^$document
 ||t.me/Helpiing_Ua^$document
 ||t.me/HelpUkraine24k^$document
+||t.me/kapusta_ukr_bot^$document
 ||t.me/kassavam^$document
+||t.me/light_moneyy_bot^$document
+||t.me/Moneytut_bot^$document
+||t.me/officcial_viplata_diya^$document
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
 ||t.me/onlinedopomoga2023_bot^$document
 ||t.me/pidrumkaua^$document
 ||t.me/PrivatBank24UK^$document
 ||t.me/Raifaise20000^$document
+||t.me/Referal_ua_bot^$document
+||t.me/ReferalukrBot^$document
 ||t.me/s/AidFromTheUnBot^$document
 ||t.me/s/d0p0m0ga^$document
 ||t.me/s/DiaHelp24bot^$document
@@ -1001,19 +1029,27 @@
 ||t.me/s/grosgovadopomoga^$document
 ||t.me/s/Helpiing_Ua^$document
 ||t.me/s/HelpUkraine24k^$document
+||t.me/s/kapusta_ukr_bot^$document
 ||t.me/s/kassavam^$document
+||t.me/s/light_moneyy_bot^$document
+||t.me/s/Moneytut_bot^$document
+||t.me/s/officcial_viplata_diya^$document
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
 ||t.me/s/onlinedopomoga2023_bot^$document
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
+||t.me/s/Referal_ua_bot^$document
+||t.me/s/ReferalukrBot^$document
 ||t.me/s/tiktokcashik_bot^$document
 ||t.me/s/ua_findopomoga^$document
 ||t.me/s/UA_OOH_bot^$document
+||t.me/s/UA24Dia^$document
 ||t.me/s/uafreeone^$document
 ||t.me/s/ukdopomoga01^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
+||t.me/s/UkrainaElfBarbot^$document
 ||t.me/s/UsdtUABot^$document
 ||t.me/s/vBezpetsli_Bot^$document
 ||t.me/s/Viplata6500^$document
@@ -1023,9 +1059,11 @@
 ||t.me/tiktokcashik_bot^$document
 ||t.me/ua_findopomoga^$document
 ||t.me/UA_OOH_bot^$document
+||t.me/UA24Dia^$document
 ||t.me/uafreeone^$document
 ||t.me/ukdopomoga01^$document
 ||t.me/UkrainaDopomoga_UKR^$document
+||t.me/UkrainaElfBarbot^$document
 ||t.me/UsdtUABot^$document
 ||t.me/vBezpetsli_Bot^$document
 ||t.me/Viplata6500^$document
