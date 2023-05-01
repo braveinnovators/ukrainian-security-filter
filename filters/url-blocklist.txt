@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 01 May 2023 15:41 EEST
+! Last modified: Mon, 01 May 2023 18:55 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -40,6 +40,7 @@
 ||bankaval-ukraine.com^
 ||bankver.com^
 ||bankverif.live^
+||bid.cx.ua^
 ||blesk24.com^
 ||ca-pay.me^
 ||cabinet-raiffeisen.fun^
@@ -114,6 +115,7 @@
 ||diiadopomoga2jd.pro^
 ||diiapidpys.uk^
 ||diiaua.com^
+||dipdopdia.com^
 ||dipuplatservises24.sale^
 ||diya-edopomoga.online^
 ||diya-vyplata.kyiv.ua^
@@ -882,41 +884,34 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-||*privatbank*.$document
+||*privat24*.$document,domain=~privat24.ua
+||*privatbank*.$document,domain=~privatbank.ua
 ||blago*-privat*.$document
 ||next24.*.$document
 ||privat-ua.*.$document
 ||privat.*.$document
-@@||privatbank.ua$document
-||*privat24*.$document
-@@||privat24.ua$document
 
-||*oschadbank*.$document
-||*oschad*.*.$document
+||*oschad*.*.$document,domain=~oschadbank.ua
+||*oschadbank*.$document,domain=~oschadbank.ua
 ||*oshad*.*.$document
 ||*oshcad*.*.$document
-@@||oschadbank.ua$document
 
-||*monobank*.$document
 ||*-mono*.*.$document
+||*monobank*.*.$document,domain=~monobank.ua
 ||mono.*.$document
-@@||monobank.ua$document
 
 ||*aval24*.*.$document
 ||*avalpay*.*.$document
 ||*raiffaisen*.*.$document
-||*raiffei*.*.$document
+||*raiffei*.*.$document,domain=~raiffeisen.ua
 ||raif.*.$document
-@@||raiffeisen.ua$document
 
-||*ukrsibbank*.$document
 ||*ukersb24*.*.$document
 ||*ukersib*.*.$document
-||*ukrsib*.*.$document
-@@||ukrsibbank.com$document
+||*ukrsib*.*.$document,domain=~ukrsibbank.com
+||*ukrsibbank*.$document,domain=~ukrsibbank.com
 
-||pumb*.*.$document
-@@||pumb.ua$document
+||pumb*.*.$document,domain=~pumb.ua
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
