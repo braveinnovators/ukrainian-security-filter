@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 29 April 2023 16:12 EEST
+# Last modified: Mon, 01 May 2023 15:08 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -144,6 +144,7 @@ address=/csx5.space/
 address=/csx5.uno/
 address=/deneg-help.top/
 address=/dengi.fyi/
+address=/departament.social/
 address=/dersch.online/
 address=/dershoplate.com/
 address=/dfgpaio.click/
@@ -316,6 +317,7 @@ address=/escrowbox.online/
 address=/etrimaty.pro/
 address=/eu-dopomoga.com/
 address=/eu-st.site/
+address=/eudopomoga.nicepage.io/
 address=/eurohelp.tilda.ws/
 address=/eviplata.vip/
 address=/finance-dopomoga.site/
@@ -790,6 +792,7 @@ address=/oschadbank.vuplata.ink/
 address=/oschadbank.vuplata.online/
 address=/oschadbank.vuplatyi.com/
 address=/oschadbank.xn--80aae0btu3d.life/
+address=/oschadbank24.shop/
 address=/oschadbankclub.info/
 address=/oschadbankoon.social/
 address=/oschadbankuk.com/
@@ -1014,6 +1017,7 @@ address=/privatbank.in.ua/
 address=/privatbank.online-pays.tech/
 address=/privatbank.paying-out.today/
 address=/privatbank.payment-system.cloud/
+address=/privatbank24.shop/
 address=/privatpay.me/
 address=/privatpay.online/
 address=/prlvatbank24.pw/
@@ -1292,6 +1296,7 @@ address=/raiffeisen.vipplata.com/
 address=/raiffeisen.vorkviplata.biz/
 address=/raiffeisen.vuplatyi.com/
 address=/raiffeisen.xn--80aae0btu3d.life/
+address=/raiffeisen24.shop/
 address=/raiffeisenbank.site/
 address=/raiffeisenbankoon.social/
 address=/raiffeisenhelps.shop/
@@ -1347,6 +1352,7 @@ address=/squirtvid.com/
 address=/storeeu.site/
 address=/streuro.site/
 address=/sutary.com/
+address=/sz0.fun/
 address=/tax-compensation.bar/
 address=/tax-compenses.xyz/
 address=/technobank.com.ua/
@@ -1458,6 +1464,7 @@ address=/ukrainepaymentsystem.pro/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukrainesviplata.tilda.ws/
+address=/ukraineworkup.online/
 address=/ukrainian-inform.com/
 address=/ukrainianamazon.com/
 address=/ukrainianua.website/
@@ -1524,9 +1531,11 @@ address=/vil-ha.com/
 address=/vinplata.com/
 address=/vip-onlain.site/
 address=/vip-viplatldop24.org/
+address=/viplata-bot.eu/
 address=/viplata-com.store/
 address=/viplata-ooh.life/
 address=/viplata-oon-ua.com/
+address=/viplata-ua.eu/
 address=/viplata-ua.me/
 address=/viplata.agency/
 address=/viplata.biz/
