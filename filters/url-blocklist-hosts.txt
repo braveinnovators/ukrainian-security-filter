@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 01 May 2023 15:08 EEST
+# Last modified: Mon, 01 May 2023 18:55 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -84,6 +84,7 @@
 0.0.0.0 bankaval-ukraine.com
 0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
+0.0.0.0 bid.cx.ua
 0.0.0.0 blago-privatc24.ccx5.fun
 0.0.0.0 blago-privatc24.wf0.uno
 0.0.0.0 blagos-privatc24.nm6.info
@@ -170,6 +171,7 @@
 0.0.0.0 diiadopomoga2jd.pro
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
+0.0.0.0 dipdopdia.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
 0.0.0.0 diya-vyplata.kyiv.ua
