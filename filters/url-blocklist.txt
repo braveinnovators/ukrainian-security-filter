@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 01 May 2023 18:55 EEST
+! Last modified: Tue, 02 May 2023 13:01 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -58,6 +58,7 @@
 ||cbx5.online^
 ||cbx5.space^
 ||cbx5.uno^
+||ccv5.fun^
 ||ccx5.fun^
 ||ccx5.net^
 ||ccx5.space^
@@ -87,6 +88,7 @@
 ||csx5.net^
 ||csx5.space^
 ||csx5.uno^
+||de5.fun^
 ||deneg-help.top^
 ||dengi.fyi^
 ||departament.social^
@@ -326,6 +328,7 @@
 ||klespo.site^
 ||klisp-o.site^
 ||konkurs-golos.ltd^
+||konkurs-ua.site^
 ||konkurs-ukraine.site^
 ||kpayments.cc^
 ||kyivstar-sale.com.ua^
@@ -545,6 +548,7 @@
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
+||proffis.online^
 ||promo-pay24.win^
 ||pruity.com^
 ||prytulafoundation.net^
@@ -634,6 +638,7 @@
 ||securitypays.online^
 ||sendex.online^
 ||shepir.com^
+||sitidiia.live^
 ||smartlead.com.ua^
 ||sn0.uno^
 ||sneakersadi2018.com^
@@ -704,6 +709,7 @@
 ||uahelp-privat24.shop^
 ||uahelp.press^
 ||uahs.buzz^
+||uakonkursevent.space^
 ||uanext24help.icu^
 ||uapay.cloud^
 ||uapay.health^
@@ -767,6 +773,7 @@
 ||ukreyns.com^
 ||ukrfinanspomog.site^
 ||ukripaymens.online^
+||ukrkonkurs.site^
 ||ukrpay.fun^
 ||ukrpaymen.today^
 ||ukrpaymentsystem.pro^
@@ -860,11 +867,13 @@
 ||vyplataua.com^
 ||vyplaty.pro^
 ||vyplatyedopomoga.com^
+||webk-telegram.icu^
 ||weekpaidlife.top^
 ||wf0.uno^
 ||wr-rescan.com^
 ||www-raiffeslen.me^
 ||x7-mikepike.buzz^
+||xc0.fun^
 ||xn--80aa2annq7l.life^
 ||xn--80aae0btu3d.life^
 ||xs0.uno^
@@ -897,7 +906,7 @@
 ||*oshcad*.*.$document
 
 ||*-mono*.*.$document
-||*monobank*.*.$document,domain=~monobank.ua
+||*monobank*.$document,domain=~monobank.ua|~facebook.com|~instagram.com
 ||mono.*.$document
 
 ||*aval24*.*.$document
@@ -912,6 +921,8 @@
 ||*ukrsibbank*.$document,domain=~ukrsibbank.com
 
 ||pumb*.*.$document,domain=~pumb.ua
+
+||*-exim24*.*.$document
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
@@ -963,6 +974,7 @@
 ||t.me/diia_govl^$document
 ||t.me/diia_govUA1_bot^$document
 ||t.me/dopomoga_diia^$document
+||t.me/dopomoga_sek^$document
 ||t.me/dopomogaa2023^$document
 ||t.me/dopomogaonline2023_bot^$document
 ||t.me/dopomogatoukraine^$document
@@ -970,6 +982,7 @@
 ||t.me/dopomogaukraine9350^$document
 ||t.me/dopomogawebsite^$document
 ||t.me/doponoga8500^$document
+||t.me/doppomoga_bot^$document
 ||t.me/DtekYASNO^$document
 ||t.me/e_dopomoga_online^$document
 ||t.me/edopomoga_govua^$document
@@ -988,6 +1001,7 @@
 ||t.me/kassavam^$document
 ||t.me/light_moneyy_bot^$document
 ||t.me/Moneytut_bot^$document
+||t.me/next24_bot^$document
 ||t.me/officcial_viplata_diya^$document
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
@@ -1003,6 +1017,7 @@
 ||t.me/s/diia_govl^$document
 ||t.me/s/diia_govUA1_bot^$document
 ||t.me/s/dopomoga_diia^$document
+||t.me/s/dopomoga_sek^$document
 ||t.me/s/dopomogaa2023^$document
 ||t.me/s/dopomogaonline2023_bot^$document
 ||t.me/s/dopomogatoukraine^$document
@@ -1010,6 +1025,7 @@
 ||t.me/s/dopomogaukraine9350^$document
 ||t.me/s/dopomogawebsite^$document
 ||t.me/s/doponoga8500^$document
+||t.me/s/doppomoga_bot^$document
 ||t.me/s/DtekYASNO^$document
 ||t.me/s/e_dopomoga_online^$document
 ||t.me/s/edopomoga_govua^$document
@@ -1028,6 +1044,7 @@
 ||t.me/s/kassavam^$document
 ||t.me/s/light_moneyy_bot^$document
 ||t.me/s/Moneytut_bot^$document
+||t.me/s/next24_bot^$document
 ||t.me/s/officcial_viplata_diya^$document
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
