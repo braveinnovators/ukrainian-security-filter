@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 01 May 2023 18:55 EEST
+# Last modified: Tue, 02 May 2023 13:01 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -105,6 +105,7 @@ cbn5.uno
 cbx5.online
 cbx5.space
 cbx5.uno
+ccv5.fun
 ccx5.fun
 ccx5.net
 ccx5.space
@@ -143,6 +144,7 @@ cs0.uno
 csx5.net
 csx5.space
 csx5.uno
+de5.fun
 deneg-help.top
 dengi.fyi
 departament.social
@@ -400,6 +402,7 @@ kievstar.online
 klespo.site
 klisp-o.site
 konkurs-golos.ltd
+konkurs-ua.site
 konkurs-ukraine.site
 kpayments.cc
 kredo.pay-ukraine.com
@@ -1023,6 +1026,7 @@ privatbank24.shop
 privatpay.me
 privatpay.online
 prlvatbank24.pw
+proffis.online
 promo-pay24.win
 pruity.com
 prytulafoundation.net
@@ -1339,6 +1343,7 @@ securitypays.online
 sendex.online
 shepir.com
 sites.google.com/view/d362g5d2
+sitidiia.live
 smartlead.com.ua
 sn0.uno
 sneakersadi2018.com
@@ -1410,6 +1415,7 @@ uah-perekaz24.com
 uahelp-privat24.shop
 uahelp.press
 uahs.buzz
+uakonkursevent.space
 uanext24help.icu
 uapay.cloud
 uapay.health
@@ -1474,6 +1480,7 @@ ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
 ukripaymens.online
+ukrkonkurs.site
 ukrpay.fun
 ukrpaymen.today
 ukrpaymentsystem.pro
@@ -1595,12 +1602,14 @@ vyplatadia.com
 vyplataua.com
 vyplaty.pro
 vyplatyedopomoga.com
+webk-telegram.icu
 weekpaidlife.top
 wf0.uno
 world-help.udemixcr.com
 wr-rescan.com
 www-raiffeslen.me
 x7-mikepike.buzz
+xc0.fun
 xn--80aa2annq7l.life
 xn--80aae0btu3d.life
 xs0.uno
