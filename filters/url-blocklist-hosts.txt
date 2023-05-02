@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 01 May 2023 18:55 EEST
+# Last modified: Tue, 02 May 2023 13:01 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -105,6 +105,7 @@
 0.0.0.0 cbx5.online
 0.0.0.0 cbx5.space
 0.0.0.0 cbx5.uno
+0.0.0.0 ccv5.fun
 0.0.0.0 ccx5.fun
 0.0.0.0 ccx5.net
 0.0.0.0 ccx5.space
@@ -143,6 +144,7 @@
 0.0.0.0 csx5.net
 0.0.0.0 csx5.space
 0.0.0.0 csx5.uno
+0.0.0.0 de5.fun
 0.0.0.0 deneg-help.top
 0.0.0.0 dengi.fyi
 0.0.0.0 departament.social
@@ -400,6 +402,7 @@
 0.0.0.0 klespo.site
 0.0.0.0 klisp-o.site
 0.0.0.0 konkurs-golos.ltd
+0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-ukraine.site
 0.0.0.0 kpayments.cc
 0.0.0.0 kredo.pay-ukraine.com
@@ -1023,6 +1026,7 @@
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
+0.0.0.0 proffis.online
 0.0.0.0 promo-pay24.win
 0.0.0.0 pruity.com
 0.0.0.0 prytulafoundation.net
@@ -1339,6 +1343,7 @@
 0.0.0.0 sendex.online
 0.0.0.0 shepir.com
 0.0.0.0 sites.google.com/view/d362g5d2
+0.0.0.0 sitidiia.live
 0.0.0.0 smartlead.com.ua
 0.0.0.0 sn0.uno
 0.0.0.0 sneakersadi2018.com
@@ -1410,6 +1415,7 @@
 0.0.0.0 uahelp-privat24.shop
 0.0.0.0 uahelp.press
 0.0.0.0 uahs.buzz
+0.0.0.0 uakonkursevent.space
 0.0.0.0 uanext24help.icu
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.health
@@ -1474,6 +1480,7 @@
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
 0.0.0.0 ukripaymens.online
+0.0.0.0 ukrkonkurs.site
 0.0.0.0 ukrpay.fun
 0.0.0.0 ukrpaymen.today
 0.0.0.0 ukrpaymentsystem.pro
@@ -1595,12 +1602,14 @@
 0.0.0.0 vyplataua.com
 0.0.0.0 vyplaty.pro
 0.0.0.0 vyplatyedopomoga.com
+0.0.0.0 webk-telegram.icu
 0.0.0.0 weekpaidlife.top
 0.0.0.0 wf0.uno
 0.0.0.0 world-help.udemixcr.com
 0.0.0.0 wr-rescan.com
 0.0.0.0 www-raiffeslen.me
 0.0.0.0 x7-mikepike.buzz
+0.0.0.0 xc0.fun
 0.0.0.0 xn--80aa2annq7l.life
 0.0.0.0 xn--80aae0btu3d.life
 0.0.0.0 xs0.uno
