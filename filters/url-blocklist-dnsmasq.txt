@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 01 May 2023 18:55 EEST
+# Last modified: Tue, 02 May 2023 13:01 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -105,6 +105,7 @@ address=/cbn5.uno/
 address=/cbx5.online/
 address=/cbx5.space/
 address=/cbx5.uno/
+address=/ccv5.fun/
 address=/ccx5.fun/
 address=/ccx5.net/
 address=/ccx5.space/
@@ -143,6 +144,7 @@ address=/cs0.uno/
 address=/csx5.net/
 address=/csx5.space/
 address=/csx5.uno/
+address=/de5.fun/
 address=/deneg-help.top/
 address=/dengi.fyi/
 address=/departament.social/
@@ -400,6 +402,7 @@ address=/kievstar.online/
 address=/klespo.site/
 address=/klisp-o.site/
 address=/konkurs-golos.ltd/
+address=/konkurs-ua.site/
 address=/konkurs-ukraine.site/
 address=/kpayments.cc/
 address=/kredo.pay-ukraine.com/
@@ -1023,6 +1026,7 @@ address=/privatbank24.shop/
 address=/privatpay.me/
 address=/privatpay.online/
 address=/prlvatbank24.pw/
+address=/proffis.online/
 address=/promo-pay24.win/
 address=/pruity.com/
 address=/prytulafoundation.net/
@@ -1339,6 +1343,7 @@ address=/securitypays.online/
 address=/sendex.online/
 address=/shepir.com/
 address=/sites.google.com/view/d362g5d2/
+address=/sitidiia.live/
 address=/smartlead.com.ua/
 address=/sn0.uno/
 address=/sneakersadi2018.com/
@@ -1410,6 +1415,7 @@ address=/uah-perekaz24.com/
 address=/uahelp-privat24.shop/
 address=/uahelp.press/
 address=/uahs.buzz/
+address=/uakonkursevent.space/
 address=/uanext24help.icu/
 address=/uapay.cloud/
 address=/uapay.health/
@@ -1474,6 +1480,7 @@ address=/ukrcredits.com/
 address=/ukreyns.com/
 address=/ukrfinanspomog.site/
 address=/ukripaymens.online/
+address=/ukrkonkurs.site/
 address=/ukrpay.fun/
 address=/ukrpaymen.today/
 address=/ukrpaymentsystem.pro/
@@ -1595,12 +1602,14 @@ address=/vyplatadia.com/
 address=/vyplataua.com/
 address=/vyplaty.pro/
 address=/vyplatyedopomoga.com/
+address=/webk-telegram.icu/
 address=/weekpaidlife.top/
 address=/wf0.uno/
 address=/world-help.udemixcr.com/
 address=/wr-rescan.com/
 address=/www-raiffeslen.me/
 address=/x7-mikepike.buzz/
+address=/xc0.fun/
 address=/xn--80aa2annq7l.life/
 address=/xn--80aae0btu3d.life/
 address=/xs0.uno/
