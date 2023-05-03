@@ -103,7 +103,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 * Власна моніторингова команда
 * Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA): [https://cert.gov.ua](https://cert.gov.ua/)
-* BlackList EMA [https://www.ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
+* BlackList EMA: [https://www.ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
 
 ## Партнери проекту
 
