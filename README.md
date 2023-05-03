@@ -47,12 +47,14 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі Ukrainian Malicious URL Blocklist.
 
 #### Браузери (з власними модулями фільтрації контенту)
-* [Brave](https://brave.com/)
+* Brave: [https://brave.com](https://brave.com/)
+* Opera: [https://www.opera.com](https://www.opera.com/)
+* Vivaldi: [https://vivaldi.com](https://vivaldi.com/)
 
 #### Розширення
-* [uBlock Origin](https://ublockorigin.com/)
-* [Adblock Plus](https://adblockplus.org/features)
-* [AdBlock](https://getadblock.com/)
+* uBlock Origin: [https://ublockorigin.com](https://ublockorigin.com/)
+* Adblock Plus: [https://adblockplus.org/features](https://adblockplus.org/features)
+* AdBlock: [https://getadblock.com](https://getadblock.com/)
 
 ## Як додати фільтр
 
@@ -100,8 +102,12 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 ## Джерела інформації
 
 * Власна моніторингова команда
-* [Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA)](https://cert.gov.ua/)
-* [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
+* Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA): [https://cert.gov.ua](https://cert.gov.ua/)
+* BlackList EMA [https://www.ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
+
+## Партнери проекту
+
+* DNSlytics: [https://dnslytics.com](https://dnslytics.com)
 
 ## Wiki
 
