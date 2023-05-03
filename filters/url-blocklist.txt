@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 02 May 2023 13:01 EEST
+! Last modified: Wed, 03 May 2023 13:19 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -83,6 +83,7 @@
 ||coshipriem.online^
 ||cozialedop.info^
 ||cq-pay.me^
+||creative-ukraine.store^
 ||cryptocurrency-helps-ukraine.com^
 ||cs0.uno^
 ||csx5.net^
@@ -115,6 +116,7 @@
 ||diiadopom0ga.click^
 ||diiadopomoga.pro^
 ||diiadopomoga2jd.pro^
+||diiapay.info^
 ||diiapidpys.uk^
 ||diiaua.com^
 ||dipdopdia.com^
@@ -209,6 +211,7 @@
 ||edopomoga-viplata.com^
 ||edopomoga-vyplata.com^
 ||edopomoga-vyplataua.com^
+||edopomoga-x.site^
 ||edopomoga.app^
 ||edopomoga.click^
 ||edopomoga.digital^
@@ -264,6 +267,7 @@
 ||fond-dopomogy.shop^
 ||g-pay.me^
 ||gate-pays.me^
+||gedopomoga-gov.site^
 ||gereta.live^
 ||gertinn.com^
 ||getfunds.pw^
@@ -439,6 +443,7 @@
 ||oschadbankoon.social^
 ||oschadbankuk.com^
 ||oschadbankukr.com^
+||oschadlbank24.uk^
 ||oschadnybank.com.ua^
 ||oshad-24.com^
 ||oshad-cash.pro^
@@ -600,6 +605,7 @@
 ||raiffeisen.org.ua^
 ||raiffeisen.space^
 ||raiffeisen24.shop^
+||raiffeisen24.uk^
 ||raiffeisenbank.site^
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
@@ -682,6 +688,7 @@
 ||ua-pay.space^
 ||ua-payout.site^
 ||ua-privat24.pro^
+||ua-raiffeisen.uk^
 ||ua-receipt.com^
 ||ua-send.site^
 ||ua-send.website^
@@ -718,6 +725,7 @@
 ||uasafe.online^
 ||uasocial-viplata.company^
 ||uaviplata.xyz^
+||uavolunteer-military.com^
 ||ubc.agency^
 ||udemixcr.com^
 ||uk-raina.live^
@@ -745,6 +753,7 @@
 ||ukraina-gos.top^
 ||ukraina.buzz^
 ||ukraina.pics^
+||ukraina.pro^
 ||ukrainapomosh.site^
 ||ukraine-dopomoga.online^
 ||ukraine-furniture.com.ua^
@@ -765,10 +774,13 @@
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukrainesviplata.tilda.ws^
+||ukrainetop.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
 ||ukrainianua.website^
+||ukrainianwomen.store^
+||ukrcashtrans.biz^
 ||ukrcredits.com^
 ||ukreyns.com^
 ||ukrfinanspomog.site^
@@ -832,6 +844,7 @@
 ||viplataindo.com^
 ||viplatanow.online^
 ||viplataonline.com^
+||viplataoon.info^
 ||viplatasozshial.club^
 ||viplatasukraine.com^
 ||viplataua.co^
@@ -929,42 +942,19 @@
 ! !!!!!!!!!!!!!!!
 
 ||eudopomoga.nicepage.io^$document
-||facebook.com/groups/1350163552384956^$document
-||facebook.com/groups/555728743285368^$document
-||facebook.com/groups/878353433127852^$document
 ||facebook.com/groups/950847565954330^$document
-||facebook.com/News-Info-UA-107681682060482^$document
-||facebook.com/people/News-for-people/100081961447678^$document
-||facebook.com/people/Новини-247/100084930128994^$document
-||facebook.com/profile.php?id=100088224776200^$document
-||facebook.com/profile.php?id=100088439483770^$document
-||facebook.com/profile.php?id=100088487322815^$document
-||facebook.com/profile.php?id=100088793687379^$document
-||facebook.com/profile.php?id=100088981431611^$document
-||facebook.com/profile.php?id=100089893400755^$document
-||facebook.com/profile.php?id=100089962761567^$document
-||facebook.com/profile.php?id=100090441506962^$document
-||facebook.com/profile.php?id=100090739257820^$document
-||facebook.com/profile.php?id=100090998136488^$document
 ||facebook.com/profile.php?id=100091133216478^$document
 ||facebook.com/profile.php?id=100091371410986^$document
 ||facebook.com/profile.php?id=100091442203527^$document
-||facebook.com/profile.php?id=100091443002635^$document
-||facebook.com/profile.php?id=100091461742165^$document
 ||facebook.com/profile.php?id=100091514463233^$document
-||facebook.com/profile.php?id=100091549560072^$document
 ||facebook.com/profile.php?id=100091590543953^$document
-||facebook.com/profile.php?id=100091626205280^$document
 ||facebook.com/profile.php?id=100091757381334^$document
-||facebook.com/profile.php?id=100091819432867^$document
 ||facebook.com/profile.php?id=100092331997023^$document
 ||facebook.com/uappl.org^$document
-||facebook.com/Допомога-українцям-104110342431366^$document
-||facebook.com/Допомога-Червоного-Хреста-100690672936127^$document
-||facebook.com/ЄДoпoмoгa-107571865413656^$document
-||facebook.com/Терміново-Офіційно-допомога-116759361369410^$document
+||gumantarna-dopomoga-ukrancjam-2022-1.mozellosite.com^$document
 ||linktr.ee/dopomoha.center^$document
 ||nowpayments.io/payment/?iid=6401665851&paymentId=5609172507^$document
+||opensea.io/VolunteersUA^$document
 ||sites.google.com/view/d362g5d2^$document
 ||t.me/+AywXgY6Igj81Njli^$document
 ||t.me/+tTyBunuSCxhlZmRi^$document
@@ -992,6 +982,7 @@
 ||t.me/eDopomogaUA_official^$document
 ||t.me/edopomogaukrainee^$document
 ||t.me/Edopomogauua^$document
+||t.me/epedtrimka_gov^$document
 ||t.me/epidtrymka6500^$document
 ||t.me/esviatoloveUA^$document
 ||t.me/grosgovadopomoga^$document
@@ -1006,6 +997,7 @@
 ||t.me/OffisalAOOH^$document
 ||t.me/oficial_dopomoga^$document
 ||t.me/onlinedopomoga2023_bot^$document
+||t.me/OOHviplata^$document
 ||t.me/pidrumkaua^$document
 ||t.me/PrivatBank24UK^$document
 ||t.me/Raifaise20000^$document
@@ -1035,6 +1027,7 @@
 ||t.me/s/eDopomogaUA_official^$document
 ||t.me/s/edopomogaukrainee^$document
 ||t.me/s/Edopomogauua^$document
+||t.me/s/epedtrimka_gov^$document
 ||t.me/s/epidtrymka6500^$document
 ||t.me/s/esviatoloveUA^$document
 ||t.me/s/grosgovadopomoga^$document
@@ -1049,6 +1042,7 @@
 ||t.me/s/OffisalAOOH^$document
 ||t.me/s/oficial_dopomoga^$document
 ||t.me/s/onlinedopomoga2023_bot^$document
+||t.me/s/OOHviplata^$document
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
@@ -1083,3 +1077,4 @@
 ||t.me/vyplaty_ukraine^$document
 ||t.me/zayavka_ua_bot^$document
 ||taplink.cc/diia.gov.com^$document
+||tiktok.com/@volunteer.news^$document
