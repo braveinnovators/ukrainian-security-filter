@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 02 May 2023 13:01 EEST
+# Last modified: Wed, 03 May 2023 13:19 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -131,6 +131,7 @@ coshi.online
 coshipriem.online
 cozialedop.info
 cq-pay.me
+creative-ukraine.store
 crediacgricole.no-pay.me
 crediacgricole.pcs-order.me
 crediacgricole.xu-pay.me
@@ -171,6 +172,7 @@ diia2023help.pro
 diiadopom0ga.click
 diiadopomoga.pro
 diiadopomoga2jd.pro
+diiapay.info
 diiapidpys.uk
 diiaua.com
 dipdopdia.com
@@ -272,6 +274,7 @@ edopomoga-uaoff.com
 edopomoga-viplata.com
 edopomoga-vyplata.com
 edopomoga-vyplataua.com
+edopomoga-x.site
 edopomoga.app
 edopomoga.click
 edopomoga.digital
@@ -332,6 +335,7 @@ flexcapital.com
 fond-dopomogy.shop
 g-pay.me
 gate-pays.me
+gedopomoga-gov.site
 gereta.live
 gertinn.com
 getfunds.pw
@@ -802,6 +806,7 @@ oschadbankclub.info
 oschadbankoon.social
 oschadbankuk.com
 oschadbankukr.com
+oschadlbank24.uk
 oschadnybank.com.ua
 oshad-24.com
 oshad-cash.pro
@@ -1303,6 +1308,7 @@ raiffeisen.vorkviplata.biz
 raiffeisen.vuplatyi.com
 raiffeisen.xn--80aae0btu3d.life
 raiffeisen24.shop
+raiffeisen24.uk
 raiffeisenbank.site
 raiffeisenbankoon.social
 raiffeisenhelps.shop
@@ -1388,6 +1394,7 @@ ua-edopomoga.me
 ua-pay.space
 ua-payout.site
 ua-privat24.pro
+ua-raiffeisen.uk
 ua-receipt.com
 ua-send.site
 ua-send.website
@@ -1425,6 +1432,7 @@ uappl.org
 uasafe.online
 uasocial-viplata.company
 uaviplata.xyz
+uavolunteer-military.com
 ubc.agency
 udemixcr.com
 uk-raina.live
@@ -1452,6 +1460,7 @@ ukraiff.services
 ukraina-gos.top
 ukraina.buzz
 ukraina.pics
+ukraina.pro
 ukrainapomosh.site
 ukraine-dopomoga.online
 ukraine-furniture.com.ua
@@ -1472,10 +1481,13 @@ ukrainepaymentsystem.pro
 ukrainerozetka.com
 ukrainerozetka.vip
 ukrainesviplata.tilda.ws
+ukrainetop.store
 ukraineworkup.online
 ukrainian-inform.com
 ukrainianamazon.com
 ukrainianua.website
+ukrainianwomen.store
+ukrcashtrans.biz
 ukrcredits.com
 ukreyns.com
 ukrfinanspomog.site
@@ -1566,6 +1578,7 @@ viplataes.vip
 viplataindo.com
 viplatanow.online
 viplataonline.com
+viplataoon.info
 viplatasozshial.club
 viplatasukraine.com
 viplataua.co
