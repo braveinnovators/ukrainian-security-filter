@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 02 May 2023 13:01 EEST
+# Last modified: Wed, 03 May 2023 13:19 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -131,6 +131,7 @@
 0.0.0.0 coshipriem.online
 0.0.0.0 cozialedop.info
 0.0.0.0 cq-pay.me
+0.0.0.0 creative-ukraine.store
 0.0.0.0 crediacgricole.no-pay.me
 0.0.0.0 crediacgricole.pcs-order.me
 0.0.0.0 crediacgricole.xu-pay.me
@@ -171,6 +172,7 @@
 0.0.0.0 diiadopom0ga.click
 0.0.0.0 diiadopomoga.pro
 0.0.0.0 diiadopomoga2jd.pro
+0.0.0.0 diiapay.info
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
 0.0.0.0 dipdopdia.com
@@ -272,6 +274,7 @@
 0.0.0.0 edopomoga-viplata.com
 0.0.0.0 edopomoga-vyplata.com
 0.0.0.0 edopomoga-vyplataua.com
+0.0.0.0 edopomoga-x.site
 0.0.0.0 edopomoga.app
 0.0.0.0 edopomoga.click
 0.0.0.0 edopomoga.digital
@@ -332,6 +335,7 @@
 0.0.0.0 fond-dopomogy.shop
 0.0.0.0 g-pay.me
 0.0.0.0 gate-pays.me
+0.0.0.0 gedopomoga-gov.site
 0.0.0.0 gereta.live
 0.0.0.0 gertinn.com
 0.0.0.0 getfunds.pw
@@ -802,6 +806,7 @@
 0.0.0.0 oschadbankoon.social
 0.0.0.0 oschadbankuk.com
 0.0.0.0 oschadbankukr.com
+0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oshad-24.com
 0.0.0.0 oshad-cash.pro
@@ -1303,6 +1308,7 @@
 0.0.0.0 raiffeisen.vuplatyi.com
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
 0.0.0.0 raiffeisen24.shop
+0.0.0.0 raiffeisen24.uk
 0.0.0.0 raiffeisenbank.site
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeisenhelps.shop
@@ -1388,6 +1394,7 @@
 0.0.0.0 ua-pay.space
 0.0.0.0 ua-payout.site
 0.0.0.0 ua-privat24.pro
+0.0.0.0 ua-raiffeisen.uk
 0.0.0.0 ua-receipt.com
 0.0.0.0 ua-send.site
 0.0.0.0 ua-send.website
@@ -1425,6 +1432,7 @@
 0.0.0.0 uasafe.online
 0.0.0.0 uasocial-viplata.company
 0.0.0.0 uaviplata.xyz
+0.0.0.0 uavolunteer-military.com
 0.0.0.0 ubc.agency
 0.0.0.0 udemixcr.com
 0.0.0.0 uk-raina.live
@@ -1452,6 +1460,7 @@
 0.0.0.0 ukraina-gos.top
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pics
+0.0.0.0 ukraina.pro
 0.0.0.0 ukrainapomosh.site
 0.0.0.0 ukraine-dopomoga.online
 0.0.0.0 ukraine-furniture.com.ua
@@ -1472,10 +1481,13 @@
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainesviplata.tilda.ws
+0.0.0.0 ukrainetop.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
+0.0.0.0 ukrainianwomen.store
+0.0.0.0 ukrcashtrans.biz
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
@@ -1566,6 +1578,7 @@
 0.0.0.0 viplataindo.com
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
+0.0.0.0 viplataoon.info
 0.0.0.0 viplatasozshial.club
 0.0.0.0 viplatasukraine.com
 0.0.0.0 viplataua.co
