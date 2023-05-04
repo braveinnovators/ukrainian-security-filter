@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Wed, 03 May 2023 13:19 EEST
+! Last modified: Thu, 04 May 2023 16:21 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -17,6 +17,8 @@
 ||640e06527233d.site123.me^
 ||actions-pay24.win^
 ||ads-pid.me^
+||agri-chain.site^
+||agribe-ukr.shop^
 ||aid-edopomoga.com^
 ||aid-for-ukraine.life^
 ||amerisn.com^
@@ -193,6 +195,7 @@
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
 ||dovua.shop^
+||drone-ua.space^
 ||e-dopomoga-perekazy24.space^
 ||e-dopomoga.click^
 ||e-dopomogaua.me^
@@ -244,6 +247,7 @@
 ||edopomogaukraineepidtrimkaua.com^
 ||edopomogaukrainehelp.com^
 ||edopomogavyplatahelp.com^
+||electromarket-ua.store^
 ||epidrumka.info^
 ||epidtrimka-edopomoga.com^
 ||epidtrimka.com^
@@ -258,7 +262,10 @@
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eurohelp.tilda.ws^
+||events-ukr.site^
 ||eviplata.vip^
+||evyplata.life^
+||farmsense-ukr.shop^
 ||finance-dopomoga.site^
 ||finstor.online^
 ||finua.online^
@@ -266,12 +273,16 @@
 ||flexcapital.com^
 ||fond-dopomogy.shop^
 ||g-pay.me^
+||gardenflorista.site^
 ||gate-pays.me^
+||gaukrainians.org^
 ||gedopomoga-gov.site^
 ||gereta.live^
 ||gertinn.com^
 ||getfunds.pw^
 ||gg-pay.me^
+||gifari-ua.store^
+||giza-ua.store^
 ||glopay.site^
 ||gon-order.me^
 ||gos-cash.top^
@@ -284,6 +295,7 @@
 ||gov-uah.top^
 ||gov-ukr.top^
 ||govdia.pro^
+||greenharvest-ukrpro.shop^
 ||groshi.world^
 ||groshovadopomoga.com^
 ||grshi.fun^
@@ -324,6 +336,9 @@
 ||idopomoga.online^
 ||idregister.pro^
 ||infcjal.cn^
+||info-vyplata24.uk^
+||infovyplata24.uk^
+||ipay-ua.online^
 ||j9-wersii.buzz^
 ||jay-order.me^
 ||k-auch.buzz^
@@ -331,17 +346,24 @@
 ||kievstar.online^
 ||klespo.site^
 ||klisp-o.site^
+||koko-ua.store^
+||konkurs-events.top^
 ||konkurs-golos.ltd^
 ||konkurs-ua.site^
 ||konkurs-ukraine.site^
+||konvas.store^
 ||kpayments.cc^
 ||kyivstar-sale.com.ua^
 ||kyivstarbezlim.com^
 ||lataepitrimka.vip^
+||lavandi-ua.store^
 ||leowallet.me^
+||lesya-ua.store^
+||letokonkurs.site^
 ||letytas.world^
 ||likpay.me^
 ||liqpay.info^
+||lito-ua.store^
 ||ll0.uno^
 ||localregi.pro^
 ||log-dopomogapays24.org^
@@ -372,6 +394,7 @@
 ||motohouseua.com^
 ||ms0.uno^
 ||my-govuvvyplate.site^
+||my-govuwvyplate.site^
 ||mygraphbook.com^
 ||mytax-compensation.xyz^
 ||mytechno.com.ua^
@@ -399,6 +422,7 @@
 ||nost-pays.shop^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
+||novaposhta.app^
 ||novaposhtashipping.com^
 ||novaposhtatracking.com^
 ||novok.com.ua^
@@ -427,6 +451,7 @@
 ||oschad-help.win^
 ||oschad-paybank.xyz^
 ||oschad-ukr.buzz^
+||oschad.uk^
 ||oschad24-help.shop^
 ||oschad24-helps.shop^
 ||oschad24-helps.site^
@@ -449,6 +474,7 @@
 ||oshad-cash.pro^
 ||oshadbank.online^
 ||oshadbank.pro^
+||oshadbank.uk^
 ||oshadraif.biz^
 ||oshadraif.cloud^
 ||oshadraif.info^
@@ -465,6 +491,7 @@
 ||p-dopomogah.com^
 ||p-invest.site^
 ||pac-pay.online^
+||parimatch-ua.top^
 ||pay-chs.me^
 ||pay-privat24.site^
 ||pay-raif.fun^
@@ -472,7 +499,11 @@
 ||pay-raif.site^
 ||pay-raif.space^
 ||pay-remuneration.top^
+||pay-ua.co^
+||pay-ua.com^
+||pay-ua.org^
 ||pay-ua.website^
+||pay-uah-banks.pro^
 ||pay-ukraine.com^
 ||pay-unv.me^
 ||pay24-dopomoga.win^
@@ -484,6 +515,7 @@
 ||payidgow.pro^
 ||paying-out.today^
 ||payment-system.cloud^
+||paymentukrainenow.com^
 ||payoutsonlyfrom21.info^
 ||pays-org.me^
 ||pays.cards^
@@ -511,6 +543,11 @@
 ||pidrumka.co^
 ||pidrumka.online^
 ||pidrumkavuplata.ink^
+||pil-ua.store^
+||pin-up-ua.top^
+||pins-ua.fun^
+||pins-ua.online^
+||pins-ua.world^
 ||platizh.com^
 ||platizhmob.com^
 ||po-mosh.com^
@@ -550,12 +587,14 @@
 ||privat24oon.social^
 ||privatbank.in.ua^
 ||privatbank24.shop^
+||privatbank24.uk^
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
 ||proffis.online^
 ||promo-pay24.win^
 ||pruity.com^
+||prytulafoundation.in^
 ||prytulafoundation.net^
 ||prytulafoundation.site^
 ||pumb-next.online^
@@ -615,6 +654,7 @@
 ||raiffeslen.biz^
 ||raiffeslen.com^
 ||raiffeslen.org^
+||raiffesseln.com^
 ||raiffessen-ua.com^
 ||raiffua.site^
 ||raifua.site^
@@ -656,17 +696,25 @@
 ||sotsialvyplata.online^
 ||speed-perekaz.com^
 ||squirtvid.com^
+||store-ua.site^
 ||storeeu.site^
 ||streuro.site^
+||suknya-trend-ua.store^
+||suknya-ua.store^
 ||sutary.com^
+||swift-pay.online^
 ||sz0.fun^
+||table-ua.store^
 ||tax-compensation.bar^
 ||tax-compenses.xyz^
 ||technobank.com.ua^
 ||technolend.com.ua^
 ||techport.net.ua^
 ||tehnotop.net.ua^
+||telegram-ua.com^
+||terrafarmers-ukr.site^
 ||thediadopomoga.online^
+||tinkletulips-ua.site^
 ||toppaidsexpert.top^
 ||touristrestaurant.com^
 ||trpayuan.site^
@@ -685,6 +733,7 @@
 ||ua-diya.pro^
 ||ua-dopomoga.org^
 ||ua-edopomoga.me^
+||ua-konkurs.site^
 ||ua-pay.space^
 ||ua-payout.site^
 ||ua-privat24.pro^
@@ -694,6 +743,7 @@
 ||ua-send.website^
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
+||ua-telegram.org^
 ||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua2021priz.yolasite.com^
@@ -736,6 +786,8 @@
 ||ukr-compesations.top^
 ||ukr-compesations.xyz^
 ||ukr-dopomog.top^
+||ukr-floristik.site^
+||ukr-harvestgreen.site^
 ||ukr-help.online^
 ||ukr-kompenssations.buzz^
 ||ukr-linker.xyz^
@@ -757,6 +809,7 @@
 ||ukrainapomosh.site^
 ||ukraine-dopomoga.online^
 ||ukraine-furniture.com.ua^
+||ukraine-online-shop.store^
 ||ukraine-raffasen.com^
 ||ukraine-raffesen.com^
 ||ukraine-shop.uno^
@@ -812,6 +865,7 @@
 ||uvyplata.icu^
 ||uw-edopomoga.com^
 ||vasic.website^
+||veneta-ua.store^
 ||vi-plata.com^
 ||vi-plata.vip^
 ||vil-ha.com^
@@ -837,6 +891,7 @@
 ||viplata.mobi^
 ||viplata.org^
 ||viplata.space^
+||viplata24.tech^
 ||viplatadiya.site^
 ||viplatadopomogaua.com^
 ||viplataes.site^
@@ -880,7 +935,13 @@
 ||vyplataua.com^
 ||vyplaty.pro^
 ||vyplatyedopomoga.com^
+||web-telegram.click^
+||web-telegram.cloud^
+||web-telegram.online^
+||web-telegram.tk^
+||web-telegram.uk^
 ||webk-telegram.icu^
+||webk-telegram.sbs^
 ||weekpaidlife.top^
 ||wf0.uno^
 ||wr-rescan.com^
@@ -998,6 +1059,8 @@
 ||t.me/oficial_dopomoga^$document
 ||t.me/onlinedopomoga2023_bot^$document
 ||t.me/OOHviplata^$document
+||t.me/OON_oschad_bot^$document
+||t.me/OON_oshadbank_bot^$document
 ||t.me/pidrumkaua^$document
 ||t.me/PrivatBank24UK^$document
 ||t.me/Raifaise20000^$document
@@ -1043,6 +1106,8 @@
 ||t.me/s/oficial_dopomoga^$document
 ||t.me/s/onlinedopomoga2023_bot^$document
 ||t.me/s/OOHviplata^$document
+||t.me/s/OON_oschad_bot^$document
+||t.me/s/OON_oshadbank_bot^$document
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
