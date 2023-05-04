@@ -6,11 +6,9 @@
 
 ## Формати
 
-### Domain-based blocklist
+### Domain-based blocklist (синтаксис AdBlock)
 
-До фільтра у форматі domain-based blocklist вносяться лише домени, що дає можливість блокувати доступ до ресурсу без жорсткої прив'язки до субдоменів та (або) шляху/параметрів URL (виключення: посилання на соціальні мережі, блоги та інші ресурси які є легітимними, проте, які використовуються зловмисниками).
-
-Цей формат фільтра сумісний практично з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
+Цей формат фільтра сумісний з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
 
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `||example.com^`
 
@@ -46,7 +44,7 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі Ukrainian Malicious URL Blocklist.
 
-#### Браузери (з власними модулями фільтрації контенту)
+#### Браузери з вбудованими модулями фільтрації контенту
 * Brave: [https://brave.com](https://brave.com/)
 * Opera: [https://www.opera.com](https://www.opera.com/)
 * Vivaldi: [https://vivaldi.com](https://vivaldi.com/)
@@ -60,8 +58,8 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ### Brave
 
-- У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
-- У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтра:
+1. У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
+2. У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтра:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
@@ -71,8 +69,8 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ### uBlock Origin
 
-- Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
-- Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
+1. Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
+2. Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
@@ -82,8 +80,8 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ### Adblock Plus
 
-- Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
-- У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
+1. Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
+2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
 https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
