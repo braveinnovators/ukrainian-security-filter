@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 04 May 2023 16:21 EEST
+! Last modified: Fri, 05 May 2023 14:17 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -43,7 +43,9 @@
 ||bankver.com^
 ||bankverif.live^
 ||bid.cx.ua^
+||biluzna-ua.store^
 ||blesk24.com^
+||brivis-ua.store^
 ||ca-pay.me^
 ||cabinet-raiffeisen.fun^
 ||cabinet-raiffeisen.online^
@@ -191,6 +193,7 @@
 ||dopomogaua-pidtrimkaua.com^
 ||dopomogaua.pro^
 ||dopomogaua.xyz^
+||dopomogaukraiine.com^
 ||dopomogi.top^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
@@ -265,15 +268,19 @@
 ||events-ukr.site^
 ||eviplata.vip^
 ||evyplata.life^
+||facebook-ua.info^
 ||farmsense-ukr.shop^
+||farmyardia-ua.site^
 ||finance-dopomoga.site^
 ||finstor.online^
 ||finua.online^
+||fixi-ua.store^
 ||fl-work.com.ua^
 ||flexcapital.com^
 ||fond-dopomogy.shop^
 ||g-pay.me^
 ||gardenflorista.site^
+||gardenpath-ua.shop^
 ||gate-pays.me^
 ||gaukrainians.org^
 ||gedopomoga-gov.site^
@@ -298,7 +305,10 @@
 ||greenharvest-ukrpro.shop^
 ||groshi.world^
 ||groshovadopomoga.com^
+||growtec-ua.site^
+||growthsynergy-ua.shop^
 ||grshi.fun^
+||harvolve-ua.shop^
 ||hel5.fun^
 ||help-compensation-ua.xyz^
 ||help-dlya-ukrainians.site^
@@ -338,7 +348,10 @@
 ||infcjal.cn^
 ||info-vyplata24.uk^
 ||infovyplata24.uk^
+||innoculture-ua.shop^
+||innovacultura-ua.shop^
 ||ipay-ua.online^
+||iris-ua.store^
 ||j9-wersii.buzz^
 ||jay-order.me^
 ||k-auch.buzz^
@@ -347,6 +360,7 @@
 ||klespo.site^
 ||klisp-o.site^
 ||koko-ua.store^
+||kombi-ua.store^
 ||konkurs-events.top^
 ||konkurs-golos.ltd^
 ||konkurs-ua.site^
@@ -419,6 +433,7 @@
 ||nm6.info^
 ||no-pay.me^
 ||nopersonexty.online^
+||noski-ua.site^
 ||nost-pays.shop^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
@@ -447,6 +462,7 @@
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
+||organafarm-ua.click^
 ||oschad-banking.site^
 ||oschad-help.win^
 ||oschad-paybank.xyz^
@@ -561,6 +577,7 @@
 ||portal-diya.kyiv.ua^
 ||poshyq.com^
 ||poshyx.com^
+||premium-biluzna.store^
 ||privat-next24.shop^
 ||privat24-help.biz^
 ||privat24-help.link^
@@ -639,6 +656,7 @@
 ||raiffeisen-payed.online^
 ||raiffeisen-payed.site^
 ||raiffeisen-payed.website^
+||raiffeisen-promo.online^
 ||raiffeisen-uapay.shop^
 ||raiffeisen-ukr.buzz^
 ||raiffeisen.org.ua^
@@ -678,6 +696,7 @@
 ||ryjpay.com^
 ||safe-ua-viplata.website^
 ||saferegulatory.com^
+||sarafan-ua.store^
 ||secure2dpay.store^
 ||secure3ds.org^
 ||securitypay.me^
@@ -712,6 +731,7 @@
 ||techport.net.ua^
 ||tehnotop.net.ua^
 ||telegram-ua.com^
+||telegram-web.biz^
 ||terrafarmers-ukr.site^
 ||thediadopomoga.online^
 ||tinkletulips-ua.site^
@@ -732,6 +752,7 @@
 ||ua-compenses.top^
 ||ua-diya.pro^
 ||ua-dopomoga.org^
+||ua-edopomoga.live^
 ||ua-edopomoga.me^
 ||ua-konkurs.site^
 ||ua-pay.space^
@@ -908,6 +929,7 @@
 ||viplataua.net^
 ||viplataua.org^
 ||viplataua.shop^
+||viplataua.xyz^
 ||viplatavop.club^
 ||viplatavpo.biz^
 ||viplatavsem.site^
@@ -937,6 +959,7 @@
 ||vyplatyedopomoga.com^
 ||web-telegram.click^
 ||web-telegram.cloud^
+||web-telegram.eu^
 ||web-telegram.online^
 ||web-telegram.tk^
 ||web-telegram.uk^
