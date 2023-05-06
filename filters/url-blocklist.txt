@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 05 May 2023 14:17 EEST
+! Last modified: Sat, 06 May 2023 16:11 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -20,7 +20,9 @@
 ||agri-chain.site^
 ||agribe-ukr.shop^
 ||aid-edopomoga.com^
+||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
+||aid-for-ukraine.world^
 ||amerisn.com^
 ||apayments.pro^
 ||aval-bank-online.com^
@@ -109,6 +111,7 @@
 ||diahelpfulua.click^
 ||diia-2023help.me^
 ||diia-d0p0moga.com^
+||diia-dopomoga.eu^
 ||diia-dopomoga.pro^
 ||diia-gov.com^
 ||diia-gov.me^
@@ -126,6 +129,7 @@
 ||dipdopdia.com^
 ||dipuplatservises24.sale^
 ||diya-edopomoga.online^
+||diya-privat24.uk^
 ||diya-vyplata.kyiv.ua^
 ||diyadopomoga.online^
 ||diyaviplati.co^
@@ -193,7 +197,9 @@
 ||dopomogaua-pidtrimkaua.com^
 ||dopomogaua.pro^
 ||dopomogaua.xyz^
+||dopomogaukr.website^
 ||dopomogaukraiine.com^
+||dopomogaukrainaua.com^
 ||dopomogi.top^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
@@ -276,8 +282,10 @@
 ||finua.online^
 ||fixi-ua.store^
 ||fl-work.com.ua^
+||fleurifyua.click^
 ||flexcapital.com^
 ||fond-dopomogy.shop^
+||fpl1.fun^
 ||g-pay.me^
 ||gardenflorista.site^
 ||gardenpath-ua.shop^
@@ -299,6 +307,9 @@
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-oschad.shop^
+||gov-oschad24.pro^
+||gov-privat24.pro^
+||gov-raiffeisen24.pro^
 ||gov-uah.top^
 ||gov-ukr.top^
 ||govdia.pro^
@@ -340,6 +351,7 @@
 ||helpwar-privat24.shop^
 ||helpzzfound.site^
 ||hep5.online^
+||hfy5.uno^
 ||homeanimal.site^
 ||i-dopomoga.space^
 ||id2047323.com^
@@ -429,6 +441,7 @@
 ||nextprivat24-help.win^
 ||nextprivat24.info^
 ||nextprivat24.pro^
+||nls1.fun^
 ||nm6.fun^
 ||nm6.info^
 ||no-pay.me^
@@ -447,6 +460,7 @@
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||okpay24-grn.com^
+||olx-ua.ink^
 ||online-pays.tech^
 ||online-raiffeisen.info^
 ||onlinediya.uk^
@@ -556,6 +570,8 @@
 ||personalnot.online^
 ||pestrio.site^
 ||peyidgo.pro^
+||pickpayua.best^
+||pickpayua.cloud^
 ||pidrumka.co^
 ||pidrumka.online^
 ||pidrumkavuplata.ink^
@@ -661,8 +677,10 @@
 ||raiffeisen-ukr.buzz^
 ||raiffeisen.org.ua^
 ||raiffeisen.space^
+||raiffeisen.vip^
 ||raiffeisen24.shop^
 ||raiffeisen24.uk^
+||raiffeisen24.win^
 ||raiffeisenbank.site^
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
@@ -703,6 +721,7 @@
 ||securitypays.online^
 ||sendex.online^
 ||shepir.com^
+||shoppingua.fun^
 ||sitidiia.live^
 ||smartlead.com.ua^
 ||sn0.uno^
@@ -741,6 +760,7 @@
 ||trust-group.pro^
 ||trustis-ua.top^
 ||tsa.airforce^
+||tsn-ua.ink^
 ||ua-avalbank.com^
 ||ua-bank.net^
 ||ua-bank.org^
@@ -765,6 +785,7 @@
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
 ||ua-telegram.org^
+||ua-ugolovka.org^
 ||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua2021priz.yolasite.com^
@@ -863,6 +884,7 @@
 ||ukrpay.fun^
 ||ukrpaymen.today^
 ||ukrpaymentsystem.pro^
+||ukrpaytransactions.info^
 ||ukrposhta.kr.ua^
 ||ukrposhta.me^
 ||ukrposhta.pl^
@@ -887,6 +909,7 @@
 ||uw-edopomoga.com^
 ||vasic.website^
 ||veneta-ua.store^
+||vennete-ua.store^
 ||vi-plata.com^
 ||vi-plata.vip^
 ||vil-ha.com^
@@ -930,6 +953,7 @@
 ||viplataua.org^
 ||viplataua.shop^
 ||viplataua.xyz^
+||viplataukr.xyz^
 ||viplatavop.club^
 ||viplatavpo.biz^
 ||viplatavsem.site^
@@ -1041,6 +1065,7 @@
 ||opensea.io/VolunteersUA^$document
 ||sites.google.com/view/d362g5d2^$document
 ||t.me/+AywXgY6Igj81Njli^$document
+||t.me/+SELC_fUURDwzODgy^$document
 ||t.me/+tTyBunuSCxhlZmRi^$document
 ||t.me/AidFromTheUnBot^$document
 ||t.me/d0p0m0ga^$document
@@ -1144,6 +1169,7 @@
 ||t.me/s/ukdopomoga01^$document
 ||t.me/s/UkrainaDopomoga_UKR^$document
 ||t.me/s/UkrainaElfBarbot^$document
+||t.me/s/Ukraine_test2_bot^$document
 ||t.me/s/UsdtUABot^$document
 ||t.me/s/vBezpetsli_Bot^$document
 ||t.me/s/Viplata6500^$document
@@ -1158,6 +1184,7 @@
 ||t.me/ukdopomoga01^$document
 ||t.me/UkrainaDopomoga_UKR^$document
 ||t.me/UkrainaElfBarbot^$document
+||t.me/Ukraine_test2_bot^$document
 ||t.me/UsdtUABot^$document
 ||t.me/vBezpetsli_Bot^$document
 ||t.me/Viplata6500^$document
