@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 05 May 2023 14:17 EEST
+# Last modified: Sat, 06 May 2023 16:11 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -64,7 +64,9 @@ ads-pid.me
 agri-chain.site
 agribe-ukr.shop
 aid-edopomoga.com
+aid-for-ukraine.info
 aid-for-ukraine.life
+aid-for-ukraine.world
 amerisn.com
 apayments.pro
 aval-bank-online.com
@@ -165,6 +167,7 @@ diafes.com
 diahelpfulua.click
 diia-2023help.me
 diia-d0p0moga.com
+diia-dopomoga.eu
 diia-dopomoga.pro
 diia-gov.com
 diia-gov.me
@@ -182,6 +185,7 @@ diiaua.com
 dipdopdia.com
 dipuplatservises24.sale
 diya-edopomoga.online
+diya-privat24.uk
 diya-vyplata.kyiv.ua
 diyadopomoga.online
 diyaviplati.co
@@ -256,7 +260,9 @@ dopomogaua-pidtrimka.com
 dopomogaua-pidtrimkaua.com
 dopomogaua.pro
 dopomogaua.xyz
+dopomogaukr.website
 dopomogaukraiine.com
+dopomogaukrainaua.com
 dopomogi.top
 dopomogs-ukr.top
 dopomoha-ua.company.site
@@ -344,8 +350,10 @@ finstor.online
 finua.online
 fixi-ua.store
 fl-work.com.ua
+fleurifyua.click
 flexcapital.com
 fond-dopomogy.shop
+fpl1.fun
 g-pay.me
 gardenflorista.site
 gardenpath-ua.shop
@@ -367,6 +375,9 @@ gosdopomoga.com
 goturozetka.com
 goturozetka.vip
 gov-oschad.shop
+gov-oschad24.pro
+gov-privat24.pro
+gov-raiffeisen24.pro
 gov-uah.top
 gov-ukr.top
 gov.ukr-savess.icu
@@ -411,6 +422,7 @@ helpukrainian.site
 helpwar-privat24.shop
 helpzzfound.site
 hep5.online
+hfy5.uno
 homeanimal.site
 i-dopomoga.space
 id2047323.com
@@ -610,6 +622,7 @@ nextpay.pw
 nextprivat24-help.win
 nextprivat24.info
 nextprivat24.pro
+nls1.fun
 nm6.fun
 nm6.info
 no-pay.me
@@ -631,6 +644,7 @@ ocxa-ua.top
 oficial-viplata.info
 okko-bonus.live
 okpay24-grn.com
+olx-ua.ink
 olx-ua.poluchenie.pw
 olx-ua.recive-money.icu
 olx-ua.recivemoney.icu
@@ -940,6 +954,8 @@ perevojugroshi.com
 personalnot.online
 pestrio.site
 peyidgo.pro
+pickpayua.best
+pickpayua.cloud
 pidrumka.co
 pidrumka.online
 pidrumkavuplata.ink
@@ -1349,6 +1365,7 @@ raiffeisen.vasic.website
 raiffeisen.vi-plata.vip
 raiffeisen.vil-ha.com
 raiffeisen.vinplata.com
+raiffeisen.vip
 raiffeisen.vip-onlain.site
 raiffeisen.viplata-com.store
 raiffeisen.viplata.biz
@@ -1366,6 +1383,7 @@ raiffeisen.vuplatyi.com
 raiffeisen.xn--80aae0btu3d.life
 raiffeisen24.shop
 raiffeisen24.uk
+raiffeisen24.win
 raiffeisenbank.site
 raiffeisenbankoon.social
 raiffeisenhelps.shop
@@ -1407,6 +1425,7 @@ securitypay.me
 securitypays.online
 sendex.online
 shepir.com
+shoppingua.fun
 sites.google.com/view/d362g5d2
 sitidiia.live
 smartlead.com.ua
@@ -1447,6 +1466,7 @@ trpayuan.site
 trust-group.pro
 trustis-ua.top
 tsa.airforce
+tsn-ua.ink
 ua-avalbank.com
 ua-bank.net
 ua-bank.org
@@ -1471,6 +1491,7 @@ ua-send.website
 ua-tax-compens.top
 ua-taxes-compens.xyz
 ua-telegram.org
+ua-ugolovka.org
 ua-viplata.me
 ua-wallet.pw
 ua2021priz.yolasite.com
@@ -1570,6 +1591,7 @@ ukrkonkurs.site
 ukrpay.fun
 ukrpaymen.today
 ukrpaymentsystem.pro
+ukrpaytransactions.info
 ukrposhta.kr.ua
 ukrposhta.me
 ukrposhta.pl
@@ -1621,6 +1643,7 @@ uvyplata.icu
 uw-edopomoga.com
 vasic.website
 veneta-ua.store
+vennete-ua.store
 vi-plata.com
 vi-plata.vip
 vil-ha.com
@@ -1664,6 +1687,7 @@ viplataua.net
 viplataua.org
 viplataua.shop
 viplataua.xyz
+viplataukr.xyz
 viplatavop.club
 viplatavpo.biz
 viplatavsem.site
