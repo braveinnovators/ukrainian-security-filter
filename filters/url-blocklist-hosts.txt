@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 05 May 2023 14:17 EEST
+# Last modified: Sat, 06 May 2023 16:11 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -64,7 +64,9 @@
 0.0.0.0 agri-chain.site
 0.0.0.0 agribe-ukr.shop
 0.0.0.0 aid-edopomoga.com
+0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
+0.0.0.0 aid-for-ukraine.world
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 aval-bank-online.com
@@ -165,6 +167,7 @@
 0.0.0.0 diahelpfulua.click
 0.0.0.0 diia-2023help.me
 0.0.0.0 diia-d0p0moga.com
+0.0.0.0 diia-dopomoga.eu
 0.0.0.0 diia-dopomoga.pro
 0.0.0.0 diia-gov.com
 0.0.0.0 diia-gov.me
@@ -182,6 +185,7 @@
 0.0.0.0 dipdopdia.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
+0.0.0.0 diya-privat24.uk
 0.0.0.0 diya-vyplata.kyiv.ua
 0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.co
@@ -256,7 +260,9 @@
 0.0.0.0 dopomogaua-pidtrimkaua.com
 0.0.0.0 dopomogaua.pro
 0.0.0.0 dopomogaua.xyz
+0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
+0.0.0.0 dopomogaukrainaua.com
 0.0.0.0 dopomogi.top
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
@@ -344,8 +350,10 @@
 0.0.0.0 finua.online
 0.0.0.0 fixi-ua.store
 0.0.0.0 fl-work.com.ua
+0.0.0.0 fleurifyua.click
 0.0.0.0 flexcapital.com
 0.0.0.0 fond-dopomogy.shop
+0.0.0.0 fpl1.fun
 0.0.0.0 g-pay.me
 0.0.0.0 gardenflorista.site
 0.0.0.0 gardenpath-ua.shop
@@ -367,6 +375,9 @@
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-oschad.shop
+0.0.0.0 gov-oschad24.pro
+0.0.0.0 gov-privat24.pro
+0.0.0.0 gov-raiffeisen24.pro
 0.0.0.0 gov-uah.top
 0.0.0.0 gov-ukr.top
 0.0.0.0 gov.ukr-savess.icu
@@ -411,6 +422,7 @@
 0.0.0.0 helpwar-privat24.shop
 0.0.0.0 helpzzfound.site
 0.0.0.0 hep5.online
+0.0.0.0 hfy5.uno
 0.0.0.0 homeanimal.site
 0.0.0.0 i-dopomoga.space
 0.0.0.0 id2047323.com
@@ -610,6 +622,7 @@
 0.0.0.0 nextprivat24-help.win
 0.0.0.0 nextprivat24.info
 0.0.0.0 nextprivat24.pro
+0.0.0.0 nls1.fun
 0.0.0.0 nm6.fun
 0.0.0.0 nm6.info
 0.0.0.0 no-pay.me
@@ -631,6 +644,7 @@
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
 0.0.0.0 okpay24-grn.com
+0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.poluchenie.pw
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
@@ -940,6 +954,8 @@
 0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
 0.0.0.0 peyidgo.pro
+0.0.0.0 pickpayua.best
+0.0.0.0 pickpayua.cloud
 0.0.0.0 pidrumka.co
 0.0.0.0 pidrumka.online
 0.0.0.0 pidrumkavuplata.ink
@@ -1349,6 +1365,7 @@
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.vil-ha.com
 0.0.0.0 raiffeisen.vinplata.com
+0.0.0.0 raiffeisen.vip
 0.0.0.0 raiffeisen.vip-onlain.site
 0.0.0.0 raiffeisen.viplata-com.store
 0.0.0.0 raiffeisen.viplata.biz
@@ -1366,6 +1383,7 @@
 0.0.0.0 raiffeisen.xn--80aae0btu3d.life
 0.0.0.0 raiffeisen24.shop
 0.0.0.0 raiffeisen24.uk
+0.0.0.0 raiffeisen24.win
 0.0.0.0 raiffeisenbank.site
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeisenhelps.shop
@@ -1407,6 +1425,7 @@
 0.0.0.0 securitypays.online
 0.0.0.0 sendex.online
 0.0.0.0 shepir.com
+0.0.0.0 shoppingua.fun
 0.0.0.0 sites.google.com/view/d362g5d2
 0.0.0.0 sitidiia.live
 0.0.0.0 smartlead.com.ua
@@ -1447,6 +1466,7 @@
 0.0.0.0 trust-group.pro
 0.0.0.0 trustis-ua.top
 0.0.0.0 tsa.airforce
+0.0.0.0 tsn-ua.ink
 0.0.0.0 ua-avalbank.com
 0.0.0.0 ua-bank.net
 0.0.0.0 ua-bank.org
@@ -1471,6 +1491,7 @@
 0.0.0.0 ua-tax-compens.top
 0.0.0.0 ua-taxes-compens.xyz
 0.0.0.0 ua-telegram.org
+0.0.0.0 ua-ugolovka.org
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua2021priz.yolasite.com
@@ -1570,6 +1591,7 @@
 0.0.0.0 ukrpay.fun
 0.0.0.0 ukrpaymen.today
 0.0.0.0 ukrpaymentsystem.pro
+0.0.0.0 ukrpaytransactions.info
 0.0.0.0 ukrposhta.kr.ua
 0.0.0.0 ukrposhta.me
 0.0.0.0 ukrposhta.pl
@@ -1621,6 +1643,7 @@
 0.0.0.0 uw-edopomoga.com
 0.0.0.0 vasic.website
 0.0.0.0 veneta-ua.store
+0.0.0.0 vennete-ua.store
 0.0.0.0 vi-plata.com
 0.0.0.0 vi-plata.vip
 0.0.0.0 vil-ha.com
@@ -1664,6 +1687,7 @@
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
 0.0.0.0 viplataua.xyz
+0.0.0.0 viplataukr.xyz
 0.0.0.0 viplatavop.club
 0.0.0.0 viplatavpo.biz
 0.0.0.0 viplatavsem.site
