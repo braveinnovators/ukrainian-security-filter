@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 06 May 2023 16:11 EEST
+# Last modified: Sun, 07 May 2023 15:20 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -75,6 +75,7 @@
 0.0.0.0 avalbankua-auth.com
 0.0.0.0 avalbankua-login.com
 0.0.0.0 avalbankualogin.com
+0.0.0.0 avalonline24.com
 0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
@@ -185,6 +186,8 @@
 0.0.0.0 dipdopdia.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
+0.0.0.0 diya-gov.com
+0.0.0.0 diya-ocshad24.uk
 0.0.0.0 diya-privat24.uk
 0.0.0.0 diya-vyplata.kyiv.ua
 0.0.0.0 diyadopomoga.online
@@ -640,6 +643,10 @@
 0.0.0.0 novok.com.ua
 0.0.0.0 np-pay.me
 0.0.0.0 ocha-ukrain.xyz
+0.0.0.0 ocshad24l-pay.site
+0.0.0.0 ocshad24l.site
+0.0.0.0 ocshadbank24.uk
+0.0.0.0 ocshadl24.uk
 0.0.0.0 ocxa-ua.top
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
@@ -672,10 +679,13 @@
 0.0.0.0 oon-viplata.eu
 0.0.0.0 oon-viplata.org
 0.0.0.0 oon-viplata.social
+0.0.0.0 oonpay.site
+0.0.0.0 oonviplata.tech
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
 0.0.0.0 organafarm-ua.click
+0.0.0.0 oschad-24.site
 0.0.0.0 oschad-banking.site
 0.0.0.0 oschad-help.win
 0.0.0.0 oschad-paybank.xyz
@@ -875,6 +885,7 @@
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.uk
+0.0.0.0 oshadbank24.win
 0.0.0.0 oshadraif.biz
 0.0.0.0 oshadraif.cloud
 0.0.0.0 oshadraif.info
@@ -902,11 +913,13 @@
 0.0.0.0 pac-pay.online
 0.0.0.0 parimatch-ua.top
 0.0.0.0 pay-chs.me
+0.0.0.0 pay-ocshad24.uk
 0.0.0.0 pay-privat24.site
 0.0.0.0 pay-raif.fun
 0.0.0.0 pay-raif.online
 0.0.0.0 pay-raif.site
 0.0.0.0 pay-raif.space
+0.0.0.0 pay-raiffeiseln.uk
 0.0.0.0 pay-remuneration.top
 0.0.0.0 pay-ua.co
 0.0.0.0 pay-ua.com
@@ -1284,6 +1297,7 @@
 0.0.0.0 raiffaisenpay.shop
 0.0.0.0 raiffaissen.shop
 0.0.0.0 raiffeis24help.win
+0.0.0.0 raiffeisen-24.site
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-cabinet.pw
 0.0.0.0 raiffeisen-cabinet.space
@@ -1425,6 +1439,7 @@
 0.0.0.0 securitypays.online
 0.0.0.0 sendex.online
 0.0.0.0 shepir.com
+0.0.0.0 shop-ukraine.site
 0.0.0.0 shoppingua.fun
 0.0.0.0 sites.google.com/view/d362g5d2
 0.0.0.0 sitidiia.live
@@ -1575,6 +1590,7 @@
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukraineshops.fun
 0.0.0.0 ukrainesviplata.tilda.ws
 0.0.0.0 ukrainetop.store
 0.0.0.0 ukraineworkup.online
@@ -1582,6 +1598,7 @@
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
 0.0.0.0 ukrainianwomen.store
+0.0.0.0 ukrainshop.fun
 0.0.0.0 ukrcashtrans.biz
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukreyns.com
@@ -1687,6 +1704,7 @@
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
 0.0.0.0 viplataua.xyz
+0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplataukr.xyz
 0.0.0.0 viplatavop.club
 0.0.0.0 viplatavpo.biz
@@ -1694,6 +1712,7 @@
 0.0.0.0 viplati-uah.top
 0.0.0.0 viplatka.com
 0.0.0.0 viplatu.com
+0.0.0.0 viplaty-vsem.biz.ua
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatyy.com
@@ -1702,6 +1721,7 @@
 0.0.0.0 vo-dopomoga.net
 0.0.0.0 vorkviplata.biz
 0.0.0.0 vostok.vorkviplata.biz
+0.0.0.0 vsim-sviplatyi-oon.co.ua
 0.0.0.0 vuplata.casa
 0.0.0.0 vuplata.ink
 0.0.0.0 vuplata.online
