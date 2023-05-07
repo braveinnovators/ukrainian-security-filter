@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 06 May 2023 16:11 EEST
+! Last modified: Sun, 07 May 2023 15:20 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -31,6 +31,7 @@
 ||avalbankua-auth.com^
 ||avalbankua-login.com^
 ||avalbankualogin.com^
+||avalonline24.com^
 ||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
@@ -129,6 +130,8 @@
 ||dipdopdia.com^
 ||dipuplatservises24.sale^
 ||diya-edopomoga.online^
+||diya-gov.com^
+||diya-ocshad24.uk^
 ||diya-privat24.uk^
 ||diya-vyplata.kyiv.ua^
 ||diyadopomoga.online^
@@ -456,6 +459,10 @@
 ||novok.com.ua^
 ||np-pay.me^
 ||ocha-ukrain.xyz^
+||ocshad24l-pay.site^
+||ocshad24l.site^
+||ocshadbank24.uk^
+||ocshadl24.uk^
 ||ocxa-ua.top^
 ||oficial-viplata.info^
 ||okko-bonus.live^
@@ -473,10 +480,13 @@
 ||oon-viplata.eu^
 ||oon-viplata.org^
 ||oon-viplata.social^
+||oonpay.site^
+||oonviplata.tech^
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
 ||organafarm-ua.click^
+||oschad-24.site^
 ||oschad-banking.site^
 ||oschad-help.win^
 ||oschad-paybank.xyz^
@@ -505,6 +515,7 @@
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
+||oshadbank24.win^
 ||oshadraif.biz^
 ||oshadraif.cloud^
 ||oshadraif.info^
@@ -523,11 +534,13 @@
 ||pac-pay.online^
 ||parimatch-ua.top^
 ||pay-chs.me^
+||pay-ocshad24.uk^
 ||pay-privat24.site^
 ||pay-raif.fun^
 ||pay-raif.online^
 ||pay-raif.site^
 ||pay-raif.space^
+||pay-raiffeiseln.uk^
 ||pay-remuneration.top^
 ||pay-ua.co^
 ||pay-ua.com^
@@ -658,6 +671,7 @@
 ||raiffaisenpay.shop^
 ||raiffaissen.shop^
 ||raiffeis24help.win^
+||raiffeisen-24.site^
 ||raiffeisen-approve.com^
 ||raiffeisen-cabinet.pw^
 ||raiffeisen-cabinet.space^
@@ -721,6 +735,7 @@
 ||securitypays.online^
 ||sendex.online^
 ||shepir.com^
+||shop-ukraine.site^
 ||shoppingua.fun^
 ||sitidiia.live^
 ||smartlead.com.ua^
@@ -868,6 +883,7 @@
 ||ukrainepaymentsystem.pro^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukraineshops.fun^
 ||ukrainesviplata.tilda.ws^
 ||ukrainetop.store^
 ||ukraineworkup.online^
@@ -875,6 +891,7 @@
 ||ukrainianamazon.com^
 ||ukrainianua.website^
 ||ukrainianwomen.store^
+||ukrainshop.fun^
 ||ukrcashtrans.biz^
 ||ukrcredits.com^
 ||ukreyns.com^
@@ -953,6 +970,7 @@
 ||viplataua.org^
 ||viplataua.shop^
 ||viplataua.xyz^
+||viplatauaukr.xyz^
 ||viplataukr.xyz^
 ||viplatavop.club^
 ||viplatavpo.biz^
@@ -960,6 +978,7 @@
 ||viplati-uah.top^
 ||viplatka.com^
 ||viplatu.com^
+||viplaty-vsem.biz.ua^
 ||viplaty.com.ua^
 ||viplaty.online^
 ||viplatyy.com^
@@ -967,6 +986,7 @@
 ||viuplata.com^
 ||vo-dopomoga.net^
 ||vorkviplata.biz^
+||vsim-sviplatyi-oon.co.ua^
 ||vuplata.casa^
 ||vuplata.ink^
 ||vuplata.online^
@@ -1093,6 +1113,7 @@
 ||t.me/Edopomogauua^$document
 ||t.me/epedtrimka_gov^$document
 ||t.me/epidtrymka6500^$document
+||t.me/epidtrymkaGovUa^$document
 ||t.me/esviatoloveUA^$document
 ||t.me/grosgovadopomoga^$document
 ||t.me/Helpiing_Ua^$document
@@ -1140,6 +1161,7 @@
 ||t.me/s/Edopomogauua^$document
 ||t.me/s/epedtrimka_gov^$document
 ||t.me/s/epidtrymka6500^$document
+||t.me/s/epidtrymkaGovUa^$document
 ||t.me/s/esviatoloveUA^$document
 ||t.me/s/grosgovadopomoga^$document
 ||t.me/s/Helpiing_Ua^$document
