@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 07 May 2023 15:20 EEST
+# Last modified: Fri, 12 May 2023 19:37 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -263,6 +263,7 @@ dopomogaua-pidtrimka.com
 dopomogaua-pidtrimkaua.com
 dopomogaua.pro
 dopomogaua.xyz
+dopomogauk.xyz
 dopomogaukr.website
 dopomogaukraiine.com
 dopomogaukrainaua.com
@@ -279,6 +280,7 @@ e-gryvnia.com
 e-viplata.space
 ebayua66.com
 ebayua66.vip
+ebayukraine.vip
 ec-compensation.xyz
 ed-edopomoga.com
 edi6.site
@@ -681,6 +683,7 @@ oon-viplata.org
 oon-viplata.social
 oonpay.site
 oonviplata.tech
+oonviplaty.host
 opay365.com
 oplat.pro
 oplataofficial.life
@@ -911,6 +914,7 @@ ox-pay.me
 p-dopomogah.com
 p-invest.site
 pac-pay.online
+pajama-ukraine.store
 parimatch-ua.top
 pay-chs.me
 pay-ocshad24.uk
@@ -1402,6 +1406,7 @@ raiffeisenbank.site
 raiffeisenbankoon.social
 raiffeisenhelps.shop
 raiffeizen-viplata-help.online
+raiffejsen.online
 raiffesen.com
 raiffesen.pro
 raiffeslen.biz
@@ -1439,6 +1444,7 @@ securitypay.me
 securitypays.online
 sendex.online
 shepir.com
+shop-ukraine.shop
 shop-ukraine.site
 shoppingua.fun
 sites.google.com/view/d362g5d2
@@ -1496,6 +1502,7 @@ ua-dopomoga.org
 ua-edopomoga.live
 ua-edopomoga.me
 ua-konkurs.site
+ua-oonviplata.cloud
 ua-pay.space
 ua-payout.site
 ua-privat24.pro
@@ -1564,6 +1571,7 @@ ukr-receive.icu
 ukr-receive.sbs
 ukr-savess.icu
 ukr-savess.sbs
+ukr-top.fun
 ukraiff.mobi
 ukraiff.services
 ukraina-gos.top
@@ -1582,6 +1590,7 @@ ukraineamazon.com
 ukraineamazon.pro
 ukrainebayra.com
 ukrainedostavka.store
+ukraineebay.vip
 ukrainehelp.cloud
 ukrainehelp.gives
 ukrainehelp.wiki
@@ -1593,6 +1602,7 @@ ukrainerozetka.vip
 ukraineshops.fun
 ukrainesviplata.tilda.ws
 ukrainetop.store
+ukrainetoptovar.store
 ukraineworkup.online
 ukrainian-inform.com
 ukrainianamazon.com
@@ -1650,6 +1660,7 @@ ukzarplata.site
 ul-pay.me
 un-dopomoga.info
 unicefua.news
+unicefvyplaty.com
 unix-change.world
 up-pay.me
 upayment.me
@@ -1705,6 +1716,7 @@ viplataua.org
 viplataua.shop
 viplataua.xyz
 viplatauaukr.xyz
+viplatauaukraine.xyz
 viplataukr.xyz
 viplatavop.club
 viplatavpo.biz
@@ -1715,6 +1727,7 @@ viplatu.com
 viplaty-vsem.biz.ua
 viplaty.com.ua
 viplaty.online
+viplatya-kosthiv.com.ua
 viplatyy.com
 vipplata.com
 viuplata.com
@@ -1729,6 +1742,7 @@ vuplatu.in
 vuplatyi.com
 vyplata-edopomoga.com
 vyplata-help.com
+vyplata-ocshad24.uk
 vyplata-pays.fun
 vyplata-pays.kyiv.ua
 vyplata24.com
