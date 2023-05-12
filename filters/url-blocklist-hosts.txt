@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 07 May 2023 15:20 EEST
+# Last modified: Fri, 12 May 2023 19:37 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -263,6 +263,7 @@
 0.0.0.0 dopomogaua-pidtrimkaua.com
 0.0.0.0 dopomogaua.pro
 0.0.0.0 dopomogaua.xyz
+0.0.0.0 dopomogauk.xyz
 0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
 0.0.0.0 dopomogaukrainaua.com
@@ -279,6 +280,7 @@
 0.0.0.0 e-viplata.space
 0.0.0.0 ebayua66.com
 0.0.0.0 ebayua66.vip
+0.0.0.0 ebayukraine.vip
 0.0.0.0 ec-compensation.xyz
 0.0.0.0 ed-edopomoga.com
 0.0.0.0 edi6.site
@@ -681,6 +683,7 @@
 0.0.0.0 oon-viplata.social
 0.0.0.0 oonpay.site
 0.0.0.0 oonviplata.tech
+0.0.0.0 oonviplaty.host
 0.0.0.0 opay365.com
 0.0.0.0 oplat.pro
 0.0.0.0 oplataofficial.life
@@ -911,6 +914,7 @@
 0.0.0.0 p-dopomogah.com
 0.0.0.0 p-invest.site
 0.0.0.0 pac-pay.online
+0.0.0.0 pajama-ukraine.store
 0.0.0.0 parimatch-ua.top
 0.0.0.0 pay-chs.me
 0.0.0.0 pay-ocshad24.uk
@@ -1402,6 +1406,7 @@
 0.0.0.0 raiffeisenbankoon.social
 0.0.0.0 raiffeisenhelps.shop
 0.0.0.0 raiffeizen-viplata-help.online
+0.0.0.0 raiffejsen.online
 0.0.0.0 raiffesen.com
 0.0.0.0 raiffesen.pro
 0.0.0.0 raiffeslen.biz
@@ -1439,6 +1444,7 @@
 0.0.0.0 securitypays.online
 0.0.0.0 sendex.online
 0.0.0.0 shepir.com
+0.0.0.0 shop-ukraine.shop
 0.0.0.0 shop-ukraine.site
 0.0.0.0 shoppingua.fun
 0.0.0.0 sites.google.com/view/d362g5d2
@@ -1496,6 +1502,7 @@
 0.0.0.0 ua-edopomoga.live
 0.0.0.0 ua-edopomoga.me
 0.0.0.0 ua-konkurs.site
+0.0.0.0 ua-oonviplata.cloud
 0.0.0.0 ua-pay.space
 0.0.0.0 ua-payout.site
 0.0.0.0 ua-privat24.pro
@@ -1564,6 +1571,7 @@
 0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
+0.0.0.0 ukr-top.fun
 0.0.0.0 ukraiff.mobi
 0.0.0.0 ukraiff.services
 0.0.0.0 ukraina-gos.top
@@ -1582,6 +1590,7 @@
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebayra.com
 0.0.0.0 ukrainedostavka.store
+0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
@@ -1593,6 +1602,7 @@
 0.0.0.0 ukraineshops.fun
 0.0.0.0 ukrainesviplata.tilda.ws
 0.0.0.0 ukrainetop.store
+0.0.0.0 ukrainetoptovar.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
 0.0.0.0 ukrainianamazon.com
@@ -1650,6 +1660,7 @@
 0.0.0.0 ul-pay.me
 0.0.0.0 un-dopomoga.info
 0.0.0.0 unicefua.news
+0.0.0.0 unicefvyplaty.com
 0.0.0.0 unix-change.world
 0.0.0.0 up-pay.me
 0.0.0.0 upayment.me
@@ -1705,6 +1716,7 @@
 0.0.0.0 viplataua.shop
 0.0.0.0 viplataua.xyz
 0.0.0.0 viplatauaukr.xyz
+0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
 0.0.0.0 viplatavop.club
 0.0.0.0 viplatavpo.biz
@@ -1715,6 +1727,7 @@
 0.0.0.0 viplaty-vsem.biz.ua
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
+0.0.0.0 viplatya-kosthiv.com.ua
 0.0.0.0 viplatyy.com
 0.0.0.0 vipplata.com
 0.0.0.0 viuplata.com
@@ -1729,6 +1742,7 @@
 0.0.0.0 vuplatyi.com
 0.0.0.0 vyplata-edopomoga.com
 0.0.0.0 vyplata-help.com
+0.0.0.0 vyplata-ocshad24.uk
 0.0.0.0 vyplata-pays.fun
 0.0.0.0 vyplata-pays.kyiv.ua
 0.0.0.0 vyplata24.com
