@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 07 May 2023 15:20 EEST
+! Last modified: Fri, 12 May 2023 19:37 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -200,6 +200,7 @@
 ||dopomogaua-pidtrimkaua.com^
 ||dopomogaua.pro^
 ||dopomogaua.xyz^
+||dopomogauk.xyz^
 ||dopomogaukr.website^
 ||dopomogaukraiine.com^
 ||dopomogaukrainaua.com^
@@ -216,6 +217,7 @@
 ||e-viplata.space^
 ||ebayua66.com^
 ||ebayua66.vip^
+||ebayukraine.vip^
 ||ec-compensation.xyz^
 ||ed-edopomoga.com^
 ||edi6.site^
@@ -482,6 +484,7 @@
 ||oon-viplata.social^
 ||oonpay.site^
 ||oonviplata.tech^
+||oonviplaty.host^
 ||opay365.com^
 ||oplat.pro^
 ||oplataofficial.life^
@@ -532,6 +535,7 @@
 ||p-dopomogah.com^
 ||p-invest.site^
 ||pac-pay.online^
+||pajama-ukraine.store^
 ||parimatch-ua.top^
 ||pay-chs.me^
 ||pay-ocshad24.uk^
@@ -699,6 +703,7 @@
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
 ||raiffeizen-viplata-help.online^
+||raiffejsen.online^
 ||raiffesen.com^
 ||raiffesen.pro^
 ||raiffeslen.biz^
@@ -735,6 +740,7 @@
 ||securitypays.online^
 ||sendex.online^
 ||shepir.com^
+||shop-ukraine.shop^
 ||shop-ukraine.site^
 ||shoppingua.fun^
 ||sitidiia.live^
@@ -790,6 +796,7 @@
 ||ua-edopomoga.live^
 ||ua-edopomoga.me^
 ||ua-konkurs.site^
+||ua-oonviplata.cloud^
 ||ua-pay.space^
 ||ua-payout.site^
 ||ua-privat24.pro^
@@ -857,6 +864,7 @@
 ||ukr-receive.sbs^
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
+||ukr-top.fun^
 ||ukraiff.mobi^
 ||ukraiff.services^
 ||ukraina-gos.top^
@@ -875,6 +883,7 @@
 ||ukraineamazon.pro^
 ||ukrainebayra.com^
 ||ukrainedostavka.store^
+||ukraineebay.vip^
 ||ukrainehelp.cloud^
 ||ukrainehelp.gives^
 ||ukrainehelp.wiki^
@@ -886,6 +895,7 @@
 ||ukraineshops.fun^
 ||ukrainesviplata.tilda.ws^
 ||ukrainetop.store^
+||ukrainetoptovar.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
 ||ukrainianamazon.com^
@@ -916,6 +926,7 @@
 ||ul-pay.me^
 ||un-dopomoga.info^
 ||unicefua.news^
+||unicefvyplaty.com^
 ||unix-change.world^
 ||up-pay.me^
 ||upayment.me^
@@ -971,6 +982,7 @@
 ||viplataua.shop^
 ||viplataua.xyz^
 ||viplatauaukr.xyz^
+||viplatauaukraine.xyz^
 ||viplataukr.xyz^
 ||viplatavop.club^
 ||viplatavpo.biz^
@@ -981,6 +993,7 @@
 ||viplaty-vsem.biz.ua^
 ||viplaty.com.ua^
 ||viplaty.online^
+||viplatya-kosthiv.com.ua^
 ||viplatyy.com^
 ||vipplata.com^
 ||viuplata.com^
@@ -994,6 +1007,7 @@
 ||vuplatyi.com^
 ||vyplata-edopomoga.com^
 ||vyplata-help.com^
+||vyplata-ocshad24.uk^
 ||vyplata-pays.fun^
 ||vyplata-pays.kyiv.ua^
 ||vyplata24.com^
@@ -1130,6 +1144,7 @@
 ||t.me/OOHviplata^$document
 ||t.me/OON_oschad_bot^$document
 ||t.me/OON_oshadbank_bot^$document
+||t.me/Pidrumka24OOH_Bot^$document
 ||t.me/pidrumkaua^$document
 ||t.me/PrivatBank24UK^$document
 ||t.me/Raifaise20000^$document
@@ -1178,6 +1193,7 @@
 ||t.me/s/OOHviplata^$document
 ||t.me/s/OON_oschad_bot^$document
 ||t.me/s/OON_oshadbank_bot^$document
+||t.me/s/Pidrumka24OOH_Bot^$document
 ||t.me/s/pidrumkaua^$document
 ||t.me/s/PrivatBank24UK^$document
 ||t.me/s/Raifaise20000^$document
