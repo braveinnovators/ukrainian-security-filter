@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 12 May 2023 19:37 EEST
+# Last modified: Sun, 14 May 2023 17:50 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -90,6 +90,7 @@
 0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
 0.0.0.0 bid.cx.ua
+0.0.0.0 bienkhongmom.site
 0.0.0.0 biluzna-ua.store
 0.0.0.0 blago-privatc24.ccx5.fun
 0.0.0.0 blago-privatc24.wf0.uno
@@ -189,6 +190,8 @@
 0.0.0.0 diya-gov.com
 0.0.0.0 diya-ocshad24.uk
 0.0.0.0 diya-privat24.uk
+0.0.0.0 diya-privatl24.uk
+0.0.0.0 diya-raiffeisen24.uk
 0.0.0.0 diya-vyplata.kyiv.ua
 0.0.0.0 diyadopomoga.online
 0.0.0.0 diyaviplati.co
@@ -253,6 +256,7 @@
 0.0.0.0 dopomogahelp.com
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaofficialua.com
+0.0.0.0 dopomogaonleneukraina.co
 0.0.0.0 dopomogaonline.xyz
 0.0.0.0 dopomogaooh.pro
 0.0.0.0 dopomogapays.site
@@ -317,6 +321,7 @@
 0.0.0.0 edopomogaua-epidtrimka.com
 0.0.0.0 edopomogaua-eviplataua.com
 0.0.0.0 edopomogaua-uknaine.com
+0.0.0.0 edopomogaua.live
 0.0.0.0 edopomogaua.ru
 0.0.0.0 edopomogaua.site
 0.0.0.0 edopomogaua.website
@@ -444,6 +449,7 @@
 0.0.0.0 izibank.pay-ukraine.com
 0.0.0.0 izibank.vorkviplata.biz
 0.0.0.0 j9-wersii.buzz
+0.0.0.0 jah3.space
 0.0.0.0 jay-order.me
 0.0.0.0 k-auch.buzz
 0.0.0.0 k-auch.quest
@@ -954,6 +960,7 @@
 0.0.0.0 pays.creditcard
 0.0.0.0 paysdayl.click
 0.0.0.0 paystarted.com
+0.0.0.0 payukraine24now.com
 0.0.0.0 payukrainenow.com
 0.0.0.0 pcs-order.me
 0.0.0.0 perekaz-koshtiv.online
@@ -1425,6 +1432,7 @@
 0.0.0.0 redcross-privat24.shop
 0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 redcrossdopomoga.info
+0.0.0.0 redcrossua.top
 0.0.0.0 redcrossukraine.co
 0.0.0.0 redcrossukraine.top
 0.0.0.0 regsotsvyplat.online
@@ -1470,6 +1478,7 @@
 0.0.0.0 swift-pay.online
 0.0.0.0 sz0.fun
 0.0.0.0 table-ua.store
+0.0.0.0 tamnuocbanchai.site
 0.0.0.0 tax-compensation.bar
 0.0.0.0 tax-compenses.xyz
 0.0.0.0 technobank.com.ua
@@ -1572,6 +1581,7 @@
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
 0.0.0.0 ukr-top.fun
+0.0.0.0 ukr24.space
 0.0.0.0 ukraiff.mobi
 0.0.0.0 ukraiff.services
 0.0.0.0 ukraina-gos.top
@@ -1669,6 +1679,7 @@
 0.0.0.0 usdtrader.com
 0.0.0.0 uvyplata.icu
 0.0.0.0 uw-edopomoga.com
+0.0.0.0 vanhnghienthuoc.site
 0.0.0.0 vasic.website
 0.0.0.0 veneta-ua.store
 0.0.0.0 vennete-ua.store
@@ -1718,6 +1729,7 @@
 0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
+0.0.0.0 viplataukraine.com
 0.0.0.0 viplatavop.club
 0.0.0.0 viplatavpo.biz
 0.0.0.0 viplatavsem.site
