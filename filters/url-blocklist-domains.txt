@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 12 May 2023 19:37 EEST
+# Last modified: Sun, 14 May 2023 17:50 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -90,6 +90,7 @@ bankaval-ukraine.com
 bankver.com
 bankverif.live
 bid.cx.ua
+bienkhongmom.site
 biluzna-ua.store
 blago-privatc24.ccx5.fun
 blago-privatc24.wf0.uno
@@ -189,6 +190,8 @@ diya-edopomoga.online
 diya-gov.com
 diya-ocshad24.uk
 diya-privat24.uk
+diya-privatl24.uk
+diya-raiffeisen24.uk
 diya-vyplata.kyiv.ua
 diyadopomoga.online
 diyaviplati.co
@@ -253,6 +256,7 @@ dopomogae.xyz
 dopomogahelp.com
 dopomogainukraine.com
 dopomogaofficialua.com
+dopomogaonleneukraina.co
 dopomogaonline.xyz
 dopomogaooh.pro
 dopomogapays.site
@@ -317,6 +321,7 @@ edopomogaua-epidtimkaua.com
 edopomogaua-epidtrimka.com
 edopomogaua-eviplataua.com
 edopomogaua-uknaine.com
+edopomogaua.live
 edopomogaua.ru
 edopomogaua.site
 edopomogaua.website
@@ -444,6 +449,7 @@ izibank.gate-pays.me
 izibank.pay-ukraine.com
 izibank.vorkviplata.biz
 j9-wersii.buzz
+jah3.space
 jay-order.me
 k-auch.buzz
 k-auch.quest
@@ -954,6 +960,7 @@ pays.credit
 pays.creditcard
 paysdayl.click
 paystarted.com
+payukraine24now.com
 payukrainenow.com
 pcs-order.me
 perekaz-koshtiv.online
@@ -1425,6 +1432,7 @@ rectivs.com
 redcross-privat24.shop
 redcrossbezl.yolasite.com
 redcrossdopomoga.info
+redcrossua.top
 redcrossukraine.co
 redcrossukraine.top
 regsotsvyplat.online
@@ -1470,6 +1478,7 @@ sutary.com
 swift-pay.online
 sz0.fun
 table-ua.store
+tamnuocbanchai.site
 tax-compensation.bar
 tax-compenses.xyz
 technobank.com.ua
@@ -1572,6 +1581,7 @@ ukr-receive.sbs
 ukr-savess.icu
 ukr-savess.sbs
 ukr-top.fun
+ukr24.space
 ukraiff.mobi
 ukraiff.services
 ukraina-gos.top
@@ -1669,6 +1679,7 @@ uplata.cyou
 usdtrader.com
 uvyplata.icu
 uw-edopomoga.com
+vanhnghienthuoc.site
 vasic.website
 veneta-ua.store
 vennete-ua.store
@@ -1718,6 +1729,7 @@ viplataua.xyz
 viplatauaukr.xyz
 viplatauaukraine.xyz
 viplataukr.xyz
+viplataukraine.com
 viplatavop.club
 viplatavpo.biz
 viplatavsem.site
