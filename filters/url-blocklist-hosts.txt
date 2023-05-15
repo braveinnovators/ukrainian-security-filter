@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 14 May 2023 17:50 EEST
+# Last modified: Mon, 15 May 2023 13:43 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -89,6 +89,7 @@
 0.0.0.0 bankaval-ukraine.com
 0.0.0.0 bankver.com
 0.0.0.0 bankverif.live
+0.0.0.0 benedetto-help.info
 0.0.0.0 bid.cx.ua
 0.0.0.0 bienkhongmom.site
 0.0.0.0 biluzna-ua.store
@@ -278,6 +279,7 @@
 0.0.0.0 drone-ua.space
 0.0.0.0 e-dopomoga-perekazy24.space
 0.0.0.0 e-dopomoga.click
+0.0.0.0 e-dopomoga.uk
 0.0.0.0 e-dopomogaua.me
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
@@ -315,6 +317,7 @@
 0.0.0.0 edopomogai24.edi6.site
 0.0.0.0 edopomogaofficialua.com
 0.0.0.0 edopomogaonline.com
+0.0.0.0 edopomogaonlinesite.work
 0.0.0.0 edopomogaoriginalukraine.com
 0.0.0.0 edopomogapidtrimka.com
 0.0.0.0 edopomogaua-epidtimkaua.com
@@ -410,6 +413,7 @@
 0.0.0.0 help-fond-ukrain.icu
 0.0.0.0 help-fond-ukrain.sbs
 0.0.0.0 help-fynancegov.com
+0.0.0.0 help-oschad.uk
 0.0.0.0 help-oschad24.shop
 0.0.0.0 help-oschad24.site
 0.0.0.0 help-privat24.shop
@@ -1708,6 +1712,7 @@
 0.0.0.0 viplata.mobi
 0.0.0.0 viplata.org
 0.0.0.0 viplata.space
+0.0.0.0 viplata24.shop
 0.0.0.0 viplata24.tech
 0.0.0.0 viplatadiya.site
 0.0.0.0 viplatadopomogaua.com
