@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 15 May 2023 18:51 EEST
+# Last modified: Tue, 16 May 2023 18:46 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -60,15 +60,19 @@ abank.peyidgo.pro
 abank.uadostawka.com
 abank.uah-perekaz24.com
 actions-pay24.win
+adidas-ua.shop
 ads-pid.me
 agri-chain.site
 agribe-ukr.shop
+agronova-ukr.shop
 aid-edopomoga.com
+aid-edopomoga.info
 aid-for-ukraine.info
 aid-for-ukraine.life
 aid-for-ukraine.world
 amerisn.com
 apayments.pro
+api-donate-ukrainehelp.org
 aval-bank-online.com
 aval-ukraine.com
 avalbank-ukraine.com
@@ -121,6 +125,7 @@ ccx5.space
 ccx5.uno
 ccx5.website
 cercis-dopay24.biz
+childrens-fund-ukraine.com
 chydovo.com
 ckx-pay.me
 com1465.website
@@ -185,6 +190,7 @@ diiadopomoga2jd.pro
 diiapay.info
 diiapidpys.uk
 diiaua.com
+diiya-ua.info
 dipdopdia.com
 dipuplatservises24.sale
 diya-edopomoga.online
@@ -204,6 +210,7 @@ domennn.com
 domopoga-ua.coshi.online
 domopoga-ua.nopersonexty.online
 domopoga.coshi.online
+donate-ukrainehelp.org
 donttech.com
 dop-viplatisite24.online
 dopomegatm.me
@@ -368,6 +375,7 @@ flexcapital.com
 fond-dopomogy.shop
 fpl1.fun
 g-pay.me
+gadgetry-ua.store
 gardenflorista.site
 gardenpath-ua.shop
 gate-pays.me
@@ -457,6 +465,7 @@ jah3.space
 jay-order.me
 k-auch.buzz
 k-auch.quest
+kalina-ua.online
 kievstar.online
 klespo.site
 klisp-o.site
@@ -468,6 +477,7 @@ konkurs-ua.site
 konkurs-ukraine.site
 konvas.store
 kpayments.cc
+kramnitsa-ua.store
 kredo.pay-ukraine.com
 kredo.securitypay.me
 kredobank.no-pay.me
@@ -994,6 +1004,7 @@ pins-ua.online
 pins-ua.world
 platizh.com
 platizhmob.com
+plivka-ua.shop
 po-mosh.com
 po-teq.com
 poluchenie.pw
@@ -1131,6 +1142,7 @@ privatpay.me
 privatpay.online
 prlvatbank24.pw
 proffis.online
+prom-pay-ua.host
 promo-pay24.win
 pruity.com
 prytulafoundation.in
@@ -1459,8 +1471,8 @@ shepir.com
 shop-ukraine.shop
 shop-ukraine.site
 shoppingua.fun
-sites.google.com/view/d362g5d2
 sitidiia.live
+skysetukraine.club
 smartlead.com.ua
 sn0.uno
 sneakersadi2018.com
@@ -1474,6 +1486,7 @@ speed-perekaz.com
 sportbank.epomoh.biz
 squirtvid.com
 store-ua.site
+store-ukr.com.ua
 storeeu.site
 streuro.site
 suknya-trend-ua.store
@@ -1599,6 +1612,7 @@ ukraine-online-shop.store
 ukraine-raffasen.com
 ukraine-raffesen.com
 ukraine-shop.uno
+ukraine-shoping.space
 ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
@@ -1665,6 +1679,7 @@ ukrsib.vorkviplata.biz
 ukrsib.vuplata.ink
 ukrsib.xx-pay.co
 ukrsibbank.top
+ukrsmartshop.com
 ukrspayman.bid
 ukrspayman.online
 ukrspayman.pics
@@ -1686,6 +1701,7 @@ uw-edopomoga.com
 vanhnghienthuoc.site
 vanhthuoclao.site
 vasic.website
+velka-ua.store
 veneta-ua.store
 vennete-ua.store
 vi-plata.com
