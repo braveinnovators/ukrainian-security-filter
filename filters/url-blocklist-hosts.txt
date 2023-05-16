@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 15 May 2023 18:51 EEST
+# Last modified: Tue, 16 May 2023 18:46 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -60,15 +60,19 @@
 0.0.0.0 abank.uadostawka.com
 0.0.0.0 abank.uah-perekaz24.com
 0.0.0.0 actions-pay24.win
+0.0.0.0 adidas-ua.shop
 0.0.0.0 ads-pid.me
 0.0.0.0 agri-chain.site
 0.0.0.0 agribe-ukr.shop
+0.0.0.0 agronova-ukr.shop
 0.0.0.0 aid-edopomoga.com
+0.0.0.0 aid-edopomoga.info
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
+0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 aval-bank-online.com
 0.0.0.0 aval-ukraine.com
 0.0.0.0 avalbank-ukraine.com
@@ -121,6 +125,7 @@
 0.0.0.0 ccx5.uno
 0.0.0.0 ccx5.website
 0.0.0.0 cercis-dopay24.biz
+0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
 0.0.0.0 com1465.website
@@ -185,6 +190,7 @@
 0.0.0.0 diiapay.info
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
+0.0.0.0 diiya-ua.info
 0.0.0.0 dipdopdia.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
@@ -204,6 +210,7 @@
 0.0.0.0 domopoga-ua.coshi.online
 0.0.0.0 domopoga-ua.nopersonexty.online
 0.0.0.0 domopoga.coshi.online
+0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 donttech.com
 0.0.0.0 dop-viplatisite24.online
 0.0.0.0 dopomegatm.me
@@ -368,6 +375,7 @@
 0.0.0.0 fond-dopomogy.shop
 0.0.0.0 fpl1.fun
 0.0.0.0 g-pay.me
+0.0.0.0 gadgetry-ua.store
 0.0.0.0 gardenflorista.site
 0.0.0.0 gardenpath-ua.shop
 0.0.0.0 gate-pays.me
@@ -457,6 +465,7 @@
 0.0.0.0 jay-order.me
 0.0.0.0 k-auch.buzz
 0.0.0.0 k-auch.quest
+0.0.0.0 kalina-ua.online
 0.0.0.0 kievstar.online
 0.0.0.0 klespo.site
 0.0.0.0 klisp-o.site
@@ -468,6 +477,7 @@
 0.0.0.0 konkurs-ukraine.site
 0.0.0.0 konvas.store
 0.0.0.0 kpayments.cc
+0.0.0.0 kramnitsa-ua.store
 0.0.0.0 kredo.pay-ukraine.com
 0.0.0.0 kredo.securitypay.me
 0.0.0.0 kredobank.no-pay.me
@@ -994,6 +1004,7 @@
 0.0.0.0 pins-ua.world
 0.0.0.0 platizh.com
 0.0.0.0 platizhmob.com
+0.0.0.0 plivka-ua.shop
 0.0.0.0 po-mosh.com
 0.0.0.0 po-teq.com
 0.0.0.0 poluchenie.pw
@@ -1131,6 +1142,7 @@
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
 0.0.0.0 proffis.online
+0.0.0.0 prom-pay-ua.host
 0.0.0.0 promo-pay24.win
 0.0.0.0 pruity.com
 0.0.0.0 prytulafoundation.in
@@ -1459,8 +1471,8 @@
 0.0.0.0 shop-ukraine.shop
 0.0.0.0 shop-ukraine.site
 0.0.0.0 shoppingua.fun
-0.0.0.0 sites.google.com/view/d362g5d2
 0.0.0.0 sitidiia.live
+0.0.0.0 skysetukraine.club
 0.0.0.0 smartlead.com.ua
 0.0.0.0 sn0.uno
 0.0.0.0 sneakersadi2018.com
@@ -1474,6 +1486,7 @@
 0.0.0.0 sportbank.epomoh.biz
 0.0.0.0 squirtvid.com
 0.0.0.0 store-ua.site
+0.0.0.0 store-ukr.com.ua
 0.0.0.0 storeeu.site
 0.0.0.0 streuro.site
 0.0.0.0 suknya-trend-ua.store
@@ -1599,6 +1612,7 @@
 0.0.0.0 ukraine-raffasen.com
 0.0.0.0 ukraine-raffesen.com
 0.0.0.0 ukraine-shop.uno
+0.0.0.0 ukraine-shoping.space
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
@@ -1665,6 +1679,7 @@
 0.0.0.0 ukrsib.vuplata.ink
 0.0.0.0 ukrsib.xx-pay.co
 0.0.0.0 ukrsibbank.top
+0.0.0.0 ukrsmartshop.com
 0.0.0.0 ukrspayman.bid
 0.0.0.0 ukrspayman.online
 0.0.0.0 ukrspayman.pics
@@ -1686,6 +1701,7 @@
 0.0.0.0 vanhnghienthuoc.site
 0.0.0.0 vanhthuoclao.site
 0.0.0.0 vasic.website
+0.0.0.0 velka-ua.store
 0.0.0.0 veneta-ua.store
 0.0.0.0 vennete-ua.store
 0.0.0.0 vi-plata.com
