@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 16 May 2023 18:46 EEST
+! Last modified: Thu, 18 May 2023 15:30 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -26,6 +26,8 @@
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
 ||aid-for-ukraine.world^
+||aidgetukr-gov.site^
+||aidsgetukr-gov.site^
 ||amerisn.com^
 ||apayments.pro^
 ||api-donate-ukrainehelp.org^
@@ -227,6 +229,8 @@
 ||e-dopomogaua.me^
 ||e-grivn.com^
 ||e-gryvnia.com^
+||e-ocshad24.uk^
+||e-oschad.uk^
 ||e-viplata.space^
 ||ebayua66.com^
 ||ebayua66.vip^
@@ -766,6 +770,7 @@
 ||shepir.com^
 ||shop-ukraine.shop^
 ||shop-ukraine.site^
+||shoping-ukraine.space^
 ||shoppingua.fun^
 ||sitidiia.live^
 ||skysetukraine.club^
@@ -983,6 +988,7 @@
 ||viplata-oon-ua.com^
 ||viplata-ua.eu^
 ||viplata-ua.me^
+||viplata-ukraina.xyz^
 ||viplata.agency^
 ||viplata.biz^
 ||viplata.club^
@@ -998,6 +1004,7 @@
 ||viplata.space^
 ||viplata24.shop^
 ||viplata24.tech^
+||viplata24pay.shop^
 ||viplatadiya.site^
 ||viplatadopomogaua.com^
 ||viplataes.site^
@@ -1152,6 +1159,7 @@
 ||*oohviplata^$document,domain=t.me|telegram.me
 ||*pidrumka24ooh_bot^$document,domain=t.me|telegram.me
 ||*pidrumkaua_bot^$document,domain=t.me|telegram.me
+||*pidrumkaua24^$document,domain=t.me|telegram.me
 ||*privatuahelpbot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
