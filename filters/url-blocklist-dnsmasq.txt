@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 16 May 2023 18:46 EEST
+# Last modified: Thu, 18 May 2023 15:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,8 @@ address=/aid-edopomoga.info/
 address=/aid-for-ukraine.info/
 address=/aid-for-ukraine.life/
 address=/aid-for-ukraine.world/
+address=/aidgetukr-gov.site/
+address=/aidsgetukr-gov.site/
 address=/amerisn.com/
 address=/apayments.pro/
 address=/api-donate-ukrainehelp.org/
@@ -290,6 +292,8 @@ address=/e-dopomoga.uk/
 address=/e-dopomogaua.me/
 address=/e-grivn.com/
 address=/e-gryvnia.com/
+address=/e-ocshad24.uk/
+address=/e-oschad.uk/
 address=/e-viplata.space/
 address=/ebayua66.com/
 address=/ebayua66.vip/
@@ -1470,6 +1474,7 @@ address=/sendex.online/
 address=/shepir.com/
 address=/shop-ukraine.shop/
 address=/shop-ukraine.site/
+address=/shoping-ukraine.space/
 address=/shoppingua.fun/
 address=/sitidiia.live/
 address=/skysetukraine.club/
@@ -1716,6 +1721,7 @@ address=/viplata-ooh.life/
 address=/viplata-oon-ua.com/
 address=/viplata-ua.eu/
 address=/viplata-ua.me/
+address=/viplata-ukraina.xyz/
 address=/viplata.agency/
 address=/viplata.biz/
 address=/viplata.club/
@@ -1731,6 +1737,7 @@ address=/viplata.org/
 address=/viplata.space/
 address=/viplata24.shop/
 address=/viplata24.tech/
+address=/viplata24pay.shop/
 address=/viplatadiya.site/
 address=/viplatadopomogaua.com/
 address=/viplataes.site/
