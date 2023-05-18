@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 16 May 2023 18:46 EEST
+# Last modified: Thu, 18 May 2023 15:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,8 @@
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
+0.0.0.0 aidgetukr-gov.site
+0.0.0.0 aidsgetukr-gov.site
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 api-donate-ukrainehelp.org
@@ -290,6 +292,8 @@
 0.0.0.0 e-dopomogaua.me
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
+0.0.0.0 e-ocshad24.uk
+0.0.0.0 e-oschad.uk
 0.0.0.0 e-viplata.space
 0.0.0.0 ebayua66.com
 0.0.0.0 ebayua66.vip
@@ -1470,6 +1474,7 @@
 0.0.0.0 shepir.com
 0.0.0.0 shop-ukraine.shop
 0.0.0.0 shop-ukraine.site
+0.0.0.0 shoping-ukraine.space
 0.0.0.0 shoppingua.fun
 0.0.0.0 sitidiia.live
 0.0.0.0 skysetukraine.club
@@ -1716,6 +1721,7 @@
 0.0.0.0 viplata-oon-ua.com
 0.0.0.0 viplata-ua.eu
 0.0.0.0 viplata-ua.me
+0.0.0.0 viplata-ukraina.xyz
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
@@ -1731,6 +1737,7 @@
 0.0.0.0 viplata.space
 0.0.0.0 viplata24.shop
 0.0.0.0 viplata24.tech
+0.0.0.0 viplata24pay.shop
 0.0.0.0 viplatadiya.site
 0.0.0.0 viplatadopomogaua.com
 0.0.0.0 viplataes.site
