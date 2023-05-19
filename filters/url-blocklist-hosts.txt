@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 18 May 2023 15:30 EEST
+# Last modified: Fri, 19 May 2023 15:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -263,12 +263,14 @@
 0.0.0.0 dopomogae.online
 0.0.0.0 dopomogae.social
 0.0.0.0 dopomogae.xyz
+0.0.0.0 dopomogagroshi.top
 0.0.0.0 dopomogahelp.com
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaofficialua.com
 0.0.0.0 dopomogaonleneukraina.co
 0.0.0.0 dopomogaonline.xyz
 0.0.0.0 dopomogaooh.pro
+0.0.0.0 dopomogaoon.space
 0.0.0.0 dopomogapays.site
 0.0.0.0 dopomogapro.club
 0.0.0.0 dopomogas.com
@@ -706,6 +708,7 @@
 0.0.0.0 oon-viplata.org
 0.0.0.0 oon-viplata.social
 0.0.0.0 oonpay.site
+0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
 0.0.0.0 opay365.com
@@ -1781,6 +1784,7 @@
 0.0.0.0 vuplata.online
 0.0.0.0 vuplatu.in
 0.0.0.0 vuplatyi.com
+0.0.0.0 vuplatyukraine.com
 0.0.0.0 vyplata-edopomoga.com
 0.0.0.0 vyplata-help.com
 0.0.0.0 vyplata-ocshad24.uk
