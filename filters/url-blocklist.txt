@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 18 May 2023 15:30 EEST
+! Last modified: Fri, 19 May 2023 15:30 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -200,12 +200,14 @@
 ||dopomogae.online^
 ||dopomogae.social^
 ||dopomogae.xyz^
+||dopomogagroshi.top^
 ||dopomogahelp.com^
 ||dopomogainukraine.com^
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
 ||dopomogaonline.xyz^
 ||dopomogaooh.pro^
+||dopomogaoon.space^
 ||dopomogapays.site^
 ||dopomogapro.club^
 ||dopomogas.com^
@@ -507,6 +509,7 @@
 ||oon-viplata.org^
 ||oon-viplata.social^
 ||oonpay.site^
+||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
 ||opay365.com^
@@ -1047,6 +1050,7 @@
 ||vuplata.online^
 ||vuplatu.in^
 ||vuplatyi.com^
+||vuplatyukraine.com^
 ||vyplata-edopomoga.com^
 ||vyplata-help.com^
 ||vyplata-ocshad24.uk^
