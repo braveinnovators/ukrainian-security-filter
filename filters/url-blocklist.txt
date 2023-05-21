@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 19 May 2023 15:30 EEST
+! Last modified: Sun, 21 May 2023 14:19 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -26,6 +26,9 @@
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
 ||aid-for-ukraine.world^
+||aiderinukr-gov.site^
+||aiderukr-gov.site^
+||aidforukr-gov.site^
 ||aidgetukr-gov.site^
 ||aidsgetukr-gov.site^
 ||amerisn.com^
@@ -119,9 +122,11 @@
 ||diadopomogafree6500.com^
 ||diafes.com^
 ||diahelpfulua.click^
+||diaviplata.org^
 ||diia-2023help.me^
 ||diia-d0p0moga.com^
 ||diia-dopomoga.eu^
+||diia-dopomoga.life^
 ||diia-dopomoga.pro^
 ||diia-gov.com^
 ||diia-gov.me^
@@ -233,6 +238,7 @@
 ||e-gryvnia.com^
 ||e-ocshad24.uk^
 ||e-oschad.uk^
+||e-privatbank24.me^
 ||e-viplata.space^
 ||ebayua66.com^
 ||ebayua66.vip^
@@ -410,6 +416,7 @@
 ||konvas.store^
 ||kpayments.cc^
 ||kramnitsa-ua.store^
+||kyivstar-internet.com^
 ||kyivstar-sale.com.ua^
 ||kyivstarbezlim.com^
 ||lataepitrimka.vip^
@@ -452,6 +459,7 @@
 ||ms0.uno^
 ||my-govuvvyplate.site^
 ||my-govuwvyplate.site^
+||my-privat24.cc^
 ||mygraphbook.com^
 ||mytax-compensation.xyz^
 ||mytechno.com.ua^
@@ -509,6 +517,7 @@
 ||oon-viplata.org^
 ||oon-viplata.social^
 ||oonpay.site^
+||oonviplata.com^
 ||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
@@ -794,6 +803,7 @@
 ||streuro.site^
 ||suknya-trend-ua.store^
 ||suknya-ua.store^
+||supportukraine.help^
 ||sutary.com^
 ||swift-pay.online^
 ||sz0.fun^
@@ -892,7 +902,12 @@
 ||ukr-linker.xyz^
 ||ukr-market24.com.ua^
 ||ukr-money.com.ua^
+||ukr-oil-group.online^
+||ukr-oneshop.com.ua^
+||ukr-online-store.com.ua^
+||ukr-online-store.online^
 ||ukr-payment-system.online^
+||ukr-product.com.ua^
 ||ukr-receive.cfd^
 ||ukr-receive.cyou^
 ||ukr-receive.icu^
@@ -925,6 +940,7 @@
 ||ukrainehelp.gives^
 ||ukrainehelp.wiki^
 ||ukrainehelps.cloud^
+||ukrainehotspothelp.com^
 ||ukraineinua.website^
 ||ukrainepaymentsystem.pro^
 ||ukrainerozetka.com^
@@ -1129,6 +1145,7 @@
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
+||facebook.com/groups/734908961704169^$document
 ||facebook.com/groups/950847565954330^$document
 ||facebook.com/profile.php?id=100091133216478^$document
 ||facebook.com/profile.php?id=100091371410986^$document
