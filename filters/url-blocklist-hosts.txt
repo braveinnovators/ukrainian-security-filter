@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 19 May 2023 15:30 EEST
+# Last modified: Sun, 21 May 2023 14:19 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,9 @@
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
+0.0.0.0 aiderinukr-gov.site
+0.0.0.0 aiderukr-gov.site
+0.0.0.0 aidforukr-gov.site
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 aidsgetukr-gov.site
 0.0.0.0 amerisn.com
@@ -175,9 +178,11 @@
 0.0.0.0 diadopomogafree6500.com
 0.0.0.0 diafes.com
 0.0.0.0 diahelpfulua.click
+0.0.0.0 diaviplata.org
 0.0.0.0 diia-2023help.me
 0.0.0.0 diia-d0p0moga.com
 0.0.0.0 diia-dopomoga.eu
+0.0.0.0 diia-dopomoga.life
 0.0.0.0 diia-dopomoga.pro
 0.0.0.0 diia-gov.com
 0.0.0.0 diia-gov.me
@@ -296,6 +301,7 @@
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-ocshad24.uk
 0.0.0.0 e-oschad.uk
+0.0.0.0 e-privatbank24.me
 0.0.0.0 e-viplata.space
 0.0.0.0 ebayua66.com
 0.0.0.0 ebayua66.vip
@@ -487,6 +493,7 @@
 0.0.0.0 kredo.pay-ukraine.com
 0.0.0.0 kredo.securitypay.me
 0.0.0.0 kredobank.no-pay.me
+0.0.0.0 kyivstar-internet.com
 0.0.0.0 kyivstar-sale.com.ua
 0.0.0.0 kyivstarbezlim.com
 0.0.0.0 lataepitrimka.vip
@@ -540,6 +547,7 @@
 0.0.0.0 my-gov.uvyplata.icu
 0.0.0.0 my-govuvvyplate.site
 0.0.0.0 my-govuwvyplate.site
+0.0.0.0 my-privat24.cc
 0.0.0.0 mygraphbook.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 mytechno.com.ua
@@ -708,6 +716,7 @@
 0.0.0.0 oon-viplata.org
 0.0.0.0 oon-viplata.social
 0.0.0.0 oonpay.site
+0.0.0.0 oonviplata.com
 0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
@@ -1499,6 +1508,7 @@
 0.0.0.0 streuro.site
 0.0.0.0 suknya-trend-ua.store
 0.0.0.0 suknya-ua.store
+0.0.0.0 supportukraine.help
 0.0.0.0 sutary.com
 0.0.0.0 swift-pay.online
 0.0.0.0 sz0.fun
@@ -1598,7 +1608,12 @@
 0.0.0.0 ukr-linker.xyz
 0.0.0.0 ukr-market24.com.ua
 0.0.0.0 ukr-money.com.ua
+0.0.0.0 ukr-oil-group.online
+0.0.0.0 ukr-oneshop.com.ua
+0.0.0.0 ukr-online-store.com.ua
+0.0.0.0 ukr-online-store.online
 0.0.0.0 ukr-payment-system.online
+0.0.0.0 ukr-product.com.ua
 0.0.0.0 ukr-receive.cfd
 0.0.0.0 ukr-receive.cyou
 0.0.0.0 ukr-receive.icu
@@ -1631,6 +1646,7 @@
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
 0.0.0.0 ukrainehelps.cloud
+0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukraineinua.website
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainerozetka.com
