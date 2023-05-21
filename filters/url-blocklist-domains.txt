@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 19 May 2023 15:30 EEST
+# Last modified: Sun, 21 May 2023 14:19 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,9 @@ aid-edopomoga.info
 aid-for-ukraine.info
 aid-for-ukraine.life
 aid-for-ukraine.world
+aiderinukr-gov.site
+aiderukr-gov.site
+aidforukr-gov.site
 aidgetukr-gov.site
 aidsgetukr-gov.site
 amerisn.com
@@ -175,9 +178,11 @@ diadopomoga6500.com
 diadopomogafree6500.com
 diafes.com
 diahelpfulua.click
+diaviplata.org
 diia-2023help.me
 diia-d0p0moga.com
 diia-dopomoga.eu
+diia-dopomoga.life
 diia-dopomoga.pro
 diia-gov.com
 diia-gov.me
@@ -296,6 +301,7 @@ e-grivn.com
 e-gryvnia.com
 e-ocshad24.uk
 e-oschad.uk
+e-privatbank24.me
 e-viplata.space
 ebayua66.com
 ebayua66.vip
@@ -487,6 +493,7 @@ kramnitsa-ua.store
 kredo.pay-ukraine.com
 kredo.securitypay.me
 kredobank.no-pay.me
+kyivstar-internet.com
 kyivstar-sale.com.ua
 kyivstarbezlim.com
 lataepitrimka.vip
@@ -540,6 +547,7 @@ my-gov.uplata.cyou
 my-gov.uvyplata.icu
 my-govuvvyplate.site
 my-govuwvyplate.site
+my-privat24.cc
 mygraphbook.com
 mytax-compensation.xyz
 mytechno.com.ua
@@ -708,6 +716,7 @@ oon-viplata.eu
 oon-viplata.org
 oon-viplata.social
 oonpay.site
+oonviplata.com
 oonviplata.online
 oonviplata.tech
 oonviplaty.host
@@ -1499,6 +1508,7 @@ storeeu.site
 streuro.site
 suknya-trend-ua.store
 suknya-ua.store
+supportukraine.help
 sutary.com
 swift-pay.online
 sz0.fun
@@ -1598,7 +1608,12 @@ ukr-kompenssations.buzz
 ukr-linker.xyz
 ukr-market24.com.ua
 ukr-money.com.ua
+ukr-oil-group.online
+ukr-oneshop.com.ua
+ukr-online-store.com.ua
+ukr-online-store.online
 ukr-payment-system.online
+ukr-product.com.ua
 ukr-receive.cfd
 ukr-receive.cyou
 ukr-receive.icu
@@ -1631,6 +1646,7 @@ ukrainehelp.cloud
 ukrainehelp.gives
 ukrainehelp.wiki
 ukrainehelps.cloud
+ukrainehotspothelp.com
 ukraineinua.website
 ukrainepaymentsystem.pro
 ukrainerozetka.com
