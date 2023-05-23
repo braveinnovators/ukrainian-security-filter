@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 21 May 2023 14:19 EEST
+! Last modified: Tue, 23 May 2023 14:57 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -17,6 +17,7 @@
 ||640e06527233d.site123.me^
 ||actions-pay24.win^
 ||adidas-ua.shop^
+||adinedopomoga-gov.site^
 ||ads-pid.me^
 ||agri-chain.site^
 ||agribe-ukr.shop^
@@ -26,10 +27,12 @@
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
 ||aid-for-ukraine.world^
+||aidedopomoga-gov.site^
 ||aiderinukr-gov.site^
 ||aiderukr-gov.site^
 ||aidforukr-gov.site^
 ||aidgetukr-gov.site^
+||aidsdopomoga-gov.site^
 ||aidsgetukr-gov.site^
 ||amerisn.com^
 ||apayments.pro^
@@ -56,7 +59,6 @@
 ||bankverif.live^
 ||benedetto-help.info^
 ||bid.cx.ua^
-||bienkhongmom.site^
 ||biluzna-ua.store^
 ||blesk24.com^
 ||brivis-ua.store^
@@ -272,6 +274,7 @@
 ||edopomogaonlinesite.work^
 ||edopomogaoriginalukraine.com^
 ||edopomogapidtrimka.com^
+||edopomogas-gov.site^
 ||edopomogaua-epidtimkaua.com^
 ||edopomogaua-epidtrimka.com^
 ||edopomogaua-eviplataua.com^
@@ -346,6 +349,7 @@
 ||gov-uah.top^
 ||gov-ukr.top^
 ||govdia.pro^
+||goviplataua.info^
 ||greenharvest-ukrpro.shop^
 ||groshi.world^
 ||groshovadopomoga.com^
@@ -375,6 +379,7 @@
 ||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
+||helping-ukr.site^
 ||helposchad24.shop^
 ||helpprivat24.shop^
 ||helpprivat24.site^
@@ -808,7 +813,6 @@
 ||swift-pay.online^
 ||sz0.fun^
 ||table-ua.store^
-||tamnuocbanchai.site^
 ||tax-compensation.bar^
 ||tax-compenses.xyz^
 ||technobank.com.ua^
@@ -822,6 +826,7 @@
 ||tinkletulips-ua.site^
 ||toppaidsexpert.top^
 ||touristrestaurant.com^
+||tovar-ukraine.com.ua^
 ||trpayuan.site^
 ||trust-group.pro^
 ||trustis-ua.top^
@@ -989,8 +994,6 @@
 ||usdtrader.com^
 ||uvyplata.icu^
 ||uw-edopomoga.com^
-||vanhnghienthuoc.site^
-||vanhthuoclao.site^
 ||vasic.website^
 ||velka-ua.store^
 ||veneta-ua.store^
@@ -1156,32 +1159,17 @@
 ||facebook.com/profile.php?id=100092331997023^$document
 ||facebook.com/uappl.org^$document
 
-! FB-C20230514:FANPAGES
-||u.to/7z_lHw^$document
-||u.to/nNemHw^$document
-||u.to/o1inHw^$document
-||u.to/pNGmHw^$document
-
 ||*aidfromtheunbot^$document,domain=t.me|telegram.me
 ||*diia_govl^$document,domain=t.me|telegram.me
 ||*diia_govua1_bot^$document,domain=t.me|telegram.me
 ||*dopomoga_diia^$document,domain=t.me|telegram.me
 ||*doppomoga_bot^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
-||*edopomogagov_bot^$document,domain=t.me|telegram.me
-||*edopomogaooh_bot^$document,domain=t.me|telegram.me
-||*edopomogaukr^$document,domain=t.me|telegram.me
-||*edopomogauua^$document,domain=t.me|telegram.me
-||*epedtrimka_gov^$document,domain=t.me|telegram.me
+||*edopomoga*$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*officcial_viplata_diya^$document,domain=t.me|telegram.me
-||*online_edopomoga^$document,domain=t.me|telegram.me
-||*onlinedopomoga2023_bot^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
-||*pidrumka24ooh_bot^$document,domain=t.me|telegram.me
-||*pidrumkaua_bot^$document,domain=t.me|telegram.me
-||*pidrumkaua24^$document,domain=t.me|telegram.me
-||*privatuahelpbot^$document,domain=t.me|telegram.me
+||*pidrumka*$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_test2_bot^$document,domain=t.me|telegram.me
