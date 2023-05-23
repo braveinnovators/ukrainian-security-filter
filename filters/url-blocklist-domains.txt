@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 21 May 2023 14:19 EEST
+# Last modified: Tue, 23 May 2023 14:57 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -61,6 +61,7 @@ abank.uadostawka.com
 abank.uah-perekaz24.com
 actions-pay24.win
 adidas-ua.shop
+adinedopomoga-gov.site
 ads-pid.me
 agri-chain.site
 agribe-ukr.shop
@@ -70,10 +71,12 @@ aid-edopomoga.info
 aid-for-ukraine.info
 aid-for-ukraine.life
 aid-for-ukraine.world
+aidedopomoga-gov.site
 aiderinukr-gov.site
 aiderukr-gov.site
 aidforukr-gov.site
 aidgetukr-gov.site
+aidsdopomoga-gov.site
 aidsgetukr-gov.site
 amerisn.com
 apayments.pro
@@ -100,7 +103,6 @@ bankver.com
 bankverif.live
 benedetto-help.info
 bid.cx.ua
-bienkhongmom.site
 biluzna-ua.store
 blago-privatc24.ccx5.fun
 blago-privatc24.wf0.uno
@@ -339,6 +341,7 @@ edopomogaonline.com
 edopomogaonlinesite.work
 edopomogaoriginalukraine.com
 edopomogapidtrimka.com
+edopomogas-gov.site
 edopomogaua-epidtimkaua.com
 edopomogaua-epidtrimka.com
 edopomogaua-eviplataua.com
@@ -416,6 +419,7 @@ gov-ukr.top
 gov.ukr-savess.icu
 gov.ukr-savess.sbs
 govdia.pro
+goviplataua.info
 greenharvest-ukrpro.shop
 groshi.world
 groshovadopomoga.com
@@ -446,6 +450,7 @@ help24-oschad.win
 helpdopomoga.com
 helpfond-ua.buzz
 helpforua.me
+helping-ukr.site
 helposchad24.shop
 helpprivat24.shop
 helpprivat24.site
@@ -1513,7 +1518,6 @@ sutary.com
 swift-pay.online
 sz0.fun
 table-ua.store
-tamnuocbanchai.site
 tax-compensation.bar
 tax-compenses.xyz
 technobank.com.ua
@@ -1527,6 +1531,7 @@ thediadopomoga.online
 tinkletulips-ua.site
 toppaidsexpert.top
 touristrestaurant.com
+tovar-ukraine.com.ua
 trpayuan.site
 trust-group.pro
 trustis-ua.top
@@ -1722,8 +1727,6 @@ uplata.cyou
 usdtrader.com
 uvyplata.icu
 uw-edopomoga.com
-vanhnghienthuoc.site
-vanhthuoclao.site
 vasic.website
 velka-ua.store
 veneta-ua.store
