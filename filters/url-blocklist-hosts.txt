@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 21 May 2023 14:19 EEST
+# Last modified: Tue, 23 May 2023 14:57 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -61,6 +61,7 @@
 0.0.0.0 abank.uah-perekaz24.com
 0.0.0.0 actions-pay24.win
 0.0.0.0 adidas-ua.shop
+0.0.0.0 adinedopomoga-gov.site
 0.0.0.0 ads-pid.me
 0.0.0.0 agri-chain.site
 0.0.0.0 agribe-ukr.shop
@@ -70,10 +71,12 @@
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
+0.0.0.0 aidedopomoga-gov.site
 0.0.0.0 aiderinukr-gov.site
 0.0.0.0 aiderukr-gov.site
 0.0.0.0 aidforukr-gov.site
 0.0.0.0 aidgetukr-gov.site
+0.0.0.0 aidsdopomoga-gov.site
 0.0.0.0 aidsgetukr-gov.site
 0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
@@ -100,7 +103,6 @@
 0.0.0.0 bankverif.live
 0.0.0.0 benedetto-help.info
 0.0.0.0 bid.cx.ua
-0.0.0.0 bienkhongmom.site
 0.0.0.0 biluzna-ua.store
 0.0.0.0 blago-privatc24.ccx5.fun
 0.0.0.0 blago-privatc24.wf0.uno
@@ -339,6 +341,7 @@
 0.0.0.0 edopomogaonlinesite.work
 0.0.0.0 edopomogaoriginalukraine.com
 0.0.0.0 edopomogapidtrimka.com
+0.0.0.0 edopomogas-gov.site
 0.0.0.0 edopomogaua-epidtimkaua.com
 0.0.0.0 edopomogaua-epidtrimka.com
 0.0.0.0 edopomogaua-eviplataua.com
@@ -416,6 +419,7 @@
 0.0.0.0 gov.ukr-savess.icu
 0.0.0.0 gov.ukr-savess.sbs
 0.0.0.0 govdia.pro
+0.0.0.0 goviplataua.info
 0.0.0.0 greenharvest-ukrpro.shop
 0.0.0.0 groshi.world
 0.0.0.0 groshovadopomoga.com
@@ -446,6 +450,7 @@
 0.0.0.0 helpdopomoga.com
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpforua.me
+0.0.0.0 helping-ukr.site
 0.0.0.0 helposchad24.shop
 0.0.0.0 helpprivat24.shop
 0.0.0.0 helpprivat24.site
@@ -1513,7 +1518,6 @@
 0.0.0.0 swift-pay.online
 0.0.0.0 sz0.fun
 0.0.0.0 table-ua.store
-0.0.0.0 tamnuocbanchai.site
 0.0.0.0 tax-compensation.bar
 0.0.0.0 tax-compenses.xyz
 0.0.0.0 technobank.com.ua
@@ -1527,6 +1531,7 @@
 0.0.0.0 tinkletulips-ua.site
 0.0.0.0 toppaidsexpert.top
 0.0.0.0 touristrestaurant.com
+0.0.0.0 tovar-ukraine.com.ua
 0.0.0.0 trpayuan.site
 0.0.0.0 trust-group.pro
 0.0.0.0 trustis-ua.top
@@ -1722,8 +1727,6 @@
 0.0.0.0 usdtrader.com
 0.0.0.0 uvyplata.icu
 0.0.0.0 uw-edopomoga.com
-0.0.0.0 vanhnghienthuoc.site
-0.0.0.0 vanhthuoclao.site
 0.0.0.0 vasic.website
 0.0.0.0 velka-ua.store
 0.0.0.0 veneta-ua.store
