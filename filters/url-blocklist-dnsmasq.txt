@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 21 May 2023 14:19 EEST
+# Last modified: Tue, 23 May 2023 14:57 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -61,6 +61,7 @@ address=/abank.uadostawka.com/
 address=/abank.uah-perekaz24.com/
 address=/actions-pay24.win/
 address=/adidas-ua.shop/
+address=/adinedopomoga-gov.site/
 address=/ads-pid.me/
 address=/agri-chain.site/
 address=/agribe-ukr.shop/
@@ -70,10 +71,12 @@ address=/aid-edopomoga.info/
 address=/aid-for-ukraine.info/
 address=/aid-for-ukraine.life/
 address=/aid-for-ukraine.world/
+address=/aidedopomoga-gov.site/
 address=/aiderinukr-gov.site/
 address=/aiderukr-gov.site/
 address=/aidforukr-gov.site/
 address=/aidgetukr-gov.site/
+address=/aidsdopomoga-gov.site/
 address=/aidsgetukr-gov.site/
 address=/amerisn.com/
 address=/apayments.pro/
@@ -100,7 +103,6 @@ address=/bankver.com/
 address=/bankverif.live/
 address=/benedetto-help.info/
 address=/bid.cx.ua/
-address=/bienkhongmom.site/
 address=/biluzna-ua.store/
 address=/blago-privatc24.ccx5.fun/
 address=/blago-privatc24.wf0.uno/
@@ -339,6 +341,7 @@ address=/edopomogaonline.com/
 address=/edopomogaonlinesite.work/
 address=/edopomogaoriginalukraine.com/
 address=/edopomogapidtrimka.com/
+address=/edopomogas-gov.site/
 address=/edopomogaua-epidtimkaua.com/
 address=/edopomogaua-epidtrimka.com/
 address=/edopomogaua-eviplataua.com/
@@ -416,6 +419,7 @@ address=/gov-ukr.top/
 address=/gov.ukr-savess.icu/
 address=/gov.ukr-savess.sbs/
 address=/govdia.pro/
+address=/goviplataua.info/
 address=/greenharvest-ukrpro.shop/
 address=/groshi.world/
 address=/groshovadopomoga.com/
@@ -446,6 +450,7 @@ address=/help24-oschad.win/
 address=/helpdopomoga.com/
 address=/helpfond-ua.buzz/
 address=/helpforua.me/
+address=/helping-ukr.site/
 address=/helposchad24.shop/
 address=/helpprivat24.shop/
 address=/helpprivat24.site/
@@ -1513,7 +1518,6 @@ address=/sutary.com/
 address=/swift-pay.online/
 address=/sz0.fun/
 address=/table-ua.store/
-address=/tamnuocbanchai.site/
 address=/tax-compensation.bar/
 address=/tax-compenses.xyz/
 address=/technobank.com.ua/
@@ -1527,6 +1531,7 @@ address=/thediadopomoga.online/
 address=/tinkletulips-ua.site/
 address=/toppaidsexpert.top/
 address=/touristrestaurant.com/
+address=/tovar-ukraine.com.ua/
 address=/trpayuan.site/
 address=/trust-group.pro/
 address=/trustis-ua.top/
@@ -1722,8 +1727,6 @@ address=/uplata.cyou/
 address=/usdtrader.com/
 address=/uvyplata.icu/
 address=/uw-edopomoga.com/
-address=/vanhnghienthuoc.site/
-address=/vanhthuoclao.site/
 address=/vasic.website/
 address=/velka-ua.store/
 address=/veneta-ua.store/
