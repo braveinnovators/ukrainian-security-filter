@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 23 May 2023 14:57 EEST
+! Last modified: Wed, 24 May 2023 14:58 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -61,6 +61,7 @@
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||blesk24.com^
+||bokal-ua.store^
 ||brivis-ua.store^
 ||ca-pay.me^
 ||cabinet-raiffeisen.fun^
@@ -144,6 +145,7 @@
 ||diiapidpys.uk^
 ||diiaua.com^
 ||diiya-ua.info^
+||dimdecoru-ua.store^
 ||dipdopdia.com^
 ||dipuplatservises24.sale^
 ||diya-edopomoga.online^
@@ -820,6 +822,7 @@
 ||techport.net.ua^
 ||tehnotop.net.ua^
 ||telegram-ua.com^
+||telegram-ua.org^
 ||telegram-web.biz^
 ||terrafarmers-ukr.site^
 ||thediadopomoga.online^
@@ -919,6 +922,9 @@
 ||ukr-receive.sbs^
 ||ukr-savess.icu^
 ||ukr-savess.sbs^
+||ukr-shoping.site^
+||ukr-shoping.store^
+||ukr-shoping.website^
 ||ukr-top.fun^
 ||ukr24.space^
 ||ukraiff.mobi^
