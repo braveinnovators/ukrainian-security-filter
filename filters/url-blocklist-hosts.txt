@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 23 May 2023 14:57 EEST
+# Last modified: Wed, 24 May 2023 14:58 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -108,6 +108,7 @@
 0.0.0.0 blago-privatc24.wf0.uno
 0.0.0.0 blagos-privatc24.nm6.info
 0.0.0.0 blesk24.com
+0.0.0.0 bokal-ua.store
 0.0.0.0 brivis-ua.store
 0.0.0.0 ca-pay.me
 0.0.0.0 cabinet-raiffeisen.fun
@@ -200,6 +201,7 @@
 0.0.0.0 diiapidpys.uk
 0.0.0.0 diiaua.com
 0.0.0.0 diiya-ua.info
+0.0.0.0 dimdecoru-ua.store
 0.0.0.0 dipdopdia.com
 0.0.0.0 dipuplatservises24.sale
 0.0.0.0 diya-edopomoga.online
@@ -1525,6 +1527,7 @@
 0.0.0.0 techport.net.ua
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.com
+0.0.0.0 telegram-ua.org
 0.0.0.0 telegram-web.biz
 0.0.0.0 terrafarmers-ukr.site
 0.0.0.0 thediadopomoga.online
@@ -1625,6 +1628,9 @@
 0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
+0.0.0.0 ukr-shoping.site
+0.0.0.0 ukr-shoping.store
+0.0.0.0 ukr-shoping.website
 0.0.0.0 ukr-top.fun
 0.0.0.0 ukr24.space
 0.0.0.0 ukraiff.mobi
