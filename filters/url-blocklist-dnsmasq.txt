@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Tue, 23 May 2023 14:57 EEST
+# Last modified: Wed, 24 May 2023 14:58 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -108,6 +108,7 @@ address=/blago-privatc24.ccx5.fun/
 address=/blago-privatc24.wf0.uno/
 address=/blagos-privatc24.nm6.info/
 address=/blesk24.com/
+address=/bokal-ua.store/
 address=/brivis-ua.store/
 address=/ca-pay.me/
 address=/cabinet-raiffeisen.fun/
@@ -200,6 +201,7 @@ address=/diiapay.info/
 address=/diiapidpys.uk/
 address=/diiaua.com/
 address=/diiya-ua.info/
+address=/dimdecoru-ua.store/
 address=/dipdopdia.com/
 address=/dipuplatservises24.sale/
 address=/diya-edopomoga.online/
@@ -1525,6 +1527,7 @@ address=/technolend.com.ua/
 address=/techport.net.ua/
 address=/tehnotop.net.ua/
 address=/telegram-ua.com/
+address=/telegram-ua.org/
 address=/telegram-web.biz/
 address=/terrafarmers-ukr.site/
 address=/thediadopomoga.online/
@@ -1625,6 +1628,9 @@ address=/ukr-receive.icu/
 address=/ukr-receive.sbs/
 address=/ukr-savess.icu/
 address=/ukr-savess.sbs/
+address=/ukr-shoping.site/
+address=/ukr-shoping.store/
+address=/ukr-shoping.website/
 address=/ukr-top.fun/
 address=/ukr24.space/
 address=/ukraiff.mobi/
