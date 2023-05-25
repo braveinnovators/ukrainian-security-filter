@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Wed, 24 May 2023 14:58 EEST
+# Last modified: Thu, 25 May 2023 13:46 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1549,6 +1549,10 @@ ua-compens.top
 ua-compensation.top
 ua-compensations.xyz
 ua-compenses.top
+ua-dapomoga.com
+ua-dapomoga.giving
+ua-dapomoga.net
+ua-dapomoga.site
 ua-diya.pro
 ua-dopomoga.org
 ua-edopomoga.live
