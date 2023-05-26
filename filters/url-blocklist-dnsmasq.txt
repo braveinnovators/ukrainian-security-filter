@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 25 May 2023 13:46 EEST
+# Last modified: Fri, 26 May 2023 14:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1484,6 +1484,7 @@ address=/ryjpay.com/
 address=/s1.edopomogaua.site/
 address=/safe-ua-viplata.website/
 address=/saferegulatory.com/
+address=/samsung-ukraine.com.ua/
 address=/sarafan-ua.store/
 address=/secure2dpay.store/
 address=/secure3ds.org/
@@ -1582,6 +1583,7 @@ address=/uacompensation.xyz/
 address=/uadia.buzz/
 address=/uadopomoga.biz/
 address=/uadopomoga.com/
+address=/uadopomoga.me/
 address=/uadopomoga2023.org/
 address=/uadostawka.com/
 address=/uaedopomoga-online.com/
@@ -1791,6 +1793,7 @@ address=/viplatauaukr.xyz/
 address=/viplatauaukraine.xyz/
 address=/viplataukr.xyz/
 address=/viplataukraine.com/
+address=/viplataukraine.org/
 address=/viplatavop.club/
 address=/viplatavpo.biz/
 address=/viplatavsem.site/
