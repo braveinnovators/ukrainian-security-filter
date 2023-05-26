@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 25 May 2023 13:46 EEST
+# Last modified: Fri, 26 May 2023 14:25 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1484,6 +1484,7 @@
 0.0.0.0 s1.edopomogaua.site
 0.0.0.0 safe-ua-viplata.website
 0.0.0.0 saferegulatory.com
+0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 sarafan-ua.store
 0.0.0.0 secure2dpay.store
 0.0.0.0 secure3ds.org
@@ -1582,6 +1583,7 @@
 0.0.0.0 uadia.buzz
 0.0.0.0 uadopomoga.biz
 0.0.0.0 uadopomoga.com
+0.0.0.0 uadopomoga.me
 0.0.0.0 uadopomoga2023.org
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
@@ -1791,6 +1793,7 @@
 0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
 0.0.0.0 viplataukraine.com
+0.0.0.0 viplataukraine.org
 0.0.0.0 viplatavop.club
 0.0.0.0 viplatavpo.biz
 0.0.0.0 viplatavsem.site
