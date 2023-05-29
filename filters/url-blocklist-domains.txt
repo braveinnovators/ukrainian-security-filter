@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 26 May 2023 14:25 EEST
+# Last modified: Mon, 29 May 2023 17:54 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -272,6 +272,8 @@ dopomogae.info
 dopomogae.online
 dopomogae.social
 dopomogae.xyz
+dopomogaexpress.online
+dopomogafromoon-ukr.com
 dopomogagroshi.top
 dopomogahelp.com
 dopomogainukraine.com
@@ -286,6 +288,7 @@ dopomogas.com
 dopomogasoshiall.website
 dopomogaua-pidtrimka.com
 dopomogaua-pidtrimkaua.com
+dopomogaua.live
 dopomogaua.pro
 dopomogaua.xyz
 dopomogauk.xyz
@@ -380,6 +383,7 @@ events-ukr.site
 eviplata.vip
 evyplata.life
 facebook-ua.info
+farmex-ua.shop
 farmsense-ukr.shop
 farmyardia-ua.site
 finance-dopomoga.site
@@ -405,6 +409,7 @@ gg-pay.me
 gifari-ua.store
 giza-ua.store
 glopay.site
+go-dopomoga-ua.com
 gon-order.me
 gos-cash.top
 gos-dopomoga.top
@@ -503,6 +508,7 @@ kredobank.no-pay.me
 kyivstar-internet.com
 kyivstar-sale.com.ua
 kyivstarbezlim.com
+kylym-ua.space
 lataepitrimka.vip
 lavandi-ua.store
 leowallet.me
@@ -1523,6 +1529,7 @@ sz0.fun
 table-ua.store
 tax-compensation.bar
 tax-compenses.xyz
+techno-point-ua.store
 technobank.com.ua
 technolend.com.ua
 techport.net.ua
@@ -1638,6 +1645,7 @@ ukr-shoping.site
 ukr-shoping.store
 ukr-shoping.website
 ukr-top.fun
+ukr.boutique
 ukr24.space
 ukraiff.mobi
 ukraiff.services
@@ -1657,6 +1665,7 @@ ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
 ukrainebayra.com
+ukrainedopomoga.com.ua
 ukrainedostavka.store
 ukraineebay.vip
 ukrainehelp.cloud
@@ -1674,6 +1683,7 @@ ukrainetop.store
 ukrainetoptovar.store
 ukraineworkup.online
 ukrainian-inform.com
+ukrainian-product.store
 ukrainianamazon.com
 ukrainianua.website
 ukrainianwomen.store
@@ -1725,6 +1735,7 @@ ukrspayman.bid
 ukrspayman.online
 ukrspayman.pics
 ukrspayman.site
+ukrtovar.pp.ua
 uks6.site
 ukzarplata.site
 ul-pay.me
@@ -1776,6 +1787,7 @@ viplatadiya.site
 viplatadopomogaua.com
 viplataes.site
 viplataes.vip
+viplatagov.org
 viplataindo.com
 viplatanow.online
 viplataonline.com
@@ -1814,6 +1826,7 @@ vsim-sviplatyi-oon.co.ua
 vuplata.casa
 vuplata.ink
 vuplata.online
+vuplata24pay.shop
 vuplatu.in
 vuplatyi.com
 vuplatyukraine.com
