@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Fri, 26 May 2023 14:25 EEST
+# Last modified: Mon, 29 May 2023 17:54 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -272,6 +272,8 @@
 0.0.0.0 dopomogae.online
 0.0.0.0 dopomogae.social
 0.0.0.0 dopomogae.xyz
+0.0.0.0 dopomogaexpress.online
+0.0.0.0 dopomogafromoon-ukr.com
 0.0.0.0 dopomogagroshi.top
 0.0.0.0 dopomogahelp.com
 0.0.0.0 dopomogainukraine.com
@@ -286,6 +288,7 @@
 0.0.0.0 dopomogasoshiall.website
 0.0.0.0 dopomogaua-pidtrimka.com
 0.0.0.0 dopomogaua-pidtrimkaua.com
+0.0.0.0 dopomogaua.live
 0.0.0.0 dopomogaua.pro
 0.0.0.0 dopomogaua.xyz
 0.0.0.0 dopomogauk.xyz
@@ -380,6 +383,7 @@
 0.0.0.0 eviplata.vip
 0.0.0.0 evyplata.life
 0.0.0.0 facebook-ua.info
+0.0.0.0 farmex-ua.shop
 0.0.0.0 farmsense-ukr.shop
 0.0.0.0 farmyardia-ua.site
 0.0.0.0 finance-dopomoga.site
@@ -405,6 +409,7 @@
 0.0.0.0 gifari-ua.store
 0.0.0.0 giza-ua.store
 0.0.0.0 glopay.site
+0.0.0.0 go-dopomoga-ua.com
 0.0.0.0 gon-order.me
 0.0.0.0 gos-cash.top
 0.0.0.0 gos-dopomoga.top
@@ -503,6 +508,7 @@
 0.0.0.0 kyivstar-internet.com
 0.0.0.0 kyivstar-sale.com.ua
 0.0.0.0 kyivstarbezlim.com
+0.0.0.0 kylym-ua.space
 0.0.0.0 lataepitrimka.vip
 0.0.0.0 lavandi-ua.store
 0.0.0.0 leowallet.me
@@ -1523,6 +1529,7 @@
 0.0.0.0 table-ua.store
 0.0.0.0 tax-compensation.bar
 0.0.0.0 tax-compenses.xyz
+0.0.0.0 techno-point-ua.store
 0.0.0.0 technobank.com.ua
 0.0.0.0 technolend.com.ua
 0.0.0.0 techport.net.ua
@@ -1638,6 +1645,7 @@
 0.0.0.0 ukr-shoping.store
 0.0.0.0 ukr-shoping.website
 0.0.0.0 ukr-top.fun
+0.0.0.0 ukr.boutique
 0.0.0.0 ukr24.space
 0.0.0.0 ukraiff.mobi
 0.0.0.0 ukraiff.services
@@ -1657,6 +1665,7 @@
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebayra.com
+0.0.0.0 ukrainedopomoga.com.ua
 0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainehelp.cloud
@@ -1674,6 +1683,7 @@
 0.0.0.0 ukrainetoptovar.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
+0.0.0.0 ukrainian-product.store
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
 0.0.0.0 ukrainianwomen.store
@@ -1725,6 +1735,7 @@
 0.0.0.0 ukrspayman.online
 0.0.0.0 ukrspayman.pics
 0.0.0.0 ukrspayman.site
+0.0.0.0 ukrtovar.pp.ua
 0.0.0.0 uks6.site
 0.0.0.0 ukzarplata.site
 0.0.0.0 ul-pay.me
@@ -1776,6 +1787,7 @@
 0.0.0.0 viplatadopomogaua.com
 0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
+0.0.0.0 viplatagov.org
 0.0.0.0 viplataindo.com
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
@@ -1814,6 +1826,7 @@
 0.0.0.0 vuplata.casa
 0.0.0.0 vuplata.ink
 0.0.0.0 vuplata.online
+0.0.0.0 vuplata24pay.shop
 0.0.0.0 vuplatu.in
 0.0.0.0 vuplatyi.com
 0.0.0.0 vuplatyukraine.com
