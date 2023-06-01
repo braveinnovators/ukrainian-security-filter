@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 29 May 2023 17:54 EEST
+! Last modified: Thu, 01 June 2023 11:46 EEST
 ! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -38,6 +38,10 @@
 ||apayments.pro^
 ||api-donate-ukrainehelp.org^
 ||aval-bank-online.com^
+||aval-on24.com^
+||aval-on24.org^
+||aval-onl24.com^
+||aval-onl24.org^
 ||aval-ukraine.com^
 ||avalbank-ukraine.com^
 ||avalbankua-auth.com^
@@ -61,6 +65,7 @@
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||blesk24.com^
+||boberjob.com^
 ||bokal-ua.store^
 ||brivis-ua.store^
 ||ca-pay.me^
@@ -188,9 +193,14 @@
 ||dopomoga-uaweb.website^
 ||dopomoga-vyplata.com^
 ||dopomoga.agency^
+||dopomoga.app^
 ||dopomoga.buzz^
+||dopomoga.charity^
 ||dopomoga.fans^
+||dopomoga.giving^
+||dopomoga.health^
 ||dopomoga.in^
+||dopomoga.me^
 ||dopomoga.observer^
 ||dopomoga.place^
 ||dopomoga.social^
@@ -336,6 +346,7 @@
 ||gedopomoga-gov.site^
 ||gereta.live^
 ||gertinn.com^
+||get-oon-viplata.shop^
 ||getfunds.pw^
 ||gg-pay.me^
 ||gifari-ua.store^
@@ -359,7 +370,9 @@
 ||goviplataua.info^
 ||greenharvest-ukrpro.shop^
 ||groshi.world^
+||groshidopomoga.top^
 ||groshovadopomoga.com^
+||grosovadopomoga.shop^
 ||growtec-ua.site^
 ||growthsynergy-ua.shop^
 ||grshi.fun^
@@ -417,6 +430,7 @@
 ||k-auch.quest^
 ||kalina-ua.online^
 ||kievstar.online^
+||kievukraina.shop^
 ||klespo.site^
 ||klisp-o.site^
 ||koko-ua.store^
@@ -425,6 +439,7 @@
 ||konkurs-golos.ltd^
 ||konkurs-ua.site^
 ||konkurs-ukraine.site^
+||konkurs.site^
 ||konvas.store^
 ||kpayments.cc^
 ||kramnitsa-ua.store^
@@ -517,6 +532,7 @@
 ||okko-bonus.live^
 ||okpay24-grn.com^
 ||olx-ua.ink^
+||onl24-aval.com^
 ||online-pays.tech^
 ||online-raiffeisen.info^
 ||onlinediya.uk^
@@ -619,6 +635,7 @@
 ||pays.creditcard^
 ||paysdayl.click^
 ||paystarted.com^
+||payukraine.online^
 ||payukraine24now.com^
 ||payukrainenow.com^
 ||pcs-order.me^
@@ -671,6 +688,7 @@
 ||privat24-next.ga^
 ||privat24-viplata-help.online^
 ||privat24.fun^
+||privat24.org^
 ||privat24.press^
 ||privat24.tech^
 ||privat24.uno^
@@ -689,6 +707,7 @@
 ||privatbank.in.ua^
 ||privatbank24.shop^
 ||privatbank24.uk^
+||privatbank24online.com^
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
@@ -829,9 +848,15 @@
 ||technolend.com.ua^
 ||techport.net.ua^
 ||tehnotop.net.ua^
+||telegram-gifts.online^
+||telegram-gifts.pro^
+||telegram-online.xyz^
+||telegram-org.online^
 ||telegram-ua.com^
 ||telegram-ua.org^
+||telegram-w.net^
 ||telegram-web.biz^
+||telegram.org.za^
 ||terrafarmers-ukr.site^
 ||thediadopomoga.online^
 ||tinkletulips-ua.site^
@@ -846,6 +871,9 @@
 ||ua-avalbank.com^
 ||ua-bank.net^
 ||ua-bank.org^
+||ua-banking.com^
+||ua-bnk.online^
+||ua-boutique.com.ua^
 ||ua-cash.com^
 ||ua-cash.website^
 ||ua-compens.top^
@@ -909,6 +937,7 @@
 ||ubc.agency^
 ||udemixcr.com^
 ||uk-raina.live^
+||ukr-buy.com.ua^
 ||ukr-cash.top^
 ||ukr-compens.top^
 ||ukr-compens.xyz^
@@ -916,6 +945,7 @@
 ||ukr-compesations.top^
 ||ukr-compesations.xyz^
 ||ukr-dopomog.top^
+||ukr-dopomoga.top^
 ||ukr-floristik.site^
 ||ukr-harvestgreen.site^
 ||ukr-help.online^
@@ -977,6 +1007,7 @@
 ||ukrainetoptovar.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
+||ukrainian-podarunok.com^
 ||ukrainian-product.store^
 ||ukrainianamazon.com^
 ||ukrainianua.website^
@@ -984,12 +1015,14 @@
 ||ukrainshop.fun^
 ||ukrcashtrans.biz^
 ||ukrcredits.com^
+||ukrdopomoga.top^
 ||ukreyns.com^
 ||ukrfinanspomog.site^
 ||ukripaymens.online^
 ||ukrkonkurs.site^
 ||ukrpay.fun^
 ||ukrpaymen.today^
+||ukrpayment.online^
 ||ukrpaymentsystem.pro^
 ||ukrpaytransactions.info^
 ||ukrposhta.kr.ua^
@@ -1055,6 +1088,7 @@
 ||viplataes.site^
 ||viplataes.vip^
 ||viplatagov.org^
+||viplatagovua.org^
 ||viplataindo.com^
 ||viplatanow.online^
 ||viplataonline.com^
@@ -1067,6 +1101,7 @@
 ||viplataua.net^
 ||viplataua.org^
 ||viplataua.shop^
+||viplataua.site^
 ||viplataua.xyz^
 ||viplatauaukr.xyz^
 ||viplatauaukraine.xyz^
@@ -1141,6 +1176,7 @@
 
 ||*privat24*.$document,domain=~privat24.ua
 ||*privatbank*.$document,domain=~privatbank.ua
+||24-next.*.$document
 ||blago*-privat*.$document
 ||next24.*.$document
 ||privat-ua.*.$document
@@ -1159,6 +1195,7 @@
 ||*avalpay*.*.$document
 ||*raiffaisen*.*.$document
 ||*raiffei*.*.$document,domain=~raiffeisen.ua
+||a-raif.*.$document
 ||raif.*.$document
 
 ||*ukersb24*.*.$document
@@ -1193,20 +1230,16 @@
 ||*doppomoga_bot^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*edopomoga*$document,domain=t.me|telegram.me
-||*epidtrimkaunicef^$document,domain=t.me|telegram.me
+||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
+||*helpoUA^$document,domain=t.me|telegram.me
 ||*officcial_viplata_diya^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
-||*oschaddbbank_ua_bot^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
-||*privat_bank_ua_bot^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
-||*raiffeisenn_ua_bot^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_test2_bot^$document,domain=t.me|telegram.me
-||*vuplaty_ukraine^$document,domain=t.me|telegram.me
-||*vyplaty_ukraine^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
 ||eudopomoga.nicepage.io^$document
