@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 29 May 2023 17:54 EEST
+# Last modified: Thu, 01 June 2023 11:46 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -82,6 +82,10 @@
 0.0.0.0 apayments.pro
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 aval-bank-online.com
+0.0.0.0 aval-on24.com
+0.0.0.0 aval-on24.org
+0.0.0.0 aval-onl24.com
+0.0.0.0 aval-onl24.org
 0.0.0.0 aval-ukraine.com
 0.0.0.0 avalbank-ukraine.com
 0.0.0.0 avalbankua-auth.com
@@ -108,6 +112,7 @@
 0.0.0.0 blago-privatc24.wf0.uno
 0.0.0.0 blagos-privatc24.nm6.info
 0.0.0.0 blesk24.com
+0.0.0.0 boberjob.com
 0.0.0.0 bokal-ua.store
 0.0.0.0 brivis-ua.store
 0.0.0.0 ca-pay.me
@@ -248,11 +253,16 @@
 0.0.0.0 dopomoga-uaweb.website
 0.0.0.0 dopomoga-vyplata.com
 0.0.0.0 dopomoga.agency
+0.0.0.0 dopomoga.app
 0.0.0.0 dopomoga.buzz
+0.0.0.0 dopomoga.charity
 0.0.0.0 dopomoga.coshipriem.online
 0.0.0.0 dopomoga.fans
+0.0.0.0 dopomoga.giving
 0.0.0.0 dopomoga.govdia.pro
+0.0.0.0 dopomoga.health
 0.0.0.0 dopomoga.in
+0.0.0.0 dopomoga.me
 0.0.0.0 dopomoga.observer
 0.0.0.0 dopomoga.place
 0.0.0.0 dopomoga.social
@@ -404,6 +414,7 @@
 0.0.0.0 gedopomoga-gov.site
 0.0.0.0 gereta.live
 0.0.0.0 gertinn.com
+0.0.0.0 get-oon-viplata.shop
 0.0.0.0 getfunds.pw
 0.0.0.0 gg-pay.me
 0.0.0.0 gifari-ua.store
@@ -429,7 +440,9 @@
 0.0.0.0 goviplataua.info
 0.0.0.0 greenharvest-ukrpro.shop
 0.0.0.0 groshi.world
+0.0.0.0 groshidopomoga.top
 0.0.0.0 groshovadopomoga.com
+0.0.0.0 grosovadopomoga.shop
 0.0.0.0 growtec-ua.site
 0.0.0.0 growthsynergy-ua.shop
 0.0.0.0 grshi.fun
@@ -491,6 +504,7 @@
 0.0.0.0 k-auch.quest
 0.0.0.0 kalina-ua.online
 0.0.0.0 kievstar.online
+0.0.0.0 kievukraina.shop
 0.0.0.0 klespo.site
 0.0.0.0 klisp-o.site
 0.0.0.0 koko-ua.store
@@ -499,6 +513,7 @@
 0.0.0.0 konkurs-golos.ltd
 0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-ukraine.site
+0.0.0.0 konkurs.site
 0.0.0.0 konvas.store
 0.0.0.0 kpayments.cc
 0.0.0.0 kramnitsa-ua.store
@@ -704,6 +719,7 @@
 0.0.0.0 olx-ua.poluchenie.pw
 0.0.0.0 olx-ua.recive-money.icu
 0.0.0.0 olx-ua.recivemoney.icu
+0.0.0.0 onl24-aval.com
 0.0.0.0 onlin24-ukrsibbanck.uks6.site
 0.0.0.0 online-exim24.sn0.uno
 0.0.0.0 online-monob24.ms0.uno
@@ -1003,6 +1019,7 @@
 0.0.0.0 pays.creditcard
 0.0.0.0 paysdayl.click
 0.0.0.0 paystarted.com
+0.0.0.0 payukraine.online
 0.0.0.0 payukraine24now.com
 0.0.0.0 payukrainenow.com
 0.0.0.0 pcs-order.me
@@ -1128,6 +1145,7 @@
 0.0.0.0 privat24.lpayments.org
 0.0.0.0 privat24.nextpay.pw
 0.0.0.0 privat24.onlinediya.uk
+0.0.0.0 privat24.org
 0.0.0.0 privat24.perekaz.com
 0.0.0.0 privat24.pidrumka.co
 0.0.0.0 privat24.press
@@ -1167,6 +1185,7 @@
 0.0.0.0 privatbank.payment-system.cloud
 0.0.0.0 privatbank24.shop
 0.0.0.0 privatbank24.uk
+0.0.0.0 privatbank24online.com
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
@@ -1534,9 +1553,15 @@
 0.0.0.0 technolend.com.ua
 0.0.0.0 techport.net.ua
 0.0.0.0 tehnotop.net.ua
+0.0.0.0 telegram-gifts.online
+0.0.0.0 telegram-gifts.pro
+0.0.0.0 telegram-online.xyz
+0.0.0.0 telegram-org.online
 0.0.0.0 telegram-ua.com
 0.0.0.0 telegram-ua.org
+0.0.0.0 telegram-w.net
 0.0.0.0 telegram-web.biz
+0.0.0.0 telegram.org.za
 0.0.0.0 terrafarmers-ukr.site
 0.0.0.0 thediadopomoga.online
 0.0.0.0 tinkletulips-ua.site
@@ -1551,6 +1576,9 @@
 0.0.0.0 ua-avalbank.com
 0.0.0.0 ua-bank.net
 0.0.0.0 ua-bank.org
+0.0.0.0 ua-banking.com
+0.0.0.0 ua-bnk.online
+0.0.0.0 ua-boutique.com.ua
 0.0.0.0 ua-cash.com
 0.0.0.0 ua-cash.website
 0.0.0.0 ua-compens.top
@@ -1615,6 +1643,7 @@
 0.0.0.0 ubc.agency
 0.0.0.0 udemixcr.com
 0.0.0.0 uk-raina.live
+0.0.0.0 ukr-buy.com.ua
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-compens.top
 0.0.0.0 ukr-compens.xyz
@@ -1622,6 +1651,7 @@
 0.0.0.0 ukr-compesations.top
 0.0.0.0 ukr-compesations.xyz
 0.0.0.0 ukr-dopomog.top
+0.0.0.0 ukr-dopomoga.top
 0.0.0.0 ukr-floristik.site
 0.0.0.0 ukr-harvestgreen.site
 0.0.0.0 ukr-help.online
@@ -1683,6 +1713,7 @@
 0.0.0.0 ukrainetoptovar.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
+0.0.0.0 ukrainian-podarunok.com
 0.0.0.0 ukrainian-product.store
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianua.website
@@ -1690,12 +1721,14 @@
 0.0.0.0 ukrainshop.fun
 0.0.0.0 ukrcashtrans.biz
 0.0.0.0 ukrcredits.com
+0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
 0.0.0.0 ukripaymens.online
 0.0.0.0 ukrkonkurs.site
 0.0.0.0 ukrpay.fun
 0.0.0.0 ukrpaymen.today
+0.0.0.0 ukrpayment.online
 0.0.0.0 ukrpaymentsystem.pro
 0.0.0.0 ukrpaytransactions.info
 0.0.0.0 ukrposhta.kr.ua
@@ -1788,6 +1821,7 @@
 0.0.0.0 viplataes.site
 0.0.0.0 viplataes.vip
 0.0.0.0 viplatagov.org
+0.0.0.0 viplatagovua.org
 0.0.0.0 viplataindo.com
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
@@ -1800,6 +1834,7 @@
 0.0.0.0 viplataua.net
 0.0.0.0 viplataua.org
 0.0.0.0 viplataua.shop
+0.0.0.0 viplataua.site
 0.0.0.0 viplataua.xyz
 0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplatauaukraine.xyz
