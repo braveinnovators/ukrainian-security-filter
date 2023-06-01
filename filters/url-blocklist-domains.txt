@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 29 May 2023 17:54 EEST
+# Last modified: Thu, 01 June 2023 11:46 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -82,6 +82,10 @@ amerisn.com
 apayments.pro
 api-donate-ukrainehelp.org
 aval-bank-online.com
+aval-on24.com
+aval-on24.org
+aval-onl24.com
+aval-onl24.org
 aval-ukraine.com
 avalbank-ukraine.com
 avalbankua-auth.com
@@ -108,6 +112,7 @@ blago-privatc24.ccx5.fun
 blago-privatc24.wf0.uno
 blagos-privatc24.nm6.info
 blesk24.com
+boberjob.com
 bokal-ua.store
 brivis-ua.store
 ca-pay.me
@@ -248,11 +253,16 @@ dopomoga-ua.website
 dopomoga-uaweb.website
 dopomoga-vyplata.com
 dopomoga.agency
+dopomoga.app
 dopomoga.buzz
+dopomoga.charity
 dopomoga.coshipriem.online
 dopomoga.fans
+dopomoga.giving
 dopomoga.govdia.pro
+dopomoga.health
 dopomoga.in
+dopomoga.me
 dopomoga.observer
 dopomoga.place
 dopomoga.social
@@ -404,6 +414,7 @@ gaukrainians.org
 gedopomoga-gov.site
 gereta.live
 gertinn.com
+get-oon-viplata.shop
 getfunds.pw
 gg-pay.me
 gifari-ua.store
@@ -429,7 +440,9 @@ govdia.pro
 goviplataua.info
 greenharvest-ukrpro.shop
 groshi.world
+groshidopomoga.top
 groshovadopomoga.com
+grosovadopomoga.shop
 growtec-ua.site
 growthsynergy-ua.shop
 grshi.fun
@@ -491,6 +504,7 @@ k-auch.buzz
 k-auch.quest
 kalina-ua.online
 kievstar.online
+kievukraina.shop
 klespo.site
 klisp-o.site
 koko-ua.store
@@ -499,6 +513,7 @@ konkurs-events.top
 konkurs-golos.ltd
 konkurs-ua.site
 konkurs-ukraine.site
+konkurs.site
 konvas.store
 kpayments.cc
 kramnitsa-ua.store
@@ -704,6 +719,7 @@ olx-ua.ink
 olx-ua.poluchenie.pw
 olx-ua.recive-money.icu
 olx-ua.recivemoney.icu
+onl24-aval.com
 onlin24-ukrsibbanck.uks6.site
 online-exim24.sn0.uno
 online-monob24.ms0.uno
@@ -1003,6 +1019,7 @@ pays.credit
 pays.creditcard
 paysdayl.click
 paystarted.com
+payukraine.online
 payukraine24now.com
 payukrainenow.com
 pcs-order.me
@@ -1128,6 +1145,7 @@ privat24.kpayments.cc
 privat24.lpayments.org
 privat24.nextpay.pw
 privat24.onlinediya.uk
+privat24.org
 privat24.perekaz.com
 privat24.pidrumka.co
 privat24.press
@@ -1167,6 +1185,7 @@ privatbank.paying-out.today
 privatbank.payment-system.cloud
 privatbank24.shop
 privatbank24.uk
+privatbank24online.com
 privatpay.me
 privatpay.online
 prlvatbank24.pw
@@ -1534,9 +1553,15 @@ technobank.com.ua
 technolend.com.ua
 techport.net.ua
 tehnotop.net.ua
+telegram-gifts.online
+telegram-gifts.pro
+telegram-online.xyz
+telegram-org.online
 telegram-ua.com
 telegram-ua.org
+telegram-w.net
 telegram-web.biz
+telegram.org.za
 terrafarmers-ukr.site
 thediadopomoga.online
 tinkletulips-ua.site
@@ -1551,6 +1576,9 @@ tsn-ua.ink
 ua-avalbank.com
 ua-bank.net
 ua-bank.org
+ua-banking.com
+ua-bnk.online
+ua-boutique.com.ua
 ua-cash.com
 ua-cash.website
 ua-compens.top
@@ -1615,6 +1643,7 @@ uavolunteer-military.com
 ubc.agency
 udemixcr.com
 uk-raina.live
+ukr-buy.com.ua
 ukr-cash.top
 ukr-compens.top
 ukr-compens.xyz
@@ -1622,6 +1651,7 @@ ukr-compensate.top
 ukr-compesations.top
 ukr-compesations.xyz
 ukr-dopomog.top
+ukr-dopomoga.top
 ukr-floristik.site
 ukr-harvestgreen.site
 ukr-help.online
@@ -1683,6 +1713,7 @@ ukrainetop.store
 ukrainetoptovar.store
 ukraineworkup.online
 ukrainian-inform.com
+ukrainian-podarunok.com
 ukrainian-product.store
 ukrainianamazon.com
 ukrainianua.website
@@ -1690,12 +1721,14 @@ ukrainianwomen.store
 ukrainshop.fun
 ukrcashtrans.biz
 ukrcredits.com
+ukrdopomoga.top
 ukreyns.com
 ukrfinanspomog.site
 ukripaymens.online
 ukrkonkurs.site
 ukrpay.fun
 ukrpaymen.today
+ukrpayment.online
 ukrpaymentsystem.pro
 ukrpaytransactions.info
 ukrposhta.kr.ua
@@ -1788,6 +1821,7 @@ viplatadopomogaua.com
 viplataes.site
 viplataes.vip
 viplatagov.org
+viplatagovua.org
 viplataindo.com
 viplatanow.online
 viplataonline.com
@@ -1800,6 +1834,7 @@ viplataua.info
 viplataua.net
 viplataua.org
 viplataua.shop
+viplataua.site
 viplataua.xyz
 viplatauaukr.xyz
 viplatauaukraine.xyz
