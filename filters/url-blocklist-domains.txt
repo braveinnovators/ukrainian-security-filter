@@ -1,20 +1,12 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 01 June 2023 11:46 EEST
-# Expires: 3 days
+# Last modified: Fri, 02 June 2023 15:56 EEST
+# Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
-0nlinepaidlife.shop
-0olut8.cn
-12dz.com
-24get.site
-24unicef.org
-3dss-pays.info
-63f66fdf58d3d.site123.me
-640e06527233d.site123.me
 a-bank.ads-pid.me
 a-bank.diyaviplati.co
 a-bank.dopomoga.agency
@@ -78,7 +70,6 @@ aidforukr-gov.site
 aidgetukr-gov.site
 aidsdopomoga-gov.site
 aidsgetukr-gov.site
-amerisn.com
 apayments.pro
 api-donate-ukrainehelp.org
 aval-bank-online.com
@@ -141,7 +132,11 @@ cercis-dopay24.biz
 childrens-fund-ukraine.com
 chydovo.com
 ckx-pay.me
+com-7300-diya.cloud
+com-7300-diya.online
+com-7300-diya.shop
 com1465.website
+com7300diya.pro
 compen-ua.sbs
 compen-ua.website
 compens.ocxa-ua.top
@@ -683,7 +678,6 @@ next24.viplatka.com
 next24.vuplatu.in
 next24.xx-pay.co
 next24.xx-pay.me
-next24.yrliqupay.com
 next24dopamoga.online
 nextpay.pw
 nextprivat24-help.win
@@ -695,7 +689,6 @@ nm6.info
 no-pay.me
 nopersonexty.online
 noski-ua.site
-nost-pays.shop
 novaposhta-ua.com
 novaposhta-ua.org
 novaposhta-ua.recive-money.icu
@@ -758,7 +751,6 @@ oschad-banking.site
 oschad-help.win
 oschad-paybank.xyz
 oschad-ukr.buzz
-oschad.3dss-pays.info
 oschad.blesk24.com
 oschad.cake-payment.me
 oschad.ckx-pay.me
@@ -842,11 +834,7 @@ oschad.viplataua.shop
 oschad.viplatka.com
 oschad.vuplatu.in
 oschad.vyplata-help.com
-oschad.wr-rescan.com
 oschad.xx-pay.co
-oschad.yatreba.com
-oschad.yrlipay.art
-oschad.yrliqupay.com
 oschad24-help.shop
 oschad24-helps.shop
 oschad24-helps.site
@@ -858,7 +846,6 @@ oschad24helps.site
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
 oschadbank.ads-pid.me
-oschadbank.amerisn.com
 oschadbank.bake-pays.me
 oschadbank.bank-com.biz
 oschadbank.bank-com.shop
@@ -949,7 +936,6 @@ oshad-ua.dop-viplatisite24.online
 oshad-ua.log-dopomogapays24.org
 oshad-ua.may-viplatservis24.org
 oshad-ua.vip-viplatldop24.org
-oshad.24get.site
 oshadbank.online
 oshadbank.pro
 oshadbank.uk
@@ -1043,6 +1029,11 @@ pickpayua.cloud
 pidrumka.co
 pidrumka.online
 pidrumkavuplata.ink
+pidtrimka-accept.site
+pidtrimka-e.cloud
+pidtrimka-e.site
+pidtrimka-e.xyz
+pidtrimkaaccept.blog
 pil-ua.store
 pin-up-ua.top
 pins-ua.fun
@@ -1054,8 +1045,6 @@ plivka-ua.shop
 po-mosh.com
 po-teq.com
 poluchenie.pw
-poluchka.3dss-pays.info
-poluchka.nost-pays.shop
 pomoshukraine.website
 popolni.info
 popolnim.info
@@ -1073,7 +1062,6 @@ privat-ua.erservice.site
 privat-ua.log-dopomogapays24.org
 privat-ua.may-viplatservis24.org
 privat-ua.vip-viplatldop24.org
-privat.24unicef.org
 privat.bake-pays.me
 privat.bank-verif.com
 privat.bankver.com
@@ -1197,7 +1185,6 @@ prytulafoundation.in
 prytulafoundation.net
 prytulafoundation.site
 pumb-next.online
-pumb.3dss-pays.info
 pumb.ads-pid.me
 pumb.ca-pay.me
 pumb.cake-payment.me
@@ -1264,7 +1251,6 @@ raif-pay.online
 raif-pay.site
 raif-pay.space
 raif-pay.website
-raif.24get.site
 raif.blesk24.com
 raif.cake-payment.me
 raif.ckx-pay.me
@@ -1355,9 +1341,6 @@ raif.vuplatu.in
 raif.vyplata-help.com
 raif.vyplaty.pro
 raif.xx-pay.co
-raif.yatreba.com
-raif.yrlipay.art
-raif.yrliqupay.com
 raifesssen.com
 raiff-bank.fun
 raiff-bank.pw
@@ -1396,9 +1379,7 @@ raiffeisen-ua.may-viplatservis24.org
 raiffeisen-ua.vip-viplatldop24.org
 raiffeisen-uapay.shop
 raiffeisen-ukr.buzz
-raiffeisen.3dss-pays.info
 raiffeisen.ads-pid.me
-raiffeisen.amerisn.com
 raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
 raiffeisen.bank-com.shop
@@ -1509,6 +1490,7 @@ ryjpay.com
 s1.edopomogaua.site
 safe-ua-viplata.website
 saferegulatory.com
+samsung-nadiya.com.ua
 samsung-ukraine.com.ua
 sarafan-ua.store
 secure2dpay.store
@@ -1886,9 +1868,7 @@ webk-telegram.sbs
 weekpaidlife.top
 wf0.uno
 world-help.udemixcr.com
-wr-rescan.com
 www-raiffeslen.me
-x7-mikepike.buzz
 xc0.fun
 xn--80aa2annq7l.life
 xn--80aae0btu3d.life
@@ -1899,8 +1879,3 @@ xwallet.website
 xx-pay.co
 xx-pay.me
 y-pay.pro
-y4-nurimuri.buzz
-yatreba.com
-yourpay.world
-yrlipay.art
-yrliqupay.com
