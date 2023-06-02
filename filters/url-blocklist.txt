@@ -1,20 +1,12 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 01 June 2023 11:46 EEST
-! Expires: 3 days
+! Last modified: Fri, 02 June 2023 15:56 EEST
+! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
 ! Homepage: https://github.com/braveinnovators/url-blocklist
 ! Issues: https://github.com/braveinnovators/url-blocklist/issues
 
-||0nlinepaidlife.shop^
-||0olut8.cn^
-||12dz.com^
-||24get.site^
-||24unicef.org^
-||3dss-pays.info^
-||63f66fdf58d3d.site123.me^
-||640e06527233d.site123.me^
 ||actions-pay24.win^
 ||adidas-ua.shop^
 ||adinedopomoga-gov.site^
@@ -34,7 +26,6 @@
 ||aidgetukr-gov.site^
 ||aidsdopomoga-gov.site^
 ||aidsgetukr-gov.site^
-||amerisn.com^
 ||apayments.pro^
 ||api-donate-ukrainehelp.org^
 ||aval-bank-online.com^
@@ -94,7 +85,11 @@
 ||childrens-fund-ukraine.com^
 ||chydovo.com^
 ||ckx-pay.me^
+||com-7300-diya.cloud^
+||com-7300-diya.online^
+||com-7300-diya.shop^
 ||com1465.website^
+||com7300diya.pro^
 ||compen-ua.sbs^
 ||compen-ua.website^
 ||compensation-ua.xyz^
@@ -514,7 +509,6 @@
 ||no-pay.me^
 ||nopersonexty.online^
 ||noski-ua.site^
-||nost-pays.shop^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
 ||novaposhta.app^
@@ -659,6 +653,11 @@
 ||pidrumka.co^
 ||pidrumka.online^
 ||pidrumkavuplata.ink^
+||pidtrimka-accept.site^
+||pidtrimka-e.cloud^
+||pidtrimka-e.site^
+||pidtrimka-e.xyz^
+||pidtrimkaaccept.blog^
 ||pil-ua.store^
 ||pin-up-ua.top^
 ||pins-ua.fun^
@@ -805,6 +804,7 @@
 ||ryjpay.com^
 ||safe-ua-viplata.website^
 ||saferegulatory.com^
+||samsung-nadiya.com.ua^
 ||samsung-ukraine.com.ua^
 ||sarafan-ua.store^
 ||secure2dpay.store^
@@ -1151,9 +1151,7 @@
 ||webk-telegram.sbs^
 ||weekpaidlife.top^
 ||wf0.uno^
-||wr-rescan.com^
 ||www-raiffeslen.me^
-||x7-mikepike.buzz^
 ||xc0.fun^
 ||xn--80aa2annq7l.life^
 ||xn--80aae0btu3d.life^
@@ -1164,11 +1162,6 @@
 ||xx-pay.co^
 ||xx-pay.me^
 ||y-pay.pro^
-||y4-nurimuri.buzz^
-||yatreba.com^
-||yourpay.world^
-||yrlipay.art^
-||yrliqupay.com^
 
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
@@ -1187,7 +1180,6 @@
 ||*oshad*.*.$document
 ||*oshcad*.*.$document
 
-||*-mono*.*.$document
 ||*monobank*.$document,domain=~monobank.ua|~facebook.com|~instagram.com
 ||mono.*.$document
 
@@ -1196,6 +1188,7 @@
 ||*raiffaisen*.*.$document
 ||*raiffei*.*.$document,domain=~raiffeisen.ua
 ||a-raif.*.$document
+||raif-ua.*.$document
 ||raif.*.$document
 
 ||*ukersb24*.*.$document
@@ -1204,8 +1197,6 @@
 ||*ukrsibbank*.$document,domain=~ukrsibbank.com
 
 ||pumb*.*.$document,domain=~pumb.ua
-
-||*-exim24*.*.$document
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
@@ -1226,16 +1217,20 @@
 ||*aidfromtheunbot^$document,domain=t.me|telegram.me
 ||*diia_govl^$document,domain=t.me|telegram.me
 ||*diia_govua1_bot^$document,domain=t.me|telegram.me
+||*diia_help_ukraine^$document,domain=t.me|telegram.me
+||*diiauagov^$document,domain=t.me|telegram.me
 ||*dopomoga_diia^$document,domain=t.me|telegram.me
+||*dopomogai23^$document,domain=t.me|telegram.me
 ||*doppomoga_bot^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*edopomoga*$document,domain=t.me|telegram.me
 ||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
-||*helpoUA^$document,domain=t.me|telegram.me
+||*helpoua^$document,domain=t.me|telegram.me
 ||*officcial_viplata_diya^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
+||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
