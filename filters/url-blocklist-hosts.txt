@@ -1,20 +1,12 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Thu, 01 June 2023 11:46 EEST
-# Expires: 3 days
+# Last modified: Fri, 02 June 2023 15:56 EEST
+# Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
-0.0.0.0 0nlinepaidlife.shop
-0.0.0.0 0olut8.cn
-0.0.0.0 12dz.com
-0.0.0.0 24get.site
-0.0.0.0 24unicef.org
-0.0.0.0 3dss-pays.info
-0.0.0.0 63f66fdf58d3d.site123.me
-0.0.0.0 640e06527233d.site123.me
 0.0.0.0 a-bank.ads-pid.me
 0.0.0.0 a-bank.diyaviplati.co
 0.0.0.0 a-bank.dopomoga.agency
@@ -78,7 +70,6 @@
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 aidsdopomoga-gov.site
 0.0.0.0 aidsgetukr-gov.site
-0.0.0.0 amerisn.com
 0.0.0.0 apayments.pro
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 aval-bank-online.com
@@ -141,7 +132,11 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
+0.0.0.0 com-7300-diya.cloud
+0.0.0.0 com-7300-diya.online
+0.0.0.0 com-7300-diya.shop
 0.0.0.0 com1465.website
+0.0.0.0 com7300diya.pro
 0.0.0.0 compen-ua.sbs
 0.0.0.0 compen-ua.website
 0.0.0.0 compens.ocxa-ua.top
@@ -683,7 +678,6 @@
 0.0.0.0 next24.vuplatu.in
 0.0.0.0 next24.xx-pay.co
 0.0.0.0 next24.xx-pay.me
-0.0.0.0 next24.yrliqupay.com
 0.0.0.0 next24dopamoga.online
 0.0.0.0 nextpay.pw
 0.0.0.0 nextprivat24-help.win
@@ -695,7 +689,6 @@
 0.0.0.0 no-pay.me
 0.0.0.0 nopersonexty.online
 0.0.0.0 noski-ua.site
-0.0.0.0 nost-pays.shop
 0.0.0.0 novaposhta-ua.com
 0.0.0.0 novaposhta-ua.org
 0.0.0.0 novaposhta-ua.recive-money.icu
@@ -758,7 +751,6 @@
 0.0.0.0 oschad-help.win
 0.0.0.0 oschad-paybank.xyz
 0.0.0.0 oschad-ukr.buzz
-0.0.0.0 oschad.3dss-pays.info
 0.0.0.0 oschad.blesk24.com
 0.0.0.0 oschad.cake-payment.me
 0.0.0.0 oschad.ckx-pay.me
@@ -842,11 +834,7 @@
 0.0.0.0 oschad.viplatka.com
 0.0.0.0 oschad.vuplatu.in
 0.0.0.0 oschad.vyplata-help.com
-0.0.0.0 oschad.wr-rescan.com
 0.0.0.0 oschad.xx-pay.co
-0.0.0.0 oschad.yatreba.com
-0.0.0.0 oschad.yrlipay.art
-0.0.0.0 oschad.yrliqupay.com
 0.0.0.0 oschad24-help.shop
 0.0.0.0 oschad24-helps.shop
 0.0.0.0 oschad24-helps.site
@@ -858,7 +846,6 @@
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
-0.0.0.0 oschadbank.amerisn.com
 0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.bank-com.shop
@@ -949,7 +936,6 @@
 0.0.0.0 oshad-ua.log-dopomogapays24.org
 0.0.0.0 oshad-ua.may-viplatservis24.org
 0.0.0.0 oshad-ua.vip-viplatldop24.org
-0.0.0.0 oshad.24get.site
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.uk
@@ -1043,6 +1029,11 @@
 0.0.0.0 pidrumka.co
 0.0.0.0 pidrumka.online
 0.0.0.0 pidrumkavuplata.ink
+0.0.0.0 pidtrimka-accept.site
+0.0.0.0 pidtrimka-e.cloud
+0.0.0.0 pidtrimka-e.site
+0.0.0.0 pidtrimka-e.xyz
+0.0.0.0 pidtrimkaaccept.blog
 0.0.0.0 pil-ua.store
 0.0.0.0 pin-up-ua.top
 0.0.0.0 pins-ua.fun
@@ -1054,8 +1045,6 @@
 0.0.0.0 po-mosh.com
 0.0.0.0 po-teq.com
 0.0.0.0 poluchenie.pw
-0.0.0.0 poluchka.3dss-pays.info
-0.0.0.0 poluchka.nost-pays.shop
 0.0.0.0 pomoshukraine.website
 0.0.0.0 popolni.info
 0.0.0.0 popolnim.info
@@ -1073,7 +1062,6 @@
 0.0.0.0 privat-ua.log-dopomogapays24.org
 0.0.0.0 privat-ua.may-viplatservis24.org
 0.0.0.0 privat-ua.vip-viplatldop24.org
-0.0.0.0 privat.24unicef.org
 0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.bank-verif.com
 0.0.0.0 privat.bankver.com
@@ -1197,7 +1185,6 @@
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
 0.0.0.0 pumb-next.online
-0.0.0.0 pumb.3dss-pays.info
 0.0.0.0 pumb.ads-pid.me
 0.0.0.0 pumb.ca-pay.me
 0.0.0.0 pumb.cake-payment.me
@@ -1264,7 +1251,6 @@
 0.0.0.0 raif-pay.site
 0.0.0.0 raif-pay.space
 0.0.0.0 raif-pay.website
-0.0.0.0 raif.24get.site
 0.0.0.0 raif.blesk24.com
 0.0.0.0 raif.cake-payment.me
 0.0.0.0 raif.ckx-pay.me
@@ -1355,9 +1341,6 @@
 0.0.0.0 raif.vyplata-help.com
 0.0.0.0 raif.vyplaty.pro
 0.0.0.0 raif.xx-pay.co
-0.0.0.0 raif.yatreba.com
-0.0.0.0 raif.yrlipay.art
-0.0.0.0 raif.yrliqupay.com
 0.0.0.0 raifesssen.com
 0.0.0.0 raiff-bank.fun
 0.0.0.0 raiff-bank.pw
@@ -1396,9 +1379,7 @@
 0.0.0.0 raiffeisen-ua.vip-viplatldop24.org
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen-ukr.buzz
-0.0.0.0 raiffeisen.3dss-pays.info
 0.0.0.0 raiffeisen.ads-pid.me
-0.0.0.0 raiffeisen.amerisn.com
 0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
 0.0.0.0 raiffeisen.bank-com.shop
@@ -1509,6 +1490,7 @@
 0.0.0.0 s1.edopomogaua.site
 0.0.0.0 safe-ua-viplata.website
 0.0.0.0 saferegulatory.com
+0.0.0.0 samsung-nadiya.com.ua
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 sarafan-ua.store
 0.0.0.0 secure2dpay.store
@@ -1886,9 +1868,7 @@
 0.0.0.0 weekpaidlife.top
 0.0.0.0 wf0.uno
 0.0.0.0 world-help.udemixcr.com
-0.0.0.0 wr-rescan.com
 0.0.0.0 www-raiffeslen.me
-0.0.0.0 x7-mikepike.buzz
 0.0.0.0 xc0.fun
 0.0.0.0 xn--80aa2annq7l.life
 0.0.0.0 xn--80aae0btu3d.life
@@ -1899,8 +1879,3 @@
 0.0.0.0 xx-pay.co
 0.0.0.0 xx-pay.me
 0.0.0.0 y-pay.pro
-0.0.0.0 y4-nurimuri.buzz
-0.0.0.0 yatreba.com
-0.0.0.0 yourpay.world
-0.0.0.0 yrlipay.art
-0.0.0.0 yrliqupay.com
