@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 02 June 2023 15:56 EEST
+! Last modified: Sat, 03 June 2023 20:21 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -51,8 +51,6 @@
 ||bank-viplata.online^
 ||bankaval-ukraine.com^
 ||bankver.com^
-||bankverif.live^
-||benedetto-help.info^
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||blesk24.com^
@@ -81,7 +79,6 @@
 ||ccx5.space^
 ||ccx5.uno^
 ||ccx5.website^
-||cercis-dopay24.biz^
 ||childrens-fund-ukraine.com^
 ||chydovo.com^
 ||ckx-pay.me^
@@ -101,7 +98,6 @@
 ||comreviews.club^
 ||connected4ukraine.org^
 ||connectedforukraine.org^
-||coshi.online^
 ||coshipriem.online^
 ||cozialedop.info^
 ||cq-pay.me^
@@ -112,38 +108,40 @@
 ||csx5.space^
 ||csx5.uno^
 ||de5.fun^
-||deneg-help.top^
 ||dengi.fyi^
 ||departament.social^
 ||dersch.online^
-||dershoplate.com^
-||dfgpaio.click^
 ||diadopomoga.cloud^
 ||diadopomoga.me^
 ||diadopomoga.org^
 ||diadopomoga6500.com^
 ||diadopomogafree6500.com^
-||diafes.com^
 ||diahelpfulua.click^
 ||diaviplata.org^
 ||diia-2023help.me^
 ||diia-d0p0moga.com^
+||diia-dopomoga.com^
 ||diia-dopomoga.eu^
 ||diia-dopomoga.life^
 ||diia-dopomoga.pro^
 ||diia-gov.com^
+||diia-gov.link^
 ||diia-gov.me^
 ||diia-gov.pp.ua^
 ||diia-uadopomogga.cloud^
 ||diia-uadopomogga.me^
 ||diia-uadopomogga.pro^
 ||diia2023help.pro^
+||diia24.com^
 ||diiadopom0ga.click^
 ||diiadopomoga.pro^
 ||diiadopomoga2jd.pro^
+||diiagov.biz^
 ||diiapay.info^
 ||diiapidpys.uk^
 ||diiaua.com^
+||diiaviplata.cloud^
+||diiaviplata.pro^
 ||diiya-ua.info^
 ||dimdecoru-ua.store^
 ||dipdopdia.com^
@@ -159,11 +157,7 @@
 ||diyaviplati.co^
 ||diyaviplati.vip^
 ||do-pom-oga.com^
-||dochlend.com^
-||domennet.com^
-||domennn.com^
 ||donate-ukrainehelp.org^
-||donttech.com^
 ||dop-viplatisite24.online^
 ||dopomegatm.me^
 ||dopomih.com^
@@ -252,8 +246,12 @@
 ||e-oschad.uk^
 ||e-privatbank24.me^
 ||e-viplata.space^
+||ebayua.cc^
+||ebayua.com^
+||ebayua.vip^
 ||ebayua66.com^
 ||ebayua66.vip^
+||ebayukraine.com^
 ||ebayukraine.vip^
 ||ec-compensation.xyz^
 ||ed-edopomoga.com^
@@ -339,8 +337,6 @@
 ||gate-pays.me^
 ||gaukrainians.org^
 ||gedopomoga-gov.site^
-||gereta.live^
-||gertinn.com^
 ||get-oon-viplata.shop^
 ||getfunds.pw^
 ||gg-pay.me^
@@ -406,28 +402,25 @@
 ||helpzzfound.site^
 ||hep5.online^
 ||hfy5.uno^
+||home-internet-kyivstar.com.ua^
+||home-kyivstar.online^
 ||homeanimal.site^
 ||i-dopomoga.space^
-||id2047323.com^
 ||idopomoga.online^
-||idregister.pro^
-||infcjal.cn^
 ||info-vyplata24.uk^
 ||infovyplata24.uk^
 ||innoculture-ua.shop^
 ||innovacultura-ua.shop^
+||internet-kyivstar.com.ua^
+||internet-kyivstar.com^
 ||ipay-ua.online^
 ||iris-ua.store^
-||j9-wersii.buzz^
-||jah3.space^
 ||jay-order.me^
 ||k-auch.buzz^
 ||k-auch.quest^
 ||kalina-ua.online^
 ||kievstar.online^
 ||kievukraina.shop^
-||klespo.site^
-||klisp-o.site^
 ||koko-ua.store^
 ||kombi-ua.store^
 ||konkurs-events.top^
@@ -438,29 +431,51 @@
 ||konvas.store^
 ||kpayments.cc^
 ||kramnitsa-ua.store^
+||kyivstar-connect-internet.com.ua^
+||kyivstar-home-internet.com.ua^
+||kyivstar-home-promo.com.ua^
+||kyivstar-home.com.ua^
+||kyivstar-inet.com^
+||kyivstar-internet.com.ua^
 ||kyivstar-internet.com^
+||kyivstar-internet.tk^
+||kyivstar-net.com.ua^
 ||kyivstar-sale.com.ua^
+||kyivstar-shop.com.ua^
+||kyivstar-shop.com^
+||kyivstar-shop.net^
+||kyivstar-tv.com.ua^
+||kyivstar-vebo.com.ua^
+||kyivstar.biz.ua^
+||kyivstar.biz^
+||kyivstar.com.ua^
+||kyivstar.com^
+||kyivstar.eu^
+||kyivstar.in.ua^
+||kyivstar.in^
+||kyivstar.info^
+||kyivstar.mobi^
+||kyivstar.org.ua^
+||kyivstar.org^
+||kyivstar.pro^
+||kyivstar.shop^
 ||kyivstarbezlim.com^
+||kyivstardance.com.ua^
+||kyivstarhome.pp.ua^
+||kyivstarpay.com^
+||kyivstarsale.online^
+||kyivstarshop.com^
+||kyivstarshop.net^
 ||kylym-ua.space^
 ||lataepitrimka.vip^
 ||lavandi-ua.store^
 ||leowallet.me^
 ||lesya-ua.store^
 ||letokonkurs.site^
-||letytas.world^
 ||likpay.me^
 ||liqpay.info^
 ||lito-ua.store^
 ||ll0.uno^
-||localregi.pro^
-||log-dopomogapays24.org^
-||log-ins543325235345.cloud^
-||lpayments.org^
-||lzdq6btw.cn^
-||m39793.cn^
-||may-viplatservis24.org^
-||mediaua-gov.com^
-||minpolitici.com^
 ||mobi-dengi.com^
 ||mobiletopups.space^
 ||mobiletopupsservice.online^
@@ -470,28 +485,24 @@
 ||mobitop.biz^
 ||moneypay-for-ukrainians-people.pro^
 ||moneypayua.online^
+||moneyviplata.shop^
 ||monitor-igr.blogspot.com^
 ||mono-bank.org^
 ||monobank.co.ua^
 ||monobank.finance^
 ||monobank.online^
 ||monobank.store^
-||mopays.me^
-||mospaidsmarket.top^
-||motohouseua.com^
 ||ms0.uno^
 ||my-govuvvyplate.site^
 ||my-govuwvyplate.site^
+||my-kyivstar.com.ua^
 ||my-privat24.cc^
-||mygraphbook.com^
+||mykyivstar.com^
 ||mytax-compensation.xyz^
 ||mytechno.com.ua^
 ||myua-compensations.xyz^
 ||nato-dopomoga.com^
 ||nato-gov.com^
-||news-debet.kyiv.ua^
-||newsukraine3.yolasite.com^
-||newua.info^
 ||next-bp.info^
 ||next-bp.net^
 ||next-privat24.online^
@@ -506,22 +517,24 @@
 ||nls1.fun^
 ||nm6.fun^
 ||nm6.info^
-||no-pay.me^
-||nopersonexty.online^
 ||noski-ua.site^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
 ||novaposhta.app^
+||novaposhta.biz^
+||novaposhta.com.ua^
+||novaposhta.in^
+||novaposhta.info^
+||novaposhta.org^
+||novaposhta.site^
 ||novaposhtashipping.com^
 ||novaposhtatracking.com^
 ||novok.com.ua^
-||np-pay.me^
 ||ocha-ukrain.xyz^
 ||ocshad24l-pay.site^
 ||ocshad24l.site^
 ||ocshadbank24.uk^
 ||ocshadl24.uk^
-||ocxa-ua.top^
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||okpay24-grn.com^
@@ -585,8 +598,6 @@
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||osv6.site^
-||osxi-ua.xyz^
-||otimat.site^
 ||otrimanti.site^
 ||otrimanya.me^
 ||otto-spotify.de^
@@ -611,7 +622,6 @@
 ||pay-ua.website^
 ||pay-uah-banks.pro^
 ||pay-ukraine.com^
-||pay-unv.me^
 ||pay24-dopomoga.win^
 ||pay24dopomoga.win^
 ||pay3700ua.online^
@@ -632,6 +642,7 @@
 ||payukraine.online^
 ||payukraine24now.com^
 ||payukrainenow.com^
+||payviplata.shop^
 ||pcs-order.me^
 ||perekaz-koshtiv.online^
 ||perekaz-perek.com^
@@ -652,7 +663,6 @@
 ||pickpayua.cloud^
 ||pidrumka.co^
 ||pidrumka.online^
-||pidrumkavuplata.ink^
 ||pidtrimka-accept.site^
 ||pidtrimka-e.cloud^
 ||pidtrimka-e.site^
@@ -667,7 +677,6 @@
 ||platizhmob.com^
 ||plivka-ua.shop^
 ||po-mosh.com^
-||po-teq.com^
 ||poluchenie.pw^
 ||pomoshukraine.website^
 ||popolni.info^
@@ -703,6 +712,8 @@
 ||privat24helps.shop^
 ||privat24investt.xyz^
 ||privat24oon.social^
+||privat24ua.fun^
+||privat24ua.site^
 ||privatbank.in.ua^
 ||privatbank24.shop^
 ||privatbank24.uk^
@@ -712,6 +723,7 @@
 ||prlvatbank24.pw^
 ||proffis.online^
 ||prom-pay-ua.host^
+||promo-olx-ukrposhta.com^
 ||promo-pay24.win^
 ||pruity.com^
 ||prytulafoundation.in^
@@ -785,7 +797,6 @@
 ||raifua.site^
 ||rastamogka.net^
 ||razomforukraine.in^
-||realss.pro^
 ||recive-money.icu^
 ||recivemoney.icu^
 ||rectivs.com^
@@ -800,8 +811,6 @@
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
-||rozym.com^
-||ryjpay.com^
 ||safe-ua-viplata.website^
 ||saferegulatory.com^
 ||samsung-nadiya.com.ua^
@@ -812,16 +821,13 @@
 ||securitypay.me^
 ||securitypays.online^
 ||sendex.online^
-||shepir.com^
 ||shop-ukraine.shop^
 ||shop-ukraine.site^
 ||shoping-ukraine.space^
 ||shoppingua.fun^
 ||sitidiia.live^
-||skysetukraine.club^
 ||smartlead.com.ua^
 ||sn0.uno^
-||sneakersadi2018.com^
 ||soc-order.me^
 ||socialassistance.info^
 ||socialassistance.social^
@@ -857,6 +863,12 @@
 ||telegram-w.net^
 ||telegram-web.biz^
 ||telegram.org.za^
+||telegramapp-dl.com^
+||telegramapp-dl.im^
+||telegramapp-dl.me^
+||telegramapp-dl.net^
+||telegramapp-dl.org^
+||telegramapp-dl.pro^
 ||terrafarmers-ukr.site^
 ||thediadopomoga.online^
 ||tinkletulips-ua.site^
@@ -868,6 +880,7 @@
 ||trustis-ua.top^
 ||tsa.airforce^
 ||tsn-ua.ink^
+||tviy-kyivstar.com.ua^
 ||ua-avalbank.com^
 ||ua-bank.net^
 ||ua-bank.org^
@@ -1025,8 +1038,12 @@
 ||ukrpayment.online^
 ||ukrpaymentsystem.pro^
 ||ukrpaytransactions.info^
+||ukrposhta.com.ua^
+||ukrposhta.com^
 ||ukrposhta.kr.ua^
+||ukrposhta.live^
 ||ukrposhta.me^
+||ukrposhta.net^
 ||ukrposhta.pl^
 ||ukrsib-bank.top^
 ||ukrsibbank.top^
@@ -1125,8 +1142,6 @@
 ||vorkviplata.biz^
 ||vsim-sviplatyi-oon.co.ua^
 ||vuplata.casa^
-||vuplata.ink^
-||vuplata.online^
 ||vuplata24pay.shop^
 ||vuplatu.in^
 ||vuplatyi.com^
@@ -1153,50 +1168,53 @@
 ||wf0.uno^
 ||www-raiffeslen.me^
 ||xc0.fun^
-||xn--80aa2annq7l.life^
-||xn--80aae0btu3d.life^
 ||xs0.uno^
-||xu-pay.me^
-||xv-dopomoga.net^
 ||xwallet.website^
-||xx-pay.co^
-||xx-pay.me^
-||y-pay.pro^
 
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
+! PRIVATBANK.UA
+://24-next.*.$document
+://next24.*.$document
+://privat-ua.*.$document
+://privat.*.$document
 ||*privat24*.$document,domain=~privat24.ua
 ||*privatbank*.$document,domain=~privatbank.ua
-||24-next.*.$document
-||blago*-privat*.$document
-||next24.*.$document
-||privat-ua.*.$document
-||privat.*.$document
 
-||*oschad*.*.$document,domain=~oschadbank.ua
-||*oschadbank*.$document,domain=~oschadbank.ua
-||*oshad*.*.$document
-||*oshcad*.*.$document
+! OSCHADBANK.UA
+://*oschad*.*.$document,domain=~oschadbank.ua
+://*oshad*.*.$document
+://*oshcad*.*.$document
+://oschadbank*.$document,domain=~oschadbank.ua
 
-||*monobank*.$document,domain=~monobank.ua|~facebook.com|~instagram.com
-||mono.*.$document
+! MONOBANK.UA
+://mono.*.$document
+://monobank*.$document,domain=~monobank.ua
 
-||*aval24*.*.$document
-||*avalpay*.*.$document
-||*raiffaisen*.*.$document
-||*raiffei*.*.$document,domain=~raiffeisen.ua
-||a-raif.*.$document
-||raif-ua.*.$document
-||raif.*.$document
+! RAIFFEISEN.UA
+://*-raif.*.$document
+://*aval24*.*.$document
+://*avalpay*.*.$document
+://*raiffaisen*.*.$document
+://*raiffei*.*.$document,domain=~raiffeisen.ua
+://raif-*.*.$document
+://raif.*.$document
 
-||*ukersb24*.*.$document
-||*ukersib*.*.$document
-||*ukrsib*.*.$document,domain=~ukrsibbank.com
-||*ukrsibbank*.$document,domain=~ukrsibbank.com
+! UKRSIBBANK.COM
+://*ukersb24*.*.$document
+://*ukersib*.*.$document
+://*ukrsib*.*.$document,domain=~ukrsibbank.com
+://ukrsibbank*.$document,domain=~ukrsibbank.com
 
-||pumb*.*.$document,domain=~pumb.ua
+! PUMB.UA
+://*pumb*.*.$document,domain=~pumb.ua
+
+! A-BANK.COM.UA
+://*-abank*.*.$document
+://a-bank.*.$document
+://abank.*.$document
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
