@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 03 June 2023 20:21 EEST
+! Last modified: Sun, 04 June 2023 15:32 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -107,6 +107,7 @@
 ||csx5.net^
 ||csx5.space^
 ||csx5.uno^
+||dafni-ua.store^
 ||de5.fun^
 ||dengi.fyi^
 ||departament.social^
@@ -587,6 +588,7 @@
 ||oschadnybank.com.ua^
 ||oshad-24.com^
 ||oshad-cash.pro^
+||oshad-pedtrimka.online^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
@@ -661,6 +663,7 @@
 ||peyidgo.pro^
 ||pickpayua.best^
 ||pickpayua.cloud^
+||pidrimka-ua.com^
 ||pidrumka.co^
 ||pidrumka.online^
 ||pidtrimka-accept.site^
@@ -823,6 +826,7 @@
 ||sendex.online^
 ||shop-ukraine.shop^
 ||shop-ukraine.site^
+||shop-ukraine.space^
 ||shoping-ukraine.space^
 ||shoppingua.fun^
 ||sitidiia.live^
@@ -964,6 +968,7 @@
 ||ukr-help.online^
 ||ukr-kompenssations.buzz^
 ||ukr-linker.xyz^
+||ukr-magazine.com.ua^
 ||ukr-market24.com.ua^
 ||ukr-money.com.ua^
 ||ukr-oil-group.online^
@@ -1029,7 +1034,6 @@
 ||ukrcashtrans.biz^
 ||ukrcredits.com^
 ||ukrdopomoga.top^
-||ukreyns.com^
 ||ukrfinanspomog.site^
 ||ukripaymens.online^
 ||ukrkonkurs.site^
@@ -1045,8 +1049,10 @@
 ||ukrposhta.me^
 ||ukrposhta.net^
 ||ukrposhta.pl^
+||ukrsib-bank.site^
 ||ukrsib-bank.top^
 ||ukrsibbank.top^
+||ukrsibbank.website^
 ||ukrsmartshop.com^
 ||ukrspayman.bid^
 ||ukrspayman.online^
@@ -1055,19 +1061,15 @@
 ||ukrtovar.pp.ua^
 ||uks6.site^
 ||ukzarplata.site^
-||ul-pay.me^
 ||un-dopomoga.info^
 ||unicefua.news^
 ||unicefvyplaty.com^
-||unix-change.world^
 ||up-pay.me^
 ||upayment.me^
 ||uperevod.icu^
 ||uplata.cyou^
 ||usdtrader.com^
-||uvyplata.icu^
 ||uw-edopomoga.com^
-||vasic.website^
 ||velka-ua.store^
 ||veneta-ua.store^
 ||vennete-ua.store^
@@ -1083,6 +1085,7 @@
 ||viplata-oon-ua.com^
 ||viplata-ua.eu^
 ||viplata-ua.me^
+||viplata-ukraina.me^
 ||viplata-ukraina.xyz^
 ||viplata.agency^
 ||viplata.biz^
@@ -1220,6 +1223,7 @@
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
+||facebook.com/groups/1893994227644109^$document
 ||facebook.com/groups/6469786606418501^$document
 ||facebook.com/groups/734908961704169^$document
 ||facebook.com/groups/950847565954330^$document
