@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 03 June 2023 20:21 EEST
+# Last modified: Sun, 04 June 2023 15:32 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -34,7 +34,6 @@
 0.0.0.0 a-bank.ua-receipt.com
 0.0.0.0 a-bank.ua-send.website
 0.0.0.0 a-bank.ukraineinua.website
-0.0.0.0 a-bank.ul-pay.me
 0.0.0.0 a-bank.viplata.digital
 0.0.0.0 a-bank.viplata.space
 0.0.0.0 a-bank.viplataes.site
@@ -156,6 +155,7 @@
 0.0.0.0 csx5.net
 0.0.0.0 csx5.space
 0.0.0.0 csx5.uno
+0.0.0.0 dafni-ua.store
 0.0.0.0 de5.fun
 0.0.0.0 dengi.fyi
 0.0.0.0 departament.social
@@ -566,7 +566,6 @@
 0.0.0.0 ms0.uno
 0.0.0.0 my-gov.uperevod.icu
 0.0.0.0 my-gov.uplata.cyou
-0.0.0.0 my-gov.uvyplata.icu
 0.0.0.0 my-govuvvyplate.site
 0.0.0.0 my-govuwvyplate.site
 0.0.0.0 my-kyivstar.com.ua
@@ -653,7 +652,6 @@
 0.0.0.0 next24.uasocial-viplata.company
 0.0.0.0 next24.ubc.agency
 0.0.0.0 next24.ukraineinua.website
-0.0.0.0 next24.ukreyns.com
 0.0.0.0 next24.upayment.me
 0.0.0.0 next24.vi-plata.com
 0.0.0.0 next24.viplata.agency
@@ -803,7 +801,6 @@
 0.0.0.0 oschad.uasocial-viplata.company
 0.0.0.0 oschad.ubc.agency
 0.0.0.0 oschad.uk
-0.0.0.0 oschad.ukreyns.com
 0.0.0.0 oschad.vi-plata.com
 0.0.0.0 oschad.viplata.agency
 0.0.0.0 oschad.viplata.digital
@@ -869,7 +866,6 @@
 0.0.0.0 oschadbank.uahelp.press
 0.0.0.0 oschadbank.uk-raina.live
 0.0.0.0 oschadbank.ukraina.pics
-0.0.0.0 oschadbank.ul-pay.me
 0.0.0.0 oschadbank.vi-plata.vip
 0.0.0.0 oschadbank.vil-ha.com
 0.0.0.0 oschadbank.vinplata.com
@@ -897,6 +893,7 @@
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oshad-24.com
 0.0.0.0 oshad-cash.pro
+0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad-ua.dipuplatservises24.sale
 0.0.0.0 oshad-ua.dop-viplatisite24.online
 0.0.0.0 oshad-ua.vip-viplatldop24.org
@@ -984,6 +981,7 @@
 0.0.0.0 peyidgo.pro
 0.0.0.0 pickpayua.best
 0.0.0.0 pickpayua.cloud
+0.0.0.0 pidrimka-ua.com
 0.0.0.0 pidrumka.co
 0.0.0.0 pidrumka.online
 0.0.0.0 pidtrimka-accept.site
@@ -1162,7 +1160,6 @@
 0.0.0.0 pumb.uasocial-viplata.company
 0.0.0.0 pumb.ubc.agency
 0.0.0.0 pumb.ukraineinua.website
-0.0.0.0 pumb.ul-pay.me
 0.0.0.0 pumb.upayment.me
 0.0.0.0 pumb.vi-plata.com
 0.0.0.0 pumb.vinplata.com
@@ -1251,8 +1248,6 @@
 0.0.0.0 raif.uasocial-viplata.company
 0.0.0.0 raif.uk-raina.live
 0.0.0.0 raif.ukraina.pics
-0.0.0.0 raif.ukreyns.com
-0.0.0.0 raif.ul-pay.me
 0.0.0.0 raif.vi-plata.com
 0.0.0.0 raif.viplata.agency
 0.0.0.0 raif.viplata.digital
@@ -1341,7 +1336,6 @@
 0.0.0.0 raiffeisen.space
 0.0.0.0 raiffeisen.sutary.com
 0.0.0.0 raiffeisen.uahelp.press
-0.0.0.0 raiffeisen.vasic.website
 0.0.0.0 raiffeisen.vi-plata.vip
 0.0.0.0 raiffeisen.vil-ha.com
 0.0.0.0 raiffeisen.vinplata.com
@@ -1407,6 +1401,7 @@
 0.0.0.0 sendex.online
 0.0.0.0 shop-ukraine.shop
 0.0.0.0 shop-ukraine.site
+0.0.0.0 shop-ukraine.space
 0.0.0.0 shoping-ukraine.space
 0.0.0.0 shoppingua.fun
 0.0.0.0 sitidiia.live
@@ -1550,6 +1545,7 @@
 0.0.0.0 ukr-help.online
 0.0.0.0 ukr-kompenssations.buzz
 0.0.0.0 ukr-linker.xyz
+0.0.0.0 ukr-magazine.com.ua
 0.0.0.0 ukr-market24.com.ua
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-oil-group.online
@@ -1615,7 +1611,6 @@
 0.0.0.0 ukrcashtrans.biz
 0.0.0.0 ukrcredits.com
 0.0.0.0 ukrdopomoga.top
-0.0.0.0 ukreyns.com
 0.0.0.0 ukrfinanspomog.site
 0.0.0.0 ukripaymens.online
 0.0.0.0 ukrkonkurs.site
@@ -1631,6 +1626,7 @@
 0.0.0.0 ukrposhta.me
 0.0.0.0 ukrposhta.net
 0.0.0.0 ukrposhta.pl
+0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.ads-pid.me
 0.0.0.0 ukrsib.cake-payment.me
@@ -1654,6 +1650,7 @@
 0.0.0.0 ukrsib.viplataonline.com
 0.0.0.0 ukrsib.vorkviplata.biz
 0.0.0.0 ukrsibbank.top
+0.0.0.0 ukrsibbank.website
 0.0.0.0 ukrsmartshop.com
 0.0.0.0 ukrspayman.bid
 0.0.0.0 ukrspayman.online
@@ -1662,19 +1659,15 @@
 0.0.0.0 ukrtovar.pp.ua
 0.0.0.0 uks6.site
 0.0.0.0 ukzarplata.site
-0.0.0.0 ul-pay.me
 0.0.0.0 un-dopomoga.info
 0.0.0.0 unicefua.news
 0.0.0.0 unicefvyplaty.com
-0.0.0.0 unix-change.world
 0.0.0.0 up-pay.me
 0.0.0.0 upayment.me
 0.0.0.0 uperevod.icu
 0.0.0.0 uplata.cyou
 0.0.0.0 usdtrader.com
-0.0.0.0 uvyplata.icu
 0.0.0.0 uw-edopomoga.com
-0.0.0.0 vasic.website
 0.0.0.0 velka-ua.store
 0.0.0.0 veneta-ua.store
 0.0.0.0 vennete-ua.store
@@ -1690,6 +1683,7 @@
 0.0.0.0 viplata-oon-ua.com
 0.0.0.0 viplata-ua.eu
 0.0.0.0 viplata-ua.me
+0.0.0.0 viplata-ukraina.me
 0.0.0.0 viplata-ukraina.xyz
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
