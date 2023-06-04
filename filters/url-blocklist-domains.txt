@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sat, 03 June 2023 20:21 EEST
+# Last modified: Sun, 04 June 2023 15:32 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -34,7 +34,6 @@ a-bank.socialassistancefromedopomaka.social
 a-bank.ua-receipt.com
 a-bank.ua-send.website
 a-bank.ukraineinua.website
-a-bank.ul-pay.me
 a-bank.viplata.digital
 a-bank.viplata.space
 a-bank.viplataes.site
@@ -156,6 +155,7 @@ cs0.uno
 csx5.net
 csx5.space
 csx5.uno
+dafni-ua.store
 de5.fun
 dengi.fyi
 departament.social
@@ -566,7 +566,6 @@ monobank.store
 ms0.uno
 my-gov.uperevod.icu
 my-gov.uplata.cyou
-my-gov.uvyplata.icu
 my-govuvvyplate.site
 my-govuwvyplate.site
 my-kyivstar.com.ua
@@ -653,7 +652,6 @@ next24.uah-perekaz.com
 next24.uasocial-viplata.company
 next24.ubc.agency
 next24.ukraineinua.website
-next24.ukreyns.com
 next24.upayment.me
 next24.vi-plata.com
 next24.viplata.agency
@@ -803,7 +801,6 @@ oschad.uah-perekaz.com
 oschad.uasocial-viplata.company
 oschad.ubc.agency
 oschad.uk
-oschad.ukreyns.com
 oschad.vi-plata.com
 oschad.viplata.agency
 oschad.viplata.digital
@@ -869,7 +866,6 @@ oschadbank.ua-send.website
 oschadbank.uahelp.press
 oschadbank.uk-raina.live
 oschadbank.ukraina.pics
-oschadbank.ul-pay.me
 oschadbank.vi-plata.vip
 oschadbank.vil-ha.com
 oschadbank.vinplata.com
@@ -897,6 +893,7 @@ oschadlbank24.uk
 oschadnybank.com.ua
 oshad-24.com
 oshad-cash.pro
+oshad-pedtrimka.online
 oshad-ua.dipuplatservises24.sale
 oshad-ua.dop-viplatisite24.online
 oshad-ua.vip-viplatldop24.org
@@ -984,6 +981,7 @@ pestrio.site
 peyidgo.pro
 pickpayua.best
 pickpayua.cloud
+pidrimka-ua.com
 pidrumka.co
 pidrumka.online
 pidtrimka-accept.site
@@ -1162,7 +1160,6 @@ pumb.uah-perekaz.com
 pumb.uasocial-viplata.company
 pumb.ubc.agency
 pumb.ukraineinua.website
-pumb.ul-pay.me
 pumb.upayment.me
 pumb.vi-plata.com
 pumb.vinplata.com
@@ -1251,8 +1248,6 @@ raif.uahs.buzz
 raif.uasocial-viplata.company
 raif.uk-raina.live
 raif.ukraina.pics
-raif.ukreyns.com
-raif.ul-pay.me
 raif.vi-plata.com
 raif.viplata.agency
 raif.viplata.digital
@@ -1341,7 +1336,6 @@ raiffeisen.socialvuplata.net
 raiffeisen.space
 raiffeisen.sutary.com
 raiffeisen.uahelp.press
-raiffeisen.vasic.website
 raiffeisen.vi-plata.vip
 raiffeisen.vil-ha.com
 raiffeisen.vinplata.com
@@ -1407,6 +1401,7 @@ securitypays.online
 sendex.online
 shop-ukraine.shop
 shop-ukraine.site
+shop-ukraine.space
 shoping-ukraine.space
 shoppingua.fun
 sitidiia.live
@@ -1550,6 +1545,7 @@ ukr-harvestgreen.site
 ukr-help.online
 ukr-kompenssations.buzz
 ukr-linker.xyz
+ukr-magazine.com.ua
 ukr-market24.com.ua
 ukr-money.com.ua
 ukr-oil-group.online
@@ -1615,7 +1611,6 @@ ukrainshop.fun
 ukrcashtrans.biz
 ukrcredits.com
 ukrdopomoga.top
-ukreyns.com
 ukrfinanspomog.site
 ukripaymens.online
 ukrkonkurs.site
@@ -1631,6 +1626,7 @@ ukrposhta.live
 ukrposhta.me
 ukrposhta.net
 ukrposhta.pl
+ukrsib-bank.site
 ukrsib-bank.top
 ukrsib.ads-pid.me
 ukrsib.cake-payment.me
@@ -1654,6 +1650,7 @@ ukrsib.viplata.space
 ukrsib.viplataonline.com
 ukrsib.vorkviplata.biz
 ukrsibbank.top
+ukrsibbank.website
 ukrsmartshop.com
 ukrspayman.bid
 ukrspayman.online
@@ -1662,19 +1659,15 @@ ukrspayman.site
 ukrtovar.pp.ua
 uks6.site
 ukzarplata.site
-ul-pay.me
 un-dopomoga.info
 unicefua.news
 unicefvyplaty.com
-unix-change.world
 up-pay.me
 upayment.me
 uperevod.icu
 uplata.cyou
 usdtrader.com
-uvyplata.icu
 uw-edopomoga.com
-vasic.website
 velka-ua.store
 veneta-ua.store
 vennete-ua.store
@@ -1690,6 +1683,7 @@ viplata-ooh.life
 viplata-oon-ua.com
 viplata-ua.eu
 viplata-ua.me
+viplata-ukraina.me
 viplata-ukraina.xyz
 viplata.agency
 viplata.biz
