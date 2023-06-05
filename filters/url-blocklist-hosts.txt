@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 04 June 2023 15:32 EEST
+# Last modified: Mon, 05 June 2023 13:52 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -457,6 +457,7 @@
 0.0.0.0 helpprivat24.site
 0.0.0.0 helpraiffeisen.shop
 0.0.0.0 helpua.top
+0.0.0.0 helpuamoneydopomoga.info
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpwar-privat24.shop
@@ -1064,6 +1065,7 @@
 0.0.0.0 privat24-helps.site
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
+0.0.0.0 privat24-viplata.site
 0.0.0.0 privat24.apayments.pro
 0.0.0.0 privat24.com1465.website
 0.0.0.0 privat24.diiapidpys.uk
@@ -1442,6 +1444,7 @@
 0.0.0.0 telegram-ua.org
 0.0.0.0 telegram-w.net
 0.0.0.0 telegram-web.biz
+0.0.0.0 telegram-web.eu
 0.0.0.0 telegram.org.za
 0.0.0.0 telegramapp-dl.com
 0.0.0.0 telegramapp-dl.im
