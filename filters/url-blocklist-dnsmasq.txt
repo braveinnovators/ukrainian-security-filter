@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 04 June 2023 15:32 EEST
+# Last modified: Mon, 05 June 2023 13:52 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -457,6 +457,7 @@ address=/helpprivat24.shop/
 address=/helpprivat24.site/
 address=/helpraiffeisen.shop/
 address=/helpua.top/
+address=/helpuamoneydopomoga.info/
 address=/helpukraine.direct/
 address=/helpukrainian.site/
 address=/helpwar-privat24.shop/
@@ -1064,6 +1065,7 @@ address=/privat24-help.xyz/
 address=/privat24-helps.site/
 address=/privat24-next.ga/
 address=/privat24-viplata-help.online/
+address=/privat24-viplata.site/
 address=/privat24.apayments.pro/
 address=/privat24.com1465.website/
 address=/privat24.diiapidpys.uk/
@@ -1442,6 +1444,7 @@ address=/telegram-ua.com/
 address=/telegram-ua.org/
 address=/telegram-w.net/
 address=/telegram-web.biz/
+address=/telegram-web.eu/
 address=/telegram.org.za/
 address=/telegramapp-dl.com/
 address=/telegramapp-dl.im/
