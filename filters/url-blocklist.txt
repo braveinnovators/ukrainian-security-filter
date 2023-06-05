@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 04 June 2023 15:32 EEST
+! Last modified: Mon, 05 June 2023 13:52 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -397,6 +397,7 @@
 ||helpprivat24.site^
 ||helpraiffeisen.shop^
 ||helpua.top^
+||helpuamoneydopomoga.info^
 ||helpukraine.direct^
 ||helpukrainian.site^
 ||helpwar-privat24.shop^
@@ -698,6 +699,7 @@
 ||privat24-helps.site^
 ||privat24-next.ga^
 ||privat24-viplata-help.online^
+||privat24-viplata.site^
 ||privat24.fun^
 ||privat24.org^
 ||privat24.press^
@@ -866,6 +868,7 @@
 ||telegram-ua.org^
 ||telegram-w.net^
 ||telegram-web.biz^
+||telegram-web.eu^
 ||telegram.org.za^
 ||telegramapp-dl.com^
 ||telegramapp-dl.im^
@@ -1243,6 +1246,7 @@
 ||*diiauagov^$document,domain=t.me|telegram.me
 ||*dopomoga_diia^$document,domain=t.me|telegram.me
 ||*dopomogai23^$document,domain=t.me|telegram.me
+||*dopomogaukraineee^$document,domain=t.me|telegram.me
 ||*doppomoga_bot^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*edopomoga*$document,domain=t.me|telegram.me
