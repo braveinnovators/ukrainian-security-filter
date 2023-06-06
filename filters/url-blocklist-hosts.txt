@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 05 June 2023 13:52 EEST
+# Last modified: Tue, 06 June 2023 15:59 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -80,7 +80,6 @@
 0.0.0.0 avalbankua-login.com
 0.0.0.0 avalbankualogin.com
 0.0.0.0 avalonline24.com
-0.0.0.0 bake-pays.me
 0.0.0.0 bank-com.biz
 0.0.0.0 bank-com.shop
 0.0.0.0 bank-raiff.fun
@@ -91,7 +90,6 @@
 0.0.0.0 bank-verif.com
 0.0.0.0 bank-viplata.online
 0.0.0.0 bankaval-ukraine.com
-0.0.0.0 bankver.com
 0.0.0.0 bid.cx.ua
 0.0.0.0 biluzna-ua.store
 0.0.0.0 blago-privatc24.ccx5.fun
@@ -124,7 +122,6 @@
 0.0.0.0 ccx5.uno
 0.0.0.0 ccx5.website
 0.0.0.0 childrens-fund-ukraine.com
-0.0.0.0 chydovo.com
 0.0.0.0 ckx-pay.me
 0.0.0.0 com-7300-diya.cloud
 0.0.0.0 com-7300-diya.online
@@ -143,7 +140,6 @@
 0.0.0.0 connected4ukraine.org
 0.0.0.0 connectedforukraine.org
 0.0.0.0 coshipriem.online
-0.0.0.0 cozialedop.info
 0.0.0.0 cq-pay.me
 0.0.0.0 creative-ukraine.store
 0.0.0.0 crediacgricole.pcs-order.me
@@ -363,11 +359,7 @@
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
-0.0.0.0 epomoh.biz
 0.0.0.0 epotrepa-edopomoga.org
-0.0.0.0 erservice.site
-0.0.0.0 escrowbox.online
-0.0.0.0 etrimaty.pro
 0.0.0.0 eu-dopomoga.com
 0.0.0.0 eu-st.site
 0.0.0.0 eudopomoga.nicepage.io
@@ -459,6 +451,7 @@
 0.0.0.0 helpua.top
 0.0.0.0 helpuamoneydopomoga.info
 0.0.0.0 helpukraine.direct
+0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpwar-privat24.shop
 0.0.0.0 helpzzfound.site
@@ -823,14 +816,11 @@
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.ads-pid.me
-0.0.0.0 oschadbank.bake-pays.me
 0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.bank-com.shop
 0.0.0.0 oschadbank.bank-verif.com
 0.0.0.0 oschadbank.bank-viplata.online
-0.0.0.0 oschadbank.chydovo.com
 0.0.0.0 oschadbank.comreviews.club
-0.0.0.0 oschadbank.cozialedop.info
 0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.diahelpfulua.click
 0.0.0.0 oschadbank.dopomoga-pidtrimkauaoff.com
@@ -841,7 +831,6 @@
 0.0.0.0 oschadbank.edopomoga.today
 0.0.0.0 oschadbank.edopomogaofficialua.com
 0.0.0.0 oschadbank.epidtrumka.org
-0.0.0.0 oschadbank.etrimaty.pro
 0.0.0.0 oschadbank.eviplata.vip
 0.0.0.0 oschadbank.groshi.world
 0.0.0.0 oschadbank.k-auch.quest
@@ -1012,13 +1001,8 @@
 0.0.0.0 privat-next24.shop
 0.0.0.0 privat-ua.dipuplatservises24.sale
 0.0.0.0 privat-ua.dop-viplatisite24.online
-0.0.0.0 privat-ua.erservice.site
 0.0.0.0 privat-ua.vip-viplatldop24.org
-0.0.0.0 privat.bake-pays.me
 0.0.0.0 privat.bank-verif.com
-0.0.0.0 privat.bankver.com
-0.0.0.0 privat.chydovo.com
-0.0.0.0 privat.cozialedop.info
 0.0.0.0 privat.dengi.fyi
 0.0.0.0 privat.dopomegatm.me
 0.0.0.0 privat.dopomoga-pidtrimkauaoff.com
@@ -1029,7 +1013,6 @@
 0.0.0.0 privat.edopomoga.today
 0.0.0.0 privat.edopomogahelpua.com
 0.0.0.0 privat.edopomogaofficialua.com
-0.0.0.0 privat.etrimaty.pro
 0.0.0.0 privat.eviplata.vip
 0.0.0.0 privat.lataepitrimka.vip
 0.0.0.0 privat.otto-spotify.de
@@ -1106,7 +1089,9 @@
 0.0.0.0 privat24oon.social
 0.0.0.0 privat24ua.fun
 0.0.0.0 privat24ua.site
+0.0.0.0 privatbank-24.xyz
 0.0.0.0 privatbank.cardpay.onl
+0.0.0.0 privatbank.click
 0.0.0.0 privatbank.in.ua
 0.0.0.0 privatbank.online-pays.tech
 0.0.0.0 privatbank.paying-out.today
@@ -1297,15 +1282,11 @@
 0.0.0.0 raiffeisen-uapay.shop
 0.0.0.0 raiffeisen-ukr.buzz
 0.0.0.0 raiffeisen.ads-pid.me
-0.0.0.0 raiffeisen.bake-pays.me
 0.0.0.0 raiffeisen.bank-com.biz
 0.0.0.0 raiffeisen.bank-com.shop
 0.0.0.0 raiffeisen.bank-verif.com
 0.0.0.0 raiffeisen.bank-viplata.online
-0.0.0.0 raiffeisen.bankver.com
-0.0.0.0 raiffeisen.chydovo.com
 0.0.0.0 raiffeisen.comreviews.club
-0.0.0.0 raiffeisen.cozialedop.info
 0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.diahelpfulua.click
 0.0.0.0 raiffeisen.dopomoga-pidtrimkauaoff.com
@@ -1317,7 +1298,6 @@
 0.0.0.0 raiffeisen.edopomoga.today
 0.0.0.0 raiffeisen.edopomogaofficialua.com
 0.0.0.0 raiffeisen.epidtrumka.org
-0.0.0.0 raiffeisen.etrimaty.pro
 0.0.0.0 raiffeisen.eviplata.vip
 0.0.0.0 raiffeisen.groshi.world
 0.0.0.0 raiffeisen.helpua.top
@@ -1416,7 +1396,6 @@
 0.0.0.0 socialvuplata.net
 0.0.0.0 sotsialvyplata.online
 0.0.0.0 speed-perekaz.com
-0.0.0.0 sportbank.epomoh.biz
 0.0.0.0 squirtvid.com
 0.0.0.0 store-ua.site
 0.0.0.0 store-ukr.com.ua
@@ -1587,6 +1566,7 @@
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebayra.com
+0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedopomoga.com.ua
 0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
