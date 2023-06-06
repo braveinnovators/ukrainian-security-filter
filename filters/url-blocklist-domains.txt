@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 05 June 2023 13:52 EEST
+# Last modified: Tue, 06 June 2023 15:59 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -80,7 +80,6 @@ avalbankua-auth.com
 avalbankua-login.com
 avalbankualogin.com
 avalonline24.com
-bake-pays.me
 bank-com.biz
 bank-com.shop
 bank-raiff.fun
@@ -91,7 +90,6 @@ bank-raiffeisen.fun
 bank-verif.com
 bank-viplata.online
 bankaval-ukraine.com
-bankver.com
 bid.cx.ua
 biluzna-ua.store
 blago-privatc24.ccx5.fun
@@ -124,7 +122,6 @@ ccx5.space
 ccx5.uno
 ccx5.website
 childrens-fund-ukraine.com
-chydovo.com
 ckx-pay.me
 com-7300-diya.cloud
 com-7300-diya.online
@@ -143,7 +140,6 @@ comreviews.club
 connected4ukraine.org
 connectedforukraine.org
 coshipriem.online
-cozialedop.info
 cq-pay.me
 creative-ukraine.store
 crediacgricole.pcs-order.me
@@ -363,11 +359,7 @@ epidtrimka.com
 epidtrimkadopomoga.com
 epidtrumka.org
 epidtrymka.cloud
-epomoh.biz
 epotrepa-edopomoga.org
-erservice.site
-escrowbox.online
-etrimaty.pro
 eu-dopomoga.com
 eu-st.site
 eudopomoga.nicepage.io
@@ -459,6 +451,7 @@ helpraiffeisen.shop
 helpua.top
 helpuamoneydopomoga.info
 helpukraine.direct
+helpukrainemoneydopomoga.com
 helpukrainian.site
 helpwar-privat24.shop
 helpzzfound.site
@@ -823,14 +816,11 @@ oschad24helps.site
 oschadbank-inform.com.ua
 oschadbank-viplata-help.online
 oschadbank.ads-pid.me
-oschadbank.bake-pays.me
 oschadbank.bank-com.biz
 oschadbank.bank-com.shop
 oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
-oschadbank.chydovo.com
 oschadbank.comreviews.club
-oschadbank.cozialedop.info
 oschadbank.dengi.fyi
 oschadbank.diahelpfulua.click
 oschadbank.dopomoga-pidtrimkauaoff.com
@@ -841,7 +831,6 @@ oschadbank.dopomogas.com
 oschadbank.edopomoga.today
 oschadbank.edopomogaofficialua.com
 oschadbank.epidtrumka.org
-oschadbank.etrimaty.pro
 oschadbank.eviplata.vip
 oschadbank.groshi.world
 oschadbank.k-auch.quest
@@ -1012,13 +1001,8 @@ premium-biluzna.store
 privat-next24.shop
 privat-ua.dipuplatservises24.sale
 privat-ua.dop-viplatisite24.online
-privat-ua.erservice.site
 privat-ua.vip-viplatldop24.org
-privat.bake-pays.me
 privat.bank-verif.com
-privat.bankver.com
-privat.chydovo.com
-privat.cozialedop.info
 privat.dengi.fyi
 privat.dopomegatm.me
 privat.dopomoga-pidtrimkauaoff.com
@@ -1029,7 +1013,6 @@ privat.dopomogas.com
 privat.edopomoga.today
 privat.edopomogahelpua.com
 privat.edopomogaofficialua.com
-privat.etrimaty.pro
 privat.eviplata.vip
 privat.lataepitrimka.vip
 privat.otto-spotify.de
@@ -1106,7 +1089,9 @@ privat24investt.xyz
 privat24oon.social
 privat24ua.fun
 privat24ua.site
+privatbank-24.xyz
 privatbank.cardpay.onl
+privatbank.click
 privatbank.in.ua
 privatbank.online-pays.tech
 privatbank.paying-out.today
@@ -1297,15 +1282,11 @@ raiffeisen-ua.vip-viplatldop24.org
 raiffeisen-uapay.shop
 raiffeisen-ukr.buzz
 raiffeisen.ads-pid.me
-raiffeisen.bake-pays.me
 raiffeisen.bank-com.biz
 raiffeisen.bank-com.shop
 raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
-raiffeisen.bankver.com
-raiffeisen.chydovo.com
 raiffeisen.comreviews.club
-raiffeisen.cozialedop.info
 raiffeisen.dengi.fyi
 raiffeisen.diahelpfulua.click
 raiffeisen.dopomoga-pidtrimkauaoff.com
@@ -1317,7 +1298,6 @@ raiffeisen.dopomogaua.xyz
 raiffeisen.edopomoga.today
 raiffeisen.edopomogaofficialua.com
 raiffeisen.epidtrumka.org
-raiffeisen.etrimaty.pro
 raiffeisen.eviplata.vip
 raiffeisen.groshi.world
 raiffeisen.helpua.top
@@ -1416,7 +1396,6 @@ socialassistancefromedopomaka.social
 socialvuplata.net
 sotsialvyplata.online
 speed-perekaz.com
-sportbank.epomoh.biz
 squirtvid.com
 store-ua.site
 store-ukr.com.ua
@@ -1587,6 +1566,7 @@ ukraine-viplata.top
 ukraineamazon.com
 ukraineamazon.pro
 ukrainebayra.com
+ukrainedevelopmentmission.org
 ukrainedopomoga.com.ua
 ukrainedostavka.store
 ukraineebay.vip
