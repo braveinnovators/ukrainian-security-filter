@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 05 June 2023 13:52 EEST
+! Last modified: Tue, 06 June 2023 15:59 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -39,7 +39,6 @@
 ||avalbankua-login.com^
 ||avalbankualogin.com^
 ||avalonline24.com^
-||bake-pays.me^
 ||bank-com.biz^
 ||bank-com.shop^
 ||bank-raiff.fun^
@@ -50,7 +49,6 @@
 ||bank-verif.com^
 ||bank-viplata.online^
 ||bankaval-ukraine.com^
-||bankver.com^
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||blesk24.com^
@@ -80,7 +78,6 @@
 ||ccx5.uno^
 ||ccx5.website^
 ||childrens-fund-ukraine.com^
-||chydovo.com^
 ||ckx-pay.me^
 ||com-7300-diya.cloud^
 ||com-7300-diya.online^
@@ -99,7 +96,6 @@
 ||connected4ukraine.org^
 ||connectedforukraine.org^
 ||coshipriem.online^
-||cozialedop.info^
 ||cq-pay.me^
 ||creative-ukraine.store^
 ||cryptocurrency-helps-ukraine.com^
@@ -307,11 +303,7 @@
 ||epidtrimkadopomoga.com^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
-||epomoh.biz^
 ||epotrepa-edopomoga.org^
-||erservice.site^
-||escrowbox.online^
-||etrimaty.pro^
 ||eu-dopomoga.com^
 ||eu-st.site^
 ||eurohelp.tilda.ws^
@@ -399,6 +391,7 @@
 ||helpua.top^
 ||helpuamoneydopomoga.info^
 ||helpukraine.direct^
+||helpukrainemoneydopomoga.com^
 ||helpukrainian.site^
 ||helpwar-privat24.shop^
 ||helpzzfound.site^
@@ -719,6 +712,8 @@
 ||privat24oon.social^
 ||privat24ua.fun^
 ||privat24ua.site^
+||privatbank-24.xyz^
+||privatbank.click^
 ||privatbank.in.ua^
 ||privatbank24.shop^
 ||privatbank24.uk^
@@ -1010,6 +1005,7 @@
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainebayra.com^
+||ukrainedevelopmentmission.org^
 ||ukrainedopomoga.com.ua^
 ||ukrainedostavka.store^
 ||ukraineebay.vip^
