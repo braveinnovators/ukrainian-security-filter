@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Tue, 06 June 2023 15:59 EEST
+! Last modified: Wed, 07 June 2023 14:44 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -315,6 +315,7 @@
 ||farmsense-ukr.shop^
 ||farmyardia-ua.site^
 ||finance-dopomoga.site^
+||findopomoga.sbs^
 ||finstor.online^
 ||finua.online^
 ||fixi-ua.store^
@@ -471,6 +472,7 @@
 ||liqpay.info^
 ||lito-ua.store^
 ||ll0.uno^
+||matras-ua.fun^
 ||mobi-dengi.com^
 ||mobiletopups.space^
 ||mobiletopupsservice.online^
@@ -664,12 +666,15 @@
 ||pidtrimka-e.cloud^
 ||pidtrimka-e.site^
 ||pidtrimka-e.xyz^
+||pidtrimka.cloud^
+||pidtrimka.world^
 ||pidtrimkaaccept.blog^
 ||pil-ua.store^
 ||pin-up-ua.top^
 ||pins-ua.fun^
 ||pins-ua.online^
 ||pins-ua.world^
+||plata-pidtrimka.us^
 ||platizh.com^
 ||platizhmob.com^
 ||plivka-ua.shop^
@@ -949,9 +954,6 @@
 ||uasocial-viplata.company^
 ||uaviplata.xyz^
 ||uavolunteer-military.com^
-||ubc.agency^
-||udemixcr.com^
-||uk-raina.live^
 ||ukr-buy.com.ua^
 ||ukr-cash.top^
 ||ukr-compens.top^
@@ -963,9 +965,7 @@
 ||ukr-dopomoga.top^
 ||ukr-floristik.site^
 ||ukr-harvestgreen.site^
-||ukr-help.online^
 ||ukr-kompenssations.buzz^
-||ukr-linker.xyz^
 ||ukr-magazine.com.ua^
 ||ukr-market24.com.ua^
 ||ukr-money.com.ua^
@@ -986,7 +986,6 @@
 ||ukr-shoping.website^
 ||ukr-top.fun^
 ||ukr.boutique^
-||ukr24.space^
 ||ukraiff.mobi^
 ||ukraiff.services^
 ||ukraina-gos.top^
@@ -1019,7 +1018,6 @@
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukraineshops.fun^
-||ukrainesviplata.tilda.ws^
 ||ukrainetop.store^
 ||ukrainetoptovar.store^
 ||ukraineworkup.online^
@@ -1027,11 +1025,8 @@
 ||ukrainian-podarunok.com^
 ||ukrainian-product.store^
 ||ukrainianamazon.com^
-||ukrainianua.website^
 ||ukrainianwomen.store^
 ||ukrainshop.fun^
-||ukrcashtrans.biz^
-||ukrcredits.com^
 ||ukrdopomoga.top^
 ||ukrfinanspomog.site^
 ||ukripaymens.online^
@@ -1058,26 +1053,19 @@
 ||ukrspayman.pics^
 ||ukrspayman.site^
 ||ukrtovar.pp.ua^
+||ukrwallet.com^
 ||uks6.site^
 ||ukzarplata.site^
 ||un-dopomoga.info^
+||unicef-uk.com^
 ||unicefua.news^
 ||unicefvyplaty.com^
 ||up-pay.me^
 ||upayment.me^
-||uperevod.icu^
-||uplata.cyou^
 ||usdtrader.com^
-||uw-edopomoga.com^
 ||velka-ua.store^
 ||veneta-ua.store^
 ||vennete-ua.store^
-||vi-plata.com^
-||vi-plata.vip^
-||vil-ha.com^
-||vinplata.com^
-||vip-onlain.site^
-||vip-viplatldop24.org^
 ||viplata-bot.eu^
 ||viplata-com.store^
 ||viplata-ooh.life^
@@ -1104,15 +1092,11 @@
 ||viplata24pay.shop^
 ||viplatadiya.site^
 ||viplatadopomogaua.com^
-||viplataes.site^
-||viplataes.vip^
 ||viplatagov.org^
 ||viplatagovua.org^
-||viplataindo.com^
 ||viplatanow.online^
 ||viplataonline.com^
 ||viplataoon.info^
-||viplatasozshial.club^
 ||viplatasukraine.com^
 ||viplataua.co^
 ||viplataua.com^
@@ -1127,22 +1111,11 @@
 ||viplataukr.xyz^
 ||viplataukraine.com^
 ||viplataukraine.org^
-||viplatavop.club^
-||viplatavpo.biz^
 ||viplatavsem.site^
-||viplati-uah.top^
-||viplatka.com^
-||viplatu.com^
-||viplaty-vsem.biz.ua^
 ||viplaty.com.ua^
 ||viplaty.online^
 ||viplatya-kosthiv.com.ua^
-||viplatyy.com^
 ||vipplata.com^
-||viuplata.com^
-||vo-dopomoga.net^
-||vorkviplata.biz^
-||vsim-sviplatyi-oon.co.ua^
 ||vuplata.casa^
 ||vuplata24pay.shop^
 ||vuplatu.in^
@@ -1166,7 +1139,6 @@
 ||web-telegram.uk^
 ||webk-telegram.icu^
 ||webk-telegram.sbs^
-||weekpaidlife.top^
 ||wf0.uno^
 ||www-raiffeslen.me^
 ||xc0.fun^
@@ -1240,10 +1212,8 @@
 ||*diia_govua1_bot^$document,domain=t.me|telegram.me
 ||*diia_help_ukraine^$document,domain=t.me|telegram.me
 ||*diiauagov^$document,domain=t.me|telegram.me
-||*dopomoga_diia^$document,domain=t.me|telegram.me
 ||*dopomogai23^$document,domain=t.me|telegram.me
 ||*dopomogaukraineee^$document,domain=t.me|telegram.me
-||*doppomoga_bot^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*edopomoga*$document,domain=t.me|telegram.me
 ||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
