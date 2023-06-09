@@ -1,16 +1,17 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Thu, 08 June 2023 19:17 EEST
+! Last modified: Fri, 09 June 2023 14:58 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
 ! Homepage: https://github.com/braveinnovators/url-blocklist
 ! Issues: https://github.com/braveinnovators/url-blocklist/issues
 
+||24uadopomoga.sbs^
+||24uadopomoga.world^
 ||actions-pay24.win^
 ||adidas-ua.shop^
 ||adinedopomoga-gov.site^
-||ads-pid.me^
 ||agri-chain.site^
 ||agribe-ukr.shop^
 ||agronova-ukr.shop^
@@ -49,6 +50,7 @@
 ||bank-verif.com^
 ||bank-viplata.online^
 ||bankaval-ukraine.com^
+||banking-ua.shop^
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||blesk24.com^
@@ -137,6 +139,7 @@
 ||diiapay.info^
 ||diiapidpys.uk^
 ||diiaua.com^
+||diiaua24.tilda.ws^
 ||diiaviplata.cloud^
 ||diiaviplata.pro^
 ||diiya-ua.info^
@@ -180,8 +183,10 @@
 ||dopomoga-vyplata.com^
 ||dopomoga.agency^
 ||dopomoga.app^
+||dopomoga.bio^
 ||dopomoga.buzz^
 ||dopomoga.charity^
+||dopomoga.express^
 ||dopomoga.fans^
 ||dopomoga.giving^
 ||dopomoga.health^
@@ -189,9 +194,11 @@
 ||dopomoga.me^
 ||dopomoga.observer^
 ||dopomoga.place^
+||dopomoga.rocks^
 ||dopomoga.social^
 ||dopomoga.solutions^
 ||dopomoga.today^
+||dopomoga.wtf^
 ||dopomoga2023.com^
 ||dopomoga23.top^
 ||dopomoga24pay.win^
@@ -212,6 +219,9 @@
 ||dopomogainukraine.com^
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
+||dopomogaonline.info^
+||dopomogaonline.org^
+||dopomogaonline.site^
 ||dopomogaonline.xyz^
 ||dopomogaooh.pro^
 ||dopomogaoon.space^
@@ -383,6 +393,7 @@
 ||help-raiffeisen.shop^
 ||help-ua.social^
 ||help-ukrain.xyz^
+||help-ukraine.org^
 ||help-ukraine.space^
 ||help-ukraine.website^
 ||help24-oschad.win^
@@ -478,6 +489,8 @@
 ||lito-ua.store^
 ||ll0.uno^
 ||matras-ua.fun^
+||meta-ua.site^
+||miss-ua.store^
 ||mobi-dengi.com^
 ||mobiletopups.space^
 ||mobiletopupsservice.online^
@@ -488,7 +501,6 @@
 ||moneypay-for-ukrainians-people.pro^
 ||moneypayua.online^
 ||moneyviplata.shop^
-||monitor-igr.blogspot.com^
 ||mono-bank.org^
 ||monobank.co.ua^
 ||monobank.finance^
@@ -631,22 +643,17 @@
 ||payboxua.com^
 ||payed-raiffeisen.space^
 ||payer.fun^
-||payidgow.pro^
-||paying-out.today^
 ||payment-system.cloud^
 ||paymentukrainenow.com^
-||payoutsonlyfrom21.info^
 ||pays-org.me^
 ||pays.cards^
 ||pays.credit^
 ||pays.creditcard^
-||paysdayl.click^
 ||paystarted.com^
 ||payukraine.online^
 ||payukraine24now.com^
 ||payukrainenow.com^
 ||payviplata.shop^
-||pcs-order.me^
 ||perekaz-koshtiv.online^
 ||perekaz-perek.com^
 ||perekaz.com^
@@ -661,7 +668,6 @@
 ||perevojugroshi.com^
 ||personalnot.online^
 ||pestrio.site^
-||peyidgo.pro^
 ||pickpayua.best^
 ||pickpayua.cloud^
 ||pidrimka-ua.com^
@@ -683,16 +689,12 @@
 ||platizh.com^
 ||platizhmob.com^
 ||plivka-ua.shop^
-||po-mosh.com^
 ||poluchenie.pw^
 ||pomoshukraine.website^
 ||popolni.info^
 ||popolnim.info^
 ||popolnimob.com^
-||popomoga.com^
 ||portal-diya.kyiv.ua^
-||poshyq.com^
-||poshyx.com^
 ||premium-biluzna.store^
 ||privat-next24.shop^
 ||privat24-help.biz^
@@ -826,11 +828,6 @@
 ||samsung-nadiya.com.ua^
 ||samsung-ukraine.com.ua^
 ||sarafan-ua.store^
-||secure2dpay.store^
-||secure3ds.org^
-||securitypay.me^
-||securitypays.online^
-||sendex.online^
 ||shop-ukraine.shop^
 ||shop-ukraine.site^
 ||shop-ukraine.space^
@@ -839,22 +836,15 @@
 ||sitidiia.live^
 ||smartlead.com.ua^
 ||sn0.uno^
-||soc-order.me^
 ||socialassistance.info^
 ||socialassistance.social^
-||socialassistancefromedopomaka.social^
 ||socialvuplata.net^
 ||sotsialvyplata.online^
-||speed-perekaz.com^
-||squirtvid.com^
 ||store-ua.site^
 ||store-ukr.com.ua^
-||storeeu.site^
-||streuro.site^
 ||suknya-trend-ua.store^
 ||suknya-ua.store^
 ||supportukraine.help^
-||sutary.com^
 ||swift-pay.online^
 ||sz0.fun^
 ||table-ua.store^
@@ -994,6 +984,7 @@
 ||ukraiff.mobi^
 ||ukraiff.services^
 ||ukraina-gos.top^
+||ukraina-viplata.xyz^
 ||ukraina.buzz^
 ||ukraina.pics^
 ||ukraina.pro^
@@ -1227,6 +1218,7 @@
 ||*officcial_viplata_diya^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
+||*pidtrimka_uadopomoga^$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
