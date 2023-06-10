@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Fri, 09 June 2023 14:58 EEST
+! Last modified: Sat, 10 June 2023 16:05 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -9,9 +9,10 @@
 
 ||24uadopomoga.sbs^
 ||24uadopomoga.world^
+||accounts-s-ukr.net^
+||accounts-ukr.net^
 ||actions-pay24.win^
 ||adidas-ua.shop^
-||adinedopomoga-gov.site^
 ||agri-chain.site^
 ||agribe-ukr.shop^
 ||agronova-ukr.shop^
@@ -25,9 +26,6 @@
 ||aiderukr-gov.site^
 ||aidforukr-gov.site^
 ||aidgetukr-gov.site^
-||aidsdopomoga-gov.site^
-||aidsgetukr-gov.site^
-||apayments.pro^
 ||api-donate-ukrainehelp.org^
 ||aval-bank-online.com^
 ||aval-on24.com^
@@ -53,19 +51,16 @@
 ||banking-ua.shop^
 ||bid.cx.ua^
 ||biluzna-ua.store^
-||blesk24.com^
+||bizhuteriaukraine.com^
 ||boberjob.com^
 ||bokal-ua.store^
 ||brivis-ua.store^
-||ca-pay.me^
 ||cabinet-raiffeisen.fun^
 ||cabinet-raiffeisen.online^
 ||cabinet-raiffeisen.pw^
 ||cabinet-raiffeisen.site^
-||cake-payment.me^
 ||cardpay.onl^
 ||cash-ua.website^
-||cashnew.pro^
 ||cashpayforukrainepeople.business^
 ||cbn5.com^
 ||cbn5.fun^
@@ -80,11 +75,9 @@
 ||ccx5.uno^
 ||ccx5.website^
 ||childrens-fund-ukraine.com^
-||ckx-pay.me^
 ||com-7300-diya.cloud^
 ||com-7300-diya.online^
 ||com-7300-diya.shop^
-||com1465.website^
 ||com7300diya.pro^
 ||compen-ua.sbs^
 ||compen-ua.website^
@@ -95,10 +88,9 @@
 ||compensationua.com^
 ||compensationukr.com^
 ||comreviews.club^
+||confirm-ukr.net^
 ||connected4ukraine.org^
 ||connectedforukraine.org^
-||coshipriem.online^
-||cq-pay.me^
 ||creative-ukraine.store^
 ||cryptocurrency-helps-ukraine.com^
 ||cs0.uno^
@@ -107,15 +99,13 @@
 ||csx5.uno^
 ||dafni-ua.store^
 ||de5.fun^
+||decor-ua.shop^
 ||dengi.fyi^
-||departament.social^
-||dersch.online^
 ||diadopomoga.cloud^
 ||diadopomoga.me^
 ||diadopomoga.org^
 ||diadopomoga6500.com^
 ||diadopomogafree6500.com^
-||diahelpfulua.click^
 ||diaviplata.org^
 ||diia-2023help.me^
 ||diia-d0p0moga.com^
@@ -144,8 +134,6 @@
 ||diiaviplata.pro^
 ||diiya-ua.info^
 ||dimdecoru-ua.store^
-||dipdopdia.com^
-||dipuplatservises24.sale^
 ||diya-edopomoga.online^
 ||diya-gov.com^
 ||diya-ocshad24.uk^
@@ -156,22 +144,14 @@
 ||diyadopomoga.online^
 ||diyaviplati.co^
 ||diyaviplati.vip^
-||do-pom-oga.com^
 ||donate-ukrainehelp.org^
-||dop-viplatisite24.online^
-||dopomegatm.me^
-||dopomih.com^
 ||dopomoga-2023.top^
 ||dopomoga-24pay.win^
 ||dopomoga-aid.top^
-||dopomoga-backing.top^
 ||dopomoga-dia.com^
 ||dopomoga-dlia-ukraintsiv.life^
 ||dopomoga-epay.site^
-||dopomoga-id04687.website^
-||dopomoga-in.pl^
 ||dopomoga-oon.com^
-||dopomoga-pidtrimkauaoff.com^
 ||dopomoga-ua-online-web.site^
 ||dopomoga-ua.click^
 ||dopomoga-ua.info^
@@ -186,6 +166,7 @@
 ||dopomoga.bio^
 ||dopomoga.buzz^
 ||dopomoga.charity^
+||dopomoga.city^
 ||dopomoga.express^
 ||dopomoga.fans^
 ||dopomoga.giving^
@@ -219,7 +200,9 @@
 ||dopomogainukraine.com^
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
+||dopomogaonline.club^
 ||dopomogaonline.info^
+||dopomogaonline.net^
 ||dopomogaonline.org^
 ||dopomogaonline.site^
 ||dopomogaonline.xyz^
@@ -244,6 +227,7 @@
 ||dopomoha-ua.company.site^
 ||dopoviplataua.xyz^
 ||dovua.shop^
+||dp-ukraine.com.ua^
 ||drone-ua.space^
 ||e-dopomoga-perekazy24.space^
 ||e-dopomoga.click^
@@ -337,6 +321,7 @@
 ||flexcapital.com^
 ||fond-dopomogy.shop^
 ||fpl1.fun^
+||franch-ua.store^
 ||g-pay.me^
 ||gadgetry-ua.store^
 ||gardenflorista.site^
@@ -488,6 +473,7 @@
 ||liqpay.info^
 ||lito-ua.store^
 ||ll0.uno^
+||login-ukr.net^
 ||matras-ua.fun^
 ||meta-ua.site^
 ||miss-ua.store^
@@ -532,6 +518,7 @@
 ||nm6.fun^
 ||nm6.info^
 ||noski-ua.site^
+||nova-pay-ua.com^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
 ||novaposhta.app^
@@ -622,6 +609,9 @@
 ||pac-pay.online^
 ||pajama-ukraine.store^
 ||parimatch-ua.top^
+||passport-ukr-net.online^
+||passwd-ukr.net^
+||password-ukr.net^
 ||pay-chs.me^
 ||pay-ocshad24.uk^
 ||pay-privat24.site^
@@ -742,6 +732,7 @@
 ||prytulafoundation.net^
 ||prytulafoundation.site^
 ||pumb-next.online^
+||pwdchange-ukr.net^
 ||qs-dopomoga.me^
 ||quickpay.pw^
 ||quickpaymentss.expert^
@@ -818,6 +809,8 @@
 ||redcrossua.top^
 ||redcrossukraine.co^
 ||redcrossukraine.top^
+||reg-ukr.net^
+||regs-ukr.net^
 ||regsotsvyplat.online^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
@@ -833,6 +826,7 @@
 ||shop-ukraine.space^
 ||shoping-ukraine.space^
 ||shoppingua.fun^
+||signup-ukr.net^
 ||sitidiia.live^
 ||smartlead.com.ua^
 ||sn0.uno^
@@ -844,6 +838,7 @@
 ||store-ukr.com.ua^
 ||suknya-trend-ua.store^
 ||suknya-ua.store^
+||support-ukr.net^
 ||supportukraine.help^
 ||swift-pay.online^
 ||sz0.fun^
@@ -997,6 +992,7 @@
 ||ukraine-shop.uno^
 ||ukraine-shoping.space^
 ||ukraine-viplata.top^
+||ukraine24ua.taplink.ws^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainebayra.com^
@@ -1019,6 +1015,7 @@
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
 ||ukrainian-podarunok.com^
+||ukrainian-podarunok.store^
 ||ukrainian-product.store^
 ||ukrainianamazon.com^
 ||ukrainianwomen.store^
@@ -1039,6 +1036,8 @@
 ||ukrposhta.me^
 ||ukrposhta.net^
 ||ukrposhta.pl^
+||ukrppros.click^
+||ukrshop-for-you.com.ua^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
 ||ukrsibbank.top^
@@ -1062,6 +1061,7 @@
 ||velka-ua.store^
 ||veneta-ua.store^
 ||vennete-ua.store^
+||verify-ukr.net^
 ||viplata-bot.eu^
 ||viplata-com.store^
 ||viplata-ooh.life^
@@ -1135,6 +1135,7 @@
 ||web-telegram.uk^
 ||webk-telegram.icu^
 ||webk-telegram.sbs^
+||webtelegram.shop^
 ||wf0.uno^
 ||www-raiffeslen.me^
 ||xc0.fun^
