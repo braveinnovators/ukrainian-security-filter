@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sat, 10 June 2023 16:05 EEST
+! Last modified: Sun, 11 June 2023 18:20 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -210,9 +210,6 @@
 ||dopomogaoon.space^
 ||dopomogapays.site^
 ||dopomogapro.club^
-||dopomogas.com^
-||dopomogasoshiall.website^
-||dopomogatt.fun^
 ||dopomogaua-pidtrimka.com^
 ||dopomogaua-pidtrimkaua.com^
 ||dopomogaua.live^
@@ -222,11 +219,9 @@
 ||dopomogaukr.website^
 ||dopomogaukraiine.com^
 ||dopomogaukrainaua.com^
-||dopomogi.top^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
 ||dopoviplataua.xyz^
-||dovua.shop^
 ||dp-ukraine.com.ua^
 ||drone-ua.space^
 ||e-dopomoga-perekazy24.space^
@@ -246,9 +241,6 @@
 ||ebayua66.vip^
 ||ebayukraine.com^
 ||ebayukraine.vip^
-||ec-compensation.xyz^
-||ed-edopomoga.com^
-||edi6.site^
 ||edopomoga-epidtrimka.com^
 ||edopomoga-gov.website^
 ||edopomoga-pidtrimka.com^
@@ -317,12 +309,9 @@
 ||finua.online^
 ||fixi-ua.store^
 ||fl-work.com.ua^
-||fleurifyua.click^
 ||flexcapital.com^
 ||fond-dopomogy.shop^
-||fpl1.fun^
 ||franch-ua.store^
-||g-pay.me^
 ||gadgetry-ua.store^
 ||gardenflorista.site^
 ||gardenpath-ua.shop^
@@ -331,12 +320,9 @@
 ||gedopomoga-gov.site^
 ||get-oon-viplata.shop^
 ||getfunds.pw^
-||gg-pay.me^
 ||gifari-ua.store^
 ||giza-ua.store^
-||glopay.site^
 ||go-dopomoga-ua.com^
-||gon-order.me^
 ||gos-cash.top^
 ||gos-dopomoga.top^
 ||gos-ukraine.info^
@@ -358,7 +344,6 @@
 ||grosovadopomoga.shop^
 ||growtec-ua.site^
 ||growthsynergy-ua.shop^
-||grshi.fun^
 ||harvolve-ua.shop^
 ||hel5.fun^
 ||help-compensation-ua.xyz^
@@ -382,6 +367,7 @@
 ||help-ukraine.space^
 ||help-ukraine.website^
 ||help24-oschad.win^
+||helpdomogaderzh-ukr.com^
 ||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
@@ -412,9 +398,6 @@
 ||internet-kyivstar.com^
 ||ipay-ua.online^
 ||iris-ua.store^
-||jay-order.me^
-||k-auch.buzz^
-||k-auch.quest^
 ||kalina-ua.online^
 ||kievstar.online^
 ||kievukraina.shop^
@@ -426,7 +409,6 @@
 ||konkurs-ukraine.site^
 ||konkurs.site^
 ||konvas.store^
-||kpayments.cc^
 ||kramnitsa-ua.store^
 ||kyivstar-connect-internet.com.ua^
 ||kyivstar-home-internet.com.ua^
@@ -464,9 +446,7 @@
 ||kyivstarshop.com^
 ||kyivstarshop.net^
 ||kylym-ua.space^
-||lataepitrimka.vip^
 ||lavandi-ua.store^
-||leowallet.me^
 ||lesya-ua.store^
 ||letokonkurs.site^
 ||likpay.me^
@@ -493,8 +473,6 @@
 ||monobank.online^
 ||monobank.store^
 ||ms0.uno^
-||my-govuvvyplate.site^
-||my-govuwvyplate.site^
 ||my-kyivstar.com.ua^
 ||my-privat24.cc^
 ||mykyivstar.com^
@@ -503,8 +481,6 @@
 ||myua-compensations.xyz^
 ||nato-dopomoga.com^
 ||nato-gov.com^
-||next-bp.info^
-||next-bp.net^
 ||next-privat24.online^
 ||next-privat24help.win^
 ||next24-privat.cloud^
@@ -514,11 +490,8 @@
 ||nextprivat24-help.win^
 ||nextprivat24.info^
 ||nextprivat24.pro^
-||nls1.fun^
 ||nm6.fun^
 ||nm6.info^
-||noski-ua.site^
-||nova-pay-ua.com^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
 ||novaposhta.app^
@@ -530,8 +503,6 @@
 ||novaposhta.site^
 ||novaposhtashipping.com^
 ||novaposhtatracking.com^
-||novok.com.ua^
-||ocha-ukrain.xyz^
 ||ocshad24l-pay.site^
 ||ocshad24l.site^
 ||ocshadbank24.uk^
@@ -558,8 +529,6 @@
 ||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
-||opay365.com^
-||oplat.pro^
 ||oplataofficial.life^
 ||organafarm-ua.click^
 ||oschad-24.site^
@@ -589,6 +558,7 @@
 ||oshad-24.com^
 ||oshad-cash.pro^
 ||oshad-pedtrimka.online^
+||oshad.buzz^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
@@ -600,19 +570,11 @@
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||osv6.site^
-||otrimanti.site^
-||otrimanya.me^
-||otto-spotify.de^
-||ox-pay.me^
-||p-dopomogah.com^
-||p-invest.site^
-||pac-pay.online^
 ||pajama-ukraine.store^
 ||parimatch-ua.top^
 ||passport-ukr-net.online^
 ||passwd-ukr.net^
 ||password-ukr.net^
-||pay-chs.me^
 ||pay-ocshad24.uk^
 ||pay-privat24.site^
 ||pay-raif.fun^
@@ -620,7 +582,6 @@
 ||pay-raif.site^
 ||pay-raif.space^
 ||pay-raiffeiseln.uk^
-||pay-remuneration.top^
 ||pay-ua.co^
 ||pay-ua.com^
 ||pay-ua.org^
@@ -632,7 +593,6 @@
 ||pay3700ua.online^
 ||payboxua.com^
 ||payed-raiffeisen.space^
-||payer.fun^
 ||payment-system.cloud^
 ||paymentukrainenow.com^
 ||pays-org.me^
@@ -681,10 +641,12 @@
 ||plivka-ua.shop^
 ||poluchenie.pw^
 ||pomoshukraine.website^
+||pooloftheoonhelp-ua.com^
 ||popolni.info^
 ||popolnim.info^
 ||popolnimob.com^
 ||portal-diya.kyiv.ua^
+||posud-ua.store^
 ||premium-biluzna.store^
 ||privat-next24.shop^
 ||privat24-help.biz^
@@ -717,17 +679,16 @@
 ||privatbank-24.xyz^
 ||privatbank.click^
 ||privatbank.in.ua^
+||privatbank.xyz^
 ||privatbank24.shop^
 ||privatbank24.uk^
 ||privatbank24online.com^
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
-||proffis.online^
 ||prom-pay-ua.host^
 ||promo-olx-ukrposhta.com^
 ||promo-pay24.win^
-||pruity.com^
 ||prytulafoundation.in^
 ||prytulafoundation.net^
 ||prytulafoundation.site^
@@ -821,6 +782,7 @@
 ||samsung-nadiya.com.ua^
 ||samsung-ukraine.com.ua^
 ||sarafan-ua.store^
+||shop-ukr.site^
 ||shop-ukraine.shop^
 ||shop-ukraine.site^
 ||shop-ukraine.space^
@@ -839,6 +801,7 @@
 ||suknya-trend-ua.store^
 ||suknya-ua.store^
 ||support-ukr.net^
+||supports-ua.com^
 ||supportukraine.help^
 ||swift-pay.online^
 ||sz0.fun^
@@ -917,14 +880,14 @@
 ||ua24kompensacy.yolasite.com^
 ||uaabey.vip^
 ||uabank-aval.com^
-||uabayrakua.com^
-||uacmplnk.xyz^
 ||uacompensation.xyz^
 ||uadia.buzz^
 ||uadopomoga.biz^
 ||uadopomoga.com^
 ||uadopomoga.me^
 ||uadopomoga2023.org^
+||uadopomoga24.sbs^
+||uadopomoga24.world^
 ||uadostawka.com^
 ||uaedopomoga-online.com^
 ||uaedopomogavyplata.info^
@@ -933,7 +896,6 @@
 ||uah-perekaz24.com^
 ||uahelp-privat24.shop^
 ||uahelp.press^
-||uahs.buzz^
 ||uakonkursevent.space^
 ||uanext24help.icu^
 ||uapay.cloud^
@@ -941,7 +903,6 @@
 ||uapay.online^
 ||uappl.org^
 ||uasafe.online^
-||uasocial-viplata.company^
 ||uaviplata.xyz^
 ||uavolunteer-military.com^
 ||ukr-buy.com.ua^
@@ -960,7 +921,6 @@
 ||ukr-market24.com.ua^
 ||ukr-money.com.ua^
 ||ukr-oil-group.online^
-||ukr-oneshop.com.ua^
 ||ukr-online-store.com.ua^
 ||ukr-online-store.online^
 ||ukr-payment-system.online^
@@ -976,8 +936,6 @@
 ||ukr-shoping.website^
 ||ukr-top.fun^
 ||ukr.boutique^
-||ukraiff.mobi^
-||ukraiff.services^
 ||ukraina-gos.top^
 ||ukraina-viplata.xyz^
 ||ukraina.buzz^
@@ -995,7 +953,6 @@
 ||ukraine24ua.taplink.ws^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
-||ukrainebayra.com^
 ||ukrainedevelopmentmission.org^
 ||ukrainedopomoga.com.ua^
 ||ukrainedostavka.store^
@@ -1005,12 +962,9 @@
 ||ukrainehelp.wiki^
 ||ukrainehelps.cloud^
 ||ukrainehotspothelp.com^
-||ukraineinua.website^
 ||ukrainepaymentsystem.pro^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
-||ukraineshops.fun^
-||ukrainetop.store^
 ||ukrainetoptovar.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
@@ -1018,10 +972,7 @@
 ||ukrainian-podarunok.store^
 ||ukrainian-product.store^
 ||ukrainianamazon.com^
-||ukrainianwomen.store^
-||ukrainshop.fun^
 ||ukrdopomoga.top^
-||ukrfinanspomog.site^
 ||ukripaymens.online^
 ||ukrkonkurs.site^
 ||ukrpay.fun^
@@ -1049,7 +1000,6 @@
 ||ukrspayman.site^
 ||ukrtovar.pp.ua^
 ||ukrwallet.com^
-||uks6.site^
 ||ukzarplata.site^
 ||un-dopomoga.info^
 ||unicef-uk.com^
@@ -1115,7 +1065,6 @@
 ||vuplata.casa^
 ||vuplata24pay.shop^
 ||vuplatu.in^
-||vuplatyi.com^
 ||vuplatyukraine.com^
 ||vyplata-edopomoga.com^
 ||vyplata-help.com^
@@ -1126,7 +1075,6 @@
 ||vyplatadia.com^
 ||vyplataua.com^
 ||vyplaty.pro^
-||vyplatyedopomoga.com^
 ||web-telegram.click^
 ||web-telegram.cloud^
 ||web-telegram.eu^
@@ -1137,7 +1085,6 @@
 ||webk-telegram.sbs^
 ||webtelegram.shop^
 ||wf0.uno^
-||www-raiffeslen.me^
 ||xc0.fun^
 ||xs0.uno^
 ||xwallet.website^
