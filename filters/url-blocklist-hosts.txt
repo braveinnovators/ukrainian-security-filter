@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 11 June 2023 18:20 EEST
+# Last modified: Mon, 12 June 2023 12:09 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -825,6 +825,8 @@
 0.0.0.0 platizhmob.com
 0.0.0.0 plivka-ua.shop
 0.0.0.0 poluchenie.pw
+0.0.0.0 poluchenieviplati.xyz
+0.0.0.0 poluchenieviplatiua.site
 0.0.0.0 pomoshukraine.website
 0.0.0.0 pooloftheoonhelp-ua.com
 0.0.0.0 popolni.info
@@ -1095,6 +1097,7 @@
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
+0.0.0.0 rtxdopomoga.com
 0.0.0.0 s1.edopomogaua.site
 0.0.0.0 safe-ua-viplata.website
 0.0.0.0 saferegulatory.com
