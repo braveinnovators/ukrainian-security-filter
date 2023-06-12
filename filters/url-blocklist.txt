@@ -1,6 +1,6 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Sun, 11 June 2023 18:20 EEST
+! Last modified: Mon, 12 June 2023 12:09 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -640,6 +640,8 @@
 ||platizhmob.com^
 ||plivka-ua.shop^
 ||poluchenie.pw^
+||poluchenieviplati.xyz^
+||poluchenieviplatiua.site^
 ||pomoshukraine.website^
 ||pooloftheoonhelp-ua.com^
 ||popolni.info^
@@ -777,6 +779,7 @@
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
+||rtxdopomoga.com^
 ||safe-ua-viplata.website^
 ||saferegulatory.com^
 ||samsung-nadiya.com.ua^
@@ -1133,6 +1136,9 @@
 ://*-abank*.*.$document
 ://a-bank.*.$document
 ://abank.*.$document
+
+! UKRPOSHTA.UA
+://ukrposhta.*.$document,domain=~linkedin.com
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
