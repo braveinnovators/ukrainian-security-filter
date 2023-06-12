@@ -79,6 +79,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ### uBlock Origin
 
+#### Операційні системи Windows, macOS та Linux:
 1. Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
 2. Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
@@ -90,6 +91,7 @@ https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
 
 ### Adblock Plus
 
+#### Операційні системи Windows, macOS та Linux:
 1. Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
 2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
