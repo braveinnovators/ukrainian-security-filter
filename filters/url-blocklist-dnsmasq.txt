@@ -1,6 +1,6 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Sun, 11 June 2023 18:20 EEST
+# Last modified: Mon, 12 June 2023 12:09 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -825,6 +825,8 @@ address=/platizh.com/
 address=/platizhmob.com/
 address=/plivka-ua.shop/
 address=/poluchenie.pw/
+address=/poluchenieviplati.xyz/
+address=/poluchenieviplatiua.site/
 address=/pomoshukraine.website/
 address=/pooloftheoonhelp-ua.com/
 address=/popolni.info/
@@ -1095,6 +1097,7 @@ address=/reliefukraine.today/
 address=/rozetkaukraine.cc/
 address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
+address=/rtxdopomoga.com/
 address=/s1.edopomogaua.site/
 address=/safe-ua-viplata.website/
 address=/saferegulatory.com/
