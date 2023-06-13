@@ -1,6 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Last modified: Mon, 12 June 2023 12:09 EEST
+! Version: 20230613(1)
+! Last modified: Tue, 13 June 2023 16:19 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -107,31 +108,6 @@
 ||diadopomoga6500.com^
 ||diadopomogafree6500.com^
 ||diaviplata.org^
-||diia-2023help.me^
-||diia-d0p0moga.com^
-||diia-dopomoga.com^
-||diia-dopomoga.eu^
-||diia-dopomoga.life^
-||diia-dopomoga.pro^
-||diia-gov.com^
-||diia-gov.link^
-||diia-gov.me^
-||diia-gov.pp.ua^
-||diia-uadopomogga.cloud^
-||diia-uadopomogga.me^
-||diia-uadopomogga.pro^
-||diia2023help.pro^
-||diia24.com^
-||diiadopom0ga.click^
-||diiadopomoga.pro^
-||diiadopomoga2jd.pro^
-||diiagov.biz^
-||diiapay.info^
-||diiapidpys.uk^
-||diiaua.com^
-||diiaua24.tilda.ws^
-||diiaviplata.cloud^
-||diiaviplata.pro^
 ||diiya-ua.info^
 ||dimdecoru-ua.store^
 ||diya-edopomoga.online^
@@ -303,6 +279,7 @@
 ||farmex-ua.shop^
 ||farmsense-ukr.shop^
 ||farmyardia-ua.site^
+||fdddopomoga.com^
 ||finance-dopomoga.site^
 ||findopomoga.sbs^
 ||finstor.online^
@@ -454,6 +431,7 @@
 ||lito-ua.store^
 ||ll0.uno^
 ||login-ukr.net^
+||lstdopomoga.com^
 ||matras-ua.fun^
 ||meta-ua.site^
 ||miss-ua.store^
@@ -559,6 +537,7 @@
 ||oshad-cash.pro^
 ||oshad-pedtrimka.online^
 ||oshad.buzz^
+||oshad.site^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
@@ -569,7 +548,6 @@
 ||oshadraif.pro^
 ||oshcad-bank.top^
 ||oshcadbank.top^
-||osv6.site^
 ||pajama-ukraine.store^
 ||parimatch-ua.top^
 ||passport-ukr-net.online^
@@ -618,6 +596,7 @@
 ||perevojugroshi.com^
 ||personalnot.online^
 ||pestrio.site^
+||pggdopomoga.com^
 ||pickpayua.best^
 ||pickpayua.cloud^
 ||pidrimka-ua.com^
@@ -629,7 +608,6 @@
 ||pidtrimka-e.xyz^
 ||pidtrimka.cloud^
 ||pidtrimka.world^
-||pidtrimkaaccept.blog^
 ||pil-ua.store^
 ||pin-up-ua.top^
 ||pins-ua.fun^
@@ -681,6 +659,7 @@
 ||privatbank-24.xyz^
 ||privatbank.click^
 ||privatbank.in.ua^
+||privatbank.online^
 ||privatbank.xyz^
 ||privatbank24.shop^
 ||privatbank24.uk^
@@ -698,8 +677,6 @@
 ||pwdchange-ukr.net^
 ||qs-dopomoga.me^
 ||quickpay.pw^
-||quickpaymentss.expert^
-||quicktrans.space^
 ||raif-aval.com^
 ||raif-dopomoga.com^
 ||raif-online.fun^
@@ -759,8 +736,6 @@
 ||raiffeslen.org^
 ||raiffesseln.com^
 ||raiffessen-ua.com^
-||raiffua.site^
-||raifua.site^
 ||rastamogka.net^
 ||razomforukraine.in^
 ||recive-money.icu^
@@ -792,7 +767,6 @@
 ||shoping-ukraine.space^
 ||shoppingua.fun^
 ||signup-ukr.net^
-||sitidiia.live^
 ||smartlead.com.ua^
 ||sn0.uno^
 ||socialassistance.info^
@@ -809,8 +783,6 @@
 ||swift-pay.online^
 ||sz0.fun^
 ||table-ua.store^
-||tax-compensation.bar^
-||tax-compenses.xyz^
 ||techno-point-ua.store^
 ||technobank.com.ua^
 ||technolend.com.ua^
@@ -835,7 +807,7 @@
 ||terrafarmers-ukr.site^
 ||thediadopomoga.online^
 ||tinkletulips-ua.site^
-||toppaidsexpert.top^
+||toidopomoga.site^
 ||touristrestaurant.com^
 ||tovar-ukraine.com.ua^
 ||trpayuan.site^
@@ -876,12 +848,8 @@
 ||ua-tax-compens.top^
 ||ua-taxes-compens.xyz^
 ||ua-telegram.org^
-||ua-ugolovka.org^
 ||ua-viplata.me^
 ||ua-wallet.pw^
-||ua2021priz.yolasite.com^
-||ua24kompensacy.yolasite.com^
-||uaabey.vip^
 ||uabank-aval.com^
 ||uacompensation.xyz^
 ||uadia.buzz^
@@ -894,7 +862,6 @@
 ||uadostawka.com^
 ||uaedopomoga-online.com^
 ||uaedopomogavyplata.info^
-||uagovdiia24.site^
 ||uah-perekaz.com^
 ||uah-perekaz24.com^
 ||uahelp-privat24.shop^
@@ -952,6 +919,9 @@
 ||ukraine-raffesen.com^
 ||ukraine-shop.uno^
 ||ukraine-shoping.space^
+||ukraine-socks.store^
+||ukraine-toppsales.com^
+||ukraine-topsales.com^
 ||ukraine-viplata.top^
 ||ukraine24ua.taplink.ws^
 ||ukraineamazon.com^
@@ -990,7 +960,7 @@
 ||ukrposhta.me^
 ||ukrposhta.net^
 ||ukrposhta.pl^
-||ukrppros.click^
+||ukrposhta.xyz^
 ||ukrshop-for-you.com.ua^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
@@ -1067,7 +1037,6 @@
 ||vipplata.com^
 ||vuplata.casa^
 ||vuplata24pay.shop^
-||vuplatu.in^
 ||vuplatyukraine.com^
 ||vyplata-edopomoga.com^
 ||vyplata-help.com^
@@ -1075,9 +1044,7 @@
 ||vyplata-pays.fun^
 ||vyplata-pays.kyiv.ua^
 ||vyplata24.com^
-||vyplatadia.com^
 ||vyplataua.com^
-||vyplaty.pro^
 ||web-telegram.click^
 ||web-telegram.cloud^
 ||web-telegram.eu^
@@ -1091,6 +1058,7 @@
 ||xc0.fun^
 ||xs0.uno^
 ||xwallet.website^
+||ytrdopomoga.com^
 
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
@@ -1138,7 +1106,20 @@
 ://abank.*.$document
 
 ! UKRPOSHTA.UA
-://ukrposhta.*.$document,domain=~linkedin.com
+://ukrposhta.*.$document
+
+! EDOPOMOGA.GOV.UA
+://*edopomoga*.$document,domain=~edopomoga.gov.ua
+@@||instagram.com/edopomoga.gov.ua^$document
+
+! DIIA.GOV.UA
+://*diia*.$document,domain=~/([a-z0-9-]+[.])*gov[.]ua/|~fedoriv.com
+@@||facebook.com/diia.gov.ua^$document
+@@||instagram.com/diia.gov.ua^$document
+@@||play.google.com/store/apps/details?id=ua.gov.diia.app^$document
+||*diia*$document,domain=t.me|telegram.me
+@@||*diia_gov^$document,domain=t.me|telegram.me
+@@||*diia_help_bot^$document,domain=t.me|telegram.me
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
@@ -1158,10 +1139,6 @@
 ||facebook.com/uappl.org^$document
 
 ||*aidfromtheunbot^$document,domain=t.me|telegram.me
-||*diia_govl^$document,domain=t.me|telegram.me
-||*diia_govua1_bot^$document,domain=t.me|telegram.me
-||*diia_help_ukraine^$document,domain=t.me|telegram.me
-||*diiauagov^$document,domain=t.me|telegram.me
 ||*dopomogai23^$document,domain=t.me|telegram.me
 ||*dopomogaukraineee^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
