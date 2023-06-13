@@ -1,6 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 12 June 2023 12:09 EEST
+# Version: 20230613(1)
+# Last modified: Tue, 13 June 2023 16:19 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -137,31 +138,6 @@ diadopomoga.org
 diadopomoga6500.com
 diadopomogafree6500.com
 diaviplata.org
-diia-2023help.me
-diia-d0p0moga.com
-diia-dopomoga.com
-diia-dopomoga.eu
-diia-dopomoga.life
-diia-dopomoga.pro
-diia-gov.com
-diia-gov.link
-diia-gov.me
-diia-gov.pp.ua
-diia-uadopomogga.cloud
-diia-uadopomogga.me
-diia-uadopomogga.pro
-diia2023help.pro
-diia24.com
-diiadopom0ga.click
-diiadopomoga.pro
-diiadopomoga2jd.pro
-diiagov.biz
-diiapay.info
-diiapidpys.uk
-diiaua.com
-diiaua24.tilda.ws
-diiaviplata.cloud
-diiaviplata.pro
 diiya-ua.info
 dimdecoru-ua.store
 diya-edopomoga.online
@@ -337,6 +313,7 @@ facebook-ua.info
 farmex-ua.shop
 farmsense-ukr.shop
 farmyardia-ua.site
+fdddopomoga.com
 finance-dopomoga.site
 findopomoga.sbs
 finstor.online
@@ -493,6 +470,7 @@ liqpay.info
 lito-ua.store
 ll0.uno
 login-ukr.net
+lstdopomoga.com
 matras-ua.fun
 meta-ua.site
 miss-ua.store
@@ -572,7 +550,6 @@ next24.viplata.fun
 next24.viplata.space
 next24.viplatanow.online
 next24.viplataua.shop
-next24.vuplatu.in
 next24dopamoga.online
 nextpay.pw
 nextprivat24-help.win
@@ -620,8 +597,6 @@ onlineraiffoisen.com
 onlines-raiffeizen24.cbn5.fun
 onlines-raiffeizen24.xs0.uno
 onlineviplata.me
-onlini24-oschadbank.osv6.site
-onlins24-oschadbank.osv6.site
 oon-dopomoga.info
 oon-dopomoga.pro
 oon-viplata.co
@@ -682,7 +657,6 @@ oschad.viplata.fun
 oschad.viplata.space
 oschad.viplatanow.online
 oschad.viplataua.shop
-oschad.vuplatu.in
 oschad.vyplata-help.com
 oschad24-help.shop
 oschad24-helps.shop
@@ -737,6 +711,7 @@ oshad-24.com
 oshad-cash.pro
 oshad-pedtrimka.online
 oshad.buzz
+oshad.site
 oshadbank.online
 oshadbank.pro
 oshadbank.uk
@@ -747,7 +722,6 @@ oshadraif.info
 oshadraif.pro
 oshcad-bank.top
 oshcadbank.top
-osv6.site
 otp.pay-ukraine.com
 otp.pidrumka.co
 otp.ua-send.website
@@ -803,6 +777,7 @@ perekazy-24pay.com
 perevojugroshi.com
 personalnot.online
 pestrio.site
+pggdopomoga.com
 pickpayua.best
 pickpayua.cloud
 pidrimka-ua.com
@@ -814,7 +789,6 @@ pidtrimka-e.site
 pidtrimka-e.xyz
 pidtrimka.cloud
 pidtrimka.world
-pidtrimkaaccept.blog
 pil-ua.store
 pin-up-ua.top
 pins-ua.fun
@@ -862,7 +836,6 @@ privat24-helps.site
 privat24-next.ga
 privat24-viplata-help.online
 privat24-viplata.site
-privat24.diiapidpys.uk
 privat24.fun
 privat24.getfunds.pw
 privat24.nextpay.pw
@@ -873,7 +846,6 @@ privat24.pidrumka.co
 privat24.press
 privat24.privatbank.in.ua
 privat24.quickpay.pw
-privat24.quicktrans.space
 privat24.saferegulatory.com
 privat24.tech
 privat24.ua-payout.site
@@ -901,6 +873,7 @@ privatbank-24.xyz
 privatbank.cardpay.onl
 privatbank.click
 privatbank.in.ua
+privatbank.online
 privatbank.online-pays.tech
 privatbank.payment-system.cloud
 privatbank.xyz
@@ -941,8 +914,6 @@ pumb.viplataua.shop
 pwdchange-ukr.net
 qs-dopomoga.me
 quickpay.pw
-quickpaymentss.expert
-quicktrans.space
 raif-aval.com
 raif-dopomoga.com
 raif-online.fun
@@ -996,9 +967,7 @@ raif.viplata.fun
 raif.viplata.space
 raif.viplatanow.online
 raif.viplataua.shop
-raif.vuplatu.in
 raif.vyplata-help.com
-raif.vyplaty.pro
 raifesssen.com
 raiff-bank.fun
 raiff-bank.pw
@@ -1077,8 +1046,6 @@ raiffeslen.com
 raiffeslen.org
 raiffesseln.com
 raiffessen-ua.com
-raiffua.site
-raifua.site
 rastamogka.net
 razomforukraine.in
 recive-money.icu
@@ -1111,7 +1078,6 @@ shop-ukraine.space
 shoping-ukraine.space
 shoppingua.fun
 signup-ukr.net
-sitidiia.live
 smartlead.com.ua
 sn0.uno
 socialassistance.info
@@ -1128,8 +1094,6 @@ supportukraine.help
 swift-pay.online
 sz0.fun
 table-ua.store
-tax-compensation.bar
-tax-compenses.xyz
 techno-point-ua.store
 technobank.com.ua
 technolend.com.ua
@@ -1154,7 +1118,7 @@ telegramapp-dl.pro
 terrafarmers-ukr.site
 thediadopomoga.online
 tinkletulips-ua.site
-toppaidsexpert.top
+toidopomoga.site
 touristrestaurant.com
 tovar-ukraine.com.ua
 trpayuan.site
@@ -1195,12 +1159,8 @@ ua-send.website
 ua-tax-compens.top
 ua-taxes-compens.xyz
 ua-telegram.org
-ua-ugolovka.org
 ua-viplata.me
 ua-wallet.pw
-ua2021priz.yolasite.com
-ua24kompensacy.yolasite.com
-uaabey.vip
 uabank-aval.com
 uacompensation.xyz
 uadia.buzz
@@ -1213,7 +1173,6 @@ uadopomoga24.world
 uadostawka.com
 uaedopomoga-online.com
 uaedopomogavyplata.info
-uagovdiia24.site
 uah-perekaz.com
 uah-perekaz24.com
 uahelp-privat24.shop
@@ -1272,6 +1231,9 @@ ukraine-raffasen.com
 ukraine-raffesen.com
 ukraine-shop.uno
 ukraine-shoping.space
+ukraine-socks.store
+ukraine-toppsales.com
+ukraine-topsales.com
 ukraine-viplata.top
 ukraine24ua.taplink.ws
 ukraineamazon.com
@@ -1310,7 +1272,7 @@ ukrposhta.live
 ukrposhta.me
 ukrposhta.net
 ukrposhta.pl
-ukrppros.click
+ukrposhta.xyz
 ukrshop-for-you.com.ua
 ukrsib-bank.site
 ukrsib-bank.top
@@ -1397,7 +1359,6 @@ viplatya-kosthiv.com.ua
 vipplata.com
 vuplata.casa
 vuplata24pay.shop
-vuplatu.in
 vuplatyukraine.com
 vyplata-edopomoga.com
 vyplata-help.com
@@ -1405,9 +1366,7 @@ vyplata-ocshad24.uk
 vyplata-pays.fun
 vyplata-pays.kyiv.ua
 vyplata24.com
-vyplatadia.com
 vyplataua.com
-vyplaty.pro
 web-telegram.click
 web-telegram.cloud
 web-telegram.eu
@@ -1421,3 +1380,4 @@ wf0.uno
 xc0.fun
 xs0.uno
 xwallet.website
+ytrdopomoga.com
