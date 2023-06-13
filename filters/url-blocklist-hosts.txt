@@ -1,6 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Last modified: Mon, 12 June 2023 12:09 EEST
+# Version: 20230613(1)
+# Last modified: Tue, 13 June 2023 16:19 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -137,31 +138,6 @@
 0.0.0.0 diadopomoga6500.com
 0.0.0.0 diadopomogafree6500.com
 0.0.0.0 diaviplata.org
-0.0.0.0 diia-2023help.me
-0.0.0.0 diia-d0p0moga.com
-0.0.0.0 diia-dopomoga.com
-0.0.0.0 diia-dopomoga.eu
-0.0.0.0 diia-dopomoga.life
-0.0.0.0 diia-dopomoga.pro
-0.0.0.0 diia-gov.com
-0.0.0.0 diia-gov.link
-0.0.0.0 diia-gov.me
-0.0.0.0 diia-gov.pp.ua
-0.0.0.0 diia-uadopomogga.cloud
-0.0.0.0 diia-uadopomogga.me
-0.0.0.0 diia-uadopomogga.pro
-0.0.0.0 diia2023help.pro
-0.0.0.0 diia24.com
-0.0.0.0 diiadopom0ga.click
-0.0.0.0 diiadopomoga.pro
-0.0.0.0 diiadopomoga2jd.pro
-0.0.0.0 diiagov.biz
-0.0.0.0 diiapay.info
-0.0.0.0 diiapidpys.uk
-0.0.0.0 diiaua.com
-0.0.0.0 diiaua24.tilda.ws
-0.0.0.0 diiaviplata.cloud
-0.0.0.0 diiaviplata.pro
 0.0.0.0 diiya-ua.info
 0.0.0.0 dimdecoru-ua.store
 0.0.0.0 diya-edopomoga.online
@@ -337,6 +313,7 @@
 0.0.0.0 farmex-ua.shop
 0.0.0.0 farmsense-ukr.shop
 0.0.0.0 farmyardia-ua.site
+0.0.0.0 fdddopomoga.com
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finstor.online
@@ -493,6 +470,7 @@
 0.0.0.0 lito-ua.store
 0.0.0.0 ll0.uno
 0.0.0.0 login-ukr.net
+0.0.0.0 lstdopomoga.com
 0.0.0.0 matras-ua.fun
 0.0.0.0 meta-ua.site
 0.0.0.0 miss-ua.store
@@ -572,7 +550,6 @@
 0.0.0.0 next24.viplata.space
 0.0.0.0 next24.viplatanow.online
 0.0.0.0 next24.viplataua.shop
-0.0.0.0 next24.vuplatu.in
 0.0.0.0 next24dopamoga.online
 0.0.0.0 nextpay.pw
 0.0.0.0 nextprivat24-help.win
@@ -620,8 +597,6 @@
 0.0.0.0 onlines-raiffeizen24.cbn5.fun
 0.0.0.0 onlines-raiffeizen24.xs0.uno
 0.0.0.0 onlineviplata.me
-0.0.0.0 onlini24-oschadbank.osv6.site
-0.0.0.0 onlins24-oschadbank.osv6.site
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
 0.0.0.0 oon-viplata.co
@@ -682,7 +657,6 @@
 0.0.0.0 oschad.viplata.space
 0.0.0.0 oschad.viplatanow.online
 0.0.0.0 oschad.viplataua.shop
-0.0.0.0 oschad.vuplatu.in
 0.0.0.0 oschad.vyplata-help.com
 0.0.0.0 oschad24-help.shop
 0.0.0.0 oschad24-helps.shop
@@ -737,6 +711,7 @@
 0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad.buzz
+0.0.0.0 oshad.site
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.uk
@@ -747,7 +722,6 @@
 0.0.0.0 oshadraif.pro
 0.0.0.0 oshcad-bank.top
 0.0.0.0 oshcadbank.top
-0.0.0.0 osv6.site
 0.0.0.0 otp.pay-ukraine.com
 0.0.0.0 otp.pidrumka.co
 0.0.0.0 otp.ua-send.website
@@ -803,6 +777,7 @@
 0.0.0.0 perevojugroshi.com
 0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
+0.0.0.0 pggdopomoga.com
 0.0.0.0 pickpayua.best
 0.0.0.0 pickpayua.cloud
 0.0.0.0 pidrimka-ua.com
@@ -814,7 +789,6 @@
 0.0.0.0 pidtrimka-e.xyz
 0.0.0.0 pidtrimka.cloud
 0.0.0.0 pidtrimka.world
-0.0.0.0 pidtrimkaaccept.blog
 0.0.0.0 pil-ua.store
 0.0.0.0 pin-up-ua.top
 0.0.0.0 pins-ua.fun
@@ -862,7 +836,6 @@
 0.0.0.0 privat24-next.ga
 0.0.0.0 privat24-viplata-help.online
 0.0.0.0 privat24-viplata.site
-0.0.0.0 privat24.diiapidpys.uk
 0.0.0.0 privat24.fun
 0.0.0.0 privat24.getfunds.pw
 0.0.0.0 privat24.nextpay.pw
@@ -873,7 +846,6 @@
 0.0.0.0 privat24.press
 0.0.0.0 privat24.privatbank.in.ua
 0.0.0.0 privat24.quickpay.pw
-0.0.0.0 privat24.quicktrans.space
 0.0.0.0 privat24.saferegulatory.com
 0.0.0.0 privat24.tech
 0.0.0.0 privat24.ua-payout.site
@@ -901,6 +873,7 @@
 0.0.0.0 privatbank.cardpay.onl
 0.0.0.0 privatbank.click
 0.0.0.0 privatbank.in.ua
+0.0.0.0 privatbank.online
 0.0.0.0 privatbank.online-pays.tech
 0.0.0.0 privatbank.payment-system.cloud
 0.0.0.0 privatbank.xyz
@@ -941,8 +914,6 @@
 0.0.0.0 pwdchange-ukr.net
 0.0.0.0 qs-dopomoga.me
 0.0.0.0 quickpay.pw
-0.0.0.0 quickpaymentss.expert
-0.0.0.0 quicktrans.space
 0.0.0.0 raif-aval.com
 0.0.0.0 raif-dopomoga.com
 0.0.0.0 raif-online.fun
@@ -996,9 +967,7 @@
 0.0.0.0 raif.viplata.space
 0.0.0.0 raif.viplatanow.online
 0.0.0.0 raif.viplataua.shop
-0.0.0.0 raif.vuplatu.in
 0.0.0.0 raif.vyplata-help.com
-0.0.0.0 raif.vyplaty.pro
 0.0.0.0 raifesssen.com
 0.0.0.0 raiff-bank.fun
 0.0.0.0 raiff-bank.pw
@@ -1077,8 +1046,6 @@
 0.0.0.0 raiffeslen.org
 0.0.0.0 raiffesseln.com
 0.0.0.0 raiffessen-ua.com
-0.0.0.0 raiffua.site
-0.0.0.0 raifua.site
 0.0.0.0 rastamogka.net
 0.0.0.0 razomforukraine.in
 0.0.0.0 recive-money.icu
@@ -1111,7 +1078,6 @@
 0.0.0.0 shoping-ukraine.space
 0.0.0.0 shoppingua.fun
 0.0.0.0 signup-ukr.net
-0.0.0.0 sitidiia.live
 0.0.0.0 smartlead.com.ua
 0.0.0.0 sn0.uno
 0.0.0.0 socialassistance.info
@@ -1128,8 +1094,6 @@
 0.0.0.0 swift-pay.online
 0.0.0.0 sz0.fun
 0.0.0.0 table-ua.store
-0.0.0.0 tax-compensation.bar
-0.0.0.0 tax-compenses.xyz
 0.0.0.0 techno-point-ua.store
 0.0.0.0 technobank.com.ua
 0.0.0.0 technolend.com.ua
@@ -1154,7 +1118,7 @@
 0.0.0.0 terrafarmers-ukr.site
 0.0.0.0 thediadopomoga.online
 0.0.0.0 tinkletulips-ua.site
-0.0.0.0 toppaidsexpert.top
+0.0.0.0 toidopomoga.site
 0.0.0.0 touristrestaurant.com
 0.0.0.0 tovar-ukraine.com.ua
 0.0.0.0 trpayuan.site
@@ -1195,12 +1159,8 @@
 0.0.0.0 ua-tax-compens.top
 0.0.0.0 ua-taxes-compens.xyz
 0.0.0.0 ua-telegram.org
-0.0.0.0 ua-ugolovka.org
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
-0.0.0.0 ua2021priz.yolasite.com
-0.0.0.0 ua24kompensacy.yolasite.com
-0.0.0.0 uaabey.vip
 0.0.0.0 uabank-aval.com
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uadia.buzz
@@ -1213,7 +1173,6 @@
 0.0.0.0 uadostawka.com
 0.0.0.0 uaedopomoga-online.com
 0.0.0.0 uaedopomogavyplata.info
-0.0.0.0 uagovdiia24.site
 0.0.0.0 uah-perekaz.com
 0.0.0.0 uah-perekaz24.com
 0.0.0.0 uahelp-privat24.shop
@@ -1272,6 +1231,9 @@
 0.0.0.0 ukraine-raffesen.com
 0.0.0.0 ukraine-shop.uno
 0.0.0.0 ukraine-shoping.space
+0.0.0.0 ukraine-socks.store
+0.0.0.0 ukraine-toppsales.com
+0.0.0.0 ukraine-topsales.com
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraine24ua.taplink.ws
 0.0.0.0 ukraineamazon.com
@@ -1310,7 +1272,7 @@
 0.0.0.0 ukrposhta.me
 0.0.0.0 ukrposhta.net
 0.0.0.0 ukrposhta.pl
-0.0.0.0 ukrppros.click
+0.0.0.0 ukrposhta.xyz
 0.0.0.0 ukrshop-for-you.com.ua
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
@@ -1397,7 +1359,6 @@
 0.0.0.0 vipplata.com
 0.0.0.0 vuplata.casa
 0.0.0.0 vuplata24pay.shop
-0.0.0.0 vuplatu.in
 0.0.0.0 vuplatyukraine.com
 0.0.0.0 vyplata-edopomoga.com
 0.0.0.0 vyplata-help.com
@@ -1405,9 +1366,7 @@
 0.0.0.0 vyplata-pays.fun
 0.0.0.0 vyplata-pays.kyiv.ua
 0.0.0.0 vyplata24.com
-0.0.0.0 vyplatadia.com
 0.0.0.0 vyplataua.com
-0.0.0.0 vyplaty.pro
 0.0.0.0 web-telegram.click
 0.0.0.0 web-telegram.cloud
 0.0.0.0 web-telegram.eu
@@ -1421,3 +1380,4 @@
 0.0.0.0 xc0.fun
 0.0.0.0 xs0.uno
 0.0.0.0 xwallet.website
+0.0.0.0 ytrdopomoga.com
