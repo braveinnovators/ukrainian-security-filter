@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230613(1)
-! Last modified: Tue, 13 June 2023 16:19 EEST
+! Version: 20230613(2)
+! Last modified: Tue, 13 June 2023 19:59 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -1113,7 +1113,7 @@
 @@||instagram.com/edopomoga.gov.ua^$document
 
 ! DIIA.GOV.UA
-://*diia*.$document,domain=~/([a-z0-9-]+[.])*gov[.]ua/|~fedoriv.com
+://*diia*.$document,domain=~diia.gov.ua|~data.gov.ua|~fedoriv.com
 @@||facebook.com/diia.gov.ua^$document
 @@||instagram.com/diia.gov.ua^$document
 @@||play.google.com/store/apps/details?id=ua.gov.diia.app^$document
