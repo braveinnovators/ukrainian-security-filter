@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230613(1)
-# Last modified: Tue, 13 June 2023 16:19 EEST
+# Version: 20230614(1)
+# Last modified: Wed, 14 June 2023 15:37 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -503,6 +503,7 @@ address=/myua-compensations.xyz/
 address=/nato-dopomoga.com/
 address=/nato-gov.com/
 address=/neobank.idopomoga.online/
+address=/next-novapay.cloud/
 address=/next-privat24.online/
 address=/next-privat24help.win/
 address=/next.privat24.fun/
@@ -557,6 +558,8 @@ address=/nextprivat24.info/
 address=/nextprivat24.pro/
 address=/nm6.fun/
 address=/nm6.info/
+address=/nova-pay-ua.com/
+address=/novapay-ukr.top/
 address=/novaposhta-ua.com/
 address=/novaposhta-ua.org/
 address=/novaposhta-ua.recive-money.icu/
