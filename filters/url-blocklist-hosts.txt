@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230613(1)
-# Last modified: Tue, 13 June 2023 16:19 EEST
+# Version: 20230614(1)
+# Last modified: Wed, 14 June 2023 15:37 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -503,6 +503,7 @@
 0.0.0.0 nato-dopomoga.com
 0.0.0.0 nato-gov.com
 0.0.0.0 neobank.idopomoga.online
+0.0.0.0 next-novapay.cloud
 0.0.0.0 next-privat24.online
 0.0.0.0 next-privat24help.win
 0.0.0.0 next.privat24.fun
@@ -557,6 +558,8 @@
 0.0.0.0 nextprivat24.pro
 0.0.0.0 nm6.fun
 0.0.0.0 nm6.info
+0.0.0.0 nova-pay-ua.com
+0.0.0.0 novapay-ukr.top
 0.0.0.0 novaposhta-ua.com
 0.0.0.0 novaposhta-ua.org
 0.0.0.0 novaposhta-ua.recive-money.icu
