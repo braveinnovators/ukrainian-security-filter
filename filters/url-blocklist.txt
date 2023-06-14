@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230613(2)
-! Last modified: Tue, 13 June 2023 19:59 EEST
+! Version: 20230614(1)
+! Last modified: Wed, 14 June 2023 15:37 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -459,6 +459,7 @@
 ||myua-compensations.xyz^
 ||nato-dopomoga.com^
 ||nato-gov.com^
+||next-novapay.cloud^
 ||next-privat24.online^
 ||next-privat24help.win^
 ||next24-privat.cloud^
@@ -470,6 +471,8 @@
 ||nextprivat24.pro^
 ||nm6.fun^
 ||nm6.info^
+||nova-pay-ua.com^
+||novapay-ukr.top^
 ||novaposhta-ua.com^
 ||novaposhta-ua.org^
 ||novaposhta.app^
