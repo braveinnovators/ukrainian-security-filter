@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230614(1)
-# Last modified: Wed, 14 June 2023 15:37 EEST
+# Version: 20230615(1)
+# Last modified: Thu, 15 June 2023 13:47 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -124,7 +124,6 @@ creative-ukraine.store
 credit-agricole.pidrumka.co
 credit-agricole.ukraina.pics
 cryptocurrency-helps-ukraine.com
-cs0.uno
 csx5.net
 csx5.space
 csx5.uno
@@ -201,10 +200,13 @@ dopomogae.info
 dopomogae.online
 dopomogae.social
 dopomogae.xyz
+dopomogaexpress.info
 dopomogaexpress.online
+dopomogaexpress.org
 dopomogafromoon-ukr.com
 dopomogagroshi.top
 dopomogahelp.com
+dopomogahotel.online
 dopomogainukraine.com
 dopomogaofficialua.com
 dopomogaonleneukraina.co
@@ -213,6 +215,7 @@ dopomogaonline.info
 dopomogaonline.net
 dopomogaonline.org
 dopomogaonline.site
+dopomogaonline.store
 dopomogaonline.xyz
 dopomogaooh.pro
 dopomogaoon.space
@@ -293,6 +296,7 @@ edopomogaukraine.com
 edopomogaukraineepidtrimkaua.com
 edopomogaukrainehelp.com
 edopomogavyplatahelp.com
+egroshi-tyt.shop
 electromarket-ua.store
 epidrumka.info
 epidtrimka-edopomoga.com
@@ -304,7 +308,6 @@ epotrepa-edopomoga.org
 eu-dopomoga.com
 eu-st.site
 eudopomoga.nicepage.io
-eurohelp.tilda.ws
 europeanchallengeukraine.eu
 events-ukr.site
 eviplata.vip
@@ -313,13 +316,10 @@ facebook-ua.info
 farmex-ua.shop
 farmsense-ukr.shop
 farmyardia-ua.site
-fdddopomoga.com
 finance-dopomoga.site
 findopomoga.sbs
-finstor.online
 finua.online
 fixi-ua.store
-fl-work.com.ua
 flexcapital.com
 fond-dopomogy.shop
 franch-ua.store
@@ -353,6 +353,7 @@ goviplataua.info
 greenharvest-ukrpro.shop
 groshi.world
 groshidopomoga.top
+groshinext.bar
 groshovadopomoga.com
 grosovadopomoga.shop
 growtec-ua.site
@@ -470,7 +471,6 @@ liqpay.info
 lito-ua.store
 ll0.uno
 login-ukr.net
-lstdopomoga.com
 matras-ua.fun
 meta-ua.site
 miss-ua.store
@@ -593,7 +593,6 @@ online-oschadbank.csx5.net
 online-oshad24.ll0.uno
 online-pays.tech
 online-raiffeisen.info
-online-ukersib24.cs0.uno
 onlinediya.uk
 onlineraiffesen.com
 onlineraiffoisen.com
@@ -632,7 +631,6 @@ oschad.edopomoga.land
 oschad.edopomoga.world
 oschad.edopomogae.info
 oschad.epidtrymka.cloud
-oschad.finstor.online
 oschad.finua.online
 oschad.gate-pays.me
 oschad.likpay.me
@@ -780,7 +778,6 @@ perekazy-24pay.com
 perevojugroshi.com
 personalnot.online
 pestrio.site
-pggdopomoga.com
 pickpayua.best
 pickpayua.cloud
 pidrimka-ua.com
@@ -805,13 +802,11 @@ poluchenie.pw
 poluchenieviplati.xyz
 poluchenieviplatiua.site
 pomoshukraine.website
-pooloftheoonhelp-ua.com
 popolni.info
 popolnim.info
 popolnimob.com
 portal-diya.kyiv.ua
 posud-ua.store
-premium-biluzna.store
 privat-next24.shop
 privat.bank-verif.com
 privat.dengi.fyi
@@ -939,7 +934,6 @@ raif.edopomoga.land
 raif.edopomoga.world
 raif.edopomogae.info
 raif.epidtrymka.cloud
-raif.finstor.online
 raif.finua.online
 raif.gate-pays.me
 raif.helpforua.me
@@ -1067,7 +1061,6 @@ reliefukraine.today
 rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
-rtxdopomoga.com
 s1.edopomogaua.site
 safe-ua-viplata.website
 saferegulatory.com
@@ -1306,6 +1299,7 @@ unicefvyplaty.com
 up-pay.me
 upayment.me
 usdtrader.com
+vashadopomoga.shop
 velka-ua.store
 veneta-ua.store
 vennete-ua.store
@@ -1383,4 +1377,3 @@ wf0.uno
 xc0.fun
 xs0.uno
 xwallet.website
-ytrdopomoga.com
