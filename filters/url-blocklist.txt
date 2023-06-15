@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230615(1)
-! Last modified: Thu, 15 June 2023 13:47 EEST
+! Version: 20230615(2)
+! Last modified: Thu, 15 June 2023 19:56 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -1064,12 +1064,12 @@
 ! !!!!!!!!!!!!!!!
 
 ! PRIVATBANK.UA
+://*privat24*.*/$document,domain=~privat24.ua
+://*privatbank*.*/$document,domain=~privatbank.ua
 ://24-next.*.$document
 ://next24.*.$document
 ://privat-ua.*.$document
 ://privat.*.$document
-||*privat24*.$document,domain=~privat24.ua
-||*privatbank*.$document,domain=~privatbank.ua
 
 ! OSCHADBANK.UA
 ://*oschad*.*.$document,domain=~oschadbank.ua
@@ -1108,14 +1108,13 @@
 ://ukrposhta.*.$document
 
 ! EDOPOMOGA.GOV.UA
-://*edopomoga*.$document,domain=~edopomoga.gov.ua
+://*edopomoga*.*/$document,domain=~gov.ua
 @@||instagram.com/edopomoga.gov.ua^$document
 
 ! DIIA.GOV.UA
-://*diia*.$document,domain=~diia.gov.ua|~data.gov.ua|~fedoriv.com
+://*diia*.*/$document,domain=~gov.ua|~fedoriv.com
 @@||facebook.com/diia.gov.ua^$document
 @@||instagram.com/diia.gov.ua^$document
-@@||play.google.com/store/apps/details?id=ua.gov.diia.app^$document
 ||*diia*$document,domain=t.me|telegram.me
 @@||*diia_gov^$document,domain=t.me|telegram.me
 @@||*diia_help_bot^$document,domain=t.me|telegram.me
