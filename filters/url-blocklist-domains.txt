@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230615(1)
-# Last modified: Thu, 15 June 2023 13:47 EEST
+# Version: 20230616(1)
+# Last modified: Fri, 16 June 2023 16:58 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -201,6 +201,7 @@ dopomogae.online
 dopomogae.social
 dopomogae.xyz
 dopomogaexpress.info
+dopomogaexpress.net
 dopomogaexpress.online
 dopomogaexpress.org
 dopomogafromoon-ukr.com
@@ -210,6 +211,7 @@ dopomogahotel.online
 dopomogainukraine.com
 dopomogaofficialua.com
 dopomogaonleneukraina.co
+dopomogaonline.app
 dopomogaonline.club
 dopomogaonline.info
 dopomogaonline.net
@@ -221,6 +223,7 @@ dopomogaooh.pro
 dopomogaoon.space
 dopomogapays.site
 dopomogapro.club
+dopomogatyt.info
 dopomogaua-pidtrimka.com
 dopomogaua-pidtrimkaua.com
 dopomogaua.live
@@ -350,6 +353,7 @@ gov.ukr-savess.icu
 gov.ukr-savess.sbs
 govdia.pro
 goviplataua.info
+govua.buzz
 greenharvest-ukrpro.shop
 groshi.world
 groshidopomoga.top
@@ -494,6 +498,7 @@ monobank.finance
 monobank.online
 monobank.store
 ms0.uno
+my-govuwvyplatte.site
 my-kyivstar.com.ua
 my-privat24.cc
 mykyivstar.com
@@ -610,6 +615,7 @@ oonviplata.com
 oonviplata.online
 oonviplata.tech
 oonviplaty.host
+oplata-next24.shop
 oplataofficial.life
 organafarm-ua.click
 oschad-24.site
@@ -668,6 +674,7 @@ oschad24.site
 oschad24helps.shop
 oschad24helps.site
 oschadbank-inform.com.ua
+oschadbank-ua.com
 oschadbank-viplata-help.online
 oschadbank.bank-com.biz
 oschadbank.bank-com.shop
@@ -727,7 +734,9 @@ otp.pay-ukraine.com
 otp.pidrumka.co
 otp.ua-send.website
 otp.ukraina.pics
+otrim-koshtiv-ukr.biz.ua
 pajama-ukraine.store
+parfum-de-ua.store
 parimatch-ua.top
 passport-ukr-net.online
 passwd-ukr.net
@@ -1212,6 +1221,7 @@ ukr-savess.sbs
 ukr-shoping.site
 ukr-shoping.store
 ukr-shoping.website
+ukr-sumka.com.ua
 ukr-top.fun
 ukr.boutique
 ukraina-gos.top
@@ -1269,6 +1279,7 @@ ukrposhta.me
 ukrposhta.net
 ukrposhta.pl
 ukrposhta.xyz
+ukrposhtaco.icu
 ukrshop-for-you.com.ua
 ukrsib-bank.site
 ukrsib-bank.top
@@ -1306,6 +1317,8 @@ vennete-ua.store
 verify-ukr.net
 viplata-bot.eu
 viplata-com.store
+viplata-govua.cloud
+viplata-govua.site
 viplata-ooh.life
 viplata-oon-ua.com
 viplata-ua.eu
