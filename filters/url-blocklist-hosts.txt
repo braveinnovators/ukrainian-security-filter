@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230615(1)
-# Last modified: Thu, 15 June 2023 13:47 EEST
+# Version: 20230616(1)
+# Last modified: Fri, 16 June 2023 16:58 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -201,6 +201,7 @@
 0.0.0.0 dopomogae.social
 0.0.0.0 dopomogae.xyz
 0.0.0.0 dopomogaexpress.info
+0.0.0.0 dopomogaexpress.net
 0.0.0.0 dopomogaexpress.online
 0.0.0.0 dopomogaexpress.org
 0.0.0.0 dopomogafromoon-ukr.com
@@ -210,6 +211,7 @@
 0.0.0.0 dopomogainukraine.com
 0.0.0.0 dopomogaofficialua.com
 0.0.0.0 dopomogaonleneukraina.co
+0.0.0.0 dopomogaonline.app
 0.0.0.0 dopomogaonline.club
 0.0.0.0 dopomogaonline.info
 0.0.0.0 dopomogaonline.net
@@ -221,6 +223,7 @@
 0.0.0.0 dopomogaoon.space
 0.0.0.0 dopomogapays.site
 0.0.0.0 dopomogapro.club
+0.0.0.0 dopomogatyt.info
 0.0.0.0 dopomogaua-pidtrimka.com
 0.0.0.0 dopomogaua-pidtrimkaua.com
 0.0.0.0 dopomogaua.live
@@ -350,6 +353,7 @@
 0.0.0.0 gov.ukr-savess.sbs
 0.0.0.0 govdia.pro
 0.0.0.0 goviplataua.info
+0.0.0.0 govua.buzz
 0.0.0.0 greenharvest-ukrpro.shop
 0.0.0.0 groshi.world
 0.0.0.0 groshidopomoga.top
@@ -494,6 +498,7 @@
 0.0.0.0 monobank.online
 0.0.0.0 monobank.store
 0.0.0.0 ms0.uno
+0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
 0.0.0.0 my-privat24.cc
 0.0.0.0 mykyivstar.com
@@ -610,6 +615,7 @@
 0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
+0.0.0.0 oplata-next24.shop
 0.0.0.0 oplataofficial.life
 0.0.0.0 organafarm-ua.click
 0.0.0.0 oschad-24.site
@@ -668,6 +674,7 @@
 0.0.0.0 oschad24helps.shop
 0.0.0.0 oschad24helps.site
 0.0.0.0 oschadbank-inform.com.ua
+0.0.0.0 oschadbank-ua.com
 0.0.0.0 oschadbank-viplata-help.online
 0.0.0.0 oschadbank.bank-com.biz
 0.0.0.0 oschadbank.bank-com.shop
@@ -727,7 +734,9 @@
 0.0.0.0 otp.pidrumka.co
 0.0.0.0 otp.ua-send.website
 0.0.0.0 otp.ukraina.pics
+0.0.0.0 otrim-koshtiv-ukr.biz.ua
 0.0.0.0 pajama-ukraine.store
+0.0.0.0 parfum-de-ua.store
 0.0.0.0 parimatch-ua.top
 0.0.0.0 passport-ukr-net.online
 0.0.0.0 passwd-ukr.net
@@ -1212,6 +1221,7 @@
 0.0.0.0 ukr-shoping.site
 0.0.0.0 ukr-shoping.store
 0.0.0.0 ukr-shoping.website
+0.0.0.0 ukr-sumka.com.ua
 0.0.0.0 ukr-top.fun
 0.0.0.0 ukr.boutique
 0.0.0.0 ukraina-gos.top
@@ -1269,6 +1279,7 @@
 0.0.0.0 ukrposhta.net
 0.0.0.0 ukrposhta.pl
 0.0.0.0 ukrposhta.xyz
+0.0.0.0 ukrposhtaco.icu
 0.0.0.0 ukrshop-for-you.com.ua
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
@@ -1306,6 +1317,8 @@
 0.0.0.0 verify-ukr.net
 0.0.0.0 viplata-bot.eu
 0.0.0.0 viplata-com.store
+0.0.0.0 viplata-govua.cloud
+0.0.0.0 viplata-govua.site
 0.0.0.0 viplata-ooh.life
 0.0.0.0 viplata-oon-ua.com
 0.0.0.0 viplata-ua.eu
