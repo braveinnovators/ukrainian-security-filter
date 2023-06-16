@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230615(1)
-# Last modified: Thu, 15 June 2023 13:47 EEST
+# Version: 20230616(1)
+# Last modified: Fri, 16 June 2023 16:58 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -201,6 +201,7 @@ address=/dopomogae.online/
 address=/dopomogae.social/
 address=/dopomogae.xyz/
 address=/dopomogaexpress.info/
+address=/dopomogaexpress.net/
 address=/dopomogaexpress.online/
 address=/dopomogaexpress.org/
 address=/dopomogafromoon-ukr.com/
@@ -210,6 +211,7 @@ address=/dopomogahotel.online/
 address=/dopomogainukraine.com/
 address=/dopomogaofficialua.com/
 address=/dopomogaonleneukraina.co/
+address=/dopomogaonline.app/
 address=/dopomogaonline.club/
 address=/dopomogaonline.info/
 address=/dopomogaonline.net/
@@ -221,6 +223,7 @@ address=/dopomogaooh.pro/
 address=/dopomogaoon.space/
 address=/dopomogapays.site/
 address=/dopomogapro.club/
+address=/dopomogatyt.info/
 address=/dopomogaua-pidtrimka.com/
 address=/dopomogaua-pidtrimkaua.com/
 address=/dopomogaua.live/
@@ -350,6 +353,7 @@ address=/gov.ukr-savess.icu/
 address=/gov.ukr-savess.sbs/
 address=/govdia.pro/
 address=/goviplataua.info/
+address=/govua.buzz/
 address=/greenharvest-ukrpro.shop/
 address=/groshi.world/
 address=/groshidopomoga.top/
@@ -494,6 +498,7 @@ address=/monobank.finance/
 address=/monobank.online/
 address=/monobank.store/
 address=/ms0.uno/
+address=/my-govuwvyplatte.site/
 address=/my-kyivstar.com.ua/
 address=/my-privat24.cc/
 address=/mykyivstar.com/
@@ -610,6 +615,7 @@ address=/oonviplata.com/
 address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
+address=/oplata-next24.shop/
 address=/oplataofficial.life/
 address=/organafarm-ua.click/
 address=/oschad-24.site/
@@ -668,6 +674,7 @@ address=/oschad24.site/
 address=/oschad24helps.shop/
 address=/oschad24helps.site/
 address=/oschadbank-inform.com.ua/
+address=/oschadbank-ua.com/
 address=/oschadbank-viplata-help.online/
 address=/oschadbank.bank-com.biz/
 address=/oschadbank.bank-com.shop/
@@ -727,7 +734,9 @@ address=/otp.pay-ukraine.com/
 address=/otp.pidrumka.co/
 address=/otp.ua-send.website/
 address=/otp.ukraina.pics/
+address=/otrim-koshtiv-ukr.biz.ua/
 address=/pajama-ukraine.store/
+address=/parfum-de-ua.store/
 address=/parimatch-ua.top/
 address=/passport-ukr-net.online/
 address=/passwd-ukr.net/
@@ -1212,6 +1221,7 @@ address=/ukr-savess.sbs/
 address=/ukr-shoping.site/
 address=/ukr-shoping.store/
 address=/ukr-shoping.website/
+address=/ukr-sumka.com.ua/
 address=/ukr-top.fun/
 address=/ukr.boutique/
 address=/ukraina-gos.top/
@@ -1269,6 +1279,7 @@ address=/ukrposhta.me/
 address=/ukrposhta.net/
 address=/ukrposhta.pl/
 address=/ukrposhta.xyz/
+address=/ukrposhtaco.icu/
 address=/ukrshop-for-you.com.ua/
 address=/ukrsib-bank.site/
 address=/ukrsib-bank.top/
@@ -1306,6 +1317,8 @@ address=/vennete-ua.store/
 address=/verify-ukr.net/
 address=/viplata-bot.eu/
 address=/viplata-com.store/
+address=/viplata-govua.cloud/
+address=/viplata-govua.site/
 address=/viplata-ooh.life/
 address=/viplata-oon-ua.com/
 address=/viplata-ua.eu/
