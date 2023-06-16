@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230615(2)
-! Last modified: Thu, 15 June 2023 19:56 EEST
+! Version: 20230616(1)
+! Last modified: Fri, 16 June 2023 16:58 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -169,6 +169,7 @@
 ||dopomogae.social^
 ||dopomogae.xyz^
 ||dopomogaexpress.info^
+||dopomogaexpress.net^
 ||dopomogaexpress.online^
 ||dopomogaexpress.org^
 ||dopomogafromoon-ukr.com^
@@ -178,6 +179,7 @@
 ||dopomogainukraine.com^
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
+||dopomogaonline.app^
 ||dopomogaonline.club^
 ||dopomogaonline.info^
 ||dopomogaonline.net^
@@ -189,6 +191,7 @@
 ||dopomogaoon.space^
 ||dopomogapays.site^
 ||dopomogapro.club^
+||dopomogatyt.info^
 ||dopomogaua-pidtrimka.com^
 ||dopomogaua-pidtrimkaua.com^
 ||dopomogaua.live^
@@ -314,6 +317,7 @@
 ||gov-ukr.top^
 ||govdia.pro^
 ||goviplataua.info^
+||govua.buzz^
 ||greenharvest-ukrpro.shop^
 ||groshi.world^
 ||groshidopomoga.top^
@@ -451,6 +455,7 @@
 ||monobank.online^
 ||monobank.store^
 ||ms0.uno^
+||my-govuwvyplatte.site^
 ||my-kyivstar.com.ua^
 ||my-privat24.cc^
 ||mykyivstar.com^
@@ -510,6 +515,7 @@
 ||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
+||oplata-next24.shop^
 ||oplataofficial.life^
 ||organafarm-ua.click^
 ||oschad-24.site^
@@ -527,6 +533,7 @@
 ||oschad24helps.shop^
 ||oschad24helps.site^
 ||oschadbank-inform.com.ua^
+||oschadbank-ua.com^
 ||oschadbank-viplata-help.online^
 ||oschadbank.top^
 ||oschadbank24.shop^
@@ -551,7 +558,9 @@
 ||oshadraif.pro^
 ||oshcad-bank.top^
 ||oshcadbank.top^
+||otrim-koshtiv-ukr.biz.ua^
 ||pajama-ukraine.store^
+||parfum-de-ua.store^
 ||parimatch-ua.top^
 ||passport-ukr-net.online^
 ||passwd-ukr.net^
@@ -903,6 +912,7 @@
 ||ukr-shoping.site^
 ||ukr-shoping.store^
 ||ukr-shoping.website^
+||ukr-sumka.com.ua^
 ||ukr-top.fun^
 ||ukr.boutique^
 ||ukraina-gos.top^
@@ -960,6 +970,7 @@
 ||ukrposhta.net^
 ||ukrposhta.pl^
 ||ukrposhta.xyz^
+||ukrposhtaco.icu^
 ||ukrshop-for-you.com.ua^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
@@ -987,6 +998,8 @@
 ||verify-ukr.net^
 ||viplata-bot.eu^
 ||viplata-com.store^
+||viplata-govua.cloud^
+||viplata-govua.site^
 ||viplata-ooh.life^
 ||viplata-oon-ua.com^
 ||viplata-ua.eu^
@@ -1106,6 +1119,7 @@
 
 ! UKRPOSHTA.UA
 ://ukrposhta.*.$document
+://ukrposhta*.$document,domain=~ukrposhta.ua
 
 ! EDOPOMOGA.GOV.UA
 ://*edopomoga*.*/$document,domain=~gov.ua
