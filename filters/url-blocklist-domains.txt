@@ -1,15 +1,19 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230616(1)
-# Last modified: Fri, 16 June 2023 16:58 EEST
+# Version: 20230618(1)
+# Last modified: Sun, 18 June 2023 14:25 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
+23konkurs.site
 24uadopomoga.sbs
 24uadopomoga.world
+7300-edopomoga.site
+7300-ehelpcard.info
+7300-ehelpcard.online
 a-bank.diyaviplati.co
 a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
@@ -333,6 +337,7 @@ gate-pays.me
 gaukrainians.org
 gedopomoga-gov.site
 get-oon-viplata.shop
+getaidhelp-ua.com
 getfunds.pw
 gifari-ua.store
 giza-ua.store
@@ -341,6 +346,7 @@ gos-cash.top
 gos-dopomoga.top
 gos-ukraine.info
 gosdopomoga.com
+gospodarstvo-ua.com
 goturozetka.com
 goturozetka.vip
 gov-oschad.shop
@@ -428,6 +434,7 @@ konkurs-golos.ltd
 konkurs-ua.site
 konkurs-ukraine.site
 konkurs.site
+konkurs23.site
 konvas.store
 kramnitsa-ua.store
 kredo.pay-ukraine.com
@@ -488,6 +495,7 @@ mobipay.in.ua
 mobitop.biz
 moneypay-for-ukrainians-people.pro
 moneypayua.online
+moneyveo-ua.online
 moneyviplata.shop
 mono-bank.org
 mono.gate-pays.me
@@ -579,6 +587,7 @@ novaposhta.site
 novaposhta.ua-pay.space
 novaposhtashipping.com
 novaposhtatracking.com
+o-ocshad.co
 ocshad24l-pay.site
 ocshad24l.site
 ocshadbank24.uk
@@ -1113,6 +1122,9 @@ telegram-ua.org
 telegram-w.net
 telegram-web.biz
 telegram-web.eu
+telegram-web.website
+telegram-webpage.space
+telegram-webpage.website
 telegram.org.za
 telegramapp-dl.com
 telegramapp-dl.im
@@ -1166,6 +1178,7 @@ ua-taxes-compens.xyz
 ua-telegram.org
 ua-viplata.me
 ua-wallet.pw
+ua24pomoga.online
 uabank-aval.com
 uacompensation.xyz
 uadia.buzz
@@ -1386,6 +1399,7 @@ web-telegram.uk
 webk-telegram.icu
 webk-telegram.sbs
 webtelegram.shop
+webtelegram.top
 wf0.uno
 xc0.fun
 xs0.uno
