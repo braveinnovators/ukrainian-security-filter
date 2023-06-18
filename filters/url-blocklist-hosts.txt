@@ -1,15 +1,19 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230616(1)
-# Last modified: Fri, 16 June 2023 16:58 EEST
+# Version: 20230618(1)
+# Last modified: Sun, 18 June 2023 14:25 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
+0.0.0.0 23konkurs.site
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
+0.0.0.0 7300-edopomoga.site
+0.0.0.0 7300-ehelpcard.info
+0.0.0.0 7300-ehelpcard.online
 0.0.0.0 a-bank.diyaviplati.co
 0.0.0.0 a-bank.dopomoga.agency
 0.0.0.0 a-bank.dopomoga.buzz
@@ -333,6 +337,7 @@
 0.0.0.0 gaukrainians.org
 0.0.0.0 gedopomoga-gov.site
 0.0.0.0 get-oon-viplata.shop
+0.0.0.0 getaidhelp-ua.com
 0.0.0.0 getfunds.pw
 0.0.0.0 gifari-ua.store
 0.0.0.0 giza-ua.store
@@ -341,6 +346,7 @@
 0.0.0.0 gos-dopomoga.top
 0.0.0.0 gos-ukraine.info
 0.0.0.0 gosdopomoga.com
+0.0.0.0 gospodarstvo-ua.com
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-oschad.shop
@@ -428,6 +434,7 @@
 0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-ukraine.site
 0.0.0.0 konkurs.site
+0.0.0.0 konkurs23.site
 0.0.0.0 konvas.store
 0.0.0.0 kramnitsa-ua.store
 0.0.0.0 kredo.pay-ukraine.com
@@ -488,6 +495,7 @@
 0.0.0.0 mobitop.biz
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneypayua.online
+0.0.0.0 moneyveo-ua.online
 0.0.0.0 moneyviplata.shop
 0.0.0.0 mono-bank.org
 0.0.0.0 mono.gate-pays.me
@@ -579,6 +587,7 @@
 0.0.0.0 novaposhta.ua-pay.space
 0.0.0.0 novaposhtashipping.com
 0.0.0.0 novaposhtatracking.com
+0.0.0.0 o-ocshad.co
 0.0.0.0 ocshad24l-pay.site
 0.0.0.0 ocshad24l.site
 0.0.0.0 ocshadbank24.uk
@@ -1113,6 +1122,9 @@
 0.0.0.0 telegram-w.net
 0.0.0.0 telegram-web.biz
 0.0.0.0 telegram-web.eu
+0.0.0.0 telegram-web.website
+0.0.0.0 telegram-webpage.space
+0.0.0.0 telegram-webpage.website
 0.0.0.0 telegram.org.za
 0.0.0.0 telegramapp-dl.com
 0.0.0.0 telegramapp-dl.im
@@ -1166,6 +1178,7 @@
 0.0.0.0 ua-telegram.org
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
+0.0.0.0 ua24pomoga.online
 0.0.0.0 uabank-aval.com
 0.0.0.0 uacompensation.xyz
 0.0.0.0 uadia.buzz
@@ -1386,6 +1399,7 @@
 0.0.0.0 webk-telegram.icu
 0.0.0.0 webk-telegram.sbs
 0.0.0.0 webtelegram.shop
+0.0.0.0 webtelegram.top
 0.0.0.0 wf0.uno
 0.0.0.0 xc0.fun
 0.0.0.0 xs0.uno
