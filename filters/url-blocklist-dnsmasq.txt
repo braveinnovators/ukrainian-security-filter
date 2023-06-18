@@ -1,15 +1,19 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230616(1)
-# Last modified: Fri, 16 June 2023 16:58 EEST
+# Version: 20230618(1)
+# Last modified: Sun, 18 June 2023 14:25 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
+address=/23konkurs.site/
 address=/24uadopomoga.sbs/
 address=/24uadopomoga.world/
+address=/7300-edopomoga.site/
+address=/7300-ehelpcard.info/
+address=/7300-ehelpcard.online/
 address=/a-bank.diyaviplati.co/
 address=/a-bank.dopomoga.agency/
 address=/a-bank.dopomoga.buzz/
@@ -333,6 +337,7 @@ address=/gate-pays.me/
 address=/gaukrainians.org/
 address=/gedopomoga-gov.site/
 address=/get-oon-viplata.shop/
+address=/getaidhelp-ua.com/
 address=/getfunds.pw/
 address=/gifari-ua.store/
 address=/giza-ua.store/
@@ -341,6 +346,7 @@ address=/gos-cash.top/
 address=/gos-dopomoga.top/
 address=/gos-ukraine.info/
 address=/gosdopomoga.com/
+address=/gospodarstvo-ua.com/
 address=/goturozetka.com/
 address=/goturozetka.vip/
 address=/gov-oschad.shop/
@@ -428,6 +434,7 @@ address=/konkurs-golos.ltd/
 address=/konkurs-ua.site/
 address=/konkurs-ukraine.site/
 address=/konkurs.site/
+address=/konkurs23.site/
 address=/konvas.store/
 address=/kramnitsa-ua.store/
 address=/kredo.pay-ukraine.com/
@@ -488,6 +495,7 @@ address=/mobipay.in.ua/
 address=/mobitop.biz/
 address=/moneypay-for-ukrainians-people.pro/
 address=/moneypayua.online/
+address=/moneyveo-ua.online/
 address=/moneyviplata.shop/
 address=/mono-bank.org/
 address=/mono.gate-pays.me/
@@ -579,6 +587,7 @@ address=/novaposhta.site/
 address=/novaposhta.ua-pay.space/
 address=/novaposhtashipping.com/
 address=/novaposhtatracking.com/
+address=/o-ocshad.co/
 address=/ocshad24l-pay.site/
 address=/ocshad24l.site/
 address=/ocshadbank24.uk/
@@ -1113,6 +1122,9 @@ address=/telegram-ua.org/
 address=/telegram-w.net/
 address=/telegram-web.biz/
 address=/telegram-web.eu/
+address=/telegram-web.website/
+address=/telegram-webpage.space/
+address=/telegram-webpage.website/
 address=/telegram.org.za/
 address=/telegramapp-dl.com/
 address=/telegramapp-dl.im/
@@ -1166,6 +1178,7 @@ address=/ua-taxes-compens.xyz/
 address=/ua-telegram.org/
 address=/ua-viplata.me/
 address=/ua-wallet.pw/
+address=/ua24pomoga.online/
 address=/uabank-aval.com/
 address=/uacompensation.xyz/
 address=/uadia.buzz/
@@ -1386,6 +1399,7 @@ address=/web-telegram.uk/
 address=/webk-telegram.icu/
 address=/webk-telegram.sbs/
 address=/webtelegram.shop/
+address=/webtelegram.top/
 address=/wf0.uno/
 address=/xc0.fun/
 address=/xs0.uno/
