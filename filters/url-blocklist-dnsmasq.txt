@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230618(1)
-# Last modified: Sun, 18 June 2023 14:25 EEST
+# Version: 20230619(1)
+# Last modified: Mon, 19 June 2023 13:28 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -14,6 +14,9 @@ address=/24uadopomoga.world/
 address=/7300-edopomoga.site/
 address=/7300-ehelpcard.info/
 address=/7300-ehelpcard.online/
+address=/7300-uadopomoga.cloud/
+address=/7300-uadopomoga.online/
+address=/7300-uadopomoga.site/
 address=/a-bank.diyaviplati.co/
 address=/a-bank.dopomoga.agency/
 address=/a-bank.dopomoga.buzz/
@@ -193,6 +196,7 @@ address=/dopomoga.today/
 address=/dopomoga.wtf/
 address=/dopomoga2023.com/
 address=/dopomoga23.top/
+address=/dopomoga24.com/
 address=/dopomoga24pay.win/
 address=/dopomoga24ua.win/
 address=/dopomogaa-id03914.website/
@@ -303,7 +307,6 @@ address=/edopomogaukraine.com/
 address=/edopomogaukraineepidtrimkaua.com/
 address=/edopomogaukrainehelp.com/
 address=/edopomogavyplatahelp.com/
-address=/egroshi-tyt.shop/
 address=/electromarket-ua.store/
 address=/epidrumka.info/
 address=/epidtrimka-edopomoga.com/
@@ -592,6 +595,7 @@ address=/ocshad24l-pay.site/
 address=/ocshad24l.site/
 address=/ocshadbank24.uk/
 address=/ocshadl24.uk/
+address=/officialehelp-ua.com/
 address=/oficial-viplata.info/
 address=/okko-bonus.live/
 address=/okpay24-grn.com/
