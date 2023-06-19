@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230618(1)
-# Last modified: Sun, 18 June 2023 14:25 EEST
+# Version: 20230619(1)
+# Last modified: Mon, 19 June 2023 13:28 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -14,6 +14,9 @@
 7300-edopomoga.site
 7300-ehelpcard.info
 7300-ehelpcard.online
+7300-uadopomoga.cloud
+7300-uadopomoga.online
+7300-uadopomoga.site
 a-bank.diyaviplati.co
 a-bank.dopomoga.agency
 a-bank.dopomoga.buzz
@@ -193,6 +196,7 @@ dopomoga.today
 dopomoga.wtf
 dopomoga2023.com
 dopomoga23.top
+dopomoga24.com
 dopomoga24pay.win
 dopomoga24ua.win
 dopomogaa-id03914.website
@@ -303,7 +307,6 @@ edopomogaukraine.com
 edopomogaukraineepidtrimkaua.com
 edopomogaukrainehelp.com
 edopomogavyplatahelp.com
-egroshi-tyt.shop
 electromarket-ua.store
 epidrumka.info
 epidtrimka-edopomoga.com
@@ -592,6 +595,7 @@ ocshad24l-pay.site
 ocshad24l.site
 ocshadbank24.uk
 ocshadl24.uk
+officialehelp-ua.com
 oficial-viplata.info
 okko-bonus.live
 okpay24-grn.com
