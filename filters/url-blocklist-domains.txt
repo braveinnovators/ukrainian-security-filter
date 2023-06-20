@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230620(1)
-# Last modified: Tue, 20 June 2023 15:26 EEST
+# Version: 20230620(2)
+# Last modified: Tue, 20 June 2023 21:32 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -87,7 +87,6 @@ bizhuteriaukraine.com
 blago-privatc24.ccx5.fun
 blago-privatc24.wf0.uno
 blagos-privatc24.nm6.info
-boberjob.com
 bokal-ua.store
 brivis-ua.store
 cabinet-raiffeisen.fun
@@ -122,7 +121,6 @@ compensations-ukrain.bar
 compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
-comreviews.club
 connected4ukraine.org
 connectedforukraine.org
 creative-ukraine.store
@@ -166,7 +164,6 @@ dopomoga-ua-online-web.site
 dopomoga-ua.click
 dopomoga-ua.info
 dopomoga-ua.online
-dopomoga-ua.personalnot.online
 dopomoga-ua.pro
 dopomoga-ua.site
 dopomoga-ua.website
@@ -513,7 +510,6 @@ my-privat24.cc
 mykyivstar.com
 mytax-compensation.xyz
 mytechno.com.ua
-myua-compensations.xyz
 nato-dopomoga.com
 nato-gov.com
 neobank.idopomoga.online
@@ -546,7 +542,6 @@ next24.okpay24-grn.com
 next24.onlinediya.uk
 next24.oplataofficial.life
 next24.pay-ukraine.com
-next24.perekaz-perek.com
 next24.perekazio.com
 next24.perekazu.com
 next24.perekazy-24pay.com
@@ -593,7 +588,6 @@ ocshad24l-pay.site
 ocshad24l.site
 ocshadbank24.uk
 ocshadl24.uk
-officialehelp-ua.com
 oficial-viplata.info
 okko-bonus.live
 okpay24-grn.com
@@ -660,7 +654,6 @@ oschad.okpay24-grn.com
 oschad.onlinediya.uk
 oschad.oplataofficial.life
 oschad.pay-ukraine.com
-oschad.perekaz-perek.com
 oschad.perekazio.com
 oschad.perekazu.com
 oschad.perekazy-24pay.com
@@ -694,7 +687,6 @@ oschadbank.bank-com.biz
 oschadbank.bank-com.shop
 oschadbank.bank-verif.com
 oschadbank.bank-viplata.online
-oschadbank.comreviews.club
 oschadbank.dengi.fyi
 oschadbank.dopomogae.info
 oschadbank.dopomogaofficialua.com
@@ -786,7 +778,6 @@ payukraine24now.com
 payukrainenow.com
 payviplata.shop
 perekaz-koshtiv.online
-perekaz-perek.com
 perekaz.com
 perekaz.eu
 perekaz24.website
@@ -796,8 +787,6 @@ perekazio.com
 perekazprivat.com
 perekazu.com
 perekazy-24pay.com
-perevojugroshi.com
-personalnot.online
 pestrio.site
 pickpayua.best
 pickpayua.cloud
@@ -921,7 +910,6 @@ pumb.likpay.me
 pumb.nato-gov.com
 pumb.oplataofficial.life
 pumb.pay-ukraine.com
-pumb.perekaz-perek.com
 pumb.privat.today
 pumb.regsotsvyplat.online
 pumb.socialassistance.social
@@ -965,7 +953,6 @@ raif.okpay24-grn.com
 raif.onlinediya.uk
 raif.oplataofficial.life
 raif.pay-ukraine.com
-raif.perekaz-perek.com
 raif.perekazio.com
 raif.perekazu.com
 raif.perekazy-24pay.com
@@ -1022,7 +1009,6 @@ raiffeisen.bank-com.biz
 raiffeisen.bank-com.shop
 raiffeisen.bank-verif.com
 raiffeisen.bank-viplata.online
-raiffeisen.comreviews.club
 raiffeisen.dengi.fyi
 raiffeisen.dopomogae.info
 raiffeisen.dopomogaofficialua.com
@@ -1194,8 +1180,11 @@ uah-perekaz.com
 uah-perekaz24.com
 uahelp-privat24.shop
 uahelp.press
+uahelpnow.com
+uahelpnow24.com
 uakonkursevent.space
 uanext24help.icu
+uanowhelp.com
 uapay.cloud
 uapay.health
 uapay.online
@@ -1252,6 +1241,7 @@ ukraine-shoping.space
 ukraine-socks.store
 ukraine-toppsales.com
 ukraine-topsales.com
+ukraine-ukrshop.space
 ukraine-viplata.top
 ukraine24ua.taplink.ws
 ukraineamazon.com
@@ -1268,6 +1258,7 @@ ukrainehotspothelp.com
 ukrainepaymentsystem.pro
 ukrainerozetka.com
 ukrainerozetka.vip
+ukraineshop.tech
 ukrainetoptovar.store
 ukraineworkup.online
 ukrainian-inform.com
@@ -1294,6 +1285,7 @@ ukrposhta.pl
 ukrposhta.xyz
 ukrposhtaco.icu
 ukrshop-for-you.com.ua
+ukrshopukraine.space
 ukrsib-bank.site
 ukrsib-bank.top
 ukrsib.dopomoga.agency
