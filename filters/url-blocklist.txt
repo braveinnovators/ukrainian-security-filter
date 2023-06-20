@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230620(1)
-! Last modified: Tue, 20 June 2023 15:26 EEST
+! Version: 20230620(2)
+! Last modified: Tue, 20 June 2023 21:32 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -59,7 +59,6 @@
 ||bid.cx.ua^
 ||biluzna-ua.store^
 ||bizhuteriaukraine.com^
-||boberjob.com^
 ||bokal-ua.store^
 ||brivis-ua.store^
 ||cabinet-raiffeisen.fun^
@@ -94,7 +93,6 @@
 ||compensations-ukrain.sbs^
 ||compensationua.com^
 ||compensationukr.com^
-||comreviews.club^
 ||connected4ukraine.org^
 ||connectedforukraine.org^
 ||creative-ukraine.store^
@@ -470,7 +468,6 @@
 ||mykyivstar.com^
 ||mytax-compensation.xyz^
 ||mytechno.com.ua^
-||myua-compensations.xyz^
 ||nato-dopomoga.com^
 ||nato-gov.com^
 ||next-novapay.cloud^
@@ -503,7 +500,6 @@
 ||ocshad24l.site^
 ||ocshadbank24.uk^
 ||ocshadl24.uk^
-||officialehelp-ua.com^
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||okpay24-grn.com^
@@ -607,7 +603,6 @@
 ||payukrainenow.com^
 ||payviplata.shop^
 ||perekaz-koshtiv.online^
-||perekaz-perek.com^
 ||perekaz.com^
 ||perekaz.eu^
 ||perekaz24.website^
@@ -617,8 +612,6 @@
 ||perekazprivat.com^
 ||perekazu.com^
 ||perekazy-24pay.com^
-||perevojugroshi.com^
-||personalnot.online^
 ||pestrio.site^
 ||pickpayua.best^
 ||pickpayua.cloud^
@@ -886,8 +879,11 @@
 ||uah-perekaz24.com^
 ||uahelp-privat24.shop^
 ||uahelp.press^
+||uahelpnow.com^
+||uahelpnow24.com^
 ||uakonkursevent.space^
 ||uanext24help.icu^
+||uanowhelp.com^
 ||uapay.cloud^
 ||uapay.health^
 ||uapay.online^
@@ -943,6 +939,7 @@
 ||ukraine-socks.store^
 ||ukraine-toppsales.com^
 ||ukraine-topsales.com^
+||ukraine-ukrshop.space^
 ||ukraine-viplata.top^
 ||ukraine24ua.taplink.ws^
 ||ukraineamazon.com^
@@ -959,6 +956,7 @@
 ||ukrainepaymentsystem.pro^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukraineshop.tech^
 ||ukrainetoptovar.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
@@ -985,6 +983,7 @@
 ||ukrposhta.xyz^
 ||ukrposhtaco.icu^
 ||ukrshop-for-you.com.ua^
+||ukrshopukraine.space^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
 ||ukrsibbank.top^
@@ -1149,7 +1148,7 @@
 @@||*diia_help_bot^$document,domain=t.me|telegram.me
 
 ! UKR.NET
-! CERT-UA (UAC-0102)
+! UAC-0102 (CERT-UA)
 ||*-ukr.net^$document,domain=~ukr.net
 ||*ukr.net/desktop/security/login^$document,domain=~ukr.net
 
