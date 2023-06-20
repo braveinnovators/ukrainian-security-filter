@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230620(1)
-# Last modified: Tue, 20 June 2023 15:26 EEST
+# Version: 20230620(2)
+# Last modified: Tue, 20 June 2023 21:32 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -87,7 +87,6 @@
 0.0.0.0 blago-privatc24.ccx5.fun
 0.0.0.0 blago-privatc24.wf0.uno
 0.0.0.0 blagos-privatc24.nm6.info
-0.0.0.0 boberjob.com
 0.0.0.0 bokal-ua.store
 0.0.0.0 brivis-ua.store
 0.0.0.0 cabinet-raiffeisen.fun
@@ -122,7 +121,6 @@
 0.0.0.0 compensations-ukrain.sbs
 0.0.0.0 compensationua.com
 0.0.0.0 compensationukr.com
-0.0.0.0 comreviews.club
 0.0.0.0 connected4ukraine.org
 0.0.0.0 connectedforukraine.org
 0.0.0.0 creative-ukraine.store
@@ -166,7 +164,6 @@
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.info
 0.0.0.0 dopomoga-ua.online
-0.0.0.0 dopomoga-ua.personalnot.online
 0.0.0.0 dopomoga-ua.pro
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
@@ -513,7 +510,6 @@
 0.0.0.0 mykyivstar.com
 0.0.0.0 mytax-compensation.xyz
 0.0.0.0 mytechno.com.ua
-0.0.0.0 myua-compensations.xyz
 0.0.0.0 nato-dopomoga.com
 0.0.0.0 nato-gov.com
 0.0.0.0 neobank.idopomoga.online
@@ -546,7 +542,6 @@
 0.0.0.0 next24.onlinediya.uk
 0.0.0.0 next24.oplataofficial.life
 0.0.0.0 next24.pay-ukraine.com
-0.0.0.0 next24.perekaz-perek.com
 0.0.0.0 next24.perekazio.com
 0.0.0.0 next24.perekazu.com
 0.0.0.0 next24.perekazy-24pay.com
@@ -593,7 +588,6 @@
 0.0.0.0 ocshad24l.site
 0.0.0.0 ocshadbank24.uk
 0.0.0.0 ocshadl24.uk
-0.0.0.0 officialehelp-ua.com
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
 0.0.0.0 okpay24-grn.com
@@ -660,7 +654,6 @@
 0.0.0.0 oschad.onlinediya.uk
 0.0.0.0 oschad.oplataofficial.life
 0.0.0.0 oschad.pay-ukraine.com
-0.0.0.0 oschad.perekaz-perek.com
 0.0.0.0 oschad.perekazio.com
 0.0.0.0 oschad.perekazu.com
 0.0.0.0 oschad.perekazy-24pay.com
@@ -694,7 +687,6 @@
 0.0.0.0 oschadbank.bank-com.shop
 0.0.0.0 oschadbank.bank-verif.com
 0.0.0.0 oschadbank.bank-viplata.online
-0.0.0.0 oschadbank.comreviews.club
 0.0.0.0 oschadbank.dengi.fyi
 0.0.0.0 oschadbank.dopomogae.info
 0.0.0.0 oschadbank.dopomogaofficialua.com
@@ -786,7 +778,6 @@
 0.0.0.0 payukrainenow.com
 0.0.0.0 payviplata.shop
 0.0.0.0 perekaz-koshtiv.online
-0.0.0.0 perekaz-perek.com
 0.0.0.0 perekaz.com
 0.0.0.0 perekaz.eu
 0.0.0.0 perekaz24.website
@@ -796,8 +787,6 @@
 0.0.0.0 perekazprivat.com
 0.0.0.0 perekazu.com
 0.0.0.0 perekazy-24pay.com
-0.0.0.0 perevojugroshi.com
-0.0.0.0 personalnot.online
 0.0.0.0 pestrio.site
 0.0.0.0 pickpayua.best
 0.0.0.0 pickpayua.cloud
@@ -921,7 +910,6 @@
 0.0.0.0 pumb.nato-gov.com
 0.0.0.0 pumb.oplataofficial.life
 0.0.0.0 pumb.pay-ukraine.com
-0.0.0.0 pumb.perekaz-perek.com
 0.0.0.0 pumb.privat.today
 0.0.0.0 pumb.regsotsvyplat.online
 0.0.0.0 pumb.socialassistance.social
@@ -965,7 +953,6 @@
 0.0.0.0 raif.onlinediya.uk
 0.0.0.0 raif.oplataofficial.life
 0.0.0.0 raif.pay-ukraine.com
-0.0.0.0 raif.perekaz-perek.com
 0.0.0.0 raif.perekazio.com
 0.0.0.0 raif.perekazu.com
 0.0.0.0 raif.perekazy-24pay.com
@@ -1022,7 +1009,6 @@
 0.0.0.0 raiffeisen.bank-com.shop
 0.0.0.0 raiffeisen.bank-verif.com
 0.0.0.0 raiffeisen.bank-viplata.online
-0.0.0.0 raiffeisen.comreviews.club
 0.0.0.0 raiffeisen.dengi.fyi
 0.0.0.0 raiffeisen.dopomogae.info
 0.0.0.0 raiffeisen.dopomogaofficialua.com
@@ -1194,8 +1180,11 @@
 0.0.0.0 uah-perekaz24.com
 0.0.0.0 uahelp-privat24.shop
 0.0.0.0 uahelp.press
+0.0.0.0 uahelpnow.com
+0.0.0.0 uahelpnow24.com
 0.0.0.0 uakonkursevent.space
 0.0.0.0 uanext24help.icu
+0.0.0.0 uanowhelp.com
 0.0.0.0 uapay.cloud
 0.0.0.0 uapay.health
 0.0.0.0 uapay.online
@@ -1252,6 +1241,7 @@
 0.0.0.0 ukraine-socks.store
 0.0.0.0 ukraine-toppsales.com
 0.0.0.0 ukraine-topsales.com
+0.0.0.0 ukraine-ukrshop.space
 0.0.0.0 ukraine-viplata.top
 0.0.0.0 ukraine24ua.taplink.ws
 0.0.0.0 ukraineamazon.com
@@ -1268,6 +1258,7 @@
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukraineshop.tech
 0.0.0.0 ukrainetoptovar.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
@@ -1294,6 +1285,7 @@
 0.0.0.0 ukrposhta.xyz
 0.0.0.0 ukrposhtaco.icu
 0.0.0.0 ukrshop-for-you.com.ua
+0.0.0.0 ukrshopukraine.space
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsib.dopomoga.agency
