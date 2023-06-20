@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230619(1)
-# Last modified: Mon, 19 June 2023 13:28 EEST
+# Version: 20230620(1)
+# Last modified: Tue, 20 June 2023 15:26 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -42,10 +42,9 @@ abank.perekazio.com
 abank.perekazu.com
 abank.uadostawka.com
 abank.uah-perekaz24.com
-accounts-s-ukr.net
-accounts-ukr.net
 actions-pay24.win
 adidas-ua.shop
+agit27rooniz.buzz
 agri-chain.site
 agribe-ukr.shop
 agronova-ukr.shop
@@ -124,7 +123,6 @@ compensations-ukrain.sbs
 compensationua.com
 compensationukr.com
 comreviews.club
-confirm-ukr.net
 connected4ukraine.org
 connectedforukraine.org
 creative-ukraine.store
@@ -215,7 +213,6 @@ dopomogaexpress.org
 dopomogafromoon-ukr.com
 dopomogagroshi.top
 dopomogahelp.com
-dopomogahotel.online
 dopomogainukraine.com
 dopomogaofficialua.com
 dopomogaonleneukraina.co
@@ -437,9 +434,11 @@ konkurs-golos.ltd
 konkurs-ua.site
 konkurs-ukraine.site
 konkurs.site
+konkurs2023.site
 konkurs23.site
 konvas.store
 kramnitsa-ua.store
+krasa.site
 kredo.pay-ukraine.com
 kyivstar-connect-internet.com.ua
 kyivstar-home-internet.com.ua
@@ -484,7 +483,6 @@ likpay.me
 liqpay.info
 lito-ua.store
 ll0.uno
-login-ukr.net
 matras-ua.fun
 meta-ua.site
 miss-ua.store
@@ -623,6 +621,9 @@ oon-viplata.co
 oon-viplata.eu
 oon-viplata.org
 oon-viplata.social
+oon.bio
+oon.giving
+oon.social
 oonpay.site
 oonviplata.com
 oonviplata.online
@@ -752,8 +753,6 @@ pajama-ukraine.store
 parfum-de-ua.store
 parimatch-ua.top
 passport-ukr-net.online
-passwd-ukr.net
-password-ukr.net
 pay-ocshad24.uk
 pay-privat24.site
 pay-raif.fun
@@ -900,6 +899,7 @@ privatbank.xyz
 privatbank24.shop
 privatbank24.uk
 privatbank24online.com
+privatbnk.com
 privatpay.me
 privatpay.online
 prlvatbank24.pw
@@ -931,7 +931,6 @@ pumb.uah-perekaz.com
 pumb.upayment.me
 pumb.viplata.fun
 pumb.viplataua.shop
-pwdchange-ukr.net
 qs-dopomoga.me
 quickpay.pw
 raif-aval.com
@@ -1076,8 +1075,6 @@ redcrossdopomoga.info
 redcrossua.top
 redcrossukraine.co
 redcrossukraine.top
-reg-ukr.net
-regs-ukr.net
 regsotsvyplat.online
 reliefukraine.today
 rozetkaukraine.cc
@@ -1095,7 +1092,6 @@ shop-ukraine.site
 shop-ukraine.space
 shoping-ukraine.space
 shoppingua.fun
-signup-ukr.net
 smartlead.com.ua
 sn0.uno
 socialassistance.info
@@ -1106,7 +1102,6 @@ store-ua.site
 store-ukr.com.ua
 suknya-trend-ua.store
 suknya-ua.store
-support-ukr.net
 supports-ua.com
 supportukraine.help
 swift-pay.online
@@ -1280,6 +1275,7 @@ ukrainian-podarunok.com
 ukrainian-podarunok.store
 ukrainian-product.store
 ukrainianamazon.com
+ukrainianshop.online
 ukrdopomoga.top
 ukripaymens.online
 ukrkonkurs.site
@@ -1331,7 +1327,6 @@ vashadopomoga.shop
 velka-ua.store
 veneta-ua.store
 vennete-ua.store
-verify-ukr.net
 viplata-bot.eu
 viplata-com.store
 viplata-govua.cloud
@@ -1360,6 +1355,7 @@ viplata24.tech
 viplata24pay.shop
 viplatadiya.site
 viplatadopomogaua.com
+viplatadopomogi.com
 viplatagov.org
 viplatagovua.org
 viplatanow.online
@@ -1374,6 +1370,7 @@ viplataua.org
 viplataua.shop
 viplataua.site
 viplataua.xyz
+viplataua24.com
 viplatauaukr.xyz
 viplatauaukraine.xyz
 viplataukr.xyz
