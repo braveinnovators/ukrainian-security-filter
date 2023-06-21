@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230620(2)
-# Last modified: Tue, 20 June 2023 21:32 EEST
+# Version: 20230621(1)
+# Last modified: Wed, 21 June 2023 14:18 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,7 +39,6 @@ address=/a-bank.viplataua.shop/
 address=/abank.gate-pays.me/
 address=/abank.onlinediya.uk/
 address=/abank.perekazio.com/
-address=/abank.perekazu.com/
 address=/abank.uadostawka.com/
 address=/abank.uah-perekaz24.com/
 address=/actions-pay24.win/
@@ -58,6 +57,7 @@ address=/aiderinukr-gov.site/
 address=/aiderukr-gov.site/
 address=/aidforukr-gov.site/
 address=/aidgetukr-gov.site/
+address=/akvapark.site/
 address=/api-donate-ukrainehelp.org/
 address=/aval-bank-online.com/
 address=/aval-on24.com/
@@ -543,7 +543,6 @@ address=/next24.onlinediya.uk/
 address=/next24.oplataofficial.life/
 address=/next24.pay-ukraine.com/
 address=/next24.perekazio.com/
-address=/next24.perekazu.com/
 address=/next24.perekazy-24pay.com/
 address=/next24.privat.today/
 address=/next24.rectivs.com/
@@ -655,7 +654,6 @@ address=/oschad.onlinediya.uk/
 address=/oschad.oplataofficial.life/
 address=/oschad.pay-ukraine.com/
 address=/oschad.perekazio.com/
-address=/oschad.perekazu.com/
 address=/oschad.perekazy-24pay.com/
 address=/oschad.privat.today/
 address=/oschad.socialassistance.social/
@@ -785,7 +783,6 @@ address=/perekaz24privat.com/
 address=/perekazi-privat24.online/
 address=/perekazio.com/
 address=/perekazprivat.com/
-address=/perekazu.com/
 address=/perekazy-24pay.com/
 address=/pestrio.site/
 address=/pickpayua.best/
@@ -954,7 +951,6 @@ address=/raif.onlinediya.uk/
 address=/raif.oplataofficial.life/
 address=/raif.pay-ukraine.com/
 address=/raif.perekazio.com/
-address=/raif.perekazu.com/
 address=/raif.perekazy-24pay.com/
 address=/raif.pidrumka.co/
 address=/raif.privat.today/
@@ -1394,6 +1390,8 @@ address=/webk-telegram.sbs/
 address=/webtelegram.shop/
 address=/webtelegram.top/
 address=/wf0.uno/
+address=/wmtua555.vip/
+address=/wmtua666.top/
 address=/xc0.fun/
 address=/xs0.uno/
 address=/xwallet.website/
