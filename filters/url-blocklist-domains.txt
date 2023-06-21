@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230620(2)
-# Last modified: Tue, 20 June 2023 21:32 EEST
+# Version: 20230621(1)
+# Last modified: Wed, 21 June 2023 14:18 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,7 +39,6 @@ a-bank.viplataua.shop
 abank.gate-pays.me
 abank.onlinediya.uk
 abank.perekazio.com
-abank.perekazu.com
 abank.uadostawka.com
 abank.uah-perekaz24.com
 actions-pay24.win
@@ -58,6 +57,7 @@ aiderinukr-gov.site
 aiderukr-gov.site
 aidforukr-gov.site
 aidgetukr-gov.site
+akvapark.site
 api-donate-ukrainehelp.org
 aval-bank-online.com
 aval-on24.com
@@ -543,7 +543,6 @@ next24.onlinediya.uk
 next24.oplataofficial.life
 next24.pay-ukraine.com
 next24.perekazio.com
-next24.perekazu.com
 next24.perekazy-24pay.com
 next24.privat.today
 next24.rectivs.com
@@ -655,7 +654,6 @@ oschad.onlinediya.uk
 oschad.oplataofficial.life
 oschad.pay-ukraine.com
 oschad.perekazio.com
-oschad.perekazu.com
 oschad.perekazy-24pay.com
 oschad.privat.today
 oschad.socialassistance.social
@@ -785,7 +783,6 @@ perekaz24privat.com
 perekazi-privat24.online
 perekazio.com
 perekazprivat.com
-perekazu.com
 perekazy-24pay.com
 pestrio.site
 pickpayua.best
@@ -954,7 +951,6 @@ raif.onlinediya.uk
 raif.oplataofficial.life
 raif.pay-ukraine.com
 raif.perekazio.com
-raif.perekazu.com
 raif.perekazy-24pay.com
 raif.pidrumka.co
 raif.privat.today
@@ -1394,6 +1390,8 @@ webk-telegram.sbs
 webtelegram.shop
 webtelegram.top
 wf0.uno
+wmtua555.vip
+wmtua666.top
 xc0.fun
 xs0.uno
 xwallet.website
