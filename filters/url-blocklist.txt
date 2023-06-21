@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230620(2)
-! Last modified: Tue, 20 June 2023 21:32 EEST
+! Version: 20230621(1)
+! Last modified: Wed, 21 June 2023 14:18 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -33,6 +33,7 @@
 ||aiderukr-gov.site^
 ||aidforukr-gov.site^
 ||aidgetukr-gov.site^
+||akvapark.site^
 ||api-donate-ukrainehelp.org^
 ||aval-bank-online.com^
 ||aval-on24.com^
@@ -610,7 +611,6 @@
 ||perekazi-privat24.online^
 ||perekazio.com^
 ||perekazprivat.com^
-||perekazu.com^
 ||perekazy-24pay.com^
 ||pestrio.site^
 ||pickpayua.best^
@@ -1082,6 +1082,8 @@
 ||webtelegram.shop^
 ||webtelegram.top^
 ||wf0.uno^
+||wmtua555.vip^
+||wmtua666.top^
 ||xc0.fun^
 ||xs0.uno^
 ||xwallet.website^
@@ -1164,7 +1166,6 @@
 ||facebook.com/profile.php?id=100091371410986^$document
 ||facebook.com/profile.php?id=100091442203527^$document
 ||facebook.com/profile.php?id=100091514463233^$document
-||facebook.com/profile.php?id=100091590543953^$document
 ||facebook.com/profile.php?id=100091757381334^$document
 ||facebook.com/profile.php?id=100092331997023^$document
 ||facebook.com/uappl.org^$document
@@ -1180,7 +1181,6 @@
 ||*officcial_viplata_diya^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
-||*pidtrimka_uadopomoga^$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
@@ -1193,6 +1193,3 @@
 ||nowpayments.io/payment/?iid=6401665851&paymentId=5609172507^$document
 ||opensea.io/VolunteersUA^$document
 ||send.monobank.ua/jar/A8fiGERDpF^$document
-||sites.google.com/view/d362g5d2^$document
-||taplink.cc/viplata_dia^$document
-||tiktok.com/@volunteer.news^$document
