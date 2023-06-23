@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230622(1)
-# Last modified: Thu, 22 June 2023 15:06 EEST
+# Version: 20230623(1)
+# Last modified: Fri, 23 June 2023 21:04 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1081,6 +1081,7 @@ address=/socialassistance.info/
 address=/socialassistance.social/
 address=/socialvuplata.net/
 address=/sotsialvyplata.online/
+address=/starlink-ukraine.net/
 address=/store-ua.site/
 address=/store-ukr.com.ua/
 address=/suknya-trend-ua.store/
@@ -1202,6 +1203,7 @@ address=/ukr-dopomoga.top/
 address=/ukr-floristik.site/
 address=/ukr-harvestgreen.site/
 address=/ukr-kompenssations.buzz/
+address=/ukr-magazin.com.ua/
 address=/ukr-magazine.com.ua/
 address=/ukr-market24.com.ua/
 address=/ukr-money.com.ua/
@@ -1216,6 +1218,7 @@ address=/ukr-receive.icu/
 address=/ukr-receive.sbs/
 address=/ukr-savess.icu/
 address=/ukr-savess.sbs/
+address=/ukr-shop.store/
 address=/ukr-shoping.site/
 address=/ukr-shoping.store/
 address=/ukr-shoping.website/
