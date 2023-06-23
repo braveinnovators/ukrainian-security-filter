@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230622(1)
-# Last modified: Thu, 22 June 2023 15:06 EEST
+# Version: 20230623(1)
+# Last modified: Fri, 23 June 2023 21:04 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1081,6 +1081,7 @@
 0.0.0.0 socialassistance.social
 0.0.0.0 socialvuplata.net
 0.0.0.0 sotsialvyplata.online
+0.0.0.0 starlink-ukraine.net
 0.0.0.0 store-ua.site
 0.0.0.0 store-ukr.com.ua
 0.0.0.0 suknya-trend-ua.store
@@ -1202,6 +1203,7 @@
 0.0.0.0 ukr-floristik.site
 0.0.0.0 ukr-harvestgreen.site
 0.0.0.0 ukr-kompenssations.buzz
+0.0.0.0 ukr-magazin.com.ua
 0.0.0.0 ukr-magazine.com.ua
 0.0.0.0 ukr-market24.com.ua
 0.0.0.0 ukr-money.com.ua
@@ -1216,6 +1218,7 @@
 0.0.0.0 ukr-receive.sbs
 0.0.0.0 ukr-savess.icu
 0.0.0.0 ukr-savess.sbs
+0.0.0.0 ukr-shop.store
 0.0.0.0 ukr-shoping.site
 0.0.0.0 ukr-shoping.store
 0.0.0.0 ukr-shoping.website
