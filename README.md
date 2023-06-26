@@ -44,62 +44,20 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі Ukrainian Malicious URL Blocklist.
 
-#### Браузери з вбудованими модулями фільтрації контенту
-* Brave (включно з версіями для операційних систем Android та iOS): [https://brave.com](https://brave.com/)
-* Opera: [https://www.opera.com](https://www.opera.com/)
-* Vivaldi: [https://vivaldi.com](https://vivaldi.com/)
+### Браузери з вбудованими модулями фільтрації контенту
 
-#### Розширення
-* uBlock Origin: [https://ublockorigin.com](https://ublockorigin.com/)
-* Adblock Plus: [https://adblockplus.org/features](https://adblockplus.org/features)
-* AdBlock: [https://getadblock.com](https://getadblock.com/)
+* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
+  * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+* [Opera](https://www.opera.com/)
+* [Vivaldi](https://vivaldi.com/)
 
-## Як додати фільтр
+### Розширення
 
-### Brave
-
-#### Операційні системи Windows, macOS та Linux:
-1. У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
-2. У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтра:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-#### Операційні системи Android та iOS:
-1. У меню Settings відкрити розділ меню Brave Shields & privacy й змінити налаштування Block trackers & ads на Aggressive
-2. Вийти з меню, відкрити нову вкладку та ввести наступну адресу: brave://adblock
-3. Перейти до розділу Subscribe to filter list, натиснути на кнопку Add filter list via URL і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку Submit:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-Додаткова інформація: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
-
-### uBlock Origin
-
-#### Операційні системи Windows, macOS та Linux:
-1. Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
-2. Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-Додаткова інформація: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
-
-### Adblock Plus
-
-#### Операційні системи Windows, macOS та Linux:
-1. Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
-2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
-
-```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
-```
-
-Додаткова інформація: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+* [uBlock Origin](https://ublockorigin.com/)
+  * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
+* [Adblock Plus](https://adblockplus.org/features)
+   * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+* [AdBlock](https://getadblock.com/)
 
 ## Особливості
 
