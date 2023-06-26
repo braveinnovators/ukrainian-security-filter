@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230626(1)
-! Last modified: Mon, 26 June 2023 15:17 EEST
+! Version: 20230626(2)
+! Last modified: Mon, 26 June 2023 20:23 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -1199,12 +1199,15 @@
 ||*edopomoga*$document,domain=t.me|telegram.me
 ||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
+||*help_from_all_countries_bot^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
+||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
+||*raiffeizenprivatocshadbonus^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_new24_bot^$document,domain=t.me|telegram.me
 ||*ukraine_test2_bot^$document,domain=t.me|telegram.me
