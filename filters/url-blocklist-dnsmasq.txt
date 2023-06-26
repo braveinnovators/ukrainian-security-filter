@@ -1,13 +1,14 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230623(1)
-# Last modified: Fri, 23 June 2023 21:04 EEST
+# Version: 20230626(1)
+# Last modified: Mon, 26 June 2023 15:17 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
+address=/0ukr.net/
 address=/23konkurs.site/
 address=/24uadopomoga.sbs/
 address=/24uadopomoga.world/
@@ -194,6 +195,8 @@ address=/dopomoga2023.com/
 address=/dopomoga23.top/
 address=/dopomoga24.com/
 address=/dopomoga24pay.win/
+address=/dopomoga24pruvat.cfd/
+address=/dopomoga24pruvat.sbs/
 address=/dopomoga24ua.win/
 address=/dopomogaa-id03914.website/
 address=/dopomogaa.site/
@@ -324,6 +327,7 @@ address=/farmyardia-ua.site/
 address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
 address=/finua.online/
+address=/firma-viplati-oon.space/
 address=/fixi-ua.store/
 address=/flexcapital.com/
 address=/fond-dopomogy.shop/
@@ -416,6 +420,7 @@ address=/info-vyplata24.uk/
 address=/infovyplata24.uk/
 address=/innoculture-ua.shop/
 address=/innovacultura-ua.shop/
+address=/inter-plus-ua.com/
 address=/internet-kyivstar.com.ua/
 address=/internet-kyivstar.com/
 address=/ipay-ua.online/
@@ -427,6 +432,7 @@ address=/kievstar.online/
 address=/kievukraina.shop/
 address=/koko-ua.store/
 address=/kombi-ua.store/
+address=/konkurs-23.site/
 address=/konkurs-events.top/
 address=/konkurs-golos.ltd/
 address=/konkurs-ua.site/
@@ -464,6 +470,7 @@ address=/kyivstar.info/
 address=/kyivstar.mobi/
 address=/kyivstar.org.ua/
 address=/kyivstar.org/
+address=/kyivstar.pl/
 address=/kyivstar.pro/
 address=/kyivstar.shop/
 address=/kyivstarbezlim.com/
@@ -481,6 +488,7 @@ address=/likpay.me/
 address=/liqpay.info/
 address=/lito-ua.store/
 address=/ll0.uno/
+address=/market-ukraine.store/
 address=/matras-ua.fun/
 address=/meta-ua.site/
 address=/miss-ua.store/
@@ -623,6 +631,7 @@ address=/oonviplata.com/
 address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
+address=/opendata-hsc-gov-ua.com/
 address=/oplata-next24.shop/
 address=/oplataofficial.life/
 address=/organafarm-ua.click/
@@ -740,10 +749,13 @@ address=/otp.pidrumka.co/
 address=/otp.ua-send.website/
 address=/otp.ukraina.pics/
 address=/otrim-koshtiv-ukr.biz.ua/
+address=/oukr.net/
 address=/pajama-ukraine.store/
 address=/parfum-de-ua.store/
 address=/parimatch-ua.top/
 address=/passport-ukr-net.online/
+address=/passport-ukr-net.site/
+address=/patriot-ukraine.fun/
 address=/pay-ocshad24.uk/
 address=/pay-privat24.site/
 address=/pay-raif.fun/
@@ -1259,6 +1271,7 @@ address=/ukrainepaymentsystem.pro/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukraineshop.tech/
+address=/ukrainestore.store/
 address=/ukrainetoptovar.store/
 address=/ukraineworkup.online/
 address=/ukrainian-inform.com/
@@ -1267,6 +1280,7 @@ address=/ukrainian-podarunok.store/
 address=/ukrainian-product.store/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
+address=/ukrainianstore.space/
 address=/ukrdopomoga.top/
 address=/ukripaymens.online/
 address=/ukrkonkurs.site/
@@ -1311,6 +1325,7 @@ address=/ukzarplata.site/
 address=/un-dopomoga.info/
 address=/unicef-uk.com/
 address=/unicefua.news/
+address=/unicefukrainedonate.com/
 address=/unicefvyplaty.com/
 address=/up-pay.me/
 address=/upayment.me/
@@ -1319,6 +1334,7 @@ address=/vashadopomoga.shop/
 address=/velka-ua.store/
 address=/veneta-ua.store/
 address=/vennete-ua.store/
+address=/vheck-viplatvidoshad.space/
 address=/viplata-bot.eu/
 address=/viplata-com.store/
 address=/viplata-govua.cloud/
@@ -1354,6 +1370,7 @@ address=/viplatanow.online/
 address=/viplataonline.com/
 address=/viplataoon.info/
 address=/viplatasukraine.com/
+address=/viplataua.art.blog/
 address=/viplataua.co/
 address=/viplataua.com/
 address=/viplataua.info/
