@@ -1,13 +1,14 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230623(1)
-! Last modified: Fri, 23 June 2023 21:04 EEST
+! Version: 20230626(1)
+! Last modified: Mon, 26 June 2023 15:17 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
 ! Homepage: https://github.com/braveinnovators/url-blocklist
 ! Issues: https://github.com/braveinnovators/url-blocklist/issues
 
+||0ukr.net^
 ||23konkurs.site^
 ||24uadopomoga.sbs^
 ||24uadopomoga.world^
@@ -164,6 +165,8 @@
 ||dopomoga23.top^
 ||dopomoga24.com^
 ||dopomoga24pay.win^
+||dopomoga24pruvat.cfd^
+||dopomoga24pruvat.sbs^
 ||dopomoga24ua.win^
 ||dopomogaa-id03914.website^
 ||dopomogaa.site^
@@ -292,6 +295,7 @@
 ||finance-dopomoga.site^
 ||findopomoga.sbs^
 ||finua.online^
+||firma-viplati-oon.space^
 ||fixi-ua.store^
 ||flexcapital.com^
 ||fond-dopomogy.shop^
@@ -382,6 +386,7 @@
 ||infovyplata24.uk^
 ||innoculture-ua.shop^
 ||innovacultura-ua.shop^
+||inter-plus-ua.com^
 ||internet-kyivstar.com.ua^
 ||internet-kyivstar.com^
 ||ipay-ua.online^
@@ -391,6 +396,7 @@
 ||kievukraina.shop^
 ||koko-ua.store^
 ||kombi-ua.store^
+||konkurs-23.site^
 ||konkurs-events.top^
 ||konkurs-golos.ltd^
 ||konkurs-ua.site^
@@ -427,6 +433,7 @@
 ||kyivstar.mobi^
 ||kyivstar.org.ua^
 ||kyivstar.org^
+||kyivstar.pl^
 ||kyivstar.pro^
 ||kyivstar.shop^
 ||kyivstarbezlim.com^
@@ -444,6 +451,7 @@
 ||liqpay.info^
 ||lito-ua.store^
 ||ll0.uno^
+||market-ukraine.store^
 ||matras-ua.fun^
 ||meta-ua.site^
 ||miss-ua.store^
@@ -527,6 +535,7 @@
 ||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
+||opendata-hsc-gov-ua.com^
 ||oplata-next24.shop^
 ||oplataofficial.life^
 ||organafarm-ua.click^
@@ -571,10 +580,13 @@
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||otrim-koshtiv-ukr.biz.ua^
+||oukr.net^
 ||pajama-ukraine.store^
 ||parfum-de-ua.store^
 ||parimatch-ua.top^
 ||passport-ukr-net.online^
+||passport-ukr-net.site^
+||patriot-ukraine.fun^
 ||pay-ocshad24.uk^
 ||pay-privat24.site^
 ||pay-raif.fun^
@@ -961,6 +973,7 @@
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukraineshop.tech^
+||ukrainestore.store^
 ||ukrainetoptovar.store^
 ||ukraineworkup.online^
 ||ukrainian-inform.com^
@@ -969,6 +982,7 @@
 ||ukrainian-product.store^
 ||ukrainianamazon.com^
 ||ukrainianshop.online^
+||ukrainianstore.space^
 ||ukrdopomoga.top^
 ||ukripaymens.online^
 ||ukrkonkurs.site^
@@ -1003,6 +1017,7 @@
 ||un-dopomoga.info^
 ||unicef-uk.com^
 ||unicefua.news^
+||unicefukrainedonate.com^
 ||unicefvyplaty.com^
 ||up-pay.me^
 ||upayment.me^
@@ -1011,6 +1026,7 @@
 ||velka-ua.store^
 ||veneta-ua.store^
 ||vennete-ua.store^
+||vheck-viplatvidoshad.space^
 ||viplata-bot.eu^
 ||viplata-com.store^
 ||viplata-govua.cloud^
@@ -1046,6 +1062,7 @@
 ||viplataonline.com^
 ||viplataoon.info^
 ||viplatasukraine.com^
+||viplataua.art.blog^
 ||viplataua.co^
 ||viplataua.com^
 ||viplataua.info^
@@ -1155,6 +1172,7 @@
 
 ! UKR.NET
 ! UAC-0102 (CERT-UA)
+://passport-ukr-net.$document
 ||*-ukr.net^$document,domain=~ukr.net
 ||*ukr.net/desktop/security/login^$document,domain=~ukr.net
 
@@ -1182,7 +1200,6 @@
 ||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
-||*officcial_viplata_diya^$document,domain=t.me|telegram.me
 ||*oohviplata^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
