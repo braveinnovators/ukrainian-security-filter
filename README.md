@@ -47,16 +47,16 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 ### Браузери з вбудованими модулями фільтрації контенту
 
 * [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
-  * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
 * [Opera](https://www.opera.com/)
 * [Vivaldi](https://vivaldi.com/)
 
 ### Розширення
 
 * [uBlock Origin](https://ublockorigin.com/)
-  * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
+  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
 * [Adblock Plus](https://adblockplus.org/features)
-   * як імпортувати фільтр (інструкція): [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+   * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
 * [AdBlock](https://getadblock.com/)
 
 ## Особливості
