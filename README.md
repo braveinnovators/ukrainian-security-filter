@@ -46,18 +46,18 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ### Браузери з вбудованими модулями фільтрації контенту
 
-* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
-  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
-* [Opera](https://www.opera.com/)
-* [Vivaldi](https://vivaldi.com/)
+* Brave (включно з версіями для операційних систем Android та iOS): [brave.com](https://brave.com/)
+  * як імпортувати фільтр у браузері Brave: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+* Opera: [opera.com](https://www.opera.com/)
+* Vivaldi: [vivaldi.com](https://vivaldi.com/)
 
 ### Розширення
 
-* [uBlock Origin](https://ublockorigin.com/)
-  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
-* [Adblock Plus](https://adblockplus.org/features)
-   * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
-* [AdBlock](https://getadblock.com/)
+* uBlock Origin: [ublockorigin.com](https://ublockorigin.com/)
+  * як імпортувати фільтр у розширенні uBlock Origin: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
+* Adblock Plus: [adblockplus.org](https://adblockplus.org/)
+   * як імпортувати фільтр у розширенні Adblock Plus: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+* AdBlock: [getadblock.com](https://getadblock.com/)
 
 ## Особливості
 
@@ -70,12 +70,12 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 ## Джерела інформації
 
 * Власна моніторингова команда
-* Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA): [https://cert.gov.ua](https://cert.gov.ua/)
-* BlackList EMA: [https://www.ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
+* Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA): [cert.gov.ua](https://cert.gov.ua/)
+* BlackList EMA: [ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
 
 ## Партнери проекту
 
-* DNSlytics: [https://dnslytics.com](https://dnslytics.com)
+* DNSlytics: [dnslytics.com](https://dnslytics.com)
 
 ## Wiki
 
