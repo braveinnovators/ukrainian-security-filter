@@ -1,13 +1,14 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230623(1)
-# Last modified: Fri, 23 June 2023 21:04 EEST
+# Version: 20230626(1)
+# Last modified: Mon, 26 June 2023 15:17 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
+0.0.0.0 0ukr.net
 0.0.0.0 23konkurs.site
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
@@ -194,6 +195,8 @@
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomoga24.com
 0.0.0.0 dopomoga24pay.win
+0.0.0.0 dopomoga24pruvat.cfd
+0.0.0.0 dopomoga24pruvat.sbs
 0.0.0.0 dopomoga24ua.win
 0.0.0.0 dopomogaa-id03914.website
 0.0.0.0 dopomogaa.site
@@ -324,6 +327,7 @@
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finua.online
+0.0.0.0 firma-viplati-oon.space
 0.0.0.0 fixi-ua.store
 0.0.0.0 flexcapital.com
 0.0.0.0 fond-dopomogy.shop
@@ -416,6 +420,7 @@
 0.0.0.0 infovyplata24.uk
 0.0.0.0 innoculture-ua.shop
 0.0.0.0 innovacultura-ua.shop
+0.0.0.0 inter-plus-ua.com
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 ipay-ua.online
@@ -427,6 +432,7 @@
 0.0.0.0 kievukraina.shop
 0.0.0.0 koko-ua.store
 0.0.0.0 kombi-ua.store
+0.0.0.0 konkurs-23.site
 0.0.0.0 konkurs-events.top
 0.0.0.0 konkurs-golos.ltd
 0.0.0.0 konkurs-ua.site
@@ -464,6 +470,7 @@
 0.0.0.0 kyivstar.mobi
 0.0.0.0 kyivstar.org
 0.0.0.0 kyivstar.org.ua
+0.0.0.0 kyivstar.pl
 0.0.0.0 kyivstar.pro
 0.0.0.0 kyivstar.shop
 0.0.0.0 kyivstarbezlim.com
@@ -481,6 +488,7 @@
 0.0.0.0 liqpay.info
 0.0.0.0 lito-ua.store
 0.0.0.0 ll0.uno
+0.0.0.0 market-ukraine.store
 0.0.0.0 matras-ua.fun
 0.0.0.0 meta-ua.site
 0.0.0.0 miss-ua.store
@@ -623,6 +631,7 @@
 0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
+0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 oplata-next24.shop
 0.0.0.0 oplataofficial.life
 0.0.0.0 organafarm-ua.click
@@ -740,10 +749,13 @@
 0.0.0.0 otp.ua-send.website
 0.0.0.0 otp.ukraina.pics
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
+0.0.0.0 oukr.net
 0.0.0.0 pajama-ukraine.store
 0.0.0.0 parfum-de-ua.store
 0.0.0.0 parimatch-ua.top
 0.0.0.0 passport-ukr-net.online
+0.0.0.0 passport-ukr-net.site
+0.0.0.0 patriot-ukraine.fun
 0.0.0.0 pay-ocshad24.uk
 0.0.0.0 pay-privat24.site
 0.0.0.0 pay-raif.fun
@@ -1259,6 +1271,7 @@
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukraineshop.tech
+0.0.0.0 ukrainestore.store
 0.0.0.0 ukrainetoptovar.store
 0.0.0.0 ukraineworkup.online
 0.0.0.0 ukrainian-inform.com
@@ -1267,6 +1280,7 @@
 0.0.0.0 ukrainian-product.store
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
+0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukripaymens.online
 0.0.0.0 ukrkonkurs.site
@@ -1311,6 +1325,7 @@
 0.0.0.0 un-dopomoga.info
 0.0.0.0 unicef-uk.com
 0.0.0.0 unicefua.news
+0.0.0.0 unicefukrainedonate.com
 0.0.0.0 unicefvyplaty.com
 0.0.0.0 up-pay.me
 0.0.0.0 upayment.me
@@ -1319,6 +1334,7 @@
 0.0.0.0 velka-ua.store
 0.0.0.0 veneta-ua.store
 0.0.0.0 vennete-ua.store
+0.0.0.0 vheck-viplatvidoshad.space
 0.0.0.0 viplata-bot.eu
 0.0.0.0 viplata-com.store
 0.0.0.0 viplata-govua.cloud
@@ -1354,6 +1370,7 @@
 0.0.0.0 viplataonline.com
 0.0.0.0 viplataoon.info
 0.0.0.0 viplatasukraine.com
+0.0.0.0 viplataua.art.blog
 0.0.0.0 viplataua.co
 0.0.0.0 viplataua.com
 0.0.0.0 viplataua.info
