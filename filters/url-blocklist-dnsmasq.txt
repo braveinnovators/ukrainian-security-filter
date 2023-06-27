@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230626(1)
-# Last modified: Mon, 26 June 2023 15:17 EEST
+# Version: 20230627(1)
+# Last modified: Tue, 27 June 2023 13:11 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -134,6 +134,7 @@ address=/csx5.space/
 address=/csx5.uno/
 address=/dafni-ua.store/
 address=/de5.fun/
+address=/deal-loads.site/
 address=/decor-ua.shop/
 address=/dengi.fyi/
 address=/diadopomoga.cloud/
@@ -327,7 +328,6 @@ address=/farmyardia-ua.site/
 address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
 address=/finua.online/
-address=/firma-viplati-oon.space/
 address=/fixi-ua.store/
 address=/flexcapital.com/
 address=/fond-dopomogy.shop/
@@ -389,6 +389,7 @@ address=/help-raiffaisen.site/
 address=/help-raiffeisen.shop/
 address=/help-ua.social/
 address=/help-ukrain.xyz/
+address=/help-ukraine.icu/
 address=/help-ukraine.org/
 address=/help-ukraine.space/
 address=/help-ukraine.website/
@@ -688,6 +689,7 @@ address=/oschad24.shop/
 address=/oschad24.site/
 address=/oschad24helps.shop/
 address=/oschad24helps.site/
+address=/oschadbank-7300.online/
 address=/oschadbank-inform.com.ua/
 address=/oschadbank-ua.com/
 address=/oschadbank-viplata-help.online/
@@ -737,6 +739,7 @@ address=/oshad.site/
 address=/oshadbank.online/
 address=/oshadbank.pro/
 address=/oshadbank.uk/
+address=/oshadbank.website/
 address=/oshadbank24.win/
 address=/oshadraif.biz/
 address=/oshadraif.cloud/
@@ -749,6 +752,7 @@ address=/otp.pidrumka.co/
 address=/otp.ua-send.website/
 address=/otp.ukraina.pics/
 address=/otrim-koshtiv-ukr.biz.ua/
+address=/otrimayviplatu.website/
 address=/oukr.net/
 address=/pajama-ukraine.store/
 address=/parfum-de-ua.store/
@@ -756,6 +760,7 @@ address=/parimatch-ua.top/
 address=/passport-ukr-net.online/
 address=/passport-ukr-net.site/
 address=/patriot-ukraine.fun/
+address=/patriot-ukraine.info/
 address=/pay-ocshad24.uk/
 address=/pay-privat24.site/
 address=/pay-raif.fun/
@@ -997,6 +1002,7 @@ address=/raiffaisenpay.shop/
 address=/raiffaissen.shop/
 address=/raiffeis24help.win/
 address=/raiffeisen-24.site/
+address=/raiffeisen-7300.online/
 address=/raiffeisen-approve.com/
 address=/raiffeisen-cabinet.pw/
 address=/raiffeisen-cabinet.space/
