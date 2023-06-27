@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230626(1)
-# Last modified: Mon, 26 June 2023 15:17 EEST
+# Version: 20230627(1)
+# Last modified: Tue, 27 June 2023 13:11 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -134,6 +134,7 @@ csx5.space
 csx5.uno
 dafni-ua.store
 de5.fun
+deal-loads.site
 decor-ua.shop
 dengi.fyi
 diadopomoga.cloud
@@ -327,7 +328,6 @@ farmyardia-ua.site
 finance-dopomoga.site
 findopomoga.sbs
 finua.online
-firma-viplati-oon.space
 fixi-ua.store
 flexcapital.com
 fond-dopomogy.shop
@@ -389,6 +389,7 @@ help-raiffaisen.site
 help-raiffeisen.shop
 help-ua.social
 help-ukrain.xyz
+help-ukraine.icu
 help-ukraine.org
 help-ukraine.space
 help-ukraine.website
@@ -688,6 +689,7 @@ oschad24.shop
 oschad24.site
 oschad24helps.shop
 oschad24helps.site
+oschadbank-7300.online
 oschadbank-inform.com.ua
 oschadbank-ua.com
 oschadbank-viplata-help.online
@@ -737,6 +739,7 @@ oshad.site
 oshadbank.online
 oshadbank.pro
 oshadbank.uk
+oshadbank.website
 oshadbank24.win
 oshadraif.biz
 oshadraif.cloud
@@ -749,6 +752,7 @@ otp.pidrumka.co
 otp.ua-send.website
 otp.ukraina.pics
 otrim-koshtiv-ukr.biz.ua
+otrimayviplatu.website
 oukr.net
 pajama-ukraine.store
 parfum-de-ua.store
@@ -756,6 +760,7 @@ parimatch-ua.top
 passport-ukr-net.online
 passport-ukr-net.site
 patriot-ukraine.fun
+patriot-ukraine.info
 pay-ocshad24.uk
 pay-privat24.site
 pay-raif.fun
@@ -997,6 +1002,7 @@ raiffaisenpay.shop
 raiffaissen.shop
 raiffeis24help.win
 raiffeisen-24.site
+raiffeisen-7300.online
 raiffeisen-approve.com
 raiffeisen-cabinet.pw
 raiffeisen-cabinet.space
