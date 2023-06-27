@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230626(2)
-! Last modified: Mon, 26 June 2023 20:23 EEST
+! Version: 20230627(1)
+! Last modified: Tue, 27 June 2023 13:11 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -105,6 +105,7 @@
 ||csx5.uno^
 ||dafni-ua.store^
 ||de5.fun^
+||deal-loads.site^
 ||decor-ua.shop^
 ||dengi.fyi^
 ||diadopomoga.cloud^
@@ -295,7 +296,6 @@
 ||finance-dopomoga.site^
 ||findopomoga.sbs^
 ||finua.online^
-||firma-viplati-oon.space^
 ||fixi-ua.store^
 ||flexcapital.com^
 ||fond-dopomogy.shop^
@@ -355,6 +355,7 @@
 ||help-raiffeisen.shop^
 ||help-ua.social^
 ||help-ukrain.xyz^
+||help-ukraine.icu^
 ||help-ukraine.org^
 ||help-ukraine.space^
 ||help-ukraine.website^
@@ -553,6 +554,7 @@
 ||oschad24.site^
 ||oschad24helps.shop^
 ||oschad24helps.site^
+||oschadbank-7300.online^
 ||oschadbank-inform.com.ua^
 ||oschadbank-ua.com^
 ||oschadbank-viplata-help.online^
@@ -572,6 +574,7 @@
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
+||oshadbank.website^
 ||oshadbank24.win^
 ||oshadraif.biz^
 ||oshadraif.cloud^
@@ -580,6 +583,7 @@
 ||oshcad-bank.top^
 ||oshcadbank.top^
 ||otrim-koshtiv-ukr.biz.ua^
+||otrimayviplatu.website^
 ||oukr.net^
 ||pajama-ukraine.store^
 ||parfum-de-ua.store^
@@ -587,6 +591,7 @@
 ||passport-ukr-net.online^
 ||passport-ukr-net.site^
 ||patriot-ukraine.fun^
+||patriot-ukraine.info^
 ||pay-ocshad24.uk^
 ||pay-privat24.site^
 ||pay-raif.fun^
@@ -728,6 +733,7 @@
 ||raiffaissen.shop^
 ||raiffeis24help.win^
 ||raiffeisen-24.site^
+||raiffeisen-7300.online^
 ||raiffeisen-approve.com^
 ||raiffeisen-cabinet.pw^
 ||raiffeisen-cabinet.space^
@@ -1205,6 +1211,7 @@
 ||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
+||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
 ||*raiffeizenprivatocshadbonus^$document,domain=t.me|telegram.me
