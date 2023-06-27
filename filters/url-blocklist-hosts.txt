@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230626(1)
-# Last modified: Mon, 26 June 2023 15:17 EEST
+# Version: 20230627(1)
+# Last modified: Tue, 27 June 2023 13:11 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -134,6 +134,7 @@
 0.0.0.0 csx5.uno
 0.0.0.0 dafni-ua.store
 0.0.0.0 de5.fun
+0.0.0.0 deal-loads.site
 0.0.0.0 decor-ua.shop
 0.0.0.0 dengi.fyi
 0.0.0.0 diadopomoga.cloud
@@ -327,7 +328,6 @@
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finua.online
-0.0.0.0 firma-viplati-oon.space
 0.0.0.0 fixi-ua.store
 0.0.0.0 flexcapital.com
 0.0.0.0 fond-dopomogy.shop
@@ -389,6 +389,7 @@
 0.0.0.0 help-raiffeisen.shop
 0.0.0.0 help-ua.social
 0.0.0.0 help-ukrain.xyz
+0.0.0.0 help-ukraine.icu
 0.0.0.0 help-ukraine.org
 0.0.0.0 help-ukraine.space
 0.0.0.0 help-ukraine.website
@@ -688,6 +689,7 @@
 0.0.0.0 oschad24.site
 0.0.0.0 oschad24helps.shop
 0.0.0.0 oschad24helps.site
+0.0.0.0 oschadbank-7300.online
 0.0.0.0 oschadbank-inform.com.ua
 0.0.0.0 oschadbank-ua.com
 0.0.0.0 oschadbank-viplata-help.online
@@ -737,6 +739,7 @@
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.uk
+0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
 0.0.0.0 oshadraif.biz
 0.0.0.0 oshadraif.cloud
@@ -749,6 +752,7 @@
 0.0.0.0 otp.ua-send.website
 0.0.0.0 otp.ukraina.pics
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
+0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 pajama-ukraine.store
 0.0.0.0 parfum-de-ua.store
@@ -756,6 +760,7 @@
 0.0.0.0 passport-ukr-net.online
 0.0.0.0 passport-ukr-net.site
 0.0.0.0 patriot-ukraine.fun
+0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-ocshad24.uk
 0.0.0.0 pay-privat24.site
 0.0.0.0 pay-raif.fun
@@ -997,6 +1002,7 @@
 0.0.0.0 raiffaissen.shop
 0.0.0.0 raiffeis24help.win
 0.0.0.0 raiffeisen-24.site
+0.0.0.0 raiffeisen-7300.online
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-cabinet.pw
 0.0.0.0 raiffeisen-cabinet.space
