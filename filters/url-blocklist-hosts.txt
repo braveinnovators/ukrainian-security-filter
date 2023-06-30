@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230629(1)
-# Last modified: Thu, 29 June 2023 21:09 EEST
+# Version: 20230630(1)
+# Last modified: Fri, 30 June 2023 15:23 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -17,26 +17,6 @@
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
 0.0.0.0 24ukrpromo.com
-0.0.0.0 7300-bank-payment.art
-0.0.0.0 7300-bank-payment.cloud
-0.0.0.0 7300-bank-payment.info
-0.0.0.0 7300-bank-payment.pro
-0.0.0.0 7300-bank-payment.today
-0.0.0.0 7300-bank.cloud
-0.0.0.0 7300-bank.club
-0.0.0.0 7300-bank.info
-0.0.0.0 7300-bank.pro
-0.0.0.0 7300-ehelpcard.info
-0.0.0.0 7300-ehelpcard.online
-0.0.0.0 7300-pay-ua.cloud
-0.0.0.0 7300-pay-ua.site
-0.0.0.0 7300-pay-ua.xyz
-0.0.0.0 7300-uadopomoga.cloud
-0.0.0.0 7300-uadopomoga.online
-0.0.0.0 7300-uadopomoga.site
-0.0.0.0 7300bank.pro
-0.0.0.0 7300payua.pro
-0.0.0.0 7300ua-ehelp.cloud
 0.0.0.0 adidas-ua.shop
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
@@ -49,17 +29,7 @@
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 childrens-fund-ukraine.com
-0.0.0.0 com-7300-diya.cloud
-0.0.0.0 com-7300-diya.online
-0.0.0.0 com-7300-diya.shop
-0.0.0.0 com7300diya.pro
 0.0.0.0 cryptocurrency-helps-ukraine.com
-0.0.0.0 daopomoga-ukr.site
-0.0.0.0 daopomoga-ukr.website
-0.0.0.0 daopomoga-ukr.xyz
-0.0.0.0 daopomogaukr.site
-0.0.0.0 daopomogaukr.space
-0.0.0.0 daopomogaukr.website
 0.0.0.0 deal-loads.site
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 dopomoga-2023.top
@@ -103,6 +73,7 @@
 0.0.0.0 dopomoga24pay.win
 0.0.0.0 dopomoga24pruvat.cfd
 0.0.0.0 dopomoga24pruvat.sbs
+0.0.0.0 dopomoga24ua.me
 0.0.0.0 dopomoga24ua.win
 0.0.0.0 dopomogaa-id03914.website
 0.0.0.0 dopomogaa.site
@@ -142,6 +113,7 @@
 0.0.0.0 dopomogaua.live
 0.0.0.0 dopomogaua.pro
 0.0.0.0 dopomogaua.xyz
+0.0.0.0 dopomogaua24.org
 0.0.0.0 dopomogauk.xyz
 0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
@@ -180,7 +152,9 @@
 0.0.0.0 flexcapital.com
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
+0.0.0.0 gov-ua.site
 0.0.0.0 goviplataua.info
+0.0.0.0 govs-ua.com
 0.0.0.0 govua.buzz
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshovadopomoga.com
@@ -315,10 +289,9 @@
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
-0.0.0.0 passport-ukr-net.online
-0.0.0.0 passport-ukr-net.site
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
+0.0.0.0 pay-ua.pics
 0.0.0.0 payment-system.cloud
 0.0.0.0 paymentukrainenow.com
 0.0.0.0 paypromoukr.com
@@ -365,7 +338,6 @@
 0.0.0.0 raiffaissen.shop
 0.0.0.0 raiffeis24help.win
 0.0.0.0 raiffeisen-24.site
-0.0.0.0 raiffeisen-7300.online
 0.0.0.0 raiffeisen-approve.com
 0.0.0.0 raiffeisen-cabinet.pw
 0.0.0.0 raiffeisen-cabinet.space
@@ -417,31 +389,9 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 starlink-ukraine.net
-0.0.0.0 telegram-gifts.online
-0.0.0.0 telegram-gifts.pro
-0.0.0.0 telegram-online.xyz
-0.0.0.0 telegram-org.online
-0.0.0.0 telegram-ua.com
-0.0.0.0 telegram-ua.org
-0.0.0.0 telegram-w.net
-0.0.0.0 telegram-web.biz
-0.0.0.0 telegram-web.eu
-0.0.0.0 telegram-web.website
-0.0.0.0 telegram-webpage.space
-0.0.0.0 telegram-webpage.website
-0.0.0.0 telegram.org.za
-0.0.0.0 telegramapp-dl.com
-0.0.0.0 telegramapp-dl.im
-0.0.0.0 telegramapp-dl.me
-0.0.0.0 telegramapp-dl.net
-0.0.0.0 telegramapp-dl.org
-0.0.0.0 telegramapp-dl.pro
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
-0.0.0.0 ua-7300-pay.cloud
-0.0.0.0 ua-7300-pay.online
 0.0.0.0 ua-dapamoga24.pw
-0.0.0.0 ua-telegram.org
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
@@ -558,14 +508,4 @@
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
-0.0.0.0 web-telegram.click
-0.0.0.0 web-telegram.cloud
-0.0.0.0 web-telegram.eu
-0.0.0.0 web-telegram.online
-0.0.0.0 web-telegram.tk
-0.0.0.0 web-telegram.uk
-0.0.0.0 webk-telegram.icu
-0.0.0.0 webk-telegram.sbs
-0.0.0.0 webtelegram.shop
-0.0.0.0 webtelegram.top
 0.0.0.0 xwallet.website
