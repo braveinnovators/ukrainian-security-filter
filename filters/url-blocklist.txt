@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230629(1)
-! Last modified: Thu, 29 June 2023 21:09 EEST
+! Version: 20230630(1)
+! Last modified: Fri, 30 June 2023 15:23 EEST
 ! Expires: 5 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -17,26 +17,6 @@
 ||24uadopomoga.world^
 ||24ukrhelp.com^
 ||24ukrpromo.com^
-||7300-bank-payment.art^
-||7300-bank-payment.cloud^
-||7300-bank-payment.info^
-||7300-bank-payment.pro^
-||7300-bank-payment.today^
-||7300-bank.cloud^
-||7300-bank.club^
-||7300-bank.info^
-||7300-bank.pro^
-||7300-ehelpcard.info^
-||7300-ehelpcard.online^
-||7300-pay-ua.cloud^
-||7300-pay-ua.site^
-||7300-pay-ua.xyz^
-||7300-uadopomoga.cloud^
-||7300-uadopomoga.online^
-||7300-uadopomoga.site^
-||7300bank.pro^
-||7300payua.pro^
-||7300ua-ehelp.cloud^
 ||adidas-ua.shop^
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
@@ -49,17 +29,7 @@
 ||api-donate-ukrainehelp.org^
 ||cashpayforukrainepeople.business^
 ||childrens-fund-ukraine.com^
-||com-7300-diya.cloud^
-||com-7300-diya.online^
-||com-7300-diya.shop^
-||com7300diya.pro^
 ||cryptocurrency-helps-ukraine.com^
-||daopomoga-ukr.site^
-||daopomoga-ukr.website^
-||daopomoga-ukr.xyz^
-||daopomogaukr.site^
-||daopomogaukr.space^
-||daopomogaukr.website^
 ||deal-loads.site^
 ||donate-ukrainehelp.org^
 ||dopomoga-2023.top^
@@ -103,6 +73,7 @@
 ||dopomoga24pay.win^
 ||dopomoga24pruvat.cfd^
 ||dopomoga24pruvat.sbs^
+||dopomoga24ua.me^
 ||dopomoga24ua.win^
 ||dopomogaa-id03914.website^
 ||dopomogaa.site^
@@ -142,6 +113,7 @@
 ||dopomogaua.live^
 ||dopomogaua.pro^
 ||dopomogaua.xyz^
+||dopomogaua24.org^
 ||dopomogauk.xyz^
 ||dopomogaukr.website^
 ||dopomogaukraiine.com^
@@ -180,7 +152,9 @@
 ||flexcapital.com^
 ||goturozetka.com^
 ||goturozetka.vip^
+||gov-ua.site^
 ||goviplataua.info^
+||govs-ua.com^
 ||govua.buzz^
 ||groshidopomoga.top^
 ||groshovadopomoga.com^
@@ -315,10 +289,9 @@
 ||otrim-koshtiv-ukr.biz.ua^
 ||otrimayviplatu.website^
 ||oukr.net^
-||passport-ukr-net.online^
-||passport-ukr-net.site^
 ||patriot-ukraine.fun^
 ||patriot-ukraine.info^
+||pay-ua.pics^
 ||payment-system.cloud^
 ||paymentukrainenow.com^
 ||paypromoukr.com^
@@ -365,7 +338,6 @@
 ||raiffaissen.shop^
 ||raiffeis24help.win^
 ||raiffeisen-24.site^
-||raiffeisen-7300.online^
 ||raiffeisen-approve.com^
 ||raiffeisen-cabinet.pw^
 ||raiffeisen-cabinet.space^
@@ -417,31 +389,9 @@
 ||rozetkaukraine.vip^
 ||samsung-ukraine.com.ua^
 ||starlink-ukraine.net^
-||telegram-gifts.online^
-||telegram-gifts.pro^
-||telegram-online.xyz^
-||telegram-org.online^
-||telegram-ua.com^
-||telegram-ua.org^
-||telegram-w.net^
-||telegram-web.biz^
-||telegram-web.eu^
-||telegram-web.website^
-||telegram-webpage.space^
-||telegram-webpage.website^
-||telegram.org.za^
-||telegramapp-dl.com^
-||telegramapp-dl.im^
-||telegramapp-dl.me^
-||telegramapp-dl.net^
-||telegramapp-dl.org^
-||telegramapp-dl.pro^
 ||trust-group.pro^
 ||tviy-kyivstar.com.ua^
-||ua-7300-pay.cloud^
-||ua-7300-pay.online^
 ||ua-dapamoga24.pw^
-||ua-telegram.org^
 ||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua24pomoga.online^
@@ -558,21 +508,24 @@
 ||viplaty.com.ua^
 ||viplaty.online^
 ||viplatya-kosthiv.com.ua^
-||web-telegram.click^
-||web-telegram.cloud^
-||web-telegram.eu^
-||web-telegram.online^
-||web-telegram.tk^
-||web-telegram.uk^
-||webk-telegram.icu^
-||webk-telegram.sbs^
-||webtelegram.shop^
-||webtelegram.top^
 ||xwallet.website^
 
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
+
+://daopomoga*.$document
+://*-7300-*.*/$document
+://7300-bank*.$document
+://7300-ediya.$document
+://7300-ehelpcard.$document
+://7300-pay*.$document
+://7300-ua*.$document
+://7300bank.$document
+://7300ediya.$document
+://7300payua.$document
+://7300ua*.$document
+://*7300diya.*/$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -636,6 +589,11 @@
 ://passport-ukr-net.$document
 ||*-ukr.net^$document,domain=~ukr.net
 ||*ukr.net/desktop/security/login^$document,domain=~ukr.net
+
+! TELEGRAM.ORG
+://web*-telegram.$document
+://telegram-web*.$document
+://webtelegram.$document
 
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
