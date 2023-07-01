@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230630(1)
-# Last modified: Fri, 30 June 2023 15:23 EEST
+# Version: 20230701(1)
+# Last modified: Sat, 01 July 2023 15:47 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -12,11 +12,9 @@
 23konkurs.site
 24helpuapay.com
 24helpukr.com
-24promoukr.com
 24uadopomoga.sbs
 24uadopomoga.world
 24ukrhelp.com
-24ukrpromo.com
 adidas-ua.shop
 aid-for-ukraine.info
 aid-for-ukraine.life
@@ -70,6 +68,7 @@ dopomoga.wtf
 dopomoga2023.com
 dopomoga23.top
 dopomoga24.com
+dopomoga24.me
 dopomoga24pay.win
 dopomoga24pruvat.cfd
 dopomoga24pruvat.sbs
@@ -113,6 +112,7 @@ dopomogaua-pidtrimkaua.com
 dopomogaua.live
 dopomogaua.pro
 dopomogaua.xyz
+dopomogaua24.me
 dopomogaua24.org
 dopomogauk.xyz
 dopomogaukr.website
@@ -138,6 +138,7 @@ ebayukraine.com
 ebayukraine.vip
 epidtrimka.com
 epidtrimkadopomoga.com
+epidtrimkaua.info
 epidtrumka.org
 epidtrymka.cloud
 eu-dopomoga.com
@@ -248,6 +249,7 @@ novaposhta-ua.org
 novaposhta.app
 novaposhta.biz
 novaposhta.com.ua
+novaposhta.eu
 novaposhta.in
 novaposhta.info
 novaposhta.org
@@ -294,11 +296,6 @@ patriot-ukraine.info
 pay-ua.pics
 payment-system.cloud
 paymentukrainenow.com
-paypromoukr.com
-payukraine.online
-payukraine24now.com
-payukrainenow.com
-payukrpromo.com
 payviplata.shop
 perekaz-koshtiv.online
 perekaz.com
@@ -323,8 +320,6 @@ promo-olx-ukrposhta.com
 promo-pay24.win
 promo24help.com
 promohelp24.com
-promoukr24.com
-promoukrpay.com
 prytulafoundation.in
 prytulafoundation.net
 prytulafoundation.site
@@ -389,6 +384,8 @@ rozetkaukraine.com
 rozetkaukraine.vip
 samsung-ukraine.com.ua
 starlink-ukraine.net
+toidopomoga.org
+toidopomoga.pro
 trust-group.pro
 tviy-kyivstar.com.ua
 ua-dapamoga24.pw
@@ -415,7 +412,6 @@ ukr-money.com.ua
 ukr-oil-group.online
 ukr-payment-system.online
 ukr24help.com
-ukr24promo.com
 ukraina-viplata.xyz
 ukraina.buzz
 ukraina.pro
@@ -436,14 +432,9 @@ ukrainianshop.online
 ukrainianstore.space
 ukrdopomoga.top
 ukrkonkurs.site
-ukrpay.fun
-ukrpaymen.today
-ukrpayment.online
-ukrpaymentsystem.pro
-ukrpaypromo.com
-ukrpaytransactions.info
-ukrpromo24.com
-ukrpromopay.com
+ukrpomosh.site
+ukrpomosh.space
+ukrpomosh.xyz
 ukrsib-bank.site
 ukrsib-bank.top
 ukrwallet.com
