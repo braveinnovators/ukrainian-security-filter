@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230630(1)
-# Last modified: Fri, 30 June 2023 15:23 EEST
+# Version: 20230701(1)
+# Last modified: Sat, 01 July 2023 15:47 EEST
 # Expires: 5 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -12,11 +12,9 @@
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
 0.0.0.0 24helpukr.com
-0.0.0.0 24promoukr.com
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
-0.0.0.0 24ukrpromo.com
 0.0.0.0 adidas-ua.shop
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
@@ -70,6 +68,7 @@
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomoga24.com
+0.0.0.0 dopomoga24.me
 0.0.0.0 dopomoga24pay.win
 0.0.0.0 dopomoga24pruvat.cfd
 0.0.0.0 dopomoga24pruvat.sbs
@@ -113,6 +112,7 @@
 0.0.0.0 dopomogaua.live
 0.0.0.0 dopomogaua.pro
 0.0.0.0 dopomogaua.xyz
+0.0.0.0 dopomogaua24.me
 0.0.0.0 dopomogaua24.org
 0.0.0.0 dopomogauk.xyz
 0.0.0.0 dopomogaukr.website
@@ -138,6 +138,7 @@
 0.0.0.0 ebayukraine.vip
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
+0.0.0.0 epidtrimkaua.info
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
 0.0.0.0 eu-dopomoga.com
@@ -248,6 +249,7 @@
 0.0.0.0 novaposhta.app
 0.0.0.0 novaposhta.biz
 0.0.0.0 novaposhta.com.ua
+0.0.0.0 novaposhta.eu
 0.0.0.0 novaposhta.in
 0.0.0.0 novaposhta.info
 0.0.0.0 novaposhta.org
@@ -294,11 +296,6 @@
 0.0.0.0 pay-ua.pics
 0.0.0.0 payment-system.cloud
 0.0.0.0 paymentukrainenow.com
-0.0.0.0 paypromoukr.com
-0.0.0.0 payukraine.online
-0.0.0.0 payukraine24now.com
-0.0.0.0 payukrainenow.com
-0.0.0.0 payukrpromo.com
 0.0.0.0 payviplata.shop
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz.com
@@ -323,8 +320,6 @@
 0.0.0.0 promo-pay24.win
 0.0.0.0 promo24help.com
 0.0.0.0 promohelp24.com
-0.0.0.0 promoukr24.com
-0.0.0.0 promoukrpay.com
 0.0.0.0 prytulafoundation.in
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
@@ -389,6 +384,8 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 starlink-ukraine.net
+0.0.0.0 toidopomoga.org
+0.0.0.0 toidopomoga.pro
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-dapamoga24.pw
@@ -415,7 +412,6 @@
 0.0.0.0 ukr-oil-group.online
 0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr24help.com
-0.0.0.0 ukr24promo.com
 0.0.0.0 ukraina-viplata.xyz
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pro
@@ -436,14 +432,9 @@
 0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukrkonkurs.site
-0.0.0.0 ukrpay.fun
-0.0.0.0 ukrpaymen.today
-0.0.0.0 ukrpayment.online
-0.0.0.0 ukrpaymentsystem.pro
-0.0.0.0 ukrpaypromo.com
-0.0.0.0 ukrpaytransactions.info
-0.0.0.0 ukrpromo24.com
-0.0.0.0 ukrpromopay.com
+0.0.0.0 ukrpomosh.site
+0.0.0.0 ukrpomosh.space
+0.0.0.0 ukrpomosh.xyz
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrwallet.com
