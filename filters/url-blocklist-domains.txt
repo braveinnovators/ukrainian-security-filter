@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230701(1)
-# Last modified: Sat, 01 July 2023 15:47 EEST
-# Expires: 5 days
+# Version: 20230703.01
+# Last modified: Mon, 03 July 2023 14:38 EEST
+# Expires: 4 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -29,6 +29,7 @@ cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 cryptocurrency-helps-ukraine.com
 deal-loads.site
+diaa-ukraine.site
 donate-ukrainehelp.org
 dopomoga-2023.top
 dopomoga-24pay.win
@@ -63,6 +64,7 @@ dopomoga.place
 dopomoga.rocks
 dopomoga.social
 dopomoga.solutions
+dopomoga.space
 dopomoga.today
 dopomoga.wtf
 dopomoga2023.com
@@ -145,7 +147,6 @@ eu-dopomoga.com
 eu-st.site
 europeanchallengeukraine.eu
 events-ukr.site
-eviplata.vip
 facebook-ua.info
 finance-dopomoga.site
 findopomoga.sbs
@@ -156,6 +157,7 @@ goturozetka.vip
 gov-ua.site
 goviplataua.info
 govs-ua.com
+govs-ua.io
 govua.buzz
 groshidopomoga.top
 groshovadopomoga.com
@@ -265,7 +267,6 @@ online-raiffeisen.info
 onlinediya.uk
 onlineraiffesen.com
 onlineraiffoisen.com
-onlineviplata.me
 oon-dopomoga.info
 oon-dopomoga.pro
 oon-viplata.co
@@ -384,11 +385,11 @@ rozetkaukraine.com
 rozetkaukraine.vip
 samsung-ukraine.com.ua
 starlink-ukraine.net
+toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 trust-group.pro
 tviy-kyivstar.com.ua
-ua-dapamoga24.pw
 ua-viplata.me
 ua-wallet.pw
 ua24pomoga.online
