@@ -1,8 +1,8 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230701(1)
-! Last modified: Sat, 01 July 2023 15:47 EEST
-! Expires: 5 days
+! Version: 20230703.01
+! Last modified: Mon, 03 July 2023 14:38 EEST
+! Expires: 4 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
 ! Homepage: https://github.com/braveinnovators/url-blocklist
@@ -29,6 +29,7 @@
 ||childrens-fund-ukraine.com^
 ||cryptocurrency-helps-ukraine.com^
 ||deal-loads.site^
+||diaa-ukraine.site^
 ||donate-ukrainehelp.org^
 ||dopomoga-2023.top^
 ||dopomoga-24pay.win^
@@ -63,6 +64,7 @@
 ||dopomoga.rocks^
 ||dopomoga.social^
 ||dopomoga.solutions^
+||dopomoga.space^
 ||dopomoga.today^
 ||dopomoga.wtf^
 ||dopomoga2023.com^
@@ -145,7 +147,6 @@
 ||eu-st.site^
 ||europeanchallengeukraine.eu^
 ||events-ukr.site^
-||eviplata.vip^
 ||facebook-ua.info^
 ||finance-dopomoga.site^
 ||findopomoga.sbs^
@@ -156,6 +157,7 @@
 ||gov-ua.site^
 ||goviplataua.info^
 ||govs-ua.com^
+||govs-ua.io^
 ||govua.buzz^
 ||groshidopomoga.top^
 ||groshovadopomoga.com^
@@ -265,7 +267,6 @@
 ||onlinediya.uk^
 ||onlineraiffesen.com^
 ||onlineraiffoisen.com^
-||onlineviplata.me^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
 ||oon-viplata.co^
@@ -384,11 +385,11 @@
 ||rozetkaukraine.vip^
 ||samsung-ukraine.com.ua^
 ||starlink-ukraine.net^
+||toidopomoga.co^
 ||toidopomoga.org^
 ||toidopomoga.pro^
 ||trust-group.pro^
 ||tviy-kyivstar.com.ua^
-||ua-dapamoga24.pw^
 ||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua24pomoga.online^
@@ -505,15 +506,17 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-://ukrpay*.$document
-://*payukr*.*/$document
-://*ukr24promo*.*/$document
-://*promoukr*.*/$document
+://*eviplata*.*/$document
 ://*paypromo*.*/$document
+://*payukr*.*/$document
+://*promoukr*.*/$document
+://*ukr24promo*.*/$document
 ://*ukrpromo*.*/$document
 ://daopomoga*.$document
 ://dopoomoga*.$document
+://ukrpay*.$document
 ://*-7300-*.*/$document
+://*7300diya.*/$document
 ://7300-bank*.$document
 ://7300-ediya.$document
 ://7300-ehelpcard.$document
@@ -523,7 +526,6 @@
 ://7300ediya.$document
 ://7300payua.$document
 ://7300ua*.$document
-://*7300diya.*/$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -583,6 +585,8 @@
 ||*diia*$document,domain=t.me|telegram.me
 @@||*diia_gov^$document,domain=t.me|telegram.me
 @@||*diia_help_bot^$document,domain=t.me|telegram.me
+://ua-diya*.$document
+://uadiya*.$document
 
 ! UKR.NET
 ! UAC-0102 (CERT-UA)
