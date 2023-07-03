@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230703.01
-# Last modified: Mon, 03 July 2023 14:38 EEST
-# Expires: 4 days
+# Version: 20230703.02
+# Last modified: Mon, 03 July 2023 18:57 EEST
+# Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -30,6 +30,9 @@
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 deal-loads.site
 0.0.0.0 diaa-ukraine.site
+0.0.0.0 diaa-ukraine.space
+0.0.0.0 diaaukraine.site
+0.0.0.0 diaaukraine.space
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-24pay.win
