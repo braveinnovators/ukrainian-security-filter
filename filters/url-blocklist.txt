@@ -1,8 +1,8 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230703.01
-! Last modified: Mon, 03 July 2023 14:38 EEST
-! Expires: 4 days
+! Version: 20230703.02
+! Last modified: Mon, 03 July 2023 18:57 EEST
+! Expires: 3 days
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
 ! Homepage: https://github.com/braveinnovators/url-blocklist
@@ -30,6 +30,9 @@
 ||cryptocurrency-helps-ukraine.com^
 ||deal-loads.site^
 ||diaa-ukraine.site^
+||diaa-ukraine.space^
+||diaaukraine.site^
+||diaaukraine.space^
 ||donate-ukrainehelp.org^
 ||dopomoga-2023.top^
 ||dopomoga-24pay.win^
@@ -517,6 +520,7 @@
 ://ukrpay*.$document
 ://*-7300-*.*/$document
 ://*7300diya.*/$document
+://12000doopomoga*.$document
 ://7300-bank*.$document
 ://7300-ediya.$document
 ://7300-ehelpcard.$document
