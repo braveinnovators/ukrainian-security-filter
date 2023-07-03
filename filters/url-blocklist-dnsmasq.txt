@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230701(1)
-# Last modified: Sat, 01 July 2023 15:47 EEST
-# Expires: 5 days
+# Version: 20230703.01
+# Last modified: Mon, 03 July 2023 14:38 EEST
+# Expires: 4 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -29,6 +29,7 @@ address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
 address=/cryptocurrency-helps-ukraine.com/
 address=/deal-loads.site/
+address=/diaa-ukraine.site/
 address=/donate-ukrainehelp.org/
 address=/dopomoga-2023.top/
 address=/dopomoga-24pay.win/
@@ -63,6 +64,7 @@ address=/dopomoga.place/
 address=/dopomoga.rocks/
 address=/dopomoga.social/
 address=/dopomoga.solutions/
+address=/dopomoga.space/
 address=/dopomoga.today/
 address=/dopomoga.wtf/
 address=/dopomoga2023.com/
@@ -145,7 +147,6 @@ address=/eu-dopomoga.com/
 address=/eu-st.site/
 address=/europeanchallengeukraine.eu/
 address=/events-ukr.site/
-address=/eviplata.vip/
 address=/facebook-ua.info/
 address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
@@ -156,6 +157,7 @@ address=/goturozetka.vip/
 address=/gov-ua.site/
 address=/goviplataua.info/
 address=/govs-ua.com/
+address=/govs-ua.io/
 address=/govua.buzz/
 address=/groshidopomoga.top/
 address=/groshovadopomoga.com/
@@ -265,7 +267,6 @@ address=/online-raiffeisen.info/
 address=/onlinediya.uk/
 address=/onlineraiffesen.com/
 address=/onlineraiffoisen.com/
-address=/onlineviplata.me/
 address=/oon-dopomoga.info/
 address=/oon-dopomoga.pro/
 address=/oon-viplata.co/
@@ -384,11 +385,11 @@ address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
 address=/samsung-ukraine.com.ua/
 address=/starlink-ukraine.net/
+address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
 address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
-address=/ua-dapamoga24.pw/
 address=/ua-viplata.me/
 address=/ua-wallet.pw/
 address=/ua24pomoga.online/
