@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230701(1)
-# Last modified: Sat, 01 July 2023 15:47 EEST
-# Expires: 5 days
+# Version: 20230703.01
+# Last modified: Mon, 03 July 2023 14:38 EEST
+# Expires: 4 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -29,6 +29,7 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 deal-loads.site
+0.0.0.0 diaa-ukraine.site
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-24pay.win
@@ -63,6 +64,7 @@
 0.0.0.0 dopomoga.rocks
 0.0.0.0 dopomoga.social
 0.0.0.0 dopomoga.solutions
+0.0.0.0 dopomoga.space
 0.0.0.0 dopomoga.today
 0.0.0.0 dopomoga.wtf
 0.0.0.0 dopomoga2023.com
@@ -145,7 +147,6 @@
 0.0.0.0 eu-st.site
 0.0.0.0 europeanchallengeukraine.eu
 0.0.0.0 events-ukr.site
-0.0.0.0 eviplata.vip
 0.0.0.0 facebook-ua.info
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
@@ -156,6 +157,7 @@
 0.0.0.0 gov-ua.site
 0.0.0.0 goviplataua.info
 0.0.0.0 govs-ua.com
+0.0.0.0 govs-ua.io
 0.0.0.0 govua.buzz
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshovadopomoga.com
@@ -265,7 +267,6 @@
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlineraiffesen.com
 0.0.0.0 onlineraiffoisen.com
-0.0.0.0 onlineviplata.me
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
 0.0.0.0 oon-viplata.co
@@ -384,11 +385,11 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 starlink-ukraine.net
+0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
-0.0.0.0 ua-dapamoga24.pw
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
