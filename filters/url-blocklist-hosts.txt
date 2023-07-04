@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230703.02
-# Last modified: Mon, 03 July 2023 18:57 EEST
+# Version: 20230704.01
+# Last modified: Tue, 04 July 2023 11:42 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -192,8 +192,10 @@
 0.0.0.0 ipay-ua.online
 0.0.0.0 kievstar.online
 0.0.0.0 konkurs-23.site
+0.0.0.0 konkurs-24.site
 0.0.0.0 konkurs-events.top
 0.0.0.0 konkurs-golos.ltd
+0.0.0.0 konkurs-my.site
 0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-uk.site
 0.0.0.0 konkurs-ukraine.site
@@ -239,6 +241,7 @@
 0.0.0.0 letokonkurs.site
 0.0.0.0 likpay.me
 0.0.0.0 liqpay.info
+0.0.0.0 live-konkurs.site
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
@@ -319,6 +322,7 @@
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
+0.0.0.0 prokonkurs-2023.site
 0.0.0.0 prom-pay-ua.host
 0.0.0.0 promo-olx-ukrposhta.com
 0.0.0.0 promo-pay24.win
@@ -388,11 +392,17 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 starlink-ukraine.net
+0.0.0.0 swiftperekaz.pro
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
+0.0.0.0 ua-paying.cloud
+0.0.0.0 ua-paying.online
+0.0.0.0 ua-paying.pics
+0.0.0.0 ua-paying.xyz
+0.0.0.0 ua-payticket.online
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
@@ -419,6 +429,7 @@
 0.0.0.0 ukraina-viplata.xyz
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pro
+0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainedevelopmentmission.org
@@ -476,6 +487,11 @@
 0.0.0.0 viplata24.shop
 0.0.0.0 viplata24.tech
 0.0.0.0 viplata24pay.shop
+0.0.0.0 viplata4vsim.bio
+0.0.0.0 viplata4vsim.biz
+0.0.0.0 viplata4vsim.chat
+0.0.0.0 viplata4vsim.games
+0.0.0.0 viplata4vsim.org
 0.0.0.0 viplatadiya.site
 0.0.0.0 viplatadopomogaua.com
 0.0.0.0 viplatadopomogi.com
