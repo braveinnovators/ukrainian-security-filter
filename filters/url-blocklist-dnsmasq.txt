@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230703.02
-# Last modified: Mon, 03 July 2023 18:57 EEST
+# Version: 20230704.01
+# Last modified: Tue, 04 July 2023 11:42 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -192,8 +192,10 @@ address=/internet-kyivstar.com/
 address=/ipay-ua.online/
 address=/kievstar.online/
 address=/konkurs-23.site/
+address=/konkurs-24.site/
 address=/konkurs-events.top/
 address=/konkurs-golos.ltd/
+address=/konkurs-my.site/
 address=/konkurs-ua.site/
 address=/konkurs-uk.site/
 address=/konkurs-ukraine.site/
@@ -239,6 +241,7 @@ address=/kyivstarshop.net/
 address=/letokonkurs.site/
 address=/likpay.me/
 address=/liqpay.info/
+address=/live-konkurs.site/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
@@ -319,6 +322,7 @@ address=/privatbnk.com/
 address=/privatpay.me/
 address=/privatpay.online/
 address=/prlvatbank24.pw/
+address=/prokonkurs-2023.site/
 address=/prom-pay-ua.host/
 address=/promo-olx-ukrposhta.com/
 address=/promo-pay24.win/
@@ -388,11 +392,17 @@ address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
 address=/samsung-ukraine.com.ua/
 address=/starlink-ukraine.net/
+address=/swiftperekaz.pro/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
 address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
+address=/ua-paying.cloud/
+address=/ua-paying.online/
+address=/ua-paying.pics/
+address=/ua-paying.xyz/
+address=/ua-payticket.online/
 address=/ua-viplata.me/
 address=/ua-wallet.pw/
 address=/ua24pomoga.online/
@@ -419,6 +429,7 @@ address=/ukr24help.com/
 address=/ukraina-viplata.xyz/
 address=/ukraina.buzz/
 address=/ukraina.pro/
+address=/ukrainadopomoga24.org/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
 address=/ukrainedevelopmentmission.org/
@@ -476,6 +487,11 @@ address=/viplata.space/
 address=/viplata24.shop/
 address=/viplata24.tech/
 address=/viplata24pay.shop/
+address=/viplata4vsim.bio/
+address=/viplata4vsim.biz/
+address=/viplata4vsim.chat/
+address=/viplata4vsim.games/
+address=/viplata4vsim.org/
 address=/viplatadiya.site/
 address=/viplatadopomogaua.com/
 address=/viplatadopomogi.com/
