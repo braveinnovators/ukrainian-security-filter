@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230703.02
-# Last modified: Mon, 03 July 2023 18:57 EEST
+# Version: 20230704.01
+# Last modified: Tue, 04 July 2023 11:42 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -192,8 +192,10 @@ internet-kyivstar.com.ua
 ipay-ua.online
 kievstar.online
 konkurs-23.site
+konkurs-24.site
 konkurs-events.top
 konkurs-golos.ltd
+konkurs-my.site
 konkurs-ua.site
 konkurs-uk.site
 konkurs-ukraine.site
@@ -239,6 +241,7 @@ kyivstarshop.net
 letokonkurs.site
 likpay.me
 liqpay.info
+live-konkurs.site
 meta-ua.site
 mobilluck.com.ua
 moneypay-for-ukrainians-people.pro
@@ -319,6 +322,7 @@ privatbnk.com
 privatpay.me
 privatpay.online
 prlvatbank24.pw
+prokonkurs-2023.site
 prom-pay-ua.host
 promo-olx-ukrposhta.com
 promo-pay24.win
@@ -388,11 +392,17 @@ rozetkaukraine.com
 rozetkaukraine.vip
 samsung-ukraine.com.ua
 starlink-ukraine.net
+swiftperekaz.pro
 toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 trust-group.pro
 tviy-kyivstar.com.ua
+ua-paying.cloud
+ua-paying.online
+ua-paying.pics
+ua-paying.xyz
+ua-payticket.online
 ua-viplata.me
 ua-wallet.pw
 ua24pomoga.online
@@ -419,6 +429,7 @@ ukr24help.com
 ukraina-viplata.xyz
 ukraina.buzz
 ukraina.pro
+ukrainadopomoga24.org
 ukraineamazon.com
 ukraineamazon.pro
 ukrainedevelopmentmission.org
@@ -476,6 +487,11 @@ viplata.space
 viplata24.shop
 viplata24.tech
 viplata24pay.shop
+viplata4vsim.bio
+viplata4vsim.biz
+viplata4vsim.chat
+viplata4vsim.games
+viplata4vsim.org
 viplatadiya.site
 viplatadopomogaua.com
 viplatadopomogi.com
