@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230704.01
-# Last modified: Tue, 04 July 2023 11:42 EEST
+# Version: 20230705.01
+# Last modified: Wed, 05 July 2023 11:49 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,6 +29,7 @@ address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
 address=/cryptocurrency-helps-ukraine.com/
 address=/deal-loads.site/
+address=/delivery-pay.website/
 address=/diaa-ukraine.site/
 address=/diaa-ukraine.space/
 address=/diaaukraine.site/
@@ -365,8 +366,10 @@ address=/raiffeisen24.shop/
 address=/raiffeisen24.uk/
 address=/raiffeisen24.win/
 address=/raiffeisenbank.site/
+address=/raiffeisenbankaval.com/
 address=/raiffeisenbankoon.social/
 address=/raiffeisenhelps.shop/
+address=/raiffeisennextua.site/
 address=/raiffeizen-viplata-help.online/
 address=/raiffejsen.online/
 address=/raiffesen.com/
@@ -487,11 +490,6 @@ address=/viplata.space/
 address=/viplata24.shop/
 address=/viplata24.tech/
 address=/viplata24pay.shop/
-address=/viplata4vsim.bio/
-address=/viplata4vsim.biz/
-address=/viplata4vsim.chat/
-address=/viplata4vsim.games/
-address=/viplata4vsim.org/
 address=/viplatadiya.site/
 address=/viplatadopomogaua.com/
 address=/viplatadopomogi.com/
