@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230704.01
-# Last modified: Tue, 04 July 2023 11:42 EEST
+# Version: 20230705.01
+# Last modified: Wed, 05 July 2023 11:49 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,6 +29,7 @@ cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 cryptocurrency-helps-ukraine.com
 deal-loads.site
+delivery-pay.website
 diaa-ukraine.site
 diaa-ukraine.space
 diaaukraine.site
@@ -365,8 +366,10 @@ raiffeisen24.shop
 raiffeisen24.uk
 raiffeisen24.win
 raiffeisenbank.site
+raiffeisenbankaval.com
 raiffeisenbankoon.social
 raiffeisenhelps.shop
+raiffeisennextua.site
 raiffeizen-viplata-help.online
 raiffejsen.online
 raiffesen.com
@@ -487,11 +490,6 @@ viplata.space
 viplata24.shop
 viplata24.tech
 viplata24pay.shop
-viplata4vsim.bio
-viplata4vsim.biz
-viplata4vsim.chat
-viplata4vsim.games
-viplata4vsim.org
 viplatadiya.site
 viplatadopomogaua.com
 viplatadopomogi.com
