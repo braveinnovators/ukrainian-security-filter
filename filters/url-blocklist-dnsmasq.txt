@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230705.01
-# Last modified: Wed, 05 July 2023 11:49 EEST
+# Version: 20230706.01
+# Last modified: Thu, 06 July 2023 14:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,6 +39,7 @@ address=/dopomoga-2023.top/
 address=/dopomoga-24pay.win/
 address=/dopomoga-aid.top/
 address=/dopomoga-atb.site/
+address=/dopomoga-az.site/
 address=/dopomoga-dia.com/
 address=/dopomoga-dlia-ukraintsiv.life/
 address=/dopomoga-epay.site/
@@ -123,7 +124,9 @@ address=/dopomogaua24.org/
 address=/dopomogauk.xyz/
 address=/dopomogaukr.website/
 address=/dopomogaukraiine.com/
+address=/dopomogaukraiinee.website/
 address=/dopomogaukrainaua.com/
+address=/dopomogaukraine.store/
 address=/dopomogs-ukr.top/
 address=/dopomoha-ua.company.site/
 address=/dopoviplataua.xyz/
@@ -246,6 +249,7 @@ address=/live-konkurs.site/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
+address=/my-goavuvyplate.site/
 address=/my-govuwvyplatte.site/
 address=/my-kyivstar.com.ua/
 address=/mykyivstar.com/
@@ -287,6 +291,7 @@ address=/oonviplaty.host/
 address=/opendata-hsc-gov-ua.com/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
+address=/oschadviplata66.shop/
 address=/oshad-24.com/
 address=/oshad-cash.pro/
 address=/oshad-pedtrimka.online/
