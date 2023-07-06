@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230705.01
-# Last modified: Wed, 05 July 2023 11:49 EEST
+# Version: 20230706.01
+# Last modified: Thu, 06 July 2023 14:30 EEST
 # Expires: 3 days
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,6 +39,7 @@
 0.0.0.0 dopomoga-24pay.win
 0.0.0.0 dopomoga-aid.top
 0.0.0.0 dopomoga-atb.site
+0.0.0.0 dopomoga-az.site
 0.0.0.0 dopomoga-dia.com
 0.0.0.0 dopomoga-dlia-ukraintsiv.life
 0.0.0.0 dopomoga-epay.site
@@ -123,7 +124,9 @@
 0.0.0.0 dopomogauk.xyz
 0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
+0.0.0.0 dopomogaukraiinee.website
 0.0.0.0 dopomogaukrainaua.com
+0.0.0.0 dopomogaukraine.store
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
 0.0.0.0 dopoviplataua.xyz
@@ -246,6 +249,7 @@
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
+0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
 0.0.0.0 mykyivstar.com
@@ -287,6 +291,7 @@
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
+0.0.0.0 oschadviplata66.shop
 0.0.0.0 oshad-24.com
 0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-pedtrimka.online
