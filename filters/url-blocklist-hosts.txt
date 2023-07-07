@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230706.01
-# Last modified: Thu, 06 July 2023 14:30 EEST
-# Expires: 3 days
+# Version: 20230707.01
+# Last modified: Fri, 07 July 2023 14:32 EEST
+# Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -249,6 +249,7 @@
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
+0.0.0.0 moneyuanext24.info
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
@@ -289,6 +290,7 @@
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-hsc-gov-ua.com
+0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oschadviplata66.shop
@@ -323,6 +325,8 @@
 0.0.0.0 pidtrimka-e.xyz
 0.0.0.0 pidtrimka.cloud
 0.0.0.0 pidtrimka.world
+0.0.0.0 poluchenieuanext24.tech
+0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 privatbnk.com
 0.0.0.0 privatpay.me
@@ -517,6 +521,7 @@
 0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
+0.0.0.0 viplataukraina24.pro
 0.0.0.0 viplataukraine.com
 0.0.0.0 viplataukraine.org
 0.0.0.0 viplaty.com.ua
