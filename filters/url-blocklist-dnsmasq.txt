@@ -1,8 +1,8 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230706.01
-# Last modified: Thu, 06 July 2023 14:30 EEST
-# Expires: 3 days
+# Version: 20230707.01
+# Last modified: Fri, 07 July 2023 14:32 EEST
+# Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/url-blocklist
@@ -249,6 +249,7 @@ address=/live-konkurs.site/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
+address=/moneyuanext24.info/
 address=/my-goavuvyplate.site/
 address=/my-govuwvyplatte.site/
 address=/my-kyivstar.com.ua/
@@ -289,6 +290,7 @@ address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
 address=/opendata-hsc-gov-ua.com/
+address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
 address=/oschadviplata66.shop/
@@ -323,6 +325,8 @@ address=/pidtrimka-e.site/
 address=/pidtrimka-e.xyz/
 address=/pidtrimka.cloud/
 address=/pidtrimka.world/
+address=/poluchenieuanext24.tech/
+address=/poluchuanext24.pro/
 address=/portal-diya.kyiv.ua/
 address=/privatbnk.com/
 address=/privatpay.me/
@@ -517,6 +521,7 @@ address=/viplataua24.com/
 address=/viplatauaukr.xyz/
 address=/viplatauaukraine.xyz/
 address=/viplataukr.xyz/
+address=/viplataukraina24.pro/
 address=/viplataukraine.com/
 address=/viplataukraine.org/
 address=/viplaty.com.ua/
