@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230707.01
-# Last modified: Fri, 07 July 2023 14:32 EEST
+# Version: 20230709.01
+# Last modified: Sun, 09 July 2023 16:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -27,6 +27,8 @@ address=/akvapark.site/
 address=/api-donate-ukrainehelp.org/
 address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
+address=/chooseraiff.online/
+address=/chooseraiff.site/
 address=/cryptocurrency-helps-ukraine.com/
 address=/deal-loads.site/
 address=/delivery-pay.website/
@@ -34,6 +36,7 @@ address=/diaa-ukraine.site/
 address=/diaa-ukraine.space/
 address=/diaaukraine.site/
 address=/diaaukraine.space/
+address=/diadopomogaio.online/
 address=/donate-ukrainehelp.org/
 address=/dopomoga-2023.top/
 address=/dopomoga-24pay.win/
@@ -145,6 +148,7 @@ address=/ebayua66.com/
 address=/ebayua66.vip/
 address=/ebayukraine.com/
 address=/ebayukraine.vip/
+address=/edoopomoga.xyz/
 address=/epidtrimka.com/
 address=/epidtrimkadopomoga.com/
 address=/epidtrimkaua.info/
@@ -159,6 +163,9 @@ address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
 address=/finua.online/
 address=/flexcapital.com/
+address=/get-moneyua.pro/
+address=/get-paysua24.net/
+address=/getpaysua.me/
 address=/goturozetka.com/
 address=/goturozetka.vip/
 address=/gov-ua.site/
@@ -249,6 +256,7 @@ address=/live-konkurs.site/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
+address=/moneyua24.org/
 address=/moneyuanext24.info/
 address=/my-goavuvyplate.site/
 address=/my-govuwvyplatte.site/
@@ -290,6 +298,7 @@ address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
 address=/opendata-hsc-gov-ua.com/
+address=/opendata-hsc-gov-ua.online/
 address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
@@ -311,6 +320,8 @@ address=/patriot-ukraine.info/
 address=/pay-ua.pics/
 address=/payment-system.cloud/
 address=/paymentukrainenow.com/
+address=/paysdopomogaua.pro/
+address=/paysuanext24.pro/
 address=/payviplata.shop/
 address=/perekaz-koshtiv.online/
 address=/perekaz.com/
@@ -329,6 +340,7 @@ address=/poluchenieuanext24.tech/
 address=/poluchuanext24.pro/
 address=/portal-diya.kyiv.ua/
 address=/privatbnk.com/
+address=/privatbua.com/
 address=/privatpay.me/
 address=/privatpay.online/
 address=/prlvatbank24.pw/
@@ -467,6 +479,7 @@ address=/ukrsib-bank.top/
 address=/ukrwallet.com/
 address=/un-unicef.org/
 address=/unicef-uk.com/
+address=/uniceforg.com/
 address=/unicefua.news/
 address=/unicefukrainedonate.com/
 address=/unicefvyplaty.com/
