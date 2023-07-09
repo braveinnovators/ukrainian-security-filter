@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230707.01
-# Last modified: Fri, 07 July 2023 14:32 EEST
+# Version: 20230709.01
+# Last modified: Sun, 09 July 2023 16:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -27,6 +27,8 @@
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 childrens-fund-ukraine.com
+0.0.0.0 chooseraiff.online
+0.0.0.0 chooseraiff.site
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 deal-loads.site
 0.0.0.0 delivery-pay.website
@@ -34,6 +36,7 @@
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
+0.0.0.0 diadopomogaio.online
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-24pay.win
@@ -145,6 +148,7 @@
 0.0.0.0 ebayua66.vip
 0.0.0.0 ebayukraine.com
 0.0.0.0 ebayukraine.vip
+0.0.0.0 edoopomoga.xyz
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrimkaua.info
@@ -159,6 +163,9 @@
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finua.online
 0.0.0.0 flexcapital.com
+0.0.0.0 get-moneyua.pro
+0.0.0.0 get-paysua24.net
+0.0.0.0 getpaysua.me
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-ua.site
@@ -249,6 +256,7 @@
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
+0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
@@ -290,6 +298,7 @@
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-hsc-gov-ua.com
+0.0.0.0 opendata-hsc-gov-ua.online
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
@@ -311,6 +320,8 @@
 0.0.0.0 pay-ua.pics
 0.0.0.0 payment-system.cloud
 0.0.0.0 paymentukrainenow.com
+0.0.0.0 paysdopomogaua.pro
+0.0.0.0 paysuanext24.pro
 0.0.0.0 payviplata.shop
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz.com
@@ -329,6 +340,7 @@
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 privatbnk.com
+0.0.0.0 privatbua.com
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
@@ -467,6 +479,7 @@
 0.0.0.0 ukrwallet.com
 0.0.0.0 un-unicef.org
 0.0.0.0 unicef-uk.com
+0.0.0.0 uniceforg.com
 0.0.0.0 unicefua.news
 0.0.0.0 unicefukrainedonate.com
 0.0.0.0 unicefvyplaty.com
