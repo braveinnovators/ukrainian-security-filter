@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230709.01
-# Last modified: Sun, 09 July 2023 16:10 EEST
+# Version: 20230710.01
+# Last modified: Mon, 10 July 2023 12:29 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -9,6 +9,7 @@
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
 address=/0ukr.net/
+address=/2023dopomoga.online/
 address=/23konkurs.site/
 address=/24helpuapay.com/
 address=/24helpukr.com/
@@ -87,8 +88,10 @@ address=/dopomoga24ua.win/
 address=/dopomogaa-id03914.website/
 address=/dopomogaa.site/
 address=/dopomogaa.website/
+address=/dopomogaapp.online/
 address=/dopomogaatb.site/
 address=/dopomogadia.me/
+address=/dopomogadiyaua.online/
 address=/dopomogae.eu/
 address=/dopomogae.info/
 address=/dopomogae.online/
@@ -105,6 +108,7 @@ address=/dopomogainukraine.com/
 address=/dopomogaofficialua.com/
 address=/dopomogaonleneukraina.co/
 address=/dopomogaonline.app/
+address=/dopomogaonline.biz/
 address=/dopomogaonline.club/
 address=/dopomogaonline.info/
 address=/dopomogaonline.net/
@@ -112,6 +116,7 @@ address=/dopomogaonline.org/
 address=/dopomogaonline.site/
 address=/dopomogaonline.store/
 address=/dopomogaonline.xyz/
+address=/dopomogaonlinevpo.space/
 address=/dopomogaooh.pro/
 address=/dopomogaoon.space/
 address=/dopomogapays.site/
@@ -132,6 +137,7 @@ address=/dopomogaukrainaua.com/
 address=/dopomogaukraine.store/
 address=/dopomogs-ukr.top/
 address=/dopomoha-ua.company.site/
+address=/dopomoha-ua.website/
 address=/dopoviplataua.xyz/
 address=/drone-ua.space/
 address=/e-dopomoga-perekazy24.space/
@@ -299,6 +305,7 @@ address=/oonviplata.tech/
 address=/oonviplaty.host/
 address=/opendata-hsc-gov-ua.com/
 address=/opendata-hsc-gov-ua.online/
+address=/oschadbaq.com/
 address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
@@ -313,6 +320,7 @@ address=/oshadbank.website/
 address=/oshadbank24.win/
 address=/oshcadbank.top/
 address=/otrim-koshtiv-ukr.biz.ua/
+address=/otrimati-ua.site/
 address=/otrimayviplatu.website/
 address=/oukr.net/
 address=/patriot-ukraine.fun/
@@ -322,6 +330,7 @@ address=/payment-system.cloud/
 address=/paymentukrainenow.com/
 address=/paysdopomogaua.pro/
 address=/paysuanext24.pro/
+address=/paysuanext24.tech/
 address=/payviplata.shop/
 address=/perekaz-koshtiv.online/
 address=/perekaz.com/
