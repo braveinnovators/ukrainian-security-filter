@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230709.01
-# Last modified: Sun, 09 July 2023 16:10 EEST
+# Version: 20230710.01
+# Last modified: Mon, 10 July 2023 12:29 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -9,6 +9,7 @@
 # Issues: https://github.com/braveinnovators/url-blocklist/issues
 #
 0.0.0.0 0ukr.net
+0.0.0.0 2023dopomoga.online
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
 0.0.0.0 24helpukr.com
@@ -87,8 +88,10 @@
 0.0.0.0 dopomogaa-id03914.website
 0.0.0.0 dopomogaa.site
 0.0.0.0 dopomogaa.website
+0.0.0.0 dopomogaapp.online
 0.0.0.0 dopomogaatb.site
 0.0.0.0 dopomogadia.me
+0.0.0.0 dopomogadiyaua.online
 0.0.0.0 dopomogae.eu
 0.0.0.0 dopomogae.info
 0.0.0.0 dopomogae.online
@@ -105,6 +108,7 @@
 0.0.0.0 dopomogaofficialua.com
 0.0.0.0 dopomogaonleneukraina.co
 0.0.0.0 dopomogaonline.app
+0.0.0.0 dopomogaonline.biz
 0.0.0.0 dopomogaonline.club
 0.0.0.0 dopomogaonline.info
 0.0.0.0 dopomogaonline.net
@@ -112,6 +116,7 @@
 0.0.0.0 dopomogaonline.site
 0.0.0.0 dopomogaonline.store
 0.0.0.0 dopomogaonline.xyz
+0.0.0.0 dopomogaonlinevpo.space
 0.0.0.0 dopomogaooh.pro
 0.0.0.0 dopomogaoon.space
 0.0.0.0 dopomogapays.site
@@ -132,6 +137,7 @@
 0.0.0.0 dopomogaukraine.store
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
+0.0.0.0 dopomoha-ua.website
 0.0.0.0 dopoviplataua.xyz
 0.0.0.0 drone-ua.space
 0.0.0.0 e-dopomoga-perekazy24.space
@@ -299,6 +305,7 @@
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
+0.0.0.0 oschadbaq.com
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
@@ -313,6 +320,7 @@
 0.0.0.0 oshadbank24.win
 0.0.0.0 oshcadbank.top
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
+0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 patriot-ukraine.fun
@@ -322,6 +330,7 @@
 0.0.0.0 paymentukrainenow.com
 0.0.0.0 paysdopomogaua.pro
 0.0.0.0 paysuanext24.pro
+0.0.0.0 paysuanext24.tech
 0.0.0.0 payviplata.shop
 0.0.0.0 perekaz-koshtiv.online
 0.0.0.0 perekaz.com
