@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230709.01
-! Last modified: Sun, 09 July 2023 16:10 EEST
+! Version: 20230710.01
+! Last modified: Mon, 10 July 2023 12:29 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -9,6 +9,7 @@
 ! Issues: https://github.com/braveinnovators/url-blocklist/issues
 
 ||0ukr.net^
+||2023dopomoga.online^
 ||23konkurs.site^
 ||24helpuapay.com^
 ||24helpukr.com^
@@ -87,8 +88,10 @@
 ||dopomogaa-id03914.website^
 ||dopomogaa.site^
 ||dopomogaa.website^
+||dopomogaapp.online^
 ||dopomogaatb.site^
 ||dopomogadia.me^
+||dopomogadiyaua.online^
 ||dopomogae.eu^
 ||dopomogae.info^
 ||dopomogae.online^
@@ -105,6 +108,7 @@
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
 ||dopomogaonline.app^
+||dopomogaonline.biz^
 ||dopomogaonline.club^
 ||dopomogaonline.info^
 ||dopomogaonline.net^
@@ -112,6 +116,7 @@
 ||dopomogaonline.site^
 ||dopomogaonline.store^
 ||dopomogaonline.xyz^
+||dopomogaonlinevpo.space^
 ||dopomogaooh.pro^
 ||dopomogaoon.space^
 ||dopomogapays.site^
@@ -132,6 +137,7 @@
 ||dopomogaukraine.store^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
+||dopomoha-ua.website^
 ||dopoviplataua.xyz^
 ||drone-ua.space^
 ||e-dopomoga-perekazy24.space^
@@ -299,6 +305,7 @@
 ||oonviplaty.host^
 ||opendata-hsc-gov-ua.com^
 ||opendata-hsc-gov-ua.online^
+||oschadbaq.com^
 ||oschadiprivate.click^
 ||oschadlbank24.uk^
 ||oschadnybank.com.ua^
@@ -313,6 +320,7 @@
 ||oshadbank24.win^
 ||oshcadbank.top^
 ||otrim-koshtiv-ukr.biz.ua^
+||otrimati-ua.site^
 ||otrimayviplatu.website^
 ||oukr.net^
 ||patriot-ukraine.fun^
@@ -322,6 +330,7 @@
 ||paymentukrainenow.com^
 ||paysdopomogaua.pro^
 ||paysuanext24.pro^
+||paysuanext24.tech^
 ||payviplata.shop^
 ||perekaz-koshtiv.online^
 ||perekaz.com^
@@ -555,6 +564,7 @@
 ://*ukrpromo*.*/$document
 ://*viplatuvsim*.*/$document
 ://daopomoga*.$document
+://dopomogas.$document
 ://dopoomoga*.$document
 ://getmoneyua.$document
 ://nextmoneyua*.$document
