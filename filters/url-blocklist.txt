@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230710.01
-! Last modified: Mon, 10 July 2023 12:29 EEST
+! Version: 20230711.01
+! Last modified: Tue, 11 July 2023 18:38 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -288,6 +288,7 @@
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||olx-ua.ink^
+||ondorazovaya-viplata24.space^
 ||online-pays.tech^
 ||online-raiffeisen.info^
 ||onlinediya.uk^
@@ -319,6 +320,7 @@
 ||oshadbank.website^
 ||oshadbank24.win^
 ||oshcadbank.top^
+||oshviplata24.space^
 ||otrim-koshtiv-ukr.biz.ua^
 ||otrimati-ua.site^
 ||otrimayviplatu.website^
@@ -505,6 +507,7 @@
 ||viplata-ua.me^
 ||viplata-ukraina.me^
 ||viplata-ukraina.xyz^
+||viplata-vid24.space^
 ||viplata.agency^
 ||viplata.biz^
 ||viplata.club^
@@ -521,6 +524,7 @@
 ||viplata24.shop^
 ||viplata24.tech^
 ||viplata24pay.shop^
+||viplata28.space^
 ||viplatadiya.site^
 ||viplatadopomogaua.com^
 ||viplatadopomogi.com^
@@ -543,7 +547,9 @@
 ||viplatauaukr.xyz^
 ||viplatauaukraine.xyz^
 ||viplataukr.xyz^
+||viplataukraina24.icu^
 ||viplataukraina24.pro^
+||viplataukraina24.xyz^
 ||viplataukraine.com^
 ||viplataukraine.org^
 ||viplaty.com.ua^
@@ -591,6 +597,7 @@
 ://7300paybank*.$document
 ://7300payua.$document
 ://7300ua*.$document
+://go7300-ua.$document
 ://pay7300*.$document
 
 ! PRIVATBANK.UA
