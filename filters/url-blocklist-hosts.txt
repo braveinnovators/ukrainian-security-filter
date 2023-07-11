@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230710.01
-# Last modified: Mon, 10 July 2023 12:29 EEST
+# Version: 20230711.01
+# Last modified: Tue, 11 July 2023 18:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -288,6 +288,7 @@
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
 0.0.0.0 olx-ua.ink
+0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeisen.info
 0.0.0.0 onlinediya.uk
@@ -319,6 +320,7 @@
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
 0.0.0.0 oshcadbank.top
+0.0.0.0 oshviplata24.space
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
 0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
@@ -505,6 +507,7 @@
 0.0.0.0 viplata-ua.me
 0.0.0.0 viplata-ukraina.me
 0.0.0.0 viplata-ukraina.xyz
+0.0.0.0 viplata-vid24.space
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
@@ -521,6 +524,7 @@
 0.0.0.0 viplata24.shop
 0.0.0.0 viplata24.tech
 0.0.0.0 viplata24pay.shop
+0.0.0.0 viplata28.space
 0.0.0.0 viplatadiya.site
 0.0.0.0 viplatadopomogaua.com
 0.0.0.0 viplatadopomogi.com
@@ -543,7 +547,9 @@
 0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
+0.0.0.0 viplataukraina24.icu
 0.0.0.0 viplataukraina24.pro
+0.0.0.0 viplataukraina24.xyz
 0.0.0.0 viplataukraine.com
 0.0.0.0 viplataukraine.org
 0.0.0.0 viplaty.com.ua
