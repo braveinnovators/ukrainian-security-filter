@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230711.01
-# Last modified: Tue, 11 July 2023 18:38 EEST
+# Version: 20230713.01
+# Last modified: Thu, 13 July 2023 10:01 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,6 +39,7 @@ address=/diaaukraine.site/
 address=/diaaukraine.space/
 address=/diadopomogaio.online/
 address=/donate-ukrainehelp.org/
+address=/donate-viplata24.space/
 address=/dopomoga-2023.top/
 address=/dopomoga-24pay.win/
 address=/dopomoga-aid.top/
@@ -97,10 +98,13 @@ address=/dopomogae.info/
 address=/dopomogae.online/
 address=/dopomogae.social/
 address=/dopomogae.xyz/
+address=/dopomogaexpress.app/
+address=/dopomogaexpress.biz/
 address=/dopomogaexpress.info/
 address=/dopomogaexpress.net/
 address=/dopomogaexpress.online/
 address=/dopomogaexpress.org/
+address=/dopomogaexpress.xyz/
 address=/dopomogafromoon-ukr.com/
 address=/dopomogagroshi.top/
 address=/dopomogahelp.com/
@@ -110,9 +114,12 @@ address=/dopomogaonleneukraina.co/
 address=/dopomogaonline.app/
 address=/dopomogaonline.biz/
 address=/dopomogaonline.club/
+address=/dopomogaonline.com/
+address=/dopomogaonline.express/
 address=/dopomogaonline.info/
 address=/dopomogaonline.net/
 address=/dopomogaonline.org/
+address=/dopomogaonline.shop/
 address=/dopomogaonline.site/
 address=/dopomogaonline.store/
 address=/dopomogaonline.xyz/
@@ -188,6 +195,7 @@ address=/help-ukraine.icu/
 address=/help-ukraine.org/
 address=/help-ukraine.space/
 address=/help-ukraine.website/
+address=/help24-viplata.me/
 address=/help24ua.com/
 address=/help24uapay.com/
 address=/help24ukr.com/
@@ -270,6 +278,10 @@ address=/my-kyivstar.com.ua/
 address=/mykyivstar.com/
 address=/next-novapay.cloud/
 address=/nextpay.pw/
+address=/nextuaviplata.pro/
+address=/nextuaviplata24.pro/
+address=/nextviplataua.pro/
+address=/nextviplataua24.icu/
 address=/nova-pay-ua.com/
 address=/novapay-ukr.top/
 address=/novaposhta-ua.com/
