@@ -46,18 +46,18 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ### Браузери з вбудованими модулями фільтрації контенту
 
-* Brave (включно з версіями для операційних систем Android та iOS): [brave.com](https://brave.com/)
+* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
   * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
-* Opera: [opera.com](https://www.opera.com/)
-* Vivaldi: [vivaldi.com](https://vivaldi.com/)
+* [Opera](https://www.opera.com/)
+* [Vivaldi](https://vivaldi.com/)
 
 ### Розширення
 
-* uBlock Origin: [ublockorigin.com](https://ublockorigin.com/)
+* [uBlock Origin](https://ublockorigin.com/)
   * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
-* Adblock Plus: [adblockplus.org](https://adblockplus.org/)
+* [Adblock Plus](https://adblockplus.org/)
    * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
-* AdBlock: [getadblock.com](https://getadblock.com/)
+* [AdBlock](https://getadblock.com/)
 
 ## Особливості
 
@@ -70,12 +70,12 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 ## Джерела інформації
 
 * Власна моніторингова команда
-* Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA): [cert.gov.ua](https://cert.gov.ua/)
-* BlackList EMA: [ema.com.ua/citizens/blacklist](https://www.ema.com.ua/citizens/blacklist/)
+* [Урядова команда реагування на комп'ютерні надзвичайні події України](https://cert.gov.ua/) (CERT-UA)
+* [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
 
 ## Партнери проекту
 
-* DNSlytics: [dnslytics.com](https://dnslytics.com)
+* [DNSlytics](https://dnslytics.com)
 
 ## Wiki
 
