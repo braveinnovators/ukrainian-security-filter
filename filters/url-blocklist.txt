@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230711.01
-! Last modified: Tue, 11 July 2023 18:38 EEST
+! Version: 20230713.01
+! Last modified: Thu, 13 July 2023 10:01 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -39,6 +39,7 @@
 ||diaaukraine.space^
 ||diadopomogaio.online^
 ||donate-ukrainehelp.org^
+||donate-viplata24.space^
 ||dopomoga-2023.top^
 ||dopomoga-24pay.win^
 ||dopomoga-aid.top^
@@ -97,10 +98,13 @@
 ||dopomogae.online^
 ||dopomogae.social^
 ||dopomogae.xyz^
+||dopomogaexpress.app^
+||dopomogaexpress.biz^
 ||dopomogaexpress.info^
 ||dopomogaexpress.net^
 ||dopomogaexpress.online^
 ||dopomogaexpress.org^
+||dopomogaexpress.xyz^
 ||dopomogafromoon-ukr.com^
 ||dopomogagroshi.top^
 ||dopomogahelp.com^
@@ -110,9 +114,12 @@
 ||dopomogaonline.app^
 ||dopomogaonline.biz^
 ||dopomogaonline.club^
+||dopomogaonline.com^
+||dopomogaonline.express^
 ||dopomogaonline.info^
 ||dopomogaonline.net^
 ||dopomogaonline.org^
+||dopomogaonline.shop^
 ||dopomogaonline.site^
 ||dopomogaonline.store^
 ||dopomogaonline.xyz^
@@ -188,6 +195,7 @@
 ||help-ukraine.org^
 ||help-ukraine.space^
 ||help-ukraine.website^
+||help24-viplata.me^
 ||help24ua.com^
 ||help24uapay.com^
 ||help24ukr.com^
@@ -270,6 +278,10 @@
 ||mykyivstar.com^
 ||next-novapay.cloud^
 ||nextpay.pw^
+||nextuaviplata.pro^
+||nextuaviplata24.pro^
+||nextviplataua.pro^
+||nextviplataua24.icu^
 ||nova-pay-ua.com^
 ||novapay-ukr.top^
 ||novaposhta-ua.com^
@@ -604,6 +616,7 @@
 ://*privat24*.*/$document,domain=~privat24.ua
 ://*privatbank*.*/$document,domain=~privatbank.ua
 ://24-next.*.$document
+://24next.*.$document
 ://next24.*.$document
 ://privat-ua.*.$document
 ://privat.*.$document
