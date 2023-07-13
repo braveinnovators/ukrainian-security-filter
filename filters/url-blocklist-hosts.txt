@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230713.01
-# Last modified: Thu, 13 July 2023 10:01 EEST
+# Version: 20230713.02
+# Last modified: Thu, 13 July 2023 13:49 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -499,6 +499,7 @@
 0.0.0.0 ukrpomosh.xyz
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
+0.0.0.0 ukrua.art.blog
 0.0.0.0 ukrwallet.com
 0.0.0.0 un-unicef.org
 0.0.0.0 unicef-uk.com
