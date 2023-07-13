@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230711.01
-# Last modified: Tue, 11 July 2023 18:38 EEST
+# Version: 20230713.01
+# Last modified: Thu, 13 July 2023 10:01 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -39,6 +39,7 @@
 0.0.0.0 diaaukraine.space
 0.0.0.0 diadopomogaio.online
 0.0.0.0 donate-ukrainehelp.org
+0.0.0.0 donate-viplata24.space
 0.0.0.0 dopomoga-2023.top
 0.0.0.0 dopomoga-24pay.win
 0.0.0.0 dopomoga-aid.top
@@ -97,10 +98,13 @@
 0.0.0.0 dopomogae.online
 0.0.0.0 dopomogae.social
 0.0.0.0 dopomogae.xyz
+0.0.0.0 dopomogaexpress.app
+0.0.0.0 dopomogaexpress.biz
 0.0.0.0 dopomogaexpress.info
 0.0.0.0 dopomogaexpress.net
 0.0.0.0 dopomogaexpress.online
 0.0.0.0 dopomogaexpress.org
+0.0.0.0 dopomogaexpress.xyz
 0.0.0.0 dopomogafromoon-ukr.com
 0.0.0.0 dopomogagroshi.top
 0.0.0.0 dopomogahelp.com
@@ -110,9 +114,12 @@
 0.0.0.0 dopomogaonline.app
 0.0.0.0 dopomogaonline.biz
 0.0.0.0 dopomogaonline.club
+0.0.0.0 dopomogaonline.com
+0.0.0.0 dopomogaonline.express
 0.0.0.0 dopomogaonline.info
 0.0.0.0 dopomogaonline.net
 0.0.0.0 dopomogaonline.org
+0.0.0.0 dopomogaonline.shop
 0.0.0.0 dopomogaonline.site
 0.0.0.0 dopomogaonline.store
 0.0.0.0 dopomogaonline.xyz
@@ -188,6 +195,7 @@
 0.0.0.0 help-ukraine.org
 0.0.0.0 help-ukraine.space
 0.0.0.0 help-ukraine.website
+0.0.0.0 help24-viplata.me
 0.0.0.0 help24ua.com
 0.0.0.0 help24uapay.com
 0.0.0.0 help24ukr.com
@@ -270,6 +278,10 @@
 0.0.0.0 mykyivstar.com
 0.0.0.0 next-novapay.cloud
 0.0.0.0 nextpay.pw
+0.0.0.0 nextuaviplata.pro
+0.0.0.0 nextuaviplata24.pro
+0.0.0.0 nextviplataua.pro
+0.0.0.0 nextviplataua24.icu
 0.0.0.0 nova-pay-ua.com
 0.0.0.0 novapay-ukr.top
 0.0.0.0 novaposhta-ua.com
