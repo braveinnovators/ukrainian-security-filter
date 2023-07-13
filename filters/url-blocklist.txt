@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230713.01
-! Last modified: Thu, 13 July 2023 10:01 EEST
+! Version: 20230713.02
+! Last modified: Thu, 13 July 2023 13:49 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -499,6 +499,7 @@
 ||ukrpomosh.xyz^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
+||ukrua.art.blog^
 ||ukrwallet.com^
 ||un-unicef.org^
 ||unicef-uk.com^
@@ -701,6 +702,9 @@
 ||facebook.com/uappl.org^$document
 
 ||*aidfromtheunbot^$document,domain=t.me|telegram.me
+||*diadopomaga^$document,domain=t.me|telegram.me
+||*dlia_gov^$document,domain=t.me|telegram.me
+||*dopomagoua^$document,domain=t.me|telegram.me
 ||*dopomogai23^$document,domain=t.me|telegram.me
 ||*dopomogaukraineee^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
@@ -709,7 +713,6 @@
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*help_from_all_countries_bot^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
-||*oohviplata^$document,domain=t.me|telegram.me
 ||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
@@ -719,11 +722,7 @@
 ||*raiffeizenprivatocshadbonus^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_new24_bot^$document,domain=t.me|telegram.me
-||*ukraine_test2_bot^$document,domain=t.me|telegram.me
-||*westernunionua^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
 ||eudopomoga.nicepage.io^$document
-||nowpayments.io/payment/?iid=6401665851&paymentId=5609172507^$document
 ||opensea.io/VolunteersUA^$document
-||send.monobank.ua/jar/A8fiGERDpF^$document
