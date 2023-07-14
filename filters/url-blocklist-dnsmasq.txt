@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230713.02
-# Last modified: Thu, 13 July 2023 13:49 EEST
+# Version: 20230714.01
+# Last modified: Fri, 14 July 2023 14:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -445,6 +445,11 @@ address=/toidopomoga.org/
 address=/toidopomoga.pro/
 address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
+address=/ua-oschaad.cloud/
+address=/ua-oschaad.online/
+address=/ua-oschaad.shop/
+address=/ua-oschaad.tech/
+address=/ua-oschaad.website/
 address=/ua-paying.cloud/
 address=/ua-paying.online/
 address=/ua-paying.pics/
@@ -477,6 +482,7 @@ address=/ukraina-viplata.xyz/
 address=/ukraina.buzz/
 address=/ukraina.pro/
 address=/ukrainadopomoga24.org/
+address=/ukrainapays24.pro/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
 address=/ukrainedevelopmentmission.org/
@@ -499,6 +505,7 @@ address=/ukrpomosh.space/
 address=/ukrpomosh.xyz/
 address=/ukrsib-bank.site/
 address=/ukrsib-bank.top/
+address=/ukrsibbankq.com/
 address=/ukrua.art.blog/
 address=/ukrwallet.com/
 address=/un-unicef.org/
