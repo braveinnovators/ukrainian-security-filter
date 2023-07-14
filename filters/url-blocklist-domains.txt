@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230713.02
-# Last modified: Thu, 13 July 2023 13:49 EEST
+# Version: 20230714.01
+# Last modified: Fri, 14 July 2023 14:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -445,6 +445,11 @@ toidopomoga.org
 toidopomoga.pro
 trust-group.pro
 tviy-kyivstar.com.ua
+ua-oschaad.cloud
+ua-oschaad.online
+ua-oschaad.shop
+ua-oschaad.tech
+ua-oschaad.website
 ua-paying.cloud
 ua-paying.online
 ua-paying.pics
@@ -477,6 +482,7 @@ ukraina-viplata.xyz
 ukraina.buzz
 ukraina.pro
 ukrainadopomoga24.org
+ukrainapays24.pro
 ukraineamazon.com
 ukraineamazon.pro
 ukrainedevelopmentmission.org
@@ -499,6 +505,7 @@ ukrpomosh.space
 ukrpomosh.xyz
 ukrsib-bank.site
 ukrsib-bank.top
+ukrsibbankq.com
 ukrua.art.blog
 ukrwallet.com
 un-unicef.org
