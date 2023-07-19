@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230714.01
-# Last modified: Fri, 14 July 2023 14:03 EEST
+# Version: 20230719.01
+# Last modified: Wed, 19 July 2023 13:58 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -70,6 +70,7 @@
 0.0.0.0 dopomoga.in
 0.0.0.0 dopomoga.me
 0.0.0.0 dopomoga.observer
+0.0.0.0 dopomoga.pics
 0.0.0.0 dopomoga.place
 0.0.0.0 dopomoga.rocks
 0.0.0.0 dopomoga.social
@@ -145,6 +146,7 @@
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomoha-ua.company.site
 0.0.0.0 dopomoha-ua.website
+0.0.0.0 dopomohaukraine.world
 0.0.0.0 dopoviplataua.xyz
 0.0.0.0 drone-ua.space
 0.0.0.0 e-dopomoga-perekazy24.space
@@ -216,10 +218,12 @@
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 ipay-ua.online
 0.0.0.0 kievstar.online
+0.0.0.0 kojnomydopomoga.sbs
 0.0.0.0 konkurs-23.site
 0.0.0.0 konkurs-24.site
 0.0.0.0 konkurs-events.top
 0.0.0.0 konkurs-golos.ltd
+0.0.0.0 konkurs-leto.online
 0.0.0.0 konkurs-my.site
 0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-uk.site
@@ -272,6 +276,7 @@
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
+0.0.0.0 mvs-ua.space
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
@@ -280,8 +285,6 @@
 0.0.0.0 nextpay.pw
 0.0.0.0 nextuaviplata.pro
 0.0.0.0 nextuaviplata24.pro
-0.0.0.0 nextviplataua.pro
-0.0.0.0 nextviplataua24.icu
 0.0.0.0 nova-pay-ua.com
 0.0.0.0 novapay-ukr.top
 0.0.0.0 novaposhta-ua.com
@@ -300,6 +303,8 @@
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
 0.0.0.0 olx-ua.ink
+0.0.0.0 olx-ua.life
+0.0.0.0 olx-ua.pro
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeisen.info
@@ -331,9 +336,15 @@
 0.0.0.0 oshadbank.uk
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
+0.0.0.0 oshadhelpes.life
+0.0.0.0 oshadpaies.co
+0.0.0.0 oshadpqy.info
+0.0.0.0 oshadukhel.pro
+0.0.0.0 oshadukras.info
 0.0.0.0 oshcadbank.top
 0.0.0.0 oshviplata24.space
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
+0.0.0.0 otrimati-groshi.site
 0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
@@ -341,8 +352,10 @@
 0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-ua.pics
 0.0.0.0 payment-system.cloud
+0.0.0.0 paymenthelpukr.support
 0.0.0.0 paymentukrainenow.com
 0.0.0.0 paysdopomogaua.pro
+0.0.0.0 paysuanext24.org
 0.0.0.0 paysuanext24.pro
 0.0.0.0 paysuanext24.tech
 0.0.0.0 payviplata.shop
@@ -359,6 +372,7 @@
 0.0.0.0 pidtrimka-e.xyz
 0.0.0.0 pidtrimka.cloud
 0.0.0.0 pidtrimka.world
+0.0.0.0 pidtrumkapruvat24.world
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
@@ -455,6 +469,7 @@
 0.0.0.0 ua-paying.pics
 0.0.0.0 ua-paying.xyz
 0.0.0.0 ua-payticket.online
+0.0.0.0 ua-tickets1.online
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
@@ -468,6 +483,8 @@
 0.0.0.0 uahelpnow24.com
 0.0.0.0 uakonkursevent.space
 0.0.0.0 uanowhelp.com
+0.0.0.0 uapays24.icu
+0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 ukr-buy.com.ua
@@ -483,6 +500,7 @@
 0.0.0.0 ukraina.pro
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
+0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainedevelopmentmission.org
@@ -509,6 +527,7 @@
 0.0.0.0 ukrua.art.blog
 0.0.0.0 ukrwallet.com
 0.0.0.0 un-unicef.org
+0.0.0.0 unicef-help.info
 0.0.0.0 unicef-uk.com
 0.0.0.0 uniceforg.com
 0.0.0.0 unicefua.news
@@ -553,6 +572,7 @@
 0.0.0.0 viplatanow.online
 0.0.0.0 viplataonline.com
 0.0.0.0 viplataoon.info
+0.0.0.0 viplatasocoshad.online
 0.0.0.0 viplatasukraine.com
 0.0.0.0 viplataua.art.blog
 0.0.0.0 viplataua.co
@@ -564,6 +584,7 @@
 0.0.0.0 viplataua.site
 0.0.0.0 viplataua.xyz
 0.0.0.0 viplataua24.com
+0.0.0.0 viplataua24.pro
 0.0.0.0 viplatauaukr.xyz
 0.0.0.0 viplatauaukraine.xyz
 0.0.0.0 viplataukr.xyz
