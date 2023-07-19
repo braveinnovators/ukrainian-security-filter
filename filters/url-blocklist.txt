@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230715.01
-! Last modified: Sat, 15 July 2023 13:07 EEST
+! Version: 20230719.01
+! Last modified: Wed, 19 July 2023 13:58 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -70,6 +70,7 @@
 ||dopomoga.in^
 ||dopomoga.me^
 ||dopomoga.observer^
+||dopomoga.pics^
 ||dopomoga.place^
 ||dopomoga.rocks^
 ||dopomoga.social^
@@ -145,6 +146,7 @@
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
 ||dopomoha-ua.website^
+||dopomohaukraine.world^
 ||dopoviplataua.xyz^
 ||drone-ua.space^
 ||e-dopomoga-perekazy24.space^
@@ -216,10 +218,12 @@
 ||internet-kyivstar.com^
 ||ipay-ua.online^
 ||kievstar.online^
+||kojnomydopomoga.sbs^
 ||konkurs-23.site^
 ||konkurs-24.site^
 ||konkurs-events.top^
 ||konkurs-golos.ltd^
+||konkurs-leto.online^
 ||konkurs-my.site^
 ||konkurs-ua.site^
 ||konkurs-uk.site^
@@ -272,6 +276,7 @@
 ||moneypay-for-ukrainians-people.pro^
 ||moneyua24.org^
 ||moneyuanext24.info^
+||mvs-ua.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
 ||my-kyivstar.com.ua^
@@ -280,8 +285,6 @@
 ||nextpay.pw^
 ||nextuaviplata.pro^
 ||nextuaviplata24.pro^
-||nextviplataua.pro^
-||nextviplataua24.icu^
 ||nova-pay-ua.com^
 ||novapay-ukr.top^
 ||novaposhta-ua.com^
@@ -300,6 +303,8 @@
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||olx-ua.ink^
+||olx-ua.life^
+||olx-ua.pro^
 ||ondorazovaya-viplata24.space^
 ||online-pays.tech^
 ||online-raiffeisen.info^
@@ -331,9 +336,15 @@
 ||oshadbank.uk^
 ||oshadbank.website^
 ||oshadbank24.win^
+||oshadhelpes.life^
+||oshadpaies.co^
+||oshadpqy.info^
+||oshadukhel.pro^
+||oshadukras.info^
 ||oshcadbank.top^
 ||oshviplata24.space^
 ||otrim-koshtiv-ukr.biz.ua^
+||otrimati-groshi.site^
 ||otrimati-ua.site^
 ||otrimayviplatu.website^
 ||oukr.net^
@@ -341,8 +352,10 @@
 ||patriot-ukraine.info^
 ||pay-ua.pics^
 ||payment-system.cloud^
+||paymenthelpukr.support^
 ||paymentukrainenow.com^
 ||paysdopomogaua.pro^
+||paysuanext24.org^
 ||paysuanext24.pro^
 ||paysuanext24.tech^
 ||payviplata.shop^
@@ -359,6 +372,7 @@
 ||pidtrimka-e.xyz^
 ||pidtrimka.cloud^
 ||pidtrimka.world^
+||pidtrumkapruvat24.world^
 ||poluchenieuanext24.tech^
 ||poluchuanext24.pro^
 ||portal-diya.kyiv.ua^
@@ -455,6 +469,7 @@
 ||ua-paying.pics^
 ||ua-paying.xyz^
 ||ua-payticket.online^
+||ua-tickets1.online^
 ||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua24pomoga.online^
@@ -468,6 +483,8 @@
 ||uahelpnow24.com^
 ||uakonkursevent.space^
 ||uanowhelp.com^
+||uapays24.icu^
+||uapoluch24.pro^
 ||uappl.org^
 ||uavolunteer-military.com^
 ||ukr-buy.com.ua^
@@ -483,6 +500,7 @@
 ||ukraina.pro^
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
+||ukraine-mvs.site^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainedevelopmentmission.org^
@@ -509,6 +527,7 @@
 ||ukrua.art.blog^
 ||ukrwallet.com^
 ||un-unicef.org^
+||unicef-help.info^
 ||unicef-uk.com^
 ||uniceforg.com^
 ||unicefua.news^
@@ -553,6 +572,7 @@
 ||viplatanow.online^
 ||viplataonline.com^
 ||viplataoon.info^
+||viplatasocoshad.online^
 ||viplatasukraine.com^
 ||viplataua.art.blog^
 ||viplataua.co^
@@ -564,6 +584,7 @@
 ||viplataua.site^
 ||viplataua.xyz^
 ||viplataua24.com^
+||viplataua24.pro^
 ||viplatauaukr.xyz^
 ||viplatauaukraine.xyz^
 ||viplataukr.xyz^
@@ -589,33 +610,27 @@
 ://*ukr24promo*.*/$document
 ://*ukrpromo*.*/$document
 ://*viplatuvsim*.*/$document
-://daopomoga*.$document
-://dopomogas.$document
-://dopoomoga*.$document
+://dopomogae2023.$document
+://dopomogi.$document
+://eddopomoga2023.$document
 ://getmoneyua.$document
 ://nextmoneyua*.$document
 ://nextpaysua*.$document
+://nextviplataua*.$document
 ://poluchenie24ua.$document
-://poluchenienextua*.$document
 ://polucheniepaysua.$document
 ://poluchenieua*.$document
 ://poluchenieviplatiua.$document
 ://ukrpay*.$document
 ://viplata4vsim.$document
-://*-7300-*.*/$document
-://*7300diya.*/$document
 ://7300-bank*.$document
 ://7300-ediya.$document
-://7300-ehelpcard.$document
 ://7300-pay*.$document
 ://7300-ua*.$document
-://7300bank.$document
-://7300ediya.$document
+://7300bank*.$document
 ://7300gov-pay*.$document
-://7300paybank*.$document
-://7300payua.$document
+://7300pay*.$document
 ://7300ua*.$document
-://go7300-ua.$document
 ://pay7300*.$document
 
 ! PRIVATBANK.UA
