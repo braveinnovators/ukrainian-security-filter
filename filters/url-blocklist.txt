@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230719.02
-! Last modified: Wed, 19 July 2023 15:44 EEST
+! Version: 20230722.01
+! Last modified: Sat, 22 July 2023 21:48 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -16,6 +16,9 @@
 ||24uadopomoga.sbs^
 ||24uadopomoga.world^
 ||24ukrhelp.com^
+||7300.cloud^
+||7300.pics^
+||7300.pro^
 ||adidas-ua.shop^
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
@@ -254,6 +257,7 @@
 ||kyivstar.in.ua^
 ||kyivstar.in^
 ||kyivstar.info^
+||kyivstar.me^
 ||kyivstar.mobi^
 ||kyivstar.org.ua^
 ||kyivstar.org^
@@ -602,36 +606,16 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-://*dopomogausim*.*/$document
-://*eviplata*.*/$document
-://*paypromo*.*/$document
-://*payukr*.*/$document
-://*promoukr*.*/$document
-://*ukr24promo*.*/$document
-://*ukrpromo*.*/$document
-://*viplatuvsim*.*/$document
-://dopomogae2023.$document
-://dopomogi.$document
+://*unisefdopomoga*.*/$document
 ://eddopomoga2023.$document
-://getmoneyua.$document
-://nextmoneyua*.$document
-://nextpaysua*.$document
-://nextviplataua*.$document
-://poluchenie24ua.$document
-://polucheniepaysua.$document
-://poluchenieua*.$document
-://poluchenieviplatiua.$document
-://ukrpay*.$document
-://viplata4vsim.$document
 ://7300-bank*.$document
-://7300-ediya.$document
 ://7300-pay*.$document
-://7300-ua*.$document
 ://7300bank*.$document
-://7300gov-pay*.$document
+://7300help.$document
+://7300online.$document
+://7300paid.$document
 ://7300pay*.$document
-://7300ua*.$document
-://pay7300*.$document
+://7300trust.$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -692,8 +676,6 @@
 ||*diia*$document,domain=t.me|telegram.me
 @@||*diia_gov^$document,domain=t.me|telegram.me
 @@||*diia_help_bot^$document,domain=t.me|telegram.me
-://ua-diya*.$document
-://uadiya*.$document
 
 ! UKR.NET
 ! UAC-0102 (CERT-UA)
@@ -723,6 +705,7 @@
 
 ||*aidfromtheunbot^$document,domain=t.me|telegram.me
 ||*dia_dopomaga_ua^$document,domain=t.me|telegram.me
+||*dia_dopomagaua^$document,domain=t.me|telegram.me
 ||*dia_gopomogaua^$document,domain=t.me|telegram.me
 ||*diya_oon_support^$document,domain=t.me|telegram.me
 ||*dlia_gov^$document,domain=t.me|telegram.me
@@ -740,7 +723,6 @@
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
-||*raiffeisenhelpbot^$document,domain=t.me|telegram.me
 ||*raiffeizenprivatocshadbonus^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_new24_bot^$document,domain=t.me|telegram.me
