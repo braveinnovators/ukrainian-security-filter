@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230719.01
-# Last modified: Wed, 19 July 2023 13:58 EEST
+# Version: 20230722.01
+# Last modified: Sat, 22 July 2023 21:48 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -16,6 +16,9 @@
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
+0.0.0.0 7300.cloud
+0.0.0.0 7300.pics
+0.0.0.0 7300.pro
 0.0.0.0 adidas-ua.shop
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
@@ -254,6 +257,7 @@
 0.0.0.0 kyivstar.in
 0.0.0.0 kyivstar.in.ua
 0.0.0.0 kyivstar.info
+0.0.0.0 kyivstar.me
 0.0.0.0 kyivstar.mobi
 0.0.0.0 kyivstar.org
 0.0.0.0 kyivstar.org.ua
