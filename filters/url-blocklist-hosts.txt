@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230722.01
-# Last modified: Sat, 22 July 2023 21:48 EEST
+# Version: 20230724.01
+# Last modified: Mon, 24 July 2023 14:04 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 deal-loads.site
 0.0.0.0 delivery-pay.website
+0.0.0.0 derjavaukraine.cc
 0.0.0.0 diaa-ukraine.site
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diaaukraine.site
@@ -186,7 +187,9 @@
 0.0.0.0 getpaysua.me
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
+0.0.0.0 gov-ua.pics
 0.0.0.0 gov-ua.site
+0.0.0.0 gov-uas.site
 0.0.0.0 goviplataua.info
 0.0.0.0 govs-ua.com
 0.0.0.0 govs-ua.io
@@ -455,6 +458,7 @@
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
+0.0.0.0 safe-uagov.cloud
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 swiftperekaz.pro
@@ -491,10 +495,12 @@
 0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
 0.0.0.0 uavolunteer-military.com
+0.0.0.0 uk-konkurs.site
 0.0.0.0 ukr-buy.com.ua
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-dopomoga.top
+0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-oil-group.online
 0.0.0.0 ukr-payment-system.online
