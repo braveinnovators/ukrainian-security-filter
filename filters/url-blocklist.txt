@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230722.01
-! Last modified: Sat, 22 July 2023 21:48 EEST
+! Version: 20230724.01
+! Last modified: Mon, 24 July 2023 14:04 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -36,6 +36,7 @@
 ||cryptocurrency-helps-ukraine.com^
 ||deal-loads.site^
 ||delivery-pay.website^
+||derjavaukraine.cc^
 ||diaa-ukraine.site^
 ||diaa-ukraine.space^
 ||diaaukraine.site^
@@ -186,7 +187,9 @@
 ||getpaysua.me^
 ||goturozetka.com^
 ||goturozetka.vip^
+||gov-ua.pics^
 ||gov-ua.site^
+||gov-uas.site^
 ||goviplataua.info^
 ||govs-ua.com^
 ||govs-ua.io^
@@ -455,6 +458,7 @@
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
+||safe-uagov.cloud^
 ||samsung-ukraine.com.ua^
 ||starlink-ukraine.net^
 ||swiftperekaz.pro^
@@ -491,10 +495,12 @@
 ||uapoluch24.pro^
 ||uappl.org^
 ||uavolunteer-military.com^
+||uk-konkurs.site^
 ||ukr-buy.com.ua^
 ||ukr-cash.top^
 ||ukr-dopomog.top^
 ||ukr-dopomoga.top^
+||ukr-konkurs.site^
 ||ukr-money.com.ua^
 ||ukr-oil-group.online^
 ||ukr-payment-system.online^
@@ -723,7 +729,6 @@
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*project_mavr_bot^$document,domain=t.me|telegram.me
-||*raiffeizenprivatocshadbonus^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*ukraine_new24_bot^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
