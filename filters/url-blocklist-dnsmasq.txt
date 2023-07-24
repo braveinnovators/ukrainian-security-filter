@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230722.01
-# Last modified: Sat, 22 July 2023 21:48 EEST
+# Version: 20230724.01
+# Last modified: Mon, 24 July 2023 14:04 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -36,6 +36,7 @@ address=/chooseraiff.site/
 address=/cryptocurrency-helps-ukraine.com/
 address=/deal-loads.site/
 address=/delivery-pay.website/
+address=/derjavaukraine.cc/
 address=/diaa-ukraine.site/
 address=/diaa-ukraine.space/
 address=/diaaukraine.site/
@@ -186,7 +187,9 @@ address=/get-paysua24.net/
 address=/getpaysua.me/
 address=/goturozetka.com/
 address=/goturozetka.vip/
+address=/gov-ua.pics/
 address=/gov-ua.site/
+address=/gov-uas.site/
 address=/goviplataua.info/
 address=/govs-ua.com/
 address=/govs-ua.io/
@@ -455,6 +458,7 @@ address=/reliefukraine.today/
 address=/rozetkaukraine.cc/
 address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
+address=/safe-uagov.cloud/
 address=/samsung-ukraine.com.ua/
 address=/starlink-ukraine.net/
 address=/swiftperekaz.pro/
@@ -491,10 +495,12 @@ address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
 address=/uavolunteer-military.com/
+address=/uk-konkurs.site/
 address=/ukr-buy.com.ua/
 address=/ukr-cash.top/
 address=/ukr-dopomog.top/
 address=/ukr-dopomoga.top/
+address=/ukr-konkurs.site/
 address=/ukr-money.com.ua/
 address=/ukr-oil-group.online/
 address=/ukr-payment-system.online/
