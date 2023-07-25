@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230724.01
-# Last modified: Mon, 24 July 2023 14:04 EEST
+# Version: 20230725.01
+# Last modified: Tue, 25 July 2023 14:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -194,6 +194,7 @@ address=/goviplataua.info/
 address=/govs-ua.com/
 address=/govs-ua.io/
 address=/govua.buzz/
+address=/govua.shop/
 address=/groshidopomoga.top/
 address=/groshovadopomoga.com/
 address=/grosovadopomoga.shop/
@@ -283,10 +284,12 @@ address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
 address=/moneyua24.org/
 address=/moneyuanext24.info/
+address=/mvs-gov.space/
 address=/mvs-ua.space/
 address=/my-goavuvyplate.site/
 address=/my-govuwvyplatte.site/
 address=/my-kyivstar.com.ua/
+address=/mygovua.online/
 address=/mykyivstar.com/
 address=/next-novapay.cloud/
 address=/nextpay.pw/
