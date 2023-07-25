@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230724.01
-# Last modified: Mon, 24 July 2023 14:04 EEST
+# Version: 20230725.01
+# Last modified: Tue, 25 July 2023 14:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -194,6 +194,7 @@
 0.0.0.0 govs-ua.com
 0.0.0.0 govs-ua.io
 0.0.0.0 govua.buzz
+0.0.0.0 govua.shop
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshovadopomoga.com
 0.0.0.0 grosovadopomoga.shop
@@ -283,10 +284,12 @@
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
+0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-ua.space
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
+0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
 0.0.0.0 next-novapay.cloud
 0.0.0.0 nextpay.pw
