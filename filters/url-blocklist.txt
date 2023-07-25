@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230724.01
-! Last modified: Mon, 24 July 2023 14:04 EEST
+! Version: 20230725.01
+! Last modified: Tue, 25 July 2023 14:32 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -194,6 +194,7 @@
 ||govs-ua.com^
 ||govs-ua.io^
 ||govua.buzz^
+||govua.shop^
 ||groshidopomoga.top^
 ||groshovadopomoga.com^
 ||grosovadopomoga.shop^
@@ -283,10 +284,12 @@
 ||moneypay-for-ukrainians-people.pro^
 ||moneyua24.org^
 ||moneyuanext24.info^
+||mvs-gov.space^
 ||mvs-ua.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
 ||my-kyivstar.com.ua^
+||mygovua.online^
 ||mykyivstar.com^
 ||next-novapay.cloud^
 ||nextpay.pw^
