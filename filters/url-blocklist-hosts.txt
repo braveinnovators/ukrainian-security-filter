@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230725.01
-# Last modified: Tue, 25 July 2023 14:32 EEST
+# Version: 20230727.01
+# Last modified: Thu, 27 July 2023 15:07 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -333,6 +333,7 @@
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
+0.0.0.0 oschad-online.charity
 0.0.0.0 oschadbaq.com
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
@@ -440,6 +441,7 @@
 0.0.0.0 raiffeisennextua.site
 0.0.0.0 raiffeizen-viplata-help.online
 0.0.0.0 raiffejsen.online
+0.0.0.0 raiffesen.charity
 0.0.0.0 raiffesen.com
 0.0.0.0 raiffesen.pro
 0.0.0.0 raiffeslen.biz
@@ -447,6 +449,7 @@
 0.0.0.0 raiffeslen.org
 0.0.0.0 raiffesseln.com
 0.0.0.0 raiffessen-ua.com
+0.0.0.0 raiffsen.charity
 0.0.0.0 razomforukraine.in
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
