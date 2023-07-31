@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230727.01
-# Last modified: Thu, 27 July 2023 15:07 EEST
+# Version: 20230731.01
+# Last modified: Mon, 31 July 2023 19:41 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -133,6 +133,7 @@
 0.0.0.0 dopomogaoon.space
 0.0.0.0 dopomogapays.site
 0.0.0.0 dopomogapro.club
+0.0.0.0 dopomogapruvat24ua.world
 0.0.0.0 dopomogatyt.info
 0.0.0.0 dopomogaua-pidtrimka.com
 0.0.0.0 dopomogaua-pidtrimkaua.com
@@ -141,6 +142,7 @@
 0.0.0.0 dopomogaua.xyz
 0.0.0.0 dopomogaua24.me
 0.0.0.0 dopomogaua24.org
+0.0.0.0 dopomogauapruvat24.world
 0.0.0.0 dopomogauk.xyz
 0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
@@ -450,6 +452,7 @@
 0.0.0.0 raiffesseln.com
 0.0.0.0 raiffessen-ua.com
 0.0.0.0 raiffsen.charity
+0.0.0.0 raiffsenl.charity
 0.0.0.0 razomforukraine.in
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
@@ -500,6 +503,7 @@
 0.0.0.0 uapays24.icu
 0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
+0.0.0.0 uaunicef.site
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 uk-konkurs.site
 0.0.0.0 ukr-buy.com.ua
