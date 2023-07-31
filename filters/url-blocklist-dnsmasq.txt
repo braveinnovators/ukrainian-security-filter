@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230727.01
-# Last modified: Thu, 27 July 2023 15:07 EEST
+# Version: 20230731.01
+# Last modified: Mon, 31 July 2023 19:41 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -133,6 +133,7 @@ address=/dopomogaooh.pro/
 address=/dopomogaoon.space/
 address=/dopomogapays.site/
 address=/dopomogapro.club/
+address=/dopomogapruvat24ua.world/
 address=/dopomogatyt.info/
 address=/dopomogaua-pidtrimka.com/
 address=/dopomogaua-pidtrimkaua.com/
@@ -141,6 +142,7 @@ address=/dopomogaua.pro/
 address=/dopomogaua.xyz/
 address=/dopomogaua24.me/
 address=/dopomogaua24.org/
+address=/dopomogauapruvat24.world/
 address=/dopomogauk.xyz/
 address=/dopomogaukr.website/
 address=/dopomogaukraiine.com/
@@ -450,6 +452,7 @@ address=/raiffeslen.org/
 address=/raiffesseln.com/
 address=/raiffessen-ua.com/
 address=/raiffsen.charity/
+address=/raiffsenl.charity/
 address=/razomforukraine.in/
 address=/recive-money.icu/
 address=/recivemoney.icu/
@@ -500,6 +503,7 @@ address=/uanowhelp.com/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
+address=/uaunicef.site/
 address=/uavolunteer-military.com/
 address=/uk-konkurs.site/
 address=/ukr-buy.com.ua/
