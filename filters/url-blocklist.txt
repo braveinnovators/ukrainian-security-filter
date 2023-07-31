@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230727.01
-! Last modified: Thu, 27 July 2023 15:07 EEST
+! Version: 20230731.01
+! Last modified: Mon, 31 July 2023 19:41 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -133,6 +133,7 @@
 ||dopomogaoon.space^
 ||dopomogapays.site^
 ||dopomogapro.club^
+||dopomogapruvat24ua.world^
 ||dopomogatyt.info^
 ||dopomogaua-pidtrimka.com^
 ||dopomogaua-pidtrimkaua.com^
@@ -141,6 +142,7 @@
 ||dopomogaua.xyz^
 ||dopomogaua24.me^
 ||dopomogaua24.org^
+||dopomogauapruvat24.world^
 ||dopomogauk.xyz^
 ||dopomogaukr.website^
 ||dopomogaukraiine.com^
@@ -450,6 +452,7 @@
 ||raiffesseln.com^
 ||raiffessen-ua.com^
 ||raiffsen.charity^
+||raiffsenl.charity^
 ||razomforukraine.in^
 ||recive-money.icu^
 ||recivemoney.icu^
@@ -500,6 +503,7 @@
 ||uapays24.icu^
 ||uapoluch24.pro^
 ||uappl.org^
+||uaunicef.site^
 ||uavolunteer-military.com^
 ||uk-konkurs.site^
 ||ukr-buy.com.ua^
