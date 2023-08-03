@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230731.01
-# Last modified: Mon, 31 July 2023 19:41 EEST
+# Version: 20230803.01
+# Last modified: Thu, 03 August 2023 23:33 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -205,6 +205,7 @@
 0.0.0.0 help-ukraine.icu
 0.0.0.0 help-ukraine.org
 0.0.0.0 help-ukraine.space
+0.0.0.0 help-ukraine.top
 0.0.0.0 help-ukraine.website
 0.0.0.0 help24-viplata.me
 0.0.0.0 help24ua.com
@@ -335,6 +336,7 @@
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
+0.0.0.0 opendata-hsc-gov-ua.store
 0.0.0.0 oschad-online.charity
 0.0.0.0 oschadbaq.com
 0.0.0.0 oschadiprivate.click
@@ -487,6 +489,7 @@
 0.0.0.0 ua-paying.xyz
 0.0.0.0 ua-payticket.online
 0.0.0.0 ua-tickets1.online
+0.0.0.0 ua-ukr.net
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
@@ -506,6 +509,7 @@
 0.0.0.0 uaunicef.site
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 uk-konkurs.site
+0.0.0.0 uk-ukr.net
 0.0.0.0 ukr-buy.com.ua
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-dopomog.top
@@ -616,4 +620,6 @@
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
+0.0.0.0 w-ukr.net
+0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
