@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230803.01
-# Last modified: Thu, 03 August 2023 23:33 EEST
+# Version: 20230808.01
+# Last modified: Tue, 08 August 2023 12:18 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -83,6 +83,7 @@
 0.0.0.0 dopomoga.today
 0.0.0.0 dopomoga.wtf
 0.0.0.0 dopomoga2023.com
+0.0.0.0 dopomoga2023.tech
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomoga24.com
 0.0.0.0 dopomoga24.me
@@ -241,6 +242,7 @@
 0.0.0.0 konkurs.site
 0.0.0.0 konkurs2023.site
 0.0.0.0 konkurs23.site
+0.0.0.0 konkursua.site
 0.0.0.0 kyivstar-connect-internet.com.ua
 0.0.0.0 kyivstar-home-internet.com.ua
 0.0.0.0 kyivstar-home-promo.com.ua
@@ -282,12 +284,15 @@
 0.0.0.0 likpay.me
 0.0.0.0 liqpay.info
 0.0.0.0 live-konkurs.site
+0.0.0.0 m-raiffsen.charity
+0.0.0.0 me-raiffsen.charity
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
 0.0.0.0 mvs-gov.space
+0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
@@ -337,7 +342,18 @@
 0.0.0.0 opendata-hsc-gov-ua.com
 0.0.0.0 opendata-hsc-gov-ua.online
 0.0.0.0 opendata-hsc-gov-ua.store
+0.0.0.0 oschad-4family-zsu.online
+0.0.0.0 oschad-4family-zsu.site
+0.0.0.0 oschad-family-zsu.online
+0.0.0.0 oschad-family-zsu.site
+0.0.0.0 oschad-help2zsu.online
+0.0.0.0 oschad-help2zsu.site
+0.0.0.0 oschad-help4family-zsu.online
+0.0.0.0 oschad-help4family-zsu.site
+0.0.0.0 oschad-help4zsu.online
+0.0.0.0 oschad-help4zsu.site
 0.0.0.0 oschad-online.charity
+0.0.0.0 oschad-viplaty4family-zsu.site
 0.0.0.0 oschadbaq.com
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
@@ -454,6 +470,7 @@
 0.0.0.0 raiffesseln.com
 0.0.0.0 raiffessen-ua.com
 0.0.0.0 raiffsen.charity
+0.0.0.0 raiffsenbnk.charity
 0.0.0.0 raiffsenl.charity
 0.0.0.0 razomforukraine.in
 0.0.0.0 recive-money.icu
@@ -506,6 +523,8 @@
 0.0.0.0 uapays24.icu
 0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
+0.0.0.0 uaunicef.buzz
+0.0.0.0 uaunicef.shop
 0.0.0.0 uaunicef.site
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 uk-konkurs.site
@@ -557,6 +576,7 @@
 0.0.0.0 unicefua.news
 0.0.0.0 unicefukrainedonate.com
 0.0.0.0 unicefvyplaty.com
+0.0.0.0 unicefworldwide.org
 0.0.0.0 upayment.me
 0.0.0.0 usdtrader.com
 0.0.0.0 vheck-viplatvidoshad.space
