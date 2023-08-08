@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230803.01
-# Last modified: Thu, 03 August 2023 23:33 EEST
+# Version: 20230808.01
+# Last modified: Tue, 08 August 2023 12:18 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -83,6 +83,7 @@ address=/dopomoga.space/
 address=/dopomoga.today/
 address=/dopomoga.wtf/
 address=/dopomoga2023.com/
+address=/dopomoga2023.tech/
 address=/dopomoga23.top/
 address=/dopomoga24.com/
 address=/dopomoga24.me/
@@ -241,6 +242,7 @@ address=/konkurs-ukraine.site/
 address=/konkurs.site/
 address=/konkurs2023.site/
 address=/konkurs23.site/
+address=/konkursua.site/
 address=/kyivstar-connect-internet.com.ua/
 address=/kyivstar-home-internet.com.ua/
 address=/kyivstar-home-promo.com.ua/
@@ -282,12 +284,15 @@ address=/letokonkurs.site/
 address=/likpay.me/
 address=/liqpay.info/
 address=/live-konkurs.site/
+address=/m-raiffsen.charity/
+address=/me-raiffsen.charity/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/moneypay-for-ukrainians-people.pro/
 address=/moneyua24.org/
 address=/moneyuanext24.info/
 address=/mvs-gov.space/
+address=/mvs-ua.online/
 address=/mvs-ua.space/
 address=/my-goavuvyplate.site/
 address=/my-govuwvyplatte.site/
@@ -337,7 +342,18 @@ address=/oonviplaty.host/
 address=/opendata-hsc-gov-ua.com/
 address=/opendata-hsc-gov-ua.online/
 address=/opendata-hsc-gov-ua.store/
+address=/oschad-4family-zsu.online/
+address=/oschad-4family-zsu.site/
+address=/oschad-family-zsu.online/
+address=/oschad-family-zsu.site/
+address=/oschad-help2zsu.online/
+address=/oschad-help2zsu.site/
+address=/oschad-help4family-zsu.online/
+address=/oschad-help4family-zsu.site/
+address=/oschad-help4zsu.online/
+address=/oschad-help4zsu.site/
 address=/oschad-online.charity/
+address=/oschad-viplaty4family-zsu.site/
 address=/oschadbaq.com/
 address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
@@ -454,6 +470,7 @@ address=/raiffeslen.org/
 address=/raiffesseln.com/
 address=/raiffessen-ua.com/
 address=/raiffsen.charity/
+address=/raiffsenbnk.charity/
 address=/raiffsenl.charity/
 address=/razomforukraine.in/
 address=/recive-money.icu/
@@ -506,6 +523,8 @@ address=/uanowhelp.com/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
+address=/uaunicef.buzz/
+address=/uaunicef.shop/
 address=/uaunicef.site/
 address=/uavolunteer-military.com/
 address=/uk-konkurs.site/
@@ -557,6 +576,7 @@ address=/uniceforg.com/
 address=/unicefua.news/
 address=/unicefukrainedonate.com/
 address=/unicefvyplaty.com/
+address=/unicefworldwide.org/
 address=/upayment.me/
 address=/usdtrader.com/
 address=/vheck-viplatvidoshad.space/
