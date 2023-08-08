@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230803.01
-! Last modified: Thu, 03 August 2023 23:33 EEST
+! Version: 20230808.01
+! Last modified: Tue, 08 August 2023 12:18 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -83,6 +83,7 @@
 ||dopomoga.today^
 ||dopomoga.wtf^
 ||dopomoga2023.com^
+||dopomoga2023.tech^
 ||dopomoga23.top^
 ||dopomoga24.com^
 ||dopomoga24.me^
@@ -241,6 +242,7 @@
 ||konkurs.site^
 ||konkurs2023.site^
 ||konkurs23.site^
+||konkursua.site^
 ||kyivstar-connect-internet.com.ua^
 ||kyivstar-home-internet.com.ua^
 ||kyivstar-home-promo.com.ua^
@@ -282,12 +284,15 @@
 ||likpay.me^
 ||liqpay.info^
 ||live-konkurs.site^
+||m-raiffsen.charity^
+||me-raiffsen.charity^
 ||meta-ua.site^
 ||mobilluck.com.ua^
 ||moneypay-for-ukrainians-people.pro^
 ||moneyua24.org^
 ||moneyuanext24.info^
 ||mvs-gov.space^
+||mvs-ua.online^
 ||mvs-ua.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
@@ -337,7 +342,18 @@
 ||opendata-hsc-gov-ua.com^
 ||opendata-hsc-gov-ua.online^
 ||opendata-hsc-gov-ua.store^
+||oschad-4family-zsu.online^
+||oschad-4family-zsu.site^
+||oschad-family-zsu.online^
+||oschad-family-zsu.site^
+||oschad-help2zsu.online^
+||oschad-help2zsu.site^
+||oschad-help4family-zsu.online^
+||oschad-help4family-zsu.site^
+||oschad-help4zsu.online^
+||oschad-help4zsu.site^
 ||oschad-online.charity^
+||oschad-viplaty4family-zsu.site^
 ||oschadbaq.com^
 ||oschadiprivate.click^
 ||oschadlbank24.uk^
@@ -454,6 +470,7 @@
 ||raiffesseln.com^
 ||raiffessen-ua.com^
 ||raiffsen.charity^
+||raiffsenbnk.charity^
 ||raiffsenl.charity^
 ||razomforukraine.in^
 ||recive-money.icu^
@@ -506,6 +523,8 @@
 ||uapays24.icu^
 ||uapoluch24.pro^
 ||uappl.org^
+||uaunicef.buzz^
+||uaunicef.shop^
 ||uaunicef.site^
 ||uavolunteer-military.com^
 ||uk-konkurs.site^
@@ -557,6 +576,7 @@
 ||unicefua.news^
 ||unicefukrainedonate.com^
 ||unicefvyplaty.com^
+||unicefworldwide.org^
 ||upayment.me^
 ||usdtrader.com^
 ||vheck-viplatvidoshad.space^
@@ -629,15 +649,12 @@
 ! !!!!!!!!!!!!!!!
 
 ://*unisefdopomoga*.*/$document
-://eddopomoga2023.$document
+://ukrsocunicef.$document
 ://7300-bank*.$document
 ://7300-pay*.$document
 ://7300bank*.$document
 ://7300help.$document
-://7300online.$document
-://7300paid.$document
 ://7300pay*.$document
-://7300trust.$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -690,6 +707,7 @@
 ! EDOPOMOGA.GOV.UA
 ://*edopomoga*.*/$document,domain=~gov.ua
 @@||instagram.com/edopomoga.gov.ua^$document
+||*edopomoga*$document,domain=t.me|telegram.me
 
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com
@@ -715,40 +733,19 @@
 
 ||facebook.com/groups/1893994227644109^$document
 ||facebook.com/groups/6469786606418501^$document
-||facebook.com/groups/734908961704169^$document
 ||facebook.com/groups/950847565954330^$document
-||facebook.com/profile.php?id=100091133216478^$document
-||facebook.com/profile.php?id=100091371410986^$document
-||facebook.com/profile.php?id=100091442203527^$document
-||facebook.com/profile.php?id=100091514463233^$document
-||facebook.com/profile.php?id=100091757381334^$document
-||facebook.com/profile.php?id=100092331997023^$document
 ||facebook.com/uappl.org^$document
 
-||*aidfromtheunbot^$document,domain=t.me|telegram.me
-||*dia_dopomaga_ua^$document,domain=t.me|telegram.me
-||*dia_dopomagaua^$document,domain=t.me|telegram.me
-||*dia_gopomogaua^$document,domain=t.me|telegram.me
-||*diya_oon_support^$document,domain=t.me|telegram.me
-||*dlia_gov^$document,domain=t.me|telegram.me
-||*dopomogai23^$document,domain=t.me|telegram.me
-||*dopomogaukraineee^$document,domain=t.me|telegram.me
+||*dia_dopom*$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
-||*e_dopomogagovua^$document,domain=t.me|telegram.me
-||*edopomoga*$document,domain=t.me|telegram.me
-||*eeddoppomogaaaa^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
-||*help_from_all_countries_bot^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
 ||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
 ||*pidrumka*$document,domain=t.me|telegram.me
 ||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
-||*project_mavr_bot^$document,domain=t.me|telegram.me
 ||*ua_ooh_bot^$document,domain=t.me|telegram.me
-||*ukraine_new24_bot^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
-||eudopomoga.nicepage.io^$document
 ||opensea.io/VolunteersUA^$document
 ||taplink.cc/viplata^$document
