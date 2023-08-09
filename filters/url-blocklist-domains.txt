@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230808.01
-# Last modified: Tue, 08 August 2023 12:18 EEST
+# Version: 20230809.01
+# Last modified: Wed, 09 August 2023 17:08 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -537,6 +537,7 @@ ukr-konkurs.site
 ukr-money.com.ua
 ukr-oil-group.online
 ukr-payment-system.online
+ukr-vote.site
 ukr24help.com
 ukraina-viplata.xyz
 ukraina.buzz
