@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230809.01
-# Last modified: Wed, 09 August 2023 17:08 EEST
+# Version: 20230811.01
+# Last modified: Fri, 11 August 2023 12:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -198,7 +198,9 @@ govs-ua.com
 govs-ua.io
 govua.buzz
 govua.shop
+govuad24.cloud
 groshidopomoga.top
+groshinarahunok.com
 groshovadopomoga.com
 grosovadopomoga.shop
 help-ua.social
@@ -304,6 +306,7 @@ nextpay.pw
 nextuaviplata.pro
 nextuaviplata24.pro
 nova-pay-ua.com
+nova-poshta-pay.com
 novapay-ukr.top
 novaposhta-ua.com
 novaposhta-ua.org
@@ -382,6 +385,7 @@ oukr.net
 patriot-ukraine.fun
 patriot-ukraine.info
 pay-ua.pics
+payme-ua.charity
 payment-system.cloud
 paymenthelpukr.support
 paymentukrainenow.com
@@ -390,6 +394,7 @@ paysuanext24.org
 paysuanext24.pro
 paysuanext24.tech
 payviplata.shop
+paywin-ua.charity
 perekaz-koshtiv.online
 perekaz.com
 perekaz.eu
