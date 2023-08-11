@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230809.01
-# Last modified: Wed, 09 August 2023 17:08 EEST
+# Version: 20230811.01
+# Last modified: Fri, 11 August 2023 12:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -198,7 +198,9 @@ address=/govs-ua.com/
 address=/govs-ua.io/
 address=/govua.buzz/
 address=/govua.shop/
+address=/govuad24.cloud/
 address=/groshidopomoga.top/
+address=/groshinarahunok.com/
 address=/groshovadopomoga.com/
 address=/grosovadopomoga.shop/
 address=/help-ua.social/
@@ -304,6 +306,7 @@ address=/nextpay.pw/
 address=/nextuaviplata.pro/
 address=/nextuaviplata24.pro/
 address=/nova-pay-ua.com/
+address=/nova-poshta-pay.com/
 address=/novapay-ukr.top/
 address=/novaposhta-ua.com/
 address=/novaposhta-ua.org/
@@ -382,6 +385,7 @@ address=/oukr.net/
 address=/patriot-ukraine.fun/
 address=/patriot-ukraine.info/
 address=/pay-ua.pics/
+address=/payme-ua.charity/
 address=/payment-system.cloud/
 address=/paymenthelpukr.support/
 address=/paymentukrainenow.com/
@@ -390,6 +394,7 @@ address=/paysuanext24.org/
 address=/paysuanext24.pro/
 address=/paysuanext24.tech/
 address=/payviplata.shop/
+address=/paywin-ua.charity/
 address=/perekaz-koshtiv.online/
 address=/perekaz.com/
 address=/perekaz.eu/
