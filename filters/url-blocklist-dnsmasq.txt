@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230811.01
-# Last modified: Fri, 11 August 2023 12:38 EEST
+# Version: 20230812.01
+# Last modified: Sat, 12 August 2023 11:13 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,6 +29,7 @@ address=/aidforukr-gov.site/
 address=/aidgetukr-gov.site/
 address=/akvapark.site/
 address=/api-donate-ukrainehelp.org/
+address=/bank-uagov.online/
 address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
 address=/chooseraiff.online/
@@ -188,6 +189,7 @@ address=/flexcapital.com/
 address=/get-moneyua.pro/
 address=/get-paysua24.net/
 address=/getpaysua.me/
+address=/gohelpukraina24.site/
 address=/goturozetka.com/
 address=/goturozetka.vip/
 address=/gov-ua.pics/
@@ -219,6 +221,7 @@ address=/helpfond-ua.buzz/
 address=/helpforua.me/
 address=/helping-ukr.site/
 address=/helpukr24.com/
+address=/helpukraina.site/
 address=/helpukraine.direct/
 address=/helpukrainemoneydopomoga.com/
 address=/helpukrainian.site/
@@ -478,6 +481,7 @@ address=/raiffsen.charity/
 address=/raiffsenbnk.charity/
 address=/raiffsenl.charity/
 address=/razomforukraine.in/
+address=/rbk-ukraine.org/
 address=/recive-money.icu/
 address=/recivemoney.icu/
 address=/redcross-34.site/
@@ -493,6 +497,8 @@ address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
 address=/safe-uagov.cloud/
 address=/samsung-ukraine.com.ua/
+address=/sendukraine.money/
+address=/sendukrainians.money/
 address=/starlink-ukraine.net/
 address=/swiftperekaz.pro/
 address=/toidopomoga.co/
@@ -541,6 +547,7 @@ address=/ukr-dopomoga.top/
 address=/ukr-konkurs.site/
 address=/ukr-money.com.ua/
 address=/ukr-oil-group.online/
+address=/ukr-pay.charity/
 address=/ukr-payment-system.online/
 address=/ukr-vote.site/
 address=/ukr24help.com/
@@ -565,6 +572,7 @@ address=/ukrainerozetka.vip/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
 address=/ukrainianstore.space/
+address=/ukrainskapravda.org/
 address=/ukrdopomoga.top/
 address=/ukrkonkurs.site/
 address=/ukrpomosh.site/
@@ -647,5 +655,6 @@ address=/viplaty.com.ua/
 address=/viplaty.online/
 address=/viplatya-kosthiv.com.ua/
 address=/w-ukr.net/
+address=/winukr-pay.charity/
 address=/x-ukr.net/
 address=/xwallet.website/
