@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230811.01
-! Last modified: Fri, 11 August 2023 12:38 EEST
+! Version: 20230812.01
+! Last modified: Sat, 12 August 2023 11:13 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -29,6 +29,7 @@
 ||aidgetukr-gov.site^
 ||akvapark.site^
 ||api-donate-ukrainehelp.org^
+||bank-uagov.online^
 ||cashpayforukrainepeople.business^
 ||childrens-fund-ukraine.com^
 ||chooseraiff.online^
@@ -188,6 +189,7 @@
 ||get-moneyua.pro^
 ||get-paysua24.net^
 ||getpaysua.me^
+||gohelpukraina24.site^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-ua.pics^
@@ -219,6 +221,7 @@
 ||helpforua.me^
 ||helping-ukr.site^
 ||helpukr24.com^
+||helpukraina.site^
 ||helpukraine.direct^
 ||helpukrainemoneydopomoga.com^
 ||helpukrainian.site^
@@ -478,6 +481,7 @@
 ||raiffsenbnk.charity^
 ||raiffsenl.charity^
 ||razomforukraine.in^
+||rbk-ukraine.org^
 ||recive-money.icu^
 ||recivemoney.icu^
 ||redcross-34.site^
@@ -493,6 +497,8 @@
 ||rozetkaukraine.vip^
 ||safe-uagov.cloud^
 ||samsung-ukraine.com.ua^
+||sendukraine.money^
+||sendukrainians.money^
 ||starlink-ukraine.net^
 ||swiftperekaz.pro^
 ||toidopomoga.co^
@@ -541,6 +547,7 @@
 ||ukr-konkurs.site^
 ||ukr-money.com.ua^
 ||ukr-oil-group.online^
+||ukr-pay.charity^
 ||ukr-payment-system.online^
 ||ukr-vote.site^
 ||ukr24help.com^
@@ -565,6 +572,7 @@
 ||ukrainianamazon.com^
 ||ukrainianshop.online^
 ||ukrainianstore.space^
+||ukrainskapravda.org^
 ||ukrdopomoga.top^
 ||ukrkonkurs.site^
 ||ukrpomosh.site^
@@ -647,6 +655,7 @@
 ||viplaty.online^
 ||viplatya-kosthiv.com.ua^
 ||w-ukr.net^
+||winukr-pay.charity^
 ||x-ukr.net^
 ||xwallet.website^
 
