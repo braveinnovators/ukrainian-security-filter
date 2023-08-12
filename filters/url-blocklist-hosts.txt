@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230811.01
-# Last modified: Fri, 11 August 2023 12:38 EEST
+# Version: 20230812.01
+# Last modified: Sat, 12 August 2023 11:13 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -29,6 +29,7 @@
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 akvapark.site
 0.0.0.0 api-donate-ukrainehelp.org
+0.0.0.0 bank-uagov.online
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
@@ -188,6 +189,7 @@
 0.0.0.0 get-moneyua.pro
 0.0.0.0 get-paysua24.net
 0.0.0.0 getpaysua.me
+0.0.0.0 gohelpukraina24.site
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 gov-ua.pics
@@ -219,6 +221,7 @@
 0.0.0.0 helpforua.me
 0.0.0.0 helping-ukr.site
 0.0.0.0 helpukr24.com
+0.0.0.0 helpukraina.site
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
@@ -478,6 +481,7 @@
 0.0.0.0 raiffsenbnk.charity
 0.0.0.0 raiffsenl.charity
 0.0.0.0 razomforukraine.in
+0.0.0.0 rbk-ukraine.org
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
 0.0.0.0 redcross-34.site
@@ -493,6 +497,8 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 safe-uagov.cloud
 0.0.0.0 samsung-ukraine.com.ua
+0.0.0.0 sendukraine.money
+0.0.0.0 sendukrainians.money
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 toidopomoga.co
@@ -541,6 +547,7 @@
 0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-oil-group.online
+0.0.0.0 ukr-pay.charity
 0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr-vote.site
 0.0.0.0 ukr24help.com
@@ -565,6 +572,7 @@
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
 0.0.0.0 ukrainianstore.space
+0.0.0.0 ukrainskapravda.org
 0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukrkonkurs.site
 0.0.0.0 ukrpomosh.site
@@ -647,5 +655,6 @@
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
 0.0.0.0 w-ukr.net
+0.0.0.0 winukr-pay.charity
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
