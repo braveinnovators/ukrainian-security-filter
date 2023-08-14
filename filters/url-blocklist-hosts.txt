@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230812.01
-# Last modified: Sat, 12 August 2023 11:13 EEST
+# Version: 20230814.01
+# Last modified: Mon, 14 August 2023 17:06 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -23,6 +23,11 @@
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
+0.0.0.0 aid24-ua.online
+0.0.0.0 aid24-ua.pw
+0.0.0.0 aid24-ua.site
+0.0.0.0 aid24-ua.space
+0.0.0.0 aid24-ua.website
 0.0.0.0 aiderinukr-gov.site
 0.0.0.0 aiderukr-gov.site
 0.0.0.0 aidforukr-gov.site
@@ -192,7 +197,15 @@
 0.0.0.0 gohelpukraina24.site
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
+0.0.0.0 gov-ua.buzz
+0.0.0.0 gov-ua.cfd
+0.0.0.0 gov-ua.click
+0.0.0.0 gov-ua.com
+0.0.0.0 gov-ua.cyou
+0.0.0.0 gov-ua.icu
+0.0.0.0 gov-ua.org
 0.0.0.0 gov-ua.pics
+0.0.0.0 gov-ua.pw
 0.0.0.0 gov-ua.site
 0.0.0.0 gov-uas.site
 0.0.0.0 goviplataua.info
@@ -501,6 +514,7 @@
 0.0.0.0 sendukrainians.money
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 swiftperekaz.pro
+0.0.0.0 telegram-ua.co
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
@@ -537,6 +551,7 @@
 0.0.0.0 uaunicef.buzz
 0.0.0.0 uaunicef.shop
 0.0.0.0 uaunicef.site
+0.0.0.0 uaunicefs.buzz
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 uk-konkurs.site
 0.0.0.0 uk-ukr.net
