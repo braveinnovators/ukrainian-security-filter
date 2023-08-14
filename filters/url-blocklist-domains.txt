@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230812.01
-# Last modified: Sat, 12 August 2023 11:13 EEST
+# Version: 20230814.01
+# Last modified: Mon, 14 August 2023 17:06 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -23,6 +23,11 @@ adidas-ua.shop
 aid-for-ukraine.info
 aid-for-ukraine.life
 aid-for-ukraine.world
+aid24-ua.online
+aid24-ua.pw
+aid24-ua.site
+aid24-ua.space
+aid24-ua.website
 aiderinukr-gov.site
 aiderukr-gov.site
 aidforukr-gov.site
@@ -192,7 +197,15 @@ getpaysua.me
 gohelpukraina24.site
 goturozetka.com
 goturozetka.vip
+gov-ua.buzz
+gov-ua.cfd
+gov-ua.click
+gov-ua.com
+gov-ua.cyou
+gov-ua.icu
+gov-ua.org
 gov-ua.pics
+gov-ua.pw
 gov-ua.site
 gov-uas.site
 goviplataua.info
@@ -501,6 +514,7 @@ sendukraine.money
 sendukrainians.money
 starlink-ukraine.net
 swiftperekaz.pro
+telegram-ua.co
 toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
@@ -537,6 +551,7 @@ uappl.org
 uaunicef.buzz
 uaunicef.shop
 uaunicef.site
+uaunicefs.buzz
 uavolunteer-military.com
 uk-konkurs.site
 uk-ukr.net
