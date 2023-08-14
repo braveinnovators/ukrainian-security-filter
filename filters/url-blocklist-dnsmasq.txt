@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230812.01
-# Last modified: Sat, 12 August 2023 11:13 EEST
+# Version: 20230814.01
+# Last modified: Mon, 14 August 2023 17:06 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -23,6 +23,11 @@ address=/adidas-ua.shop/
 address=/aid-for-ukraine.info/
 address=/aid-for-ukraine.life/
 address=/aid-for-ukraine.world/
+address=/aid24-ua.online/
+address=/aid24-ua.pw/
+address=/aid24-ua.site/
+address=/aid24-ua.space/
+address=/aid24-ua.website/
 address=/aiderinukr-gov.site/
 address=/aiderukr-gov.site/
 address=/aidforukr-gov.site/
@@ -192,7 +197,15 @@ address=/getpaysua.me/
 address=/gohelpukraina24.site/
 address=/goturozetka.com/
 address=/goturozetka.vip/
+address=/gov-ua.buzz/
+address=/gov-ua.cfd/
+address=/gov-ua.click/
+address=/gov-ua.com/
+address=/gov-ua.cyou/
+address=/gov-ua.icu/
+address=/gov-ua.org/
 address=/gov-ua.pics/
+address=/gov-ua.pw/
 address=/gov-ua.site/
 address=/gov-uas.site/
 address=/goviplataua.info/
@@ -501,6 +514,7 @@ address=/sendukraine.money/
 address=/sendukrainians.money/
 address=/starlink-ukraine.net/
 address=/swiftperekaz.pro/
+address=/telegram-ua.co/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
@@ -537,6 +551,7 @@ address=/uappl.org/
 address=/uaunicef.buzz/
 address=/uaunicef.shop/
 address=/uaunicef.site/
+address=/uaunicefs.buzz/
 address=/uavolunteer-military.com/
 address=/uk-konkurs.site/
 address=/uk-ukr.net/
