@@ -46,17 +46,14 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ### Браузери з вбудованими модулями фільтрації контенту
 
-* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
-  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Brave](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
 * [Opera](https://www.opera.com/)
 * [Vivaldi](https://vivaldi.com/)
 
 ### Розширення
 
-* [uBlock Origin](https://ublockorigin.com/)
-  * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
-* [Adblock Plus](https://adblockplus.org/)
-   * як імпортувати фільтр: [https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+* [uBlock Origin](https://ublockorigin.com/) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
+* [Adblock Plus](https://adblockplus.org/) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
 * [AdBlock](https://getadblock.com/)
 
 ## Особливості
@@ -70,8 +67,8 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 ## Джерела інформації
 
 * Власна моніторингова команда
-* [Урядова команда реагування на комп'ютерні надзвичайні події України](https://cert.gov.ua/) (CERT-UA)
-* [BlackList EMA](https://www.ema.com.ua/citizens/blacklist/)
+* Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA)
+* BlackList EMA
 
 ## Партнери проекту
 
@@ -79,7 +76,7 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ## Wiki
 
-[https://github.com/braveinnovators/url-blocklist/wiki](https://github.com/braveinnovators/url-blocklist/wiki)
+Додаткова інформація про фільтр та інструкції щодо його імпорту у веб-браузерах та сторонніх розширеннях: [https://github.com/braveinnovators/url-blocklist/wiki](https://github.com/braveinnovators/url-blocklist/wiki)
 
 ## Ліцензія
 
