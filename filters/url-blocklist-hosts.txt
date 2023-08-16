@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230814.01
-# Last modified: Mon, 14 August 2023 17:06 EEST
+# Version: 20230816.01
+# Last modified: Wed, 16 August 2023 14:49 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -16,6 +16,9 @@
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
+0.0.0.0 3ds-check.top
+0.0.0.0 3ds-connect.top
+0.0.0.0 3ds-ua.top
 0.0.0.0 7300.cloud
 0.0.0.0 7300.pics
 0.0.0.0 7300.pro
@@ -35,6 +38,9 @@
 0.0.0.0 akvapark.site
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 bank-uagov.online
+0.0.0.0 bankld.cloud
+0.0.0.0 bankld.info
+0.0.0.0 bankld.xyz
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
@@ -243,6 +249,7 @@
 0.0.0.0 home-kyivstar.online
 0.0.0.0 homeanimal.site
 0.0.0.0 i-ua.website
+0.0.0.0 info-ukr.charity
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 ipay-ua.online
@@ -306,9 +313,11 @@
 0.0.0.0 me-raiffsen.charity
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
+0.0.0.0 money-ukraine.site
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
+0.0.0.0 moneyukraine24.site
 0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
@@ -401,6 +410,14 @@
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-ua.pics
+0.0.0.0 pay2zsu-family.online
+0.0.0.0 pay2zsu-family.site
+0.0.0.0 pay2zsu-family.space
+0.0.0.0 pay2zsu-family.website
+0.0.0.0 pay4family-zsu.online
+0.0.0.0 pay4family-zsu.site
+0.0.0.0 pay4zsu-family.online
+0.0.0.0 pay4zsu-family.site
 0.0.0.0 payme-ua.charity
 0.0.0.0 payment-system.cloud
 0.0.0.0 paymenthelpukr.support
@@ -520,18 +537,23 @@
 0.0.0.0 toidopomoga.pro
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
+0.0.0.0 ua-bankgov.com
+0.0.0.0 ua-bankgov.info
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
 0.0.0.0 ua-oschaad.shop
 0.0.0.0 ua-oschaad.tech
 0.0.0.0 ua-oschaad.website
+0.0.0.0 ua-pay.charity
 0.0.0.0 ua-paying.cloud
 0.0.0.0 ua-paying.online
 0.0.0.0 ua-paying.pics
 0.0.0.0 ua-paying.xyz
+0.0.0.0 ua-payme.charity
 0.0.0.0 ua-payticket.online
 0.0.0.0 ua-tickets1.online
 0.0.0.0 ua-ukr.net
+0.0.0.0 ua-unicef.online
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
@@ -541,6 +563,7 @@
 0.0.0.0 uadopomoga2023.org
 0.0.0.0 uadopomoga24.sbs
 0.0.0.0 uadopomoga24.world
+0.0.0.0 uaehelp.site
 0.0.0.0 uahelpnow.com
 0.0.0.0 uahelpnow24.com
 0.0.0.0 uakonkursevent.space
@@ -559,6 +582,7 @@
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-dopomoga.top
+0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-oil-group.online
@@ -670,6 +694,7 @@
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
 0.0.0.0 w-ukr.net
-0.0.0.0 winukr-pay.charity
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
+0.0.0.0 zsu-family.online
+0.0.0.0 zsu-family.site
