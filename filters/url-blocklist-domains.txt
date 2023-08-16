@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230814.01
-# Last modified: Mon, 14 August 2023 17:06 EEST
+# Version: 20230816.01
+# Last modified: Wed, 16 August 2023 14:49 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -16,6 +16,9 @@
 24uadopomoga.sbs
 24uadopomoga.world
 24ukrhelp.com
+3ds-check.top
+3ds-connect.top
+3ds-ua.top
 7300.cloud
 7300.pics
 7300.pro
@@ -35,6 +38,9 @@ aidgetukr-gov.site
 akvapark.site
 api-donate-ukrainehelp.org
 bank-uagov.online
+bankld.cloud
+bankld.info
+bankld.xyz
 cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 chooseraiff.online
@@ -243,6 +249,7 @@ home-internet-kyivstar.com.ua
 home-kyivstar.online
 homeanimal.site
 i-ua.website
+info-ukr.charity
 internet-kyivstar.com
 internet-kyivstar.com.ua
 ipay-ua.online
@@ -306,9 +313,11 @@ m-raiffsen.charity
 me-raiffsen.charity
 meta-ua.site
 mobilluck.com.ua
+money-ukraine.site
 moneypay-for-ukrainians-people.pro
 moneyua24.org
 moneyuanext24.info
+moneyukraine24.site
 mvs-gov.space
 mvs-ua.online
 mvs-ua.space
@@ -401,6 +410,14 @@ oukr.net
 patriot-ukraine.fun
 patriot-ukraine.info
 pay-ua.pics
+pay2zsu-family.online
+pay2zsu-family.site
+pay2zsu-family.space
+pay2zsu-family.website
+pay4family-zsu.online
+pay4family-zsu.site
+pay4zsu-family.online
+pay4zsu-family.site
 payme-ua.charity
 payment-system.cloud
 paymenthelpukr.support
@@ -520,18 +537,23 @@ toidopomoga.org
 toidopomoga.pro
 trust-group.pro
 tviy-kyivstar.com.ua
+ua-bankgov.com
+ua-bankgov.info
 ua-oschaad.cloud
 ua-oschaad.online
 ua-oschaad.shop
 ua-oschaad.tech
 ua-oschaad.website
+ua-pay.charity
 ua-paying.cloud
 ua-paying.online
 ua-paying.pics
 ua-paying.xyz
+ua-payme.charity
 ua-payticket.online
 ua-tickets1.online
 ua-ukr.net
+ua-unicef.online
 ua-viplata.me
 ua-wallet.pw
 ua24pomoga.online
@@ -541,6 +563,7 @@ uadopomoga.me
 uadopomoga2023.org
 uadopomoga24.sbs
 uadopomoga24.world
+uaehelp.site
 uahelpnow.com
 uahelpnow24.com
 uakonkursevent.space
@@ -559,6 +582,7 @@ ukr-buy.com.ua
 ukr-cash.top
 ukr-dopomog.top
 ukr-dopomoga.top
+ukr-info.charity
 ukr-konkurs.site
 ukr-money.com.ua
 ukr-oil-group.online
@@ -670,6 +694,7 @@ viplaty.com.ua
 viplaty.online
 viplatya-kosthiv.com.ua
 w-ukr.net
-winukr-pay.charity
 x-ukr.net
 xwallet.website
+zsu-family.online
+zsu-family.site
