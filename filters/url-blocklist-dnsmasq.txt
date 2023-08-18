@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230816.01
-# Last modified: Wed, 16 August 2023 14:49 EEST
+# Version: 20230818.01
+# Last modified: Fri, 18 August 2023 15:47 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -314,6 +314,7 @@ address=/me-raiffsen.charity/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
 address=/money-ukraine.site/
+address=/moneyhelpiukraine.site/
 address=/moneypay-for-ukrainians-people.pro/
 address=/moneyua24.org/
 address=/moneyuanext24.info/
@@ -326,7 +327,13 @@ address=/my-govuwvyplatte.site/
 address=/my-kyivstar.com.ua/
 address=/mygovua.online/
 address=/mykyivstar.com/
+address=/nacionalbankukraine.shop/
+address=/nacionalbankukraine.xyz/
 address=/next-novapay.cloud/
+address=/next24-auth.online/
+address=/next24-auth.site/
+address=/next24-auth.space/
+address=/next24-auth.website/
 address=/nextpay.pw/
 address=/nextuaviplata.pro/
 address=/nextuaviplata24.pro/
@@ -442,6 +449,8 @@ address=/pidtrimka-e.xyz/
 address=/pidtrimka.cloud/
 address=/pidtrimka.world/
 address=/pidtrumkapruvat24.world/
+address=/polsha24dopomogaua.shop/
+address=/polsha24dopomogaua.site/
 address=/poluchenieuanext24.tech/
 address=/poluchuanext24.pro/
 address=/portal-diya.kyiv.ua/
@@ -598,6 +607,7 @@ address=/ukrainapays24.pro/
 address=/ukraine-mvs.site/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
+address=/ukrainecross.org/
 address=/ukrainedevelopmentmission.org/
 address=/ukraineebay.vip/
 address=/ukrainehelp.cloud/
@@ -606,6 +616,7 @@ address=/ukrainehelp.wiki/
 address=/ukrainehelps.cloud/
 address=/ukrainehotspothelp.com/
 address=/ukrainepaymentsystem.pro/
+address=/ukrainepays.site/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukrainianamazon.com/
@@ -690,6 +701,7 @@ address=/viplataukraina24.pro/
 address=/viplataukraina24.xyz/
 address=/viplataukraine.com/
 address=/viplataukraine.org/
+address=/viplatiukraine.xyz/
 address=/viplaty.com.ua/
 address=/viplaty.online/
 address=/viplatya-kosthiv.com.ua/
