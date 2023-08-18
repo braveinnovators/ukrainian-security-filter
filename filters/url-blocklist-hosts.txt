@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230816.01
-# Last modified: Wed, 16 August 2023 14:49 EEST
+# Version: 20230818.01
+# Last modified: Fri, 18 August 2023 15:47 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -314,6 +314,7 @@
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 money-ukraine.site
+0.0.0.0 moneyhelpiukraine.site
 0.0.0.0 moneypay-for-ukrainians-people.pro
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
@@ -326,7 +327,13 @@
 0.0.0.0 my-kyivstar.com.ua
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
+0.0.0.0 nacionalbankukraine.shop
+0.0.0.0 nacionalbankukraine.xyz
 0.0.0.0 next-novapay.cloud
+0.0.0.0 next24-auth.online
+0.0.0.0 next24-auth.site
+0.0.0.0 next24-auth.space
+0.0.0.0 next24-auth.website
 0.0.0.0 nextpay.pw
 0.0.0.0 nextuaviplata.pro
 0.0.0.0 nextuaviplata24.pro
@@ -442,6 +449,8 @@
 0.0.0.0 pidtrimka.cloud
 0.0.0.0 pidtrimka.world
 0.0.0.0 pidtrumkapruvat24.world
+0.0.0.0 polsha24dopomogaua.shop
+0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
@@ -598,6 +607,7 @@
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
+0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainehelp.cloud
@@ -606,6 +616,7 @@
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukrainepaymentsystem.pro
+0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukrainianamazon.com
@@ -690,6 +701,7 @@
 0.0.0.0 viplataukraina24.xyz
 0.0.0.0 viplataukraine.com
 0.0.0.0 viplataukraine.org
+0.0.0.0 viplatiukraine.xyz
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
