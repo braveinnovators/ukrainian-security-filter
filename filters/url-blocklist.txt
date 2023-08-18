@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230816.01
-! Last modified: Wed, 16 August 2023 14:49 EEST
+! Version: 20230818.01
+! Last modified: Fri, 18 August 2023 15:47 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -314,6 +314,7 @@
 ||meta-ua.site^
 ||mobilluck.com.ua^
 ||money-ukraine.site^
+||moneyhelpiukraine.site^
 ||moneypay-for-ukrainians-people.pro^
 ||moneyua24.org^
 ||moneyuanext24.info^
@@ -326,7 +327,13 @@
 ||my-kyivstar.com.ua^
 ||mygovua.online^
 ||mykyivstar.com^
+||nacionalbankukraine.shop^
+||nacionalbankukraine.xyz^
 ||next-novapay.cloud^
+||next24-auth.online^
+||next24-auth.site^
+||next24-auth.space^
+||next24-auth.website^
 ||nextpay.pw^
 ||nextuaviplata.pro^
 ||nextuaviplata24.pro^
@@ -442,6 +449,8 @@
 ||pidtrimka.cloud^
 ||pidtrimka.world^
 ||pidtrumkapruvat24.world^
+||polsha24dopomogaua.shop^
+||polsha24dopomogaua.site^
 ||poluchenieuanext24.tech^
 ||poluchuanext24.pro^
 ||portal-diya.kyiv.ua^
@@ -598,6 +607,7 @@
 ||ukraine-mvs.site^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
+||ukrainecross.org^
 ||ukrainedevelopmentmission.org^
 ||ukraineebay.vip^
 ||ukrainehelp.cloud^
@@ -606,6 +616,7 @@
 ||ukrainehelps.cloud^
 ||ukrainehotspothelp.com^
 ||ukrainepaymentsystem.pro^
+||ukrainepays.site^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukrainianamazon.com^
@@ -690,6 +701,7 @@
 ||viplataukraina24.xyz^
 ||viplataukraine.com^
 ||viplataukraine.org^
+||viplatiukraine.xyz^
 ||viplaty.com.ua^
 ||viplaty.online^
 ||viplatya-kosthiv.com.ua^
