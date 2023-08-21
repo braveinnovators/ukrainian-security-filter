@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230818.01
-# Last modified: Fri, 18 August 2023 15:47 EEST
+# Version: 20230821.01
+# Last modified: Mon, 21 August 2023 21:46 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -183,6 +183,7 @@
 0.0.0.0 ebayukraine.com
 0.0.0.0 ebayukraine.vip
 0.0.0.0 edoopomoga.xyz
+0.0.0.0 en-ukr.net
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrimkaua.info
@@ -414,6 +415,7 @@
 0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
+0.0.0.0 pa-ukr.net
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-ua.pics
@@ -539,6 +541,7 @@
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
 0.0.0.0 starlink-ukraine.net
+0.0.0.0 starlinkukraine.com
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 telegram-ua.co
 0.0.0.0 toidopomoga.co
@@ -605,6 +608,8 @@
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
 0.0.0.0 ukraine-mvs.site
+0.0.0.0 ukraine24dopomoga.online
+0.0.0.0 ukraine24dopomoga.site
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainecross.org
@@ -619,6 +624,7 @@
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
 0.0.0.0 ukrainianstore.space
