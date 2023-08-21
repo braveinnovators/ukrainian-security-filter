@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230818.01
-! Last modified: Fri, 18 August 2023 15:47 EEST
+! Version: 20230821.01
+! Last modified: Mon, 21 August 2023 21:46 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -183,6 +183,7 @@
 ||ebayukraine.com^
 ||ebayukraine.vip^
 ||edoopomoga.xyz^
+||en-ukr.net^
 ||epidtrimka.com^
 ||epidtrimkadopomoga.com^
 ||epidtrimkaua.info^
@@ -414,6 +415,7 @@
 ||otrimati-ua.site^
 ||otrimayviplatu.website^
 ||oukr.net^
+||pa-ukr.net^
 ||patriot-ukraine.fun^
 ||patriot-ukraine.info^
 ||pay-ua.pics^
@@ -539,6 +541,7 @@
 ||sendukraine.money^
 ||sendukrainians.money^
 ||starlink-ukraine.net^
+||starlinkukraine.com^
 ||swiftperekaz.pro^
 ||telegram-ua.co^
 ||toidopomoga.co^
@@ -605,6 +608,8 @@
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
 ||ukraine-mvs.site^
+||ukraine24dopomoga.online^
+||ukraine24dopomoga.site^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainecross.org^
@@ -619,6 +624,7 @@
 ||ukrainepays.site^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukrainestarlink.com^
 ||ukrainianamazon.com^
 ||ukrainianshop.online^
 ||ukrainianstore.space^
@@ -719,12 +725,15 @@
 ://bankid24.$document
 ://bankid247.$document
 ://*unisefdopomoga*.*/$document
+://dopomogavidunicef.$document
 ://ukrsocunicef.$document
 ://7300-bank*.$document
 ://7300-pay*.$document
+://7300-safe*.$document
 ://7300bank*.$document
 ://7300help.$document
 ://7300pay*.$document
+://7300safe*.$document
 ://7300ua*.$document
 
 ! PRIVATBANK.UA
