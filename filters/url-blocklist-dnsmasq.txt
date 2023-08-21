@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230818.01
-# Last modified: Fri, 18 August 2023 15:47 EEST
+# Version: 20230821.01
+# Last modified: Mon, 21 August 2023 21:46 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -183,6 +183,7 @@ address=/ebayua66.vip/
 address=/ebayukraine.com/
 address=/ebayukraine.vip/
 address=/edoopomoga.xyz/
+address=/en-ukr.net/
 address=/epidtrimka.com/
 address=/epidtrimkadopomoga.com/
 address=/epidtrimkaua.info/
@@ -414,6 +415,7 @@ address=/otrimati-groshi.site/
 address=/otrimati-ua.site/
 address=/otrimayviplatu.website/
 address=/oukr.net/
+address=/pa-ukr.net/
 address=/patriot-ukraine.fun/
 address=/patriot-ukraine.info/
 address=/pay-ua.pics/
@@ -539,6 +541,7 @@ address=/samsung-ukraine.com.ua/
 address=/sendukraine.money/
 address=/sendukrainians.money/
 address=/starlink-ukraine.net/
+address=/starlinkukraine.com/
 address=/swiftperekaz.pro/
 address=/telegram-ua.co/
 address=/toidopomoga.co/
@@ -605,6 +608,8 @@ address=/ukraina.pro/
 address=/ukrainadopomoga24.org/
 address=/ukrainapays24.pro/
 address=/ukraine-mvs.site/
+address=/ukraine24dopomoga.online/
+address=/ukraine24dopomoga.site/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
 address=/ukrainecross.org/
@@ -619,6 +624,7 @@ address=/ukrainepaymentsystem.pro/
 address=/ukrainepays.site/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
+address=/ukrainestarlink.com/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
 address=/ukrainianstore.space/
