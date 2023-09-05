@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230821.01
-! Last modified: Mon, 21 August 2023 21:46 EEST
+! Version: 20230905.01
+! Last modified: Tue, 05 September 2023 14:38 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -320,6 +320,7 @@
 ||moneyua24.org^
 ||moneyuanext24.info^
 ||moneyukraine24.site^
+||mvs-gov.online^
 ||mvs-gov.space^
 ||mvs-ua.online^
 ||mvs-ua.space^
@@ -359,6 +360,7 @@
 ||olx-ua.ink^
 ||olx-ua.life^
 ||olx-ua.pro^
+||on-ukr.net^
 ||ondorazovaya-viplata24.space^
 ||online-pays.tech^
 ||online-raiffeisen.info^
@@ -398,6 +400,7 @@
 ||oshad-24.com^
 ||oshad-cash.pro^
 ||oshad-pedtrimka.online^
+||oshad.online^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.uk^
@@ -456,6 +459,7 @@
 ||poluchenieuanext24.tech^
 ||poluchuanext24.pro^
 ||portal-diya.kyiv.ua^
+||privat-bank-ua.com^
 ||privatbnk.com^
 ||privatbua.com^
 ||privatpay.me^
@@ -525,6 +529,7 @@
 ||rbk-ukraine.org^
 ||recive-money.icu^
 ||recivemoney.icu^
+||recovery-ukr.net^
 ||redcross-34.site^
 ||redcrossbezl.yolasite.com^
 ||redcrossdopomoga.info^
@@ -642,6 +647,7 @@
 ||un-unicef.org^
 ||unicef-help.info^
 ||unicef-uk.com^
+||unicef24.site^
 ||uniceforg.com^
 ||unicefua.news^
 ||unicefukrainedonate.com^
@@ -714,6 +720,7 @@
 ||w-ukr.net^
 ||x-ukr.net^
 ||xwallet.website^
+||yr-ukr.net^
 ||zsu-family.online^
 ||zsu-family.site^
 
@@ -721,20 +728,8 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-://bankid*.$document,domain=shop
-://bankid24.$document
-://bankid247.$document
-://*unisefdopomoga*.*/$document
+://*bankid*.*/$document,domain=cloud|info|online|pro|shop|site|xyz
 ://dopomogavidunicef.$document
-://ukrsocunicef.$document
-://7300-bank*.$document
-://7300-pay*.$document
-://7300-safe*.$document
-://7300bank*.$document
-://7300help.$document
-://7300pay*.$document
-://7300safe*.$document
-://7300ua*.$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -818,13 +813,11 @@
 
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
+||*dopomogauaeua^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
 ||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
-||*pidtrimkauakraine^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
-||*ua_ooh_bot^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
 ||opensea.io/VolunteersUA^$document
-||taplink.cc/viplata^$document
