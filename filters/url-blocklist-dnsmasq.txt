@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230821.01
-# Last modified: Mon, 21 August 2023 21:46 EEST
+# Version: 20230905.01
+# Last modified: Tue, 05 September 2023 14:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -320,6 +320,7 @@ address=/moneypay-for-ukrainians-people.pro/
 address=/moneyua24.org/
 address=/moneyuanext24.info/
 address=/moneyukraine24.site/
+address=/mvs-gov.online/
 address=/mvs-gov.space/
 address=/mvs-ua.online/
 address=/mvs-ua.space/
@@ -359,6 +360,7 @@ address=/okko-bonus.live/
 address=/olx-ua.ink/
 address=/olx-ua.life/
 address=/olx-ua.pro/
+address=/on-ukr.net/
 address=/ondorazovaya-viplata24.space/
 address=/online-pays.tech/
 address=/online-raiffeisen.info/
@@ -398,6 +400,7 @@ address=/oschadviplata66.shop/
 address=/oshad-24.com/
 address=/oshad-cash.pro/
 address=/oshad-pedtrimka.online/
+address=/oshad.online/
 address=/oshadbank.online/
 address=/oshadbank.pro/
 address=/oshadbank.uk/
@@ -456,6 +459,7 @@ address=/polsha24dopomogaua.site/
 address=/poluchenieuanext24.tech/
 address=/poluchuanext24.pro/
 address=/portal-diya.kyiv.ua/
+address=/privat-bank-ua.com/
 address=/privatbnk.com/
 address=/privatbua.com/
 address=/privatpay.me/
@@ -525,6 +529,7 @@ address=/razomforukraine.in/
 address=/rbk-ukraine.org/
 address=/recive-money.icu/
 address=/recivemoney.icu/
+address=/recovery-ukr.net/
 address=/redcross-34.site/
 address=/redcrossbezl.yolasite.com/
 address=/redcrossdopomoga.info/
@@ -642,6 +647,7 @@ address=/ukrwallet.com/
 address=/un-unicef.org/
 address=/unicef-help.info/
 address=/unicef-uk.com/
+address=/unicef24.site/
 address=/uniceforg.com/
 address=/unicefua.news/
 address=/unicefukrainedonate.com/
@@ -714,5 +720,6 @@ address=/viplatya-kosthiv.com.ua/
 address=/w-ukr.net/
 address=/x-ukr.net/
 address=/xwallet.website/
+address=/yr-ukr.net/
 address=/zsu-family.online/
 address=/zsu-family.site/
