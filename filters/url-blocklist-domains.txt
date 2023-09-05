@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230821.01
-# Last modified: Mon, 21 August 2023 21:46 EEST
+# Version: 20230905.01
+# Last modified: Tue, 05 September 2023 14:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -320,6 +320,7 @@ moneypay-for-ukrainians-people.pro
 moneyua24.org
 moneyuanext24.info
 moneyukraine24.site
+mvs-gov.online
 mvs-gov.space
 mvs-ua.online
 mvs-ua.space
@@ -359,6 +360,7 @@ okko-bonus.live
 olx-ua.ink
 olx-ua.life
 olx-ua.pro
+on-ukr.net
 ondorazovaya-viplata24.space
 online-pays.tech
 online-raiffeisen.info
@@ -398,6 +400,7 @@ oschadviplata66.shop
 oshad-24.com
 oshad-cash.pro
 oshad-pedtrimka.online
+oshad.online
 oshadbank.online
 oshadbank.pro
 oshadbank.uk
@@ -456,6 +459,7 @@ polsha24dopomogaua.site
 poluchenieuanext24.tech
 poluchuanext24.pro
 portal-diya.kyiv.ua
+privat-bank-ua.com
 privatbnk.com
 privatbua.com
 privatpay.me
@@ -525,6 +529,7 @@ razomforukraine.in
 rbk-ukraine.org
 recive-money.icu
 recivemoney.icu
+recovery-ukr.net
 redcross-34.site
 redcrossbezl.yolasite.com
 redcrossdopomoga.info
@@ -642,6 +647,7 @@ ukrwallet.com
 un-unicef.org
 unicef-help.info
 unicef-uk.com
+unicef24.site
 uniceforg.com
 unicefua.news
 unicefukrainedonate.com
@@ -714,5 +720,6 @@ viplatya-kosthiv.com.ua
 w-ukr.net
 x-ukr.net
 xwallet.website
+yr-ukr.net
 zsu-family.online
 zsu-family.site
