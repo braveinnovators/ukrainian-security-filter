@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230821.01
-# Last modified: Mon, 21 August 2023 21:46 EEST
+# Version: 20230905.01
+# Last modified: Tue, 05 September 2023 14:38 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -320,6 +320,7 @@
 0.0.0.0 moneyua24.org
 0.0.0.0 moneyuanext24.info
 0.0.0.0 moneyukraine24.site
+0.0.0.0 mvs-gov.online
 0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
@@ -359,6 +360,7 @@
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
+0.0.0.0 on-ukr.net
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeisen.info
@@ -398,6 +400,7 @@
 0.0.0.0 oshad-24.com
 0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-pedtrimka.online
+0.0.0.0 oshad.online
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.uk
@@ -456,6 +459,7 @@
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
+0.0.0.0 privat-bank-ua.com
 0.0.0.0 privatbnk.com
 0.0.0.0 privatbua.com
 0.0.0.0 privatpay.me
@@ -525,6 +529,7 @@
 0.0.0.0 rbk-ukraine.org
 0.0.0.0 recive-money.icu
 0.0.0.0 recivemoney.icu
+0.0.0.0 recovery-ukr.net
 0.0.0.0 redcross-34.site
 0.0.0.0 redcrossbezl.yolasite.com
 0.0.0.0 redcrossdopomoga.info
@@ -642,6 +647,7 @@
 0.0.0.0 un-unicef.org
 0.0.0.0 unicef-help.info
 0.0.0.0 unicef-uk.com
+0.0.0.0 unicef24.site
 0.0.0.0 uniceforg.com
 0.0.0.0 unicefua.news
 0.0.0.0 unicefukrainedonate.com
@@ -714,5 +720,6 @@
 0.0.0.0 w-ukr.net
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
+0.0.0.0 yr-ukr.net
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
