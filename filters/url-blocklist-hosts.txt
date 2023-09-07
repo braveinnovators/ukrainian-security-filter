@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230905.01
-# Last modified: Tue, 05 September 2023 14:38 EEST
+# Version: 20230907.01
+# Last modified: Thu, 07 September 2023 18:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -99,6 +99,7 @@
 0.0.0.0 dopomoga23.top
 0.0.0.0 dopomoga24.com
 0.0.0.0 dopomoga24.me
+0.0.0.0 dopomoga24.site
 0.0.0.0 dopomoga24pay.win
 0.0.0.0 dopomoga24pruvat.cfd
 0.0.0.0 dopomoga24pruvat.sbs
@@ -204,17 +205,6 @@
 0.0.0.0 gohelpukraina24.site
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
-0.0.0.0 gov-ua.buzz
-0.0.0.0 gov-ua.cfd
-0.0.0.0 gov-ua.click
-0.0.0.0 gov-ua.com
-0.0.0.0 gov-ua.cyou
-0.0.0.0 gov-ua.icu
-0.0.0.0 gov-ua.org
-0.0.0.0 gov-ua.pics
-0.0.0.0 gov-ua.pw
-0.0.0.0 gov-ua.site
-0.0.0.0 gov-uas.site
 0.0.0.0 goviplataua.info
 0.0.0.0 govs-ua.com
 0.0.0.0 govs-ua.io
@@ -377,9 +367,6 @@
 0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
-0.0.0.0 opendata-hsc-gov-ua.com
-0.0.0.0 opendata-hsc-gov-ua.online
-0.0.0.0 opendata-hsc-gov-ua.store
 0.0.0.0 oschad-4family-zsu.online
 0.0.0.0 oschad-4family-zsu.site
 0.0.0.0 oschad-family-zsu.online
@@ -625,6 +612,7 @@
 0.0.0.0 ukrainehelp.wiki
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukrainehotspothelp.com
+0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
