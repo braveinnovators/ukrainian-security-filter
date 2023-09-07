@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230905.01
-! Last modified: Tue, 05 September 2023 14:38 EEST
+! Version: 20230907.01
+! Last modified: Thu, 07 September 2023 18:10 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -99,6 +99,7 @@
 ||dopomoga23.top^
 ||dopomoga24.com^
 ||dopomoga24.me^
+||dopomoga24.site^
 ||dopomoga24pay.win^
 ||dopomoga24pruvat.cfd^
 ||dopomoga24pruvat.sbs^
@@ -204,17 +205,6 @@
 ||gohelpukraina24.site^
 ||goturozetka.com^
 ||goturozetka.vip^
-||gov-ua.buzz^
-||gov-ua.cfd^
-||gov-ua.click^
-||gov-ua.com^
-||gov-ua.cyou^
-||gov-ua.icu^
-||gov-ua.org^
-||gov-ua.pics^
-||gov-ua.pw^
-||gov-ua.site^
-||gov-uas.site^
 ||goviplataua.info^
 ||govs-ua.com^
 ||govs-ua.io^
@@ -377,9 +367,6 @@
 ||oonviplata.online^
 ||oonviplata.tech^
 ||oonviplaty.host^
-||opendata-hsc-gov-ua.com^
-||opendata-hsc-gov-ua.online^
-||opendata-hsc-gov-ua.store^
 ||oschad-4family-zsu.online^
 ||oschad-4family-zsu.site^
 ||oschad-family-zsu.online^
@@ -625,6 +612,7 @@
 ||ukrainehelp.wiki^
 ||ukrainehelps.cloud^
 ||ukrainehotspothelp.com^
+||ukrainepay.site^
 ||ukrainepaymentsystem.pro^
 ||ukrainepays.site^
 ||ukrainerozetka.com^
@@ -729,6 +717,7 @@
 ! !!!!!!!!!!!!!!!
 
 ://*bankid*.*/$document,domain=cloud|info|online|pro|shop|site|xyz
+://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|online|org|pics|pw|site|store
 ://dopomogavidunicef.$document
 
 ! PRIVATBANK.UA
@@ -812,8 +801,8 @@
 ||facebook.com/uappl.org^$document
 
 ||*dia_dopom*$document,domain=t.me|telegram.me
-||*dtekyasno^$document,domain=t.me|telegram.me
 ||*dopomogauaeua^$document,domain=t.me|telegram.me
+||*dtekyasno^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
 ||*patriot_ukraine_bot^$document,domain=t.me|telegram.me
