@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230905.01
-# Last modified: Tue, 05 September 2023 14:38 EEST
+# Version: 20230907.01
+# Last modified: Thu, 07 September 2023 18:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -99,6 +99,7 @@ address=/dopomoga2023.tech/
 address=/dopomoga23.top/
 address=/dopomoga24.com/
 address=/dopomoga24.me/
+address=/dopomoga24.site/
 address=/dopomoga24pay.win/
 address=/dopomoga24pruvat.cfd/
 address=/dopomoga24pruvat.sbs/
@@ -204,17 +205,6 @@ address=/getpaysua.me/
 address=/gohelpukraina24.site/
 address=/goturozetka.com/
 address=/goturozetka.vip/
-address=/gov-ua.buzz/
-address=/gov-ua.cfd/
-address=/gov-ua.click/
-address=/gov-ua.com/
-address=/gov-ua.cyou/
-address=/gov-ua.icu/
-address=/gov-ua.org/
-address=/gov-ua.pics/
-address=/gov-ua.pw/
-address=/gov-ua.site/
-address=/gov-uas.site/
 address=/goviplataua.info/
 address=/govs-ua.com/
 address=/govs-ua.io/
@@ -377,9 +367,6 @@ address=/oonviplata.com/
 address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
-address=/opendata-hsc-gov-ua.com/
-address=/opendata-hsc-gov-ua.online/
-address=/opendata-hsc-gov-ua.store/
 address=/oschad-4family-zsu.online/
 address=/oschad-4family-zsu.site/
 address=/oschad-family-zsu.online/
@@ -625,6 +612,7 @@ address=/ukrainehelp.gives/
 address=/ukrainehelp.wiki/
 address=/ukrainehelps.cloud/
 address=/ukrainehotspothelp.com/
+address=/ukrainepay.site/
 address=/ukrainepaymentsystem.pro/
 address=/ukrainepays.site/
 address=/ukrainerozetka.com/
