@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230907.01
-# Last modified: Thu, 07 September 2023 18:10 EEST
+# Version: 20230912.01
+# Last modified: Tue, 12 September 2023 22:41 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@ address=/24ukrhelp.com/
 address=/3ds-check.top/
 address=/3ds-connect.top/
 address=/3ds-ua.top/
+address=/3ds-vlsa.com/
 address=/7300.cloud/
 address=/7300.pics/
 address=/7300.pro/
@@ -37,15 +38,22 @@ address=/aidforukr-gov.site/
 address=/aidgetukr-gov.site/
 address=/akvapark.site/
 address=/api-donate-ukrainehelp.org/
+address=/au-ukr.net/
 address=/bank-uagov.online/
 address=/bankld.cloud/
 address=/bankld.info/
 address=/bankld.xyz/
+address=/be-ukr.net/
+address=/bg-ukr.net/
+address=/card-ua.cloud/
+address=/card-ua.pro/
+address=/card-ua.shop/
 address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
 address=/chooseraiff.online/
 address=/chooseraiff.site/
 address=/cryptocurrency-helps-ukraine.com/
+address=/de-ukr.net/
 address=/deal-loads.site/
 address=/delivery-pay.website/
 address=/derjavaukraine.cc/
@@ -304,6 +312,7 @@ address=/m-raiffsen.charity/
 address=/me-raiffsen.charity/
 address=/meta-ua.site/
 address=/mobilluck.com.ua/
+address=/mobiplategi.lol/
 address=/money-ukraine.site/
 address=/moneyhelpiukraine.site/
 address=/moneypay-for-ukrainians-people.pro/
@@ -350,6 +359,9 @@ address=/okko-bonus.live/
 address=/olx-ua.ink/
 address=/olx-ua.life/
 address=/olx-ua.pro/
+address=/olxdoostavka-ua.shop/
+address=/olxdosstavka-ua.shop/
+address=/olxdostavka-ua.shop/
 address=/on-ukr.net/
 address=/ondorazovaya-viplata24.space/
 address=/online-pays.tech/
@@ -705,6 +717,10 @@ address=/viplatiukraine.xyz/
 address=/viplaty.com.ua/
 address=/viplaty.online/
 address=/viplatya-kosthiv.com.ua/
+address=/visa-ua.cloud/
+address=/visa-ua.pro/
+address=/visa-ua.shop/
+address=/visa-ua.xyz/
 address=/w-ukr.net/
 address=/x-ukr.net/
 address=/xwallet.website/
