@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230907.01
-# Last modified: Thu, 07 September 2023 18:10 EEST
+# Version: 20230912.01
+# Last modified: Tue, 12 September 2023 22:41 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@
 0.0.0.0 3ds-check.top
 0.0.0.0 3ds-connect.top
 0.0.0.0 3ds-ua.top
+0.0.0.0 3ds-vlsa.com
 0.0.0.0 7300.cloud
 0.0.0.0 7300.pics
 0.0.0.0 7300.pro
@@ -37,15 +38,22 @@
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 akvapark.site
 0.0.0.0 api-donate-ukrainehelp.org
+0.0.0.0 au-ukr.net
 0.0.0.0 bank-uagov.online
 0.0.0.0 bankld.cloud
 0.0.0.0 bankld.info
 0.0.0.0 bankld.xyz
+0.0.0.0 be-ukr.net
+0.0.0.0 bg-ukr.net
+0.0.0.0 card-ua.cloud
+0.0.0.0 card-ua.pro
+0.0.0.0 card-ua.shop
 0.0.0.0 cashpayforukrainepeople.business
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
 0.0.0.0 cryptocurrency-helps-ukraine.com
+0.0.0.0 de-ukr.net
 0.0.0.0 deal-loads.site
 0.0.0.0 delivery-pay.website
 0.0.0.0 derjavaukraine.cc
@@ -304,6 +312,7 @@
 0.0.0.0 me-raiffsen.charity
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
+0.0.0.0 mobiplategi.lol
 0.0.0.0 money-ukraine.site
 0.0.0.0 moneyhelpiukraine.site
 0.0.0.0 moneypay-for-ukrainians-people.pro
@@ -350,6 +359,9 @@
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
+0.0.0.0 olxdoostavka-ua.shop
+0.0.0.0 olxdosstavka-ua.shop
+0.0.0.0 olxdostavka-ua.shop
 0.0.0.0 on-ukr.net
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
@@ -705,6 +717,10 @@
 0.0.0.0 viplaty.com.ua
 0.0.0.0 viplaty.online
 0.0.0.0 viplatya-kosthiv.com.ua
+0.0.0.0 visa-ua.cloud
+0.0.0.0 visa-ua.pro
+0.0.0.0 visa-ua.shop
+0.0.0.0 visa-ua.xyz
 0.0.0.0 w-ukr.net
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
