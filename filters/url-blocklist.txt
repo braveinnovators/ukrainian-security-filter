@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230907.01
-! Last modified: Thu, 07 September 2023 18:10 EEST
+! Version: 20230912.01
+! Last modified: Tue, 12 September 2023 22:41 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -19,6 +19,7 @@
 ||3ds-check.top^
 ||3ds-connect.top^
 ||3ds-ua.top^
+||3ds-vlsa.com^
 ||7300.cloud^
 ||7300.pics^
 ||7300.pro^
@@ -37,15 +38,22 @@
 ||aidgetukr-gov.site^
 ||akvapark.site^
 ||api-donate-ukrainehelp.org^
+||au-ukr.net^
 ||bank-uagov.online^
 ||bankld.cloud^
 ||bankld.info^
 ||bankld.xyz^
+||be-ukr.net^
+||bg-ukr.net^
+||card-ua.cloud^
+||card-ua.pro^
+||card-ua.shop^
 ||cashpayforukrainepeople.business^
 ||childrens-fund-ukraine.com^
 ||chooseraiff.online^
 ||chooseraiff.site^
 ||cryptocurrency-helps-ukraine.com^
+||de-ukr.net^
 ||deal-loads.site^
 ||delivery-pay.website^
 ||derjavaukraine.cc^
@@ -304,6 +312,7 @@
 ||me-raiffsen.charity^
 ||meta-ua.site^
 ||mobilluck.com.ua^
+||mobiplategi.lol^
 ||money-ukraine.site^
 ||moneyhelpiukraine.site^
 ||moneypay-for-ukrainians-people.pro^
@@ -350,6 +359,9 @@
 ||olx-ua.ink^
 ||olx-ua.life^
 ||olx-ua.pro^
+||olxdoostavka-ua.shop^
+||olxdosstavka-ua.shop^
+||olxdostavka-ua.shop^
 ||on-ukr.net^
 ||ondorazovaya-viplata24.space^
 ||online-pays.tech^
@@ -705,6 +717,10 @@
 ||viplaty.com.ua^
 ||viplaty.online^
 ||viplatya-kosthiv.com.ua^
+||visa-ua.cloud^
+||visa-ua.pro^
+||visa-ua.shop^
+||visa-ua.xyz^
 ||w-ukr.net^
 ||x-ukr.net^
 ||xwallet.website^
@@ -801,7 +817,6 @@
 ||facebook.com/uappl.org^$document
 
 ||*dia_dopom*$document,domain=t.me|telegram.me
-||*dopomogauaeua^$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*helpoua^$document,domain=t.me|telegram.me
