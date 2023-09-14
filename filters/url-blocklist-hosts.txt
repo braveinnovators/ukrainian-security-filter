@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230912.01
-# Last modified: Tue, 12 September 2023 22:41 EEST
+# Version: 20230914.01
+# Last modified: Thu, 14 September 2023 21:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -57,11 +57,13 @@
 0.0.0.0 deal-loads.site
 0.0.0.0 delivery-pay.website
 0.0.0.0 derjavaukraine.cc
+0.0.0.0 device-by-apple-ua.store
 0.0.0.0 diaa-ukraine.site
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
 0.0.0.0 diadopomogaio.online
+0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 donate-viplata24.space
 0.0.0.0 dopomoga-2023.top
@@ -379,6 +381,8 @@
 0.0.0.0 oonviplata.online
 0.0.0.0 oonviplata.tech
 0.0.0.0 oonviplaty.host
+0.0.0.0 opendata-mvs.com.ua
+0.0.0.0 opendata-mvs.online
 0.0.0.0 oschad-4family-zsu.online
 0.0.0.0 oschad-4family-zsu.site
 0.0.0.0 oschad-family-zsu.online
@@ -420,7 +424,9 @@
 0.0.0.0 pa-ukr.net
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
+0.0.0.0 pay-ua.cloud
 0.0.0.0 pay-ua.pics
+0.0.0.0 pay-ua.pro
 0.0.0.0 pay2zsu-family.online
 0.0.0.0 pay2zsu-family.site
 0.0.0.0 pay2zsu-family.space
@@ -547,6 +553,7 @@
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 swiftperekaz.pro
+0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
@@ -555,6 +562,7 @@
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
 0.0.0.0 ua-bankgov.info
+0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
 0.0.0.0 ua-oschaad.shop
