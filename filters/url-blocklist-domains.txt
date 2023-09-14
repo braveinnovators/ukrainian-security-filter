@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230912.01
-# Last modified: Tue, 12 September 2023 22:41 EEST
+# Version: 20230914.01
+# Last modified: Thu, 14 September 2023 21:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -57,11 +57,13 @@ de-ukr.net
 deal-loads.site
 delivery-pay.website
 derjavaukraine.cc
+device-by-apple-ua.store
 diaa-ukraine.site
 diaa-ukraine.space
 diaaukraine.site
 diaaukraine.space
 diadopomogaio.online
+dmsu-ukr.pp.ua
 donate-ukrainehelp.org
 donate-viplata24.space
 dopomoga-2023.top
@@ -379,6 +381,8 @@ oonviplata.com
 oonviplata.online
 oonviplata.tech
 oonviplaty.host
+opendata-mvs.com.ua
+opendata-mvs.online
 oschad-4family-zsu.online
 oschad-4family-zsu.site
 oschad-family-zsu.online
@@ -420,7 +424,9 @@ oukr.net
 pa-ukr.net
 patriot-ukraine.fun
 patriot-ukraine.info
+pay-ua.cloud
 pay-ua.pics
+pay-ua.pro
 pay2zsu-family.online
 pay2zsu-family.site
 pay2zsu-family.space
@@ -547,6 +553,7 @@ sendukrainians.money
 starlink-ukraine.net
 starlinkukraine.com
 swiftperekaz.pro
+tehnotop.net.ua
 telegram-ua.co
 toidopomoga.co
 toidopomoga.org
@@ -555,6 +562,7 @@ trust-group.pro
 tviy-kyivstar.com.ua
 ua-bankgov.com
 ua-bankgov.info
+ua-onlinepay.shop
 ua-oschaad.cloud
 ua-oschaad.online
 ua-oschaad.shop
