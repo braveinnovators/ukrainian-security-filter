@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230912.01
-# Last modified: Tue, 12 September 2023 22:41 EEST
+# Version: 20230914.01
+# Last modified: Thu, 14 September 2023 21:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -57,11 +57,13 @@ address=/de-ukr.net/
 address=/deal-loads.site/
 address=/delivery-pay.website/
 address=/derjavaukraine.cc/
+address=/device-by-apple-ua.store/
 address=/diaa-ukraine.site/
 address=/diaa-ukraine.space/
 address=/diaaukraine.site/
 address=/diaaukraine.space/
 address=/diadopomogaio.online/
+address=/dmsu-ukr.pp.ua/
 address=/donate-ukrainehelp.org/
 address=/donate-viplata24.space/
 address=/dopomoga-2023.top/
@@ -379,6 +381,8 @@ address=/oonviplata.com/
 address=/oonviplata.online/
 address=/oonviplata.tech/
 address=/oonviplaty.host/
+address=/opendata-mvs.com.ua/
+address=/opendata-mvs.online/
 address=/oschad-4family-zsu.online/
 address=/oschad-4family-zsu.site/
 address=/oschad-family-zsu.online/
@@ -420,7 +424,9 @@ address=/oukr.net/
 address=/pa-ukr.net/
 address=/patriot-ukraine.fun/
 address=/patriot-ukraine.info/
+address=/pay-ua.cloud/
 address=/pay-ua.pics/
+address=/pay-ua.pro/
 address=/pay2zsu-family.online/
 address=/pay2zsu-family.site/
 address=/pay2zsu-family.space/
@@ -547,6 +553,7 @@ address=/sendukrainians.money/
 address=/starlink-ukraine.net/
 address=/starlinkukraine.com/
 address=/swiftperekaz.pro/
+address=/tehnotop.net.ua/
 address=/telegram-ua.co/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
@@ -555,6 +562,7 @@ address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
 address=/ua-bankgov.com/
 address=/ua-bankgov.info/
+address=/ua-onlinepay.shop/
 address=/ua-oschaad.cloud/
 address=/ua-oschaad.online/
 address=/ua-oschaad.shop/
