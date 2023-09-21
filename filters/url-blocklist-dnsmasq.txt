@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230914.01
-# Last modified: Thu, 14 September 2023 21:10 EEST
+# Version: 20230921.01
+# Last modified: Thu, 21 September 2023 21:15 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -351,12 +351,16 @@ address=/novaposhta.com.ua/
 address=/novaposhta.eu/
 address=/novaposhta.in/
 address=/novaposhta.info/
+address=/novaposhta.online/
 address=/novaposhta.org/
 address=/novaposhta.site/
 address=/novaposhtaexpress.com/
 address=/novaposhtashipping.com/
 address=/novaposhtatracking.com/
 address=/oficial-viplata.info/
+address=/ok-ua.cloud/
+address=/ok-ua.info/
+address=/ok-ua.live/
 address=/okko-bonus.live/
 address=/olx-ua.ink/
 address=/olx-ua.life/
@@ -364,6 +368,9 @@ address=/olx-ua.pro/
 address=/olxdoostavka-ua.shop/
 address=/olxdosstavka-ua.shop/
 address=/olxdostavka-ua.shop/
+address=/on-ua.cloud/
+address=/on-ua.info/
+address=/on-ua.pro/
 address=/on-ukr.net/
 address=/ondorazovaya-viplata24.space/
 address=/online-pays.tech/
@@ -401,6 +408,7 @@ address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
 address=/oschadviplata66.shop/
 address=/oshad-24.com/
+address=/oshad-bank.online/
 address=/oshad-cash.pro/
 address=/oshad-pedtrimka.online/
 address=/oshad.online/
@@ -410,6 +418,7 @@ address=/oshadbank.uk/
 address=/oshadbank.website/
 address=/oshadbank24.win/
 address=/oshadhelpes.life/
+address=/oshadhelpviplata.online/
 address=/oshadpaies.co/
 address=/oshadpqy.info/
 address=/oshadukhel.pro/
@@ -576,6 +585,8 @@ address=/ua-paying.xyz/
 address=/ua-payme.charity/
 address=/ua-payticket.online/
 address=/ua-tickets1.online/
+address=/ua-ua.cloud/
+address=/ua-ua.pro/
 address=/ua-ukr.net/
 address=/ua-unicef.online/
 address=/ua-viplata.me/
@@ -612,6 +623,7 @@ address=/ukr-money.com.ua/
 address=/ukr-oil-group.online/
 address=/ukr-pay.charity/
 address=/ukr-payment-system.online/
+address=/ukr-poshta.com/
 address=/ukr-vote.site/
 address=/ukr24help.com/
 address=/ukraina-viplata.xyz/
@@ -730,6 +742,8 @@ address=/visa-ua.pro/
 address=/visa-ua.shop/
 address=/visa-ua.xyz/
 address=/w-ukr.net/
+address=/www-ua.cloud/
+address=/www-ua.info/
 address=/x-ukr.net/
 address=/xwallet.website/
 address=/yr-ukr.net/
