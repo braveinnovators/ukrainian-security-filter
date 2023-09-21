@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230914.01
-# Last modified: Thu, 14 September 2023 21:10 EEST
+# Version: 20230921.01
+# Last modified: Thu, 21 September 2023 21:15 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -351,12 +351,16 @@
 0.0.0.0 novaposhta.eu
 0.0.0.0 novaposhta.in
 0.0.0.0 novaposhta.info
+0.0.0.0 novaposhta.online
 0.0.0.0 novaposhta.org
 0.0.0.0 novaposhta.site
 0.0.0.0 novaposhtaexpress.com
 0.0.0.0 novaposhtashipping.com
 0.0.0.0 novaposhtatracking.com
 0.0.0.0 oficial-viplata.info
+0.0.0.0 ok-ua.cloud
+0.0.0.0 ok-ua.info
+0.0.0.0 ok-ua.live
 0.0.0.0 okko-bonus.live
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
@@ -364,6 +368,9 @@
 0.0.0.0 olxdoostavka-ua.shop
 0.0.0.0 olxdosstavka-ua.shop
 0.0.0.0 olxdostavka-ua.shop
+0.0.0.0 on-ua.cloud
+0.0.0.0 on-ua.info
+0.0.0.0 on-ua.pro
 0.0.0.0 on-ukr.net
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
@@ -401,6 +408,7 @@
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oschadviplata66.shop
 0.0.0.0 oshad-24.com
+0.0.0.0 oshad-bank.online
 0.0.0.0 oshad-cash.pro
 0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad.online
@@ -410,6 +418,7 @@
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
 0.0.0.0 oshadhelpes.life
+0.0.0.0 oshadhelpviplata.online
 0.0.0.0 oshadpaies.co
 0.0.0.0 oshadpqy.info
 0.0.0.0 oshadukhel.pro
@@ -576,6 +585,8 @@
 0.0.0.0 ua-payme.charity
 0.0.0.0 ua-payticket.online
 0.0.0.0 ua-tickets1.online
+0.0.0.0 ua-ua.cloud
+0.0.0.0 ua-ua.pro
 0.0.0.0 ua-ukr.net
 0.0.0.0 ua-unicef.online
 0.0.0.0 ua-viplata.me
@@ -612,6 +623,7 @@
 0.0.0.0 ukr-oil-group.online
 0.0.0.0 ukr-pay.charity
 0.0.0.0 ukr-payment-system.online
+0.0.0.0 ukr-poshta.com
 0.0.0.0 ukr-vote.site
 0.0.0.0 ukr24help.com
 0.0.0.0 ukraina-viplata.xyz
@@ -730,6 +742,8 @@
 0.0.0.0 visa-ua.shop
 0.0.0.0 visa-ua.xyz
 0.0.0.0 w-ukr.net
+0.0.0.0 www-ua.cloud
+0.0.0.0 www-ua.info
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
 0.0.0.0 yr-ukr.net
