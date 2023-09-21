@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230914.01
-# Last modified: Thu, 14 September 2023 21:10 EEST
+# Version: 20230921.01
+# Last modified: Thu, 21 September 2023 21:15 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -351,12 +351,16 @@ novaposhta.com.ua
 novaposhta.eu
 novaposhta.in
 novaposhta.info
+novaposhta.online
 novaposhta.org
 novaposhta.site
 novaposhtaexpress.com
 novaposhtashipping.com
 novaposhtatracking.com
 oficial-viplata.info
+ok-ua.cloud
+ok-ua.info
+ok-ua.live
 okko-bonus.live
 olx-ua.ink
 olx-ua.life
@@ -364,6 +368,9 @@ olx-ua.pro
 olxdoostavka-ua.shop
 olxdosstavka-ua.shop
 olxdostavka-ua.shop
+on-ua.cloud
+on-ua.info
+on-ua.pro
 on-ukr.net
 ondorazovaya-viplata24.space
 online-pays.tech
@@ -401,6 +408,7 @@ oschadlbank24.uk
 oschadnybank.com.ua
 oschadviplata66.shop
 oshad-24.com
+oshad-bank.online
 oshad-cash.pro
 oshad-pedtrimka.online
 oshad.online
@@ -410,6 +418,7 @@ oshadbank.uk
 oshadbank.website
 oshadbank24.win
 oshadhelpes.life
+oshadhelpviplata.online
 oshadpaies.co
 oshadpqy.info
 oshadukhel.pro
@@ -576,6 +585,8 @@ ua-paying.xyz
 ua-payme.charity
 ua-payticket.online
 ua-tickets1.online
+ua-ua.cloud
+ua-ua.pro
 ua-ukr.net
 ua-unicef.online
 ua-viplata.me
@@ -612,6 +623,7 @@ ukr-money.com.ua
 ukr-oil-group.online
 ukr-pay.charity
 ukr-payment-system.online
+ukr-poshta.com
 ukr-vote.site
 ukr24help.com
 ukraina-viplata.xyz
@@ -730,6 +742,8 @@ visa-ua.pro
 visa-ua.shop
 visa-ua.xyz
 w-ukr.net
+www-ua.cloud
+www-ua.info
 x-ukr.net
 xwallet.website
 yr-ukr.net
