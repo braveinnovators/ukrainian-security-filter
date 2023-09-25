@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230921.01
-# Last modified: Thu, 21 September 2023 21:15 EEST
+# Version: 20230925.01
+# Last modified: Mon, 25 September 2023 13:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,9 +40,6 @@ address=/akvapark.site/
 address=/api-donate-ukrainehelp.org/
 address=/au-ukr.net/
 address=/bank-uagov.online/
-address=/bankld.cloud/
-address=/bankld.info/
-address=/bankld.xyz/
 address=/be-ukr.net/
 address=/bg-ukr.net/
 address=/card-ua.cloud/
@@ -402,18 +399,24 @@ address=/oschad-help4zsu.online/
 address=/oschad-help4zsu.site/
 address=/oschad-online.charity/
 address=/oschad-viplaty4family-zsu.site/
+address=/oschad24-get.online/
 address=/oschadbaq.com/
 address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
 address=/oschadviplata66.shop/
 address=/oshad-24.com/
+address=/oshad-auth.site/
 address=/oshad-bank.online/
 address=/oshad-cash.pro/
+address=/oshad-loto.top/
+address=/oshad-lotoukr.top/
 address=/oshad-pedtrimka.online/
 address=/oshad.online/
 address=/oshadbank.online/
 address=/oshadbank.pro/
+address=/oshadbank.pw/
+address=/oshadbank.space/
 address=/oshadbank.uk/
 address=/oshadbank.website/
 address=/oshadbank24.win/
@@ -620,6 +623,7 @@ address=/ukr-dopomoga.top/
 address=/ukr-info.charity/
 address=/ukr-konkurs.site/
 address=/ukr-money.com.ua/
+address=/ukr-net.space/
 address=/ukr-oil-group.online/
 address=/ukr-pay.charity/
 address=/ukr-payment-system.online/
