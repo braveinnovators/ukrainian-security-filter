@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230921.01
-# Last modified: Thu, 21 September 2023 21:15 EEST
+# Version: 20230925.01
+# Last modified: Mon, 25 September 2023 13:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,9 +40,6 @@
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 au-ukr.net
 0.0.0.0 bank-uagov.online
-0.0.0.0 bankld.cloud
-0.0.0.0 bankld.info
-0.0.0.0 bankld.xyz
 0.0.0.0 be-ukr.net
 0.0.0.0 bg-ukr.net
 0.0.0.0 card-ua.cloud
@@ -402,18 +399,24 @@
 0.0.0.0 oschad-help4zsu.site
 0.0.0.0 oschad-online.charity
 0.0.0.0 oschad-viplaty4family-zsu.site
+0.0.0.0 oschad24-get.online
 0.0.0.0 oschadbaq.com
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
 0.0.0.0 oschadviplata66.shop
 0.0.0.0 oshad-24.com
+0.0.0.0 oshad-auth.site
 0.0.0.0 oshad-bank.online
 0.0.0.0 oshad-cash.pro
+0.0.0.0 oshad-loto.top
+0.0.0.0 oshad-lotoukr.top
 0.0.0.0 oshad-pedtrimka.online
 0.0.0.0 oshad.online
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
+0.0.0.0 oshadbank.pw
+0.0.0.0 oshadbank.space
 0.0.0.0 oshadbank.uk
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
@@ -620,6 +623,7 @@
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-money.com.ua
+0.0.0.0 ukr-net.space
 0.0.0.0 ukr-oil-group.online
 0.0.0.0 ukr-pay.charity
 0.0.0.0 ukr-payment-system.online
