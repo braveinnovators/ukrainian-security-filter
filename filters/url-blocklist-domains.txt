@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230921.01
-# Last modified: Thu, 21 September 2023 21:15 EEST
+# Version: 20230925.01
+# Last modified: Mon, 25 September 2023 13:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,9 +40,6 @@ akvapark.site
 api-donate-ukrainehelp.org
 au-ukr.net
 bank-uagov.online
-bankld.cloud
-bankld.info
-bankld.xyz
 be-ukr.net
 bg-ukr.net
 card-ua.cloud
@@ -402,18 +399,24 @@ oschad-help4zsu.online
 oschad-help4zsu.site
 oschad-online.charity
 oschad-viplaty4family-zsu.site
+oschad24-get.online
 oschadbaq.com
 oschadiprivate.click
 oschadlbank24.uk
 oschadnybank.com.ua
 oschadviplata66.shop
 oshad-24.com
+oshad-auth.site
 oshad-bank.online
 oshad-cash.pro
+oshad-loto.top
+oshad-lotoukr.top
 oshad-pedtrimka.online
 oshad.online
 oshadbank.online
 oshadbank.pro
+oshadbank.pw
+oshadbank.space
 oshadbank.uk
 oshadbank.website
 oshadbank24.win
@@ -620,6 +623,7 @@ ukr-dopomoga.top
 ukr-info.charity
 ukr-konkurs.site
 ukr-money.com.ua
+ukr-net.space
 ukr-oil-group.online
 ukr-pay.charity
 ukr-payment-system.online
