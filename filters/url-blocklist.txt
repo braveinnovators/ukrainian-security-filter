@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230921.01
-! Last modified: Thu, 21 September 2023 21:15 EEST
+! Version: 20230925.01
+! Last modified: Mon, 25 September 2023 13:34 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -40,9 +40,6 @@
 ||api-donate-ukrainehelp.org^
 ||au-ukr.net^
 ||bank-uagov.online^
-||bankld.cloud^
-||bankld.info^
-||bankld.xyz^
 ||be-ukr.net^
 ||bg-ukr.net^
 ||card-ua.cloud^
@@ -402,18 +399,24 @@
 ||oschad-help4zsu.site^
 ||oschad-online.charity^
 ||oschad-viplaty4family-zsu.site^
+||oschad24-get.online^
 ||oschadbaq.com^
 ||oschadiprivate.click^
 ||oschadlbank24.uk^
 ||oschadnybank.com.ua^
 ||oschadviplata66.shop^
 ||oshad-24.com^
+||oshad-auth.site^
 ||oshad-bank.online^
 ||oshad-cash.pro^
+||oshad-loto.top^
+||oshad-lotoukr.top^
 ||oshad-pedtrimka.online^
 ||oshad.online^
 ||oshadbank.online^
 ||oshadbank.pro^
+||oshadbank.pw^
+||oshadbank.space^
 ||oshadbank.uk^
 ||oshadbank.website^
 ||oshadbank24.win^
@@ -620,6 +623,7 @@
 ||ukr-info.charity^
 ||ukr-konkurs.site^
 ||ukr-money.com.ua^
+||ukr-net.space^
 ||ukr-oil-group.online^
 ||ukr-pay.charity^
 ||ukr-payment-system.online^
@@ -754,9 +758,10 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-://*bankid*.*/$document,domain=cloud|info|online|pro|shop|site|xyz
+://*bankid*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
+://*bankld*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|online|org|pics|pw|site|store
-://dopomogavidunicef.$document
+://*g0v-ua*.*/$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
