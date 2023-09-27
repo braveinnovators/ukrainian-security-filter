@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20230925.01
-! Last modified: Mon, 25 September 2023 13:34 EEST
+! Version: 20230927.01
+! Last modified: Wed, 27 September 2023 14:03 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -251,6 +251,7 @@
 ||internet-kyivstar.com.ua^
 ||internet-kyivstar.com^
 ||ipay-ua.online^
+||joepay.online^
 ||kievstar.online^
 ||kojnomydopomoga.sbs^
 ||konkurs-23.site^
@@ -470,6 +471,8 @@
 ||pidtrimka-e.xyz^
 ||pidtrimka.cloud^
 ||pidtrimka.world^
+||pidtrumkadiya.info^
+||pidtrumkadiya.site^
 ||pidtrumkapruvat24.world^
 ||polsha24dopomogaua.shop^
 ||polsha24dopomogaua.site^
@@ -482,6 +485,8 @@
 ||privatpay.me^
 ||privatpay.online^
 ||prlvatbank24.pw^
+||processing3ds-card.online^
+||processing3ds-card.site^
 ||prokonkurs-2023.site^
 ||prom-pay-ua.host^
 ||promo-olx-ukrposhta.com^
@@ -574,6 +579,7 @@
 ||tviy-kyivstar.com.ua^
 ||ua-bankgov.com^
 ||ua-bankgov.info^
+||ua-lotosuper.top^
 ||ua-onlinepay.shop^
 ||ua-oschaad.cloud^
 ||ua-oschaad.online^
@@ -638,6 +644,8 @@
 ||ukraine-mvs.site^
 ||ukraine24dopomoga.online^
 ||ukraine24dopomoga.site^
+||ukraineaidnow.net^
+||ukraineaidnow.org^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
 ||ukrainecross.org^
@@ -849,3 +857,9 @@
 ||*helpoua^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
+
+||cash.app/$urkraineaid^$document
+||diaykraine24.ferstka.shop^$document
+||donorbox.org/urkraine-aid^$document
+||linktr.ee/gsfsgf243^$document
+||linktr.ee/helpau17^$document
