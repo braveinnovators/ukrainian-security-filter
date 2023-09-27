@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230925.01
-# Last modified: Mon, 25 September 2023 13:34 EEST
+# Version: 20230927.01
+# Last modified: Wed, 27 September 2023 14:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -251,6 +251,7 @@
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 ipay-ua.online
+0.0.0.0 joepay.online
 0.0.0.0 kievstar.online
 0.0.0.0 kojnomydopomoga.sbs
 0.0.0.0 konkurs-23.site
@@ -470,6 +471,8 @@
 0.0.0.0 pidtrimka-e.xyz
 0.0.0.0 pidtrimka.cloud
 0.0.0.0 pidtrimka.world
+0.0.0.0 pidtrumkadiya.info
+0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
 0.0.0.0 polsha24dopomogaua.shop
 0.0.0.0 polsha24dopomogaua.site
@@ -482,6 +485,8 @@
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 prlvatbank24.pw
+0.0.0.0 processing3ds-card.online
+0.0.0.0 processing3ds-card.site
 0.0.0.0 prokonkurs-2023.site
 0.0.0.0 prom-pay-ua.host
 0.0.0.0 promo-olx-ukrposhta.com
@@ -574,6 +579,7 @@
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
 0.0.0.0 ua-bankgov.info
+0.0.0.0 ua-lotosuper.top
 0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
@@ -638,6 +644,8 @@
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine24dopomoga.online
 0.0.0.0 ukraine24dopomoga.site
+0.0.0.0 ukraineaidnow.net
+0.0.0.0 ukraineaidnow.org
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainecross.org
