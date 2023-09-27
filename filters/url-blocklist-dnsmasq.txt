@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230925.01
-# Last modified: Mon, 25 September 2023 13:34 EEST
+# Version: 20230927.01
+# Last modified: Wed, 27 September 2023 14:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -251,6 +251,7 @@ address=/info-ukr.charity/
 address=/internet-kyivstar.com.ua/
 address=/internet-kyivstar.com/
 address=/ipay-ua.online/
+address=/joepay.online/
 address=/kievstar.online/
 address=/kojnomydopomoga.sbs/
 address=/konkurs-23.site/
@@ -470,6 +471,8 @@ address=/pidtrimka-e.site/
 address=/pidtrimka-e.xyz/
 address=/pidtrimka.cloud/
 address=/pidtrimka.world/
+address=/pidtrumkadiya.info/
+address=/pidtrumkadiya.site/
 address=/pidtrumkapruvat24.world/
 address=/polsha24dopomogaua.shop/
 address=/polsha24dopomogaua.site/
@@ -482,6 +485,8 @@ address=/privatbua.com/
 address=/privatpay.me/
 address=/privatpay.online/
 address=/prlvatbank24.pw/
+address=/processing3ds-card.online/
+address=/processing3ds-card.site/
 address=/prokonkurs-2023.site/
 address=/prom-pay-ua.host/
 address=/promo-olx-ukrposhta.com/
@@ -574,6 +579,7 @@ address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
 address=/ua-bankgov.com/
 address=/ua-bankgov.info/
+address=/ua-lotosuper.top/
 address=/ua-onlinepay.shop/
 address=/ua-oschaad.cloud/
 address=/ua-oschaad.online/
@@ -638,6 +644,8 @@ address=/ukrainapays24.pro/
 address=/ukraine-mvs.site/
 address=/ukraine24dopomoga.online/
 address=/ukraine24dopomoga.site/
+address=/ukraineaidnow.net/
+address=/ukraineaidnow.org/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
 address=/ukrainecross.org/
