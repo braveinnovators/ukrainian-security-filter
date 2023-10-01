@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20230927.01
-# Last modified: Wed, 27 September 2023 14:03 EEST
+# Version: 20231001.01
+# Last modified: Sun, 01 October 2023 15:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -18,6 +18,7 @@
 24ukrhelp.com
 3ds-check.top
 3ds-connect.top
+3ds-fastpay.online
 3ds-ua.top
 3ds-vlsa.com
 7300.cloud
@@ -321,6 +322,7 @@ moneyuanext24.info
 moneyukraine24.site
 mvs-gov.online
 mvs-gov.space
+mvs-oplata.site
 mvs-ua.online
 mvs-ua.space
 my-goavuvyplate.site
