@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231001.01
-# Last modified: Sun, 01 October 2023 15:19 EEST
+# Version: 20231003.01
+# Last modified: Tue, 03 October 2023 12:53 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -203,9 +203,12 @@ eu-st.site
 europeanchallengeukraine.eu
 events-ukr.site
 facebook-ua.info
+fav-luck-ua.com
+fav-pay-ua.com
 finance-dopomoga.site
 findopomoga.sbs
 finua.online
+flashlight-ua.store
 flexcapital.com
 get-moneyua.pro
 get-paysua24.net
