@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231003.02
-! Last modified: Tue, 03 October 2023 18:01 EEST
+! Version: 20231004.01
+! Last modified: Wed, 04 October 2023 18:21 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -323,6 +323,7 @@
 ||moneyua24.org^
 ||moneyuanext24.info^
 ||moneyukraine24.site^
+||msonline-ukroboronprom.com^
 ||mvs-gov.online^
 ||mvs-gov.space^
 ||mvs-oplata.site^
@@ -360,6 +361,7 @@
 ||novaposhtaexpress.com^
 ||novaposhtashipping.com^
 ||novaposhtatracking.com^
+||npu-gov-ua.media^
 ||oficial-viplata.info^
 ||ok-ua.cloud^
 ||ok-ua.info^
@@ -485,6 +487,8 @@
 ||poluchuanext24.pro^
 ||portal-diya.kyiv.ua^
 ||privat-bank-ua.com^
+||privat24.cab^
+||privatb24.click^
 ||privatbnk.com^
 ||privatbua.com^
 ||privatpay.me^
@@ -639,6 +643,7 @@
 ||ukr-pay.charity^
 ||ukr-payment-system.online^
 ||ukr-poshta.com^
+||ukr-product.store^
 ||ukr-vote.site^
 ||ukr24help.com^
 ||ukraina-viplata.xyz^
@@ -774,7 +779,7 @@
 ://*bankid*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*bankld*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*g0v-ua*.*/$document
-://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|online|org|pics|pw|site|store
+://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|store
 ://*viplat*.*/$document,domain=buzz|cfd|click|cloud|cyou|fun|icu|info|online|pics|pro|pw|site|shop|space|store|tech|xyz
 ://finalkonkursukraine*.$document
 ://finalukrainekonkurs*.$document
