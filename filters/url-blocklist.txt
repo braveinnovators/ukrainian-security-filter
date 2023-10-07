@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231005.01
-! Last modified: Thu, 05 October 2023 13:12 EEST
+! Version: 20231007.01
+! Last modified: Sat, 07 October 2023 12:56 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -97,6 +97,7 @@
 ||dopomoga.pics^
 ||dopomoga.place^
 ||dopomoga.rocks^
+||dopomoga.site^
 ||dopomoga.social^
 ||dopomoga.solutions^
 ||dopomoga.space^
@@ -136,6 +137,7 @@
 ||dopomogagroshi.top^
 ||dopomogahelp.com^
 ||dopomogainukraine.com^
+||dopomogalive.online^
 ||dopomogaofficialua.com^
 ||dopomogaonleneukraina.co^
 ||dopomogaonline.app^
@@ -212,6 +214,7 @@
 ||flexcapital.com^
 ||get-moneyua.pro^
 ||get-paysua24.net^
+||getdopomoga.online^
 ||getpaysua.me^
 ||gohelpukraina24.site^
 ||goturozetka.com^
@@ -373,6 +376,9 @@
 ||olxdoostavka-ua.shop^
 ||olxdosstavka-ua.shop^
 ||olxdostavka-ua.shop^
+||olxpay.pw^
+||olxsite.com^
+||olxua.eu^
 ||on-ua.cloud^
 ||on-ua.info^
 ||on-ua.pro^
@@ -486,6 +492,9 @@
 ||poluchenieuanext24.tech^
 ||poluchuanext24.pro^
 ||portal-diya.kyiv.ua^
+||poshta-ua.shop^
+||poshta-uah.shop^
+||poshta.shop^
 ||privat-bank-ua.com^
 ||privat24.cab^
 ||privatb24.click^
@@ -776,13 +785,15 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 
-://*bankid*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
-://*bankld*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*g0v-ua*.*/$document
 ://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|store
+://*bankid*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
+://*bankld*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*viplat*.*/$document,domain=buzz|cfd|click|cloud|cyou|fun|icu|info|online|pics|pro|pw|site|shop|space|store|tech|xyz
 ://finalkonkursukraine*.$document
 ://finalukrainekonkurs*.$document
+://olxpokupka*.$document
+://poshtaolx*.$document
 
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
@@ -867,7 +878,6 @@
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*dtekyasno^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
-||*helpoua^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
