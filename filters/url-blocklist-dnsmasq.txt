@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231004.01
-# Last modified: Wed, 04 October 2023 18:21 EEST
+# Version: 20231007.01
+# Last modified: Sat, 07 October 2023 12:56 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -97,6 +97,7 @@ address=/dopomoga.observer/
 address=/dopomoga.pics/
 address=/dopomoga.place/
 address=/dopomoga.rocks/
+address=/dopomoga.site/
 address=/dopomoga.social/
 address=/dopomoga.solutions/
 address=/dopomoga.space/
@@ -136,6 +137,7 @@ address=/dopomogafromoon-ukr.com/
 address=/dopomogagroshi.top/
 address=/dopomogahelp.com/
 address=/dopomogainukraine.com/
+address=/dopomogalive.online/
 address=/dopomogaofficialua.com/
 address=/dopomogaonleneukraina.co/
 address=/dopomogaonline.app/
@@ -212,6 +214,7 @@ address=/flashlight-ua.store/
 address=/flexcapital.com/
 address=/get-moneyua.pro/
 address=/get-paysua24.net/
+address=/getdopomoga.online/
 address=/getpaysua.me/
 address=/gohelpukraina24.site/
 address=/goturozetka.com/
@@ -373,6 +376,9 @@ address=/olx-ua.pro/
 address=/olxdoostavka-ua.shop/
 address=/olxdosstavka-ua.shop/
 address=/olxdostavka-ua.shop/
+address=/olxpay.pw/
+address=/olxsite.com/
+address=/olxua.eu/
 address=/on-ua.cloud/
 address=/on-ua.info/
 address=/on-ua.pro/
@@ -486,6 +492,9 @@ address=/polsha24dopomogaua.site/
 address=/poluchenieuanext24.tech/
 address=/poluchuanext24.pro/
 address=/portal-diya.kyiv.ua/
+address=/poshta-ua.shop/
+address=/poshta-uah.shop/
+address=/poshta.shop/
 address=/privat-bank-ua.com/
 address=/privat24.cab/
 address=/privatb24.click/
