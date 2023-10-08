@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231007.01
-# Last modified: Sat, 07 October 2023 12:56 EEST
+# Version: 20231008.01
+# Last modified: Sun, 08 October 2023 20:11 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -19,6 +19,8 @@
 3ds-check.top
 3ds-connect.top
 3ds-fastpay.online
+3ds-opllata.site
+3ds-payswallet.online
 3ds-ua.top
 3ds-vlsa.com
 7300.cloud
@@ -61,6 +63,7 @@ diaa-ukraine.space
 diaaukraine.site
 diaaukraine.space
 diadopomogaio.online
+diyas.io
 dmsu-ukr.pp.ua
 donate-ukrainehelp.org
 donate-viplata24.space
@@ -244,6 +247,8 @@ helpdopomoga.com
 helpfond-ua.buzz
 helpforua.me
 helping-ukr.site
+helpukr.pro
+helpukr.support
 helpukr24.com
 helpukraina.site
 helpukraine.direct
@@ -376,6 +381,7 @@ olx-ua.pro
 olxdoostavka-ua.shop
 olxdosstavka-ua.shop
 olxdostavka-ua.shop
+olxmarket-ua.shop
 olxpay.pw
 olxsite.com
 olxua.eu
@@ -386,6 +392,7 @@ on-ukr.net
 ondorazovaya-viplata24.space
 online-pays.tech
 online-raiffeisen.info
+onlinediya.com
 onlinediya.uk
 onlineraiffesen.com
 onlineraiffoisen.com
@@ -401,6 +408,7 @@ oonviplata.tech
 oonviplaty.host
 opendata-mvs.com.ua
 opendata-mvs.online
+original-ua.site
 oschad-4family-zsu.online
 oschad-4family-zsu.site
 oschad-family-zsu.online
@@ -434,6 +442,7 @@ oshadbank.space
 oshadbank.uk
 oshadbank.website
 oshadbank24.win
+oshadbankoon.com
 oshadhelpes.life
 oshadhelpviplata.online
 oshadpaies.co
@@ -448,6 +457,7 @@ otrimati-ua.site
 otrimayviplatu.website
 oukr.net
 pa-ukr.net
+parfums.top
 patriot-ukraine.fun
 patriot-ukraine.info
 pay-ua.cloud
@@ -492,6 +502,7 @@ polsha24dopomogaua.site
 poluchenieuanext24.tech
 poluchuanext24.pro
 portal-diya.kyiv.ua
+poshta-olx.shop
 poshta-ua.shop
 poshta-uah.shop
 poshta.shop
@@ -582,14 +593,20 @@ rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
 safe-uagov.cloud
+sale-ua.shop
 samsung-ukraine.com.ua
 sendukraine.money
 sendukrainians.money
+shop-top-ua.store
 starlink-ukraine.net
 starlinkukraine.com
 swiftperekaz.pro
 tehnotop.net.ua
 telegram-ua.co
+termo-ukraine.online
+termo-ukraine.store
+termo-ukraine.website
+termobilyzna.com
 toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
@@ -649,10 +666,12 @@ ukr-konkurs.site
 ukr-money.com.ua
 ukr-net.space
 ukr-oil-group.online
+ukr-online-shop.site
 ukr-pay.charity
 ukr-payment-system.online
 ukr-poshta.com
 ukr-product.store
+ukr-space.store
 ukr-vote.site
 ukr24help.com
 ukraina-viplata.xyz
