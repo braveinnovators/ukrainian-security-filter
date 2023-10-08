@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231007.01
-# Last modified: Sat, 07 October 2023 12:56 EEST
+# Version: 20231008.01
+# Last modified: Sun, 08 October 2023 20:11 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -19,6 +19,8 @@
 0.0.0.0 3ds-check.top
 0.0.0.0 3ds-connect.top
 0.0.0.0 3ds-fastpay.online
+0.0.0.0 3ds-opllata.site
+0.0.0.0 3ds-payswallet.online
 0.0.0.0 3ds-ua.top
 0.0.0.0 3ds-vlsa.com
 0.0.0.0 7300.cloud
@@ -61,6 +63,7 @@
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
 0.0.0.0 diadopomogaio.online
+0.0.0.0 diyas.io
 0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 donate-ukrainehelp.org
 0.0.0.0 donate-viplata24.space
@@ -244,6 +247,8 @@
 0.0.0.0 helpfond-ua.buzz
 0.0.0.0 helpforua.me
 0.0.0.0 helping-ukr.site
+0.0.0.0 helpukr.pro
+0.0.0.0 helpukr.support
 0.0.0.0 helpukr24.com
 0.0.0.0 helpukraina.site
 0.0.0.0 helpukraine.direct
@@ -376,6 +381,7 @@
 0.0.0.0 olxdoostavka-ua.shop
 0.0.0.0 olxdosstavka-ua.shop
 0.0.0.0 olxdostavka-ua.shop
+0.0.0.0 olxmarket-ua.shop
 0.0.0.0 olxpay.pw
 0.0.0.0 olxsite.com
 0.0.0.0 olxua.eu
@@ -386,6 +392,7 @@
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeisen.info
+0.0.0.0 onlinediya.com
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlineraiffesen.com
 0.0.0.0 onlineraiffoisen.com
@@ -401,6 +408,7 @@
 0.0.0.0 oonviplaty.host
 0.0.0.0 opendata-mvs.com.ua
 0.0.0.0 opendata-mvs.online
+0.0.0.0 original-ua.site
 0.0.0.0 oschad-4family-zsu.online
 0.0.0.0 oschad-4family-zsu.site
 0.0.0.0 oschad-family-zsu.online
@@ -434,6 +442,7 @@
 0.0.0.0 oshadbank.uk
 0.0.0.0 oshadbank.website
 0.0.0.0 oshadbank24.win
+0.0.0.0 oshadbankoon.com
 0.0.0.0 oshadhelpes.life
 0.0.0.0 oshadhelpviplata.online
 0.0.0.0 oshadpaies.co
@@ -448,6 +457,7 @@
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 pa-ukr.net
+0.0.0.0 parfums.top
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
 0.0.0.0 pay-ua.cloud
@@ -492,6 +502,7 @@
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 portal-diya.kyiv.ua
+0.0.0.0 poshta-olx.shop
 0.0.0.0 poshta-ua.shop
 0.0.0.0 poshta-uah.shop
 0.0.0.0 poshta.shop
@@ -582,14 +593,20 @@
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 safe-uagov.cloud
+0.0.0.0 sale-ua.shop
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
+0.0.0.0 shop-top-ua.store
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
+0.0.0.0 termo-ukraine.online
+0.0.0.0 termo-ukraine.store
+0.0.0.0 termo-ukraine.website
+0.0.0.0 termobilyzna.com
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
@@ -649,10 +666,12 @@
 0.0.0.0 ukr-money.com.ua
 0.0.0.0 ukr-net.space
 0.0.0.0 ukr-oil-group.online
+0.0.0.0 ukr-online-shop.site
 0.0.0.0 ukr-pay.charity
 0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr-poshta.com
 0.0.0.0 ukr-product.store
+0.0.0.0 ukr-space.store
 0.0.0.0 ukr-vote.site
 0.0.0.0 ukr24help.com
 0.0.0.0 ukraina-viplata.xyz
