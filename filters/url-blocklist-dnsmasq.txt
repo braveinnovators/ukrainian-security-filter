@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231008.01
-# Last modified: Sun, 08 October 2023 20:11 EEST
+# Version: 20231010.01
+# Last modified: Tue, 10 October 2023 14:51 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -215,6 +215,7 @@ address=/findopomoga.sbs/
 address=/finua.online/
 address=/flashlight-ua.store/
 address=/flexcapital.com/
+address=/gaz-ua.site/
 address=/get-moneyua.pro/
 address=/get-paysua24.net/
 address=/getdopomoga.online/
@@ -694,11 +695,15 @@ address=/ukrainehelp.gives/
 address=/ukrainehelp.wiki/
 address=/ukrainehelps.cloud/
 address=/ukrainehotspothelp.com/
+address=/ukraineishop.com.ua/
+address=/ukrainemag.space/
 address=/ukrainepay.site/
 address=/ukrainepaymentsystem.pro/
 address=/ukrainepays.site/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
+address=/ukraineshop.space/
+address=/ukraineshop.top/
 address=/ukrainestarlink.com/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
