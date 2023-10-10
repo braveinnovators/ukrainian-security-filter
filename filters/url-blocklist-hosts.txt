@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231008.01
-# Last modified: Sun, 08 October 2023 20:11 EEST
+# Version: 20231010.01
+# Last modified: Tue, 10 October 2023 14:51 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -215,6 +215,7 @@
 0.0.0.0 finua.online
 0.0.0.0 flashlight-ua.store
 0.0.0.0 flexcapital.com
+0.0.0.0 gaz-ua.site
 0.0.0.0 get-moneyua.pro
 0.0.0.0 get-paysua24.net
 0.0.0.0 getdopomoga.online
@@ -694,11 +695,15 @@
 0.0.0.0 ukrainehelp.wiki
 0.0.0.0 ukrainehelps.cloud
 0.0.0.0 ukrainehotspothelp.com
+0.0.0.0 ukraineishop.com.ua
+0.0.0.0 ukrainemag.space
 0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
+0.0.0.0 ukraineshop.space
+0.0.0.0 ukraineshop.top
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
