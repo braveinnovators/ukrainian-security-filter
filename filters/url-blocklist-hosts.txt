@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231010.01
-# Last modified: Tue, 10 October 2023 14:51 EEST
+# Version: 20231012.01
+# Last modified: Thu, 12 October 2023 18:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -353,6 +353,7 @@
 0.0.0.0 nextpay.pw
 0.0.0.0 nextuaviplata.pro
 0.0.0.0 nextuaviplata24.pro
+0.0.0.0 noreply-olxpay.com
 0.0.0.0 nova-pay-ua.com
 0.0.0.0 nova-poshta-pay.com
 0.0.0.0 novapay-ukr.top
@@ -376,6 +377,8 @@
 0.0.0.0 ok-ua.info
 0.0.0.0 ok-ua.live
 0.0.0.0 okko-bonus.live
+0.0.0.0 olx-market.shop
+0.0.0.0 olx-pay.eu
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
@@ -453,6 +456,7 @@
 0.0.0.0 oshcadbank.top
 0.0.0.0 oshviplata24.space
 0.0.0.0 otrim-koshtiv-ukr.biz.ua
+0.0.0.0 otrimannyadopomogi.xyz
 0.0.0.0 otrimati-groshi.site
 0.0.0.0 otrimati-ua.site
 0.0.0.0 otrimayviplatu.website
@@ -502,6 +506,7 @@
 0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
+0.0.0.0 polyuchidopomoguhelp.xyz
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 poshta-olx.shop
 0.0.0.0 poshta-ua.shop
@@ -599,6 +604,7 @@
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
 0.0.0.0 shop-top-ua.store
+0.0.0.0 shoppukraine.store
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 swiftperekaz.pro
@@ -704,6 +710,9 @@
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukraineshop.space
 0.0.0.0 ukraineshop.top
+0.0.0.0 ukraineshopp.fun
+0.0.0.0 ukraineshopp.space
+0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
