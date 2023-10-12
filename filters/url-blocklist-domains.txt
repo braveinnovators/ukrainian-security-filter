@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231010.01
-# Last modified: Tue, 10 October 2023 14:51 EEST
+# Version: 20231012.01
+# Last modified: Thu, 12 October 2023 18:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -353,6 +353,7 @@ next24-auth.website
 nextpay.pw
 nextuaviplata.pro
 nextuaviplata24.pro
+noreply-olxpay.com
 nova-pay-ua.com
 nova-poshta-pay.com
 novapay-ukr.top
@@ -376,6 +377,8 @@ ok-ua.cloud
 ok-ua.info
 ok-ua.live
 okko-bonus.live
+olx-market.shop
+olx-pay.eu
 olx-ua.ink
 olx-ua.life
 olx-ua.pro
@@ -453,6 +456,7 @@ oshadukras.info
 oshcadbank.top
 oshviplata24.space
 otrim-koshtiv-ukr.biz.ua
+otrimannyadopomogi.xyz
 otrimati-groshi.site
 otrimati-ua.site
 otrimayviplatu.website
@@ -502,6 +506,7 @@ polsha24dopomogaua.shop
 polsha24dopomogaua.site
 poluchenieuanext24.tech
 poluchuanext24.pro
+polyuchidopomoguhelp.xyz
 portal-diya.kyiv.ua
 poshta-olx.shop
 poshta-ua.shop
@@ -599,6 +604,7 @@ samsung-ukraine.com.ua
 sendukraine.money
 sendukrainians.money
 shop-top-ua.store
+shoppukraine.store
 starlink-ukraine.net
 starlinkukraine.com
 swiftperekaz.pro
@@ -704,6 +710,9 @@ ukrainerozetka.com
 ukrainerozetka.vip
 ukraineshop.space
 ukraineshop.top
+ukraineshopp.fun
+ukraineshopp.space
+ukraineshopp.store
 ukrainestarlink.com
 ukrainianamazon.com
 ukrainianshop.online
