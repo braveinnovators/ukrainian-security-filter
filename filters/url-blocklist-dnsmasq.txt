@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231010.01
-# Last modified: Tue, 10 October 2023 14:51 EEST
+# Version: 20231012.01
+# Last modified: Thu, 12 October 2023 18:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -353,6 +353,7 @@ address=/next24-auth.website/
 address=/nextpay.pw/
 address=/nextuaviplata.pro/
 address=/nextuaviplata24.pro/
+address=/noreply-olxpay.com/
 address=/nova-pay-ua.com/
 address=/nova-poshta-pay.com/
 address=/novapay-ukr.top/
@@ -376,6 +377,8 @@ address=/ok-ua.cloud/
 address=/ok-ua.info/
 address=/ok-ua.live/
 address=/okko-bonus.live/
+address=/olx-market.shop/
+address=/olx-pay.eu/
 address=/olx-ua.ink/
 address=/olx-ua.life/
 address=/olx-ua.pro/
@@ -453,6 +456,7 @@ address=/oshadukras.info/
 address=/oshcadbank.top/
 address=/oshviplata24.space/
 address=/otrim-koshtiv-ukr.biz.ua/
+address=/otrimannyadopomogi.xyz/
 address=/otrimati-groshi.site/
 address=/otrimati-ua.site/
 address=/otrimayviplatu.website/
@@ -502,6 +506,7 @@ address=/polsha24dopomogaua.shop/
 address=/polsha24dopomogaua.site/
 address=/poluchenieuanext24.tech/
 address=/poluchuanext24.pro/
+address=/polyuchidopomoguhelp.xyz/
 address=/portal-diya.kyiv.ua/
 address=/poshta-olx.shop/
 address=/poshta-ua.shop/
@@ -599,6 +604,7 @@ address=/samsung-ukraine.com.ua/
 address=/sendukraine.money/
 address=/sendukrainians.money/
 address=/shop-top-ua.store/
+address=/shoppukraine.store/
 address=/starlink-ukraine.net/
 address=/starlinkukraine.com/
 address=/swiftperekaz.pro/
@@ -704,6 +710,9 @@ address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukraineshop.space/
 address=/ukraineshop.top/
+address=/ukraineshopp.fun/
+address=/ukraineshopp.space/
+address=/ukraineshopp.store/
 address=/ukrainestarlink.com/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
