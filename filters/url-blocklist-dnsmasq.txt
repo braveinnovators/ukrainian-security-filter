@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231012.01
-# Last modified: Thu, 12 October 2023 18:03 EEST
+# Version: 20231015.01
+# Last modified: Sun, 15 October 2023 14:07 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -593,6 +593,7 @@ address=/redcrossdopomoga.info/
 address=/redcrossua.top/
 address=/redcrossukraine.co/
 address=/redcrossukraine.top/
+address=/redirect-oschad.online/
 address=/regsotsvyplat.online/
 address=/reliefukraine.today/
 address=/rozetkaukraine.cc/
@@ -604,9 +605,12 @@ address=/samsung-ukraine.com.ua/
 address=/sendukraine.money/
 address=/sendukrainians.money/
 address=/shop-top-ua.store/
+address=/shopping-in-ukraine.online/
+address=/shoppukraine.store/
 address=/shoppukraine.store/
 address=/starlink-ukraine.net/
 address=/starlinkukraine.com/
+address=/store-ukraine.store/
 address=/swiftperekaz.pro/
 address=/tehnotop.net.ua/
 address=/telegram-ua.co/
@@ -614,6 +618,7 @@ address=/termo-ukraine.online/
 address=/termo-ukraine.store/
 address=/termo-ukraine.website/
 address=/termobilyzna.com/
+address=/thebestpriceukraine.store/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
@@ -681,12 +686,14 @@ address=/ukr-product.store/
 address=/ukr-space.store/
 address=/ukr-vote.site/
 address=/ukr24help.com/
+address=/ukraina-shtraf.site/
 address=/ukraina-viplata.xyz/
 address=/ukraina.buzz/
 address=/ukraina.pro/
 address=/ukrainadopomoga24.org/
 address=/ukrainapays24.pro/
 address=/ukraine-mvs.site/
+address=/ukraine-shop-top.space/
 address=/ukraine24dopomoga.online/
 address=/ukraine24dopomoga.site/
 address=/ukraineaidnow.net/
@@ -718,6 +725,7 @@ address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
 address=/ukrainianstore.space/
 address=/ukrainskapravda.org/
+address=/ukraintovar.fun/
 address=/ukrdopomoga.top/
 address=/ukrkonkurs.site/
 address=/ukrpomosh.site/
