@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231015.01
-! Last modified: Sun, 15 October 2023 14:07 EEST
+! Version: 20231015.02
+! Last modified: Sun, 15 October 2023 14:15 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -606,7 +606,6 @@
 ||sendukrainians.money^
 ||shop-top-ua.store^
 ||shopping-in-ukraine.online^
-||shoppukraine.store^
 ||shoppukraine.store^
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
