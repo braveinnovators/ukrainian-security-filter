@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231012.01
-# Last modified: Thu, 12 October 2023 18:03 EEST
+# Version: 20231015.01
+# Last modified: Sun, 15 October 2023 14:07 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -593,6 +593,7 @@
 0.0.0.0 redcrossua.top
 0.0.0.0 redcrossukraine.co
 0.0.0.0 redcrossukraine.top
+0.0.0.0 redirect-oschad.online
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rozetkaukraine.cc
@@ -604,9 +605,12 @@
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
 0.0.0.0 shop-top-ua.store
+0.0.0.0 shopping-in-ukraine.online
+0.0.0.0 shoppukraine.store
 0.0.0.0 shoppukraine.store
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
+0.0.0.0 store-ukraine.store
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
@@ -614,6 +618,7 @@
 0.0.0.0 termo-ukraine.store
 0.0.0.0 termo-ukraine.website
 0.0.0.0 termobilyzna.com
+0.0.0.0 thebestpriceukraine.store
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
@@ -681,12 +686,14 @@
 0.0.0.0 ukr-space.store
 0.0.0.0 ukr-vote.site
 0.0.0.0 ukr24help.com
+0.0.0.0 ukraina-shtraf.site
 0.0.0.0 ukraina-viplata.xyz
 0.0.0.0 ukraina.buzz
 0.0.0.0 ukraina.pro
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
 0.0.0.0 ukraine-mvs.site
+0.0.0.0 ukraine-shop-top.space
 0.0.0.0 ukraine24dopomoga.online
 0.0.0.0 ukraine24dopomoga.site
 0.0.0.0 ukraineaidnow.net
@@ -718,6 +725,7 @@
 0.0.0.0 ukrainianshop.online
 0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrainskapravda.org
+0.0.0.0 ukraintovar.fun
 0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukrkonkurs.site
 0.0.0.0 ukrpomosh.site
