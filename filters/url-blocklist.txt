@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231012.01
-! Last modified: Thu, 12 October 2023 18:03 EEST
+! Version: 20231015.01
+! Last modified: Sun, 15 October 2023 14:07 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -593,6 +593,7 @@
 ||redcrossua.top^
 ||redcrossukraine.co^
 ||redcrossukraine.top^
+||redirect-oschad.online^
 ||regsotsvyplat.online^
 ||reliefukraine.today^
 ||rozetkaukraine.cc^
@@ -604,9 +605,12 @@
 ||sendukraine.money^
 ||sendukrainians.money^
 ||shop-top-ua.store^
+||shopping-in-ukraine.online^
+||shoppukraine.store^
 ||shoppukraine.store^
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
+||store-ukraine.store^
 ||swiftperekaz.pro^
 ||tehnotop.net.ua^
 ||telegram-ua.co^
@@ -614,6 +618,7 @@
 ||termo-ukraine.store^
 ||termo-ukraine.website^
 ||termobilyzna.com^
+||thebestpriceukraine.store^
 ||toidopomoga.co^
 ||toidopomoga.org^
 ||toidopomoga.pro^
@@ -681,12 +686,14 @@
 ||ukr-space.store^
 ||ukr-vote.site^
 ||ukr24help.com^
+||ukraina-shtraf.site^
 ||ukraina-viplata.xyz^
 ||ukraina.buzz^
 ||ukraina.pro^
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
 ||ukraine-mvs.site^
+||ukraine-shop-top.space^
 ||ukraine24dopomoga.online^
 ||ukraine24dopomoga.site^
 ||ukraineaidnow.net^
@@ -718,6 +725,7 @@
 ||ukrainianshop.online^
 ||ukrainianstore.space^
 ||ukrainskapravda.org^
+||ukraintovar.fun^
 ||ukrdopomoga.top^
 ||ukrkonkurs.site^
 ||ukrpomosh.site^
