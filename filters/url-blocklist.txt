@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231015.02
-! Last modified: Sun, 15 October 2023 14:15 EEST
+! Version: 20231017.01
+! Last modified: Tue, 17 October 2023 16:32 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -44,6 +44,8 @@
 ||au-ukr.net^
 ||bank-uagov.online^
 ||be-ukr.net^
+||bestcrutches.com^
+||bestshopukrain.fun^
 ||bg-ukr.net^
 ||card-ua.cloud^
 ||card-ua.pro^
@@ -196,6 +198,7 @@
 ||ebayua66.vip^
 ||ebayukraine.com^
 ||ebayukraine.vip^
+||ecommerceukraine.website^
 ||edoopomoga.xyz^
 ||en-ukr.net^
 ||epidtrimka.com^
@@ -317,6 +320,7 @@
 ||kyivstarsale.online^
 ||kyivstarshop.com^
 ||kyivstarshop.net^
+||leemsedo.co.ua^
 ||letokonkurs.site^
 ||likpay.me^
 ||liqpay.info^
@@ -610,6 +614,7 @@
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
 ||store-ukraine.store^
+||support-account-ukr.net^
 ||swiftperekaz.pro^
 ||tehnotop.net.ua^
 ||telegram-ua.co^
@@ -621,6 +626,7 @@
 ||toidopomoga.co^
 ||toidopomoga.org^
 ||toidopomoga.pro^
+||topukraineshop.store^
 ||trust-group.pro^
 ||tviy-kyivstar.com.ua^
 ||ua-bankgov.com^
@@ -709,9 +715,11 @@
 ||ukrainehotspothelp.com^
 ||ukraineishop.com.ua^
 ||ukrainemag.space^
+||ukrainemarket.site^
 ||ukrainepay.site^
 ||ukrainepaymentsystem.pro^
 ||ukrainepays.site^
+||ukraineproduct.fun^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukraineshop.space^
@@ -722,6 +730,7 @@
 ||ukrainestarlink.com^
 ||ukrainianamazon.com^
 ||ukrainianshop.online^
+||ukrainianshop.space^
 ||ukrainianstore.space^
 ||ukrainskapravda.org^
 ||ukraintovar.fun^
