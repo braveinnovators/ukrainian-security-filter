@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231015.02
-# Last modified: Sun, 15 October 2023 14:15 EEST
+# Version: 20231017.01
+# Last modified: Tue, 17 October 2023 16:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -44,6 +44,8 @@ address=/api-donate-ukrainehelp.org/
 address=/au-ukr.net/
 address=/bank-uagov.online/
 address=/be-ukr.net/
+address=/bestcrutches.com/
+address=/bestshopukrain.fun/
 address=/bg-ukr.net/
 address=/card-ua.cloud/
 address=/card-ua.pro/
@@ -196,6 +198,7 @@ address=/ebayua66.com/
 address=/ebayua66.vip/
 address=/ebayukraine.com/
 address=/ebayukraine.vip/
+address=/ecommerceukraine.website/
 address=/edoopomoga.xyz/
 address=/en-ukr.net/
 address=/epidtrimka.com/
@@ -317,6 +320,7 @@ address=/kyivstarpay.com/
 address=/kyivstarsale.online/
 address=/kyivstarshop.com/
 address=/kyivstarshop.net/
+address=/leemsedo.co.ua/
 address=/letokonkurs.site/
 address=/likpay.me/
 address=/liqpay.info/
@@ -610,6 +614,7 @@ address=/shoppukraine.store/
 address=/starlink-ukraine.net/
 address=/starlinkukraine.com/
 address=/store-ukraine.store/
+address=/support-account-ukr.net/
 address=/swiftperekaz.pro/
 address=/tehnotop.net.ua/
 address=/telegram-ua.co/
@@ -621,6 +626,7 @@ address=/thebestpriceukraine.store/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
+address=/topukraineshop.store/
 address=/trust-group.pro/
 address=/tviy-kyivstar.com.ua/
 address=/ua-bankgov.com/
@@ -709,9 +715,11 @@ address=/ukrainehelps.cloud/
 address=/ukrainehotspothelp.com/
 address=/ukraineishop.com.ua/
 address=/ukrainemag.space/
+address=/ukrainemarket.site/
 address=/ukrainepay.site/
 address=/ukrainepaymentsystem.pro/
 address=/ukrainepays.site/
+address=/ukraineproduct.fun/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukraineshop.space/
@@ -722,6 +730,7 @@ address=/ukraineshopp.store/
 address=/ukrainestarlink.com/
 address=/ukrainianamazon.com/
 address=/ukrainianshop.online/
+address=/ukrainianshop.space/
 address=/ukrainianstore.space/
 address=/ukrainskapravda.org/
 address=/ukraintovar.fun/
