@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231015.02
-# Last modified: Sun, 15 October 2023 14:15 EEST
+# Version: 20231017.01
+# Last modified: Tue, 17 October 2023 16:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -44,6 +44,8 @@
 0.0.0.0 au-ukr.net
 0.0.0.0 bank-uagov.online
 0.0.0.0 be-ukr.net
+0.0.0.0 bestcrutches.com
+0.0.0.0 bestshopukrain.fun
 0.0.0.0 bg-ukr.net
 0.0.0.0 card-ua.cloud
 0.0.0.0 card-ua.pro
@@ -196,6 +198,7 @@
 0.0.0.0 ebayua66.vip
 0.0.0.0 ebayukraine.com
 0.0.0.0 ebayukraine.vip
+0.0.0.0 ecommerceukraine.website
 0.0.0.0 edoopomoga.xyz
 0.0.0.0 en-ukr.net
 0.0.0.0 epidtrimka.com
@@ -317,6 +320,7 @@
 0.0.0.0 kyivstarsale.online
 0.0.0.0 kyivstarshop.com
 0.0.0.0 kyivstarshop.net
+0.0.0.0 leemsedo.co.ua
 0.0.0.0 letokonkurs.site
 0.0.0.0 likpay.me
 0.0.0.0 liqpay.info
@@ -610,6 +614,7 @@
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 store-ukraine.store
+0.0.0.0 support-account-ukr.net
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
@@ -621,6 +626,7 @@
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
+0.0.0.0 topukraineshop.store
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
@@ -709,9 +715,11 @@
 0.0.0.0 ukrainehotspothelp.com
 0.0.0.0 ukraineishop.com.ua
 0.0.0.0 ukrainemag.space
+0.0.0.0 ukrainemarket.site
 0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
+0.0.0.0 ukraineproduct.fun
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukraineshop.space
@@ -722,6 +730,7 @@
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainianshop.online
+0.0.0.0 ukrainianshop.space
 0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrainskapravda.org
 0.0.0.0 ukraintovar.fun
