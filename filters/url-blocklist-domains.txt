@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231017.01
-# Last modified: Tue, 17 October 2023 16:32 EEST
+# Version: 20231023.01
+# Last modified: Mon, 23 October 2023 16:49 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,6 +40,8 @@ aiderukr-gov.site
 aidforukr-gov.site
 aidgetukr-gov.site
 akvapark.site
+alcohol-ukraine.com
+alcohol-ukraine.shop
 api-donate-ukrainehelp.org
 au-ukr.net
 bank-uagov.online
@@ -54,6 +56,7 @@ cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 chooseraiff.online
 chooseraiff.site
+comfortshop-ukraine.space
 cryptocurrency-helps-ukraine.com
 de-ukr.net
 deal-loads.site
@@ -326,6 +329,10 @@ likpay.me
 liqpay.info
 live-konkurs.site
 m-raiffsen.charity
+magazine-ua.store
+magic-brash-in-ua.shop
+market-ua.site
+maxi-store.com.ua
 me-raiffsen.charity
 meta-ua.site
 mobilluck.com.ua
@@ -339,7 +346,10 @@ moneyukraine24.site
 msonline-ukroboronprom.com
 mvs-gov.online
 mvs-gov.space
+mvs-official.space
 mvs-oplata.site
+mvs-oplati.site
+mvs-oplaty.site
 mvs-ua.online
 mvs-ua.space
 my-goavuvyplate.site
@@ -386,13 +396,16 @@ olx-pay.eu
 olx-ua.ink
 olx-ua.life
 olx-ua.pro
+olxdomposilka.com
 olxdoostavka-ua.shop
 olxdosstavka-ua.shop
 olxdostavka-ua.shop
 olxmarket-ua.shop
 olxpay.pw
 olxsite.com
+olxtpay.com
 olxua.eu
+olxvasaamaster.sbs
 on-ua.cloud
 on-ua.info
 on-ua.pro
@@ -496,6 +509,7 @@ perekaz.eu
 perekaz24.website
 perekaz24privat.com
 pestrio.site
+pheenecs.com.ua
 pidrimka-ua.com
 pidtrimka-accept.site
 pidtrimka-e.cloud
@@ -605,11 +619,16 @@ rozetkaukraine.com
 rozetkaukraine.vip
 safe-uagov.cloud
 sale-ua.shop
+salesmag.shop
 samsung-ukraine.com.ua
 sendukraine.money
 sendukrainians.money
 shop-top-ua.store
+shop-ua.space
+shop-ua.top
+shopinukrainenow.fun
 shopping-in-ukraine.online
+shoppingukraine.fun
 shoppukraine.store
 starlink-ukraine.net
 starlinkukraine.com
@@ -627,6 +646,7 @@ toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 topukraineshop.store
+travel-ua.site
 trust-group.pro
 tviy-kyivstar.com.ua
 ua-bankgov.com
@@ -708,6 +728,7 @@ ukraineamazon.pro
 ukrainecross.org
 ukrainedevelopmentmission.org
 ukraineebay.vip
+ukrainefacility.store
 ukrainehelp.cloud
 ukrainehelp.gives
 ukrainehelp.wiki
@@ -729,9 +750,12 @@ ukraineshopp.space
 ukraineshopp.store
 ukrainestarlink.com
 ukrainianamazon.com
+ukrainianshop.fun
 ukrainianshop.online
 ukrainianshop.space
+ukrainianstore.site
 ukrainianstore.space
+ukrainianstoretop.fun
 ukrainskapravda.org
 ukraintovar.fun
 ukrdopomoga.top
@@ -755,6 +779,7 @@ unicefvyplaty.com
 unicefworldwide.org
 upayment.me
 usdtrader.com
+vabrand-uaspecial.store
 vheck-viplatvidoshad.space
 viplata-bot.eu
 viplata-com.store
@@ -824,6 +849,7 @@ visa-ua.xyz
 w-ukr.net
 www-ua.cloud
 www-ua.info
+wwwolx.site
 x-ukr.net
 xwallet.website
 yr-ukr.net
