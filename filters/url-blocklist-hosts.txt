@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231017.01
-# Last modified: Tue, 17 October 2023 16:32 EEST
+# Version: 20231023.01
+# Last modified: Mon, 23 October 2023 16:49 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,6 +40,8 @@
 0.0.0.0 aidforukr-gov.site
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 akvapark.site
+0.0.0.0 alcohol-ukraine.com
+0.0.0.0 alcohol-ukraine.shop
 0.0.0.0 api-donate-ukrainehelp.org
 0.0.0.0 au-ukr.net
 0.0.0.0 bank-uagov.online
@@ -54,6 +56,7 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
+0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 de-ukr.net
 0.0.0.0 deal-loads.site
@@ -326,6 +329,10 @@
 0.0.0.0 liqpay.info
 0.0.0.0 live-konkurs.site
 0.0.0.0 m-raiffsen.charity
+0.0.0.0 magazine-ua.store
+0.0.0.0 magic-brash-in-ua.shop
+0.0.0.0 market-ua.site
+0.0.0.0 maxi-store.com.ua
 0.0.0.0 me-raiffsen.charity
 0.0.0.0 meta-ua.site
 0.0.0.0 mobilluck.com.ua
@@ -339,7 +346,10 @@
 0.0.0.0 msonline-ukroboronprom.com
 0.0.0.0 mvs-gov.online
 0.0.0.0 mvs-gov.space
+0.0.0.0 mvs-official.space
 0.0.0.0 mvs-oplata.site
+0.0.0.0 mvs-oplati.site
+0.0.0.0 mvs-oplaty.site
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
 0.0.0.0 my-goavuvyplate.site
@@ -386,13 +396,16 @@
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
+0.0.0.0 olxdomposilka.com
 0.0.0.0 olxdoostavka-ua.shop
 0.0.0.0 olxdosstavka-ua.shop
 0.0.0.0 olxdostavka-ua.shop
 0.0.0.0 olxmarket-ua.shop
 0.0.0.0 olxpay.pw
 0.0.0.0 olxsite.com
+0.0.0.0 olxtpay.com
 0.0.0.0 olxua.eu
+0.0.0.0 olxvasaamaster.sbs
 0.0.0.0 on-ua.cloud
 0.0.0.0 on-ua.info
 0.0.0.0 on-ua.pro
@@ -496,6 +509,7 @@
 0.0.0.0 perekaz24.website
 0.0.0.0 perekaz24privat.com
 0.0.0.0 pestrio.site
+0.0.0.0 pheenecs.com.ua
 0.0.0.0 pidrimka-ua.com
 0.0.0.0 pidtrimka-accept.site
 0.0.0.0 pidtrimka-e.cloud
@@ -605,11 +619,16 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 safe-uagov.cloud
 0.0.0.0 sale-ua.shop
+0.0.0.0 salesmag.shop
 0.0.0.0 samsung-ukraine.com.ua
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
 0.0.0.0 shop-top-ua.store
+0.0.0.0 shop-ua.space
+0.0.0.0 shop-ua.top
+0.0.0.0 shopinukrainenow.fun
 0.0.0.0 shopping-in-ukraine.online
+0.0.0.0 shoppingukraine.fun
 0.0.0.0 shoppukraine.store
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
@@ -627,6 +646,7 @@
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
 0.0.0.0 topukraineshop.store
+0.0.0.0 travel-ua.site
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
@@ -708,6 +728,7 @@
 0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukraineebay.vip
+0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
@@ -729,9 +750,12 @@
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
+0.0.0.0 ukrainianshop.fun
 0.0.0.0 ukrainianshop.online
 0.0.0.0 ukrainianshop.space
+0.0.0.0 ukrainianstore.site
 0.0.0.0 ukrainianstore.space
+0.0.0.0 ukrainianstoretop.fun
 0.0.0.0 ukrainskapravda.org
 0.0.0.0 ukraintovar.fun
 0.0.0.0 ukrdopomoga.top
@@ -755,6 +779,7 @@
 0.0.0.0 unicefworldwide.org
 0.0.0.0 upayment.me
 0.0.0.0 usdtrader.com
+0.0.0.0 vabrand-uaspecial.store
 0.0.0.0 vheck-viplatvidoshad.space
 0.0.0.0 viplata-bot.eu
 0.0.0.0 viplata-com.store
@@ -824,6 +849,7 @@
 0.0.0.0 w-ukr.net
 0.0.0.0 www-ua.cloud
 0.0.0.0 www-ua.info
+0.0.0.0 wwwolx.site
 0.0.0.0 x-ukr.net
 0.0.0.0 xwallet.website
 0.0.0.0 yr-ukr.net
