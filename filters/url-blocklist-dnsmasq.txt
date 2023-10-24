@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231024.01
-# Last modified: Tue, 24 October 2023 14:57 EEST
+# Version: 20231024.02
+# Last modified: Tue, 24 October 2023 15:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -56,7 +56,6 @@ address=/cashpayforukrainepeople.business/
 address=/childrens-fund-ukraine.com/
 address=/chooseraiff.online/
 address=/chooseraiff.site/
-address=/comfortshop-ukraine.space/
 address=/comfortshop-ukraine.space/
 address=/cryptocurrency-helps-ukraine.com/
 address=/de-ukr.net/
