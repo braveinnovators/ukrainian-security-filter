@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231024.01
-# Last modified: Tue, 24 October 2023 14:57 EEST
+# Version: 20231024.02
+# Last modified: Tue, 24 October 2023 15:03 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -56,7 +56,6 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
-0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 de-ukr.net
