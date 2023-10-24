@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231023.01
-# Last modified: Mon, 23 October 2023 16:49 EEST
+# Version: 20231024.01
+# Last modified: Tue, 24 October 2023 14:57 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -56,6 +56,7 @@ cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 chooseraiff.online
 chooseraiff.site
+comfortshop-ukraine.space
 comfortshop-ukraine.space
 cryptocurrency-helps-ukraine.com
 de-ukr.net
@@ -270,6 +271,7 @@ info-ukr.charity
 internet-kyivstar.com
 internet-kyivstar.com.ua
 ipay-ua.online
+izzi-money.online
 joepay.online
 kievstar.online
 kojnomydopomoga.sbs
@@ -333,8 +335,10 @@ magazine-ua.store
 magic-brash-in-ua.shop
 market-ua.site
 maxi-store.com.ua
+maxlink.click
 me-raiffsen.charity
 meta-ua.site
+meta-ukr.su
 mobilluck.com.ua
 mobiplategi.lol
 money-ukraine.site
@@ -549,6 +553,7 @@ promohelp24.com
 prytulafoundation.in
 prytulafoundation.net
 prytulafoundation.site
+pumbukraine.online
 raiffaisen-next.online
 raiffaisen-pay.shop
 raiffaisen.online
@@ -651,6 +656,7 @@ trust-group.pro
 tviy-kyivstar.com.ua
 ua-bankgov.com
 ua-bankgov.info
+ua-lotoreys.top
 ua-lotosuper.top
 ua-onlinepay.shop
 ua-oschaad.cloud
@@ -673,6 +679,7 @@ ua-unicef.online
 ua-viplata.me
 ua-wallet.pw
 ua24pomoga.online
+ua3y.store
 uadopomoga.biz
 uadopomoga.com
 uadopomoga.me
@@ -680,6 +687,7 @@ uadopomoga2023.org
 uadopomoga24.sbs
 uadopomoga24.world
 uaehelp.site
+uahelp2023.bio
 uahelpnow.com
 uahelpnow24.com
 uakonkursevent.space
@@ -687,6 +695,8 @@ uanowhelp.com
 uapays24.icu
 uapoluch24.pro
 uappl.org
+uatopshop.pp.ua
+uatopshop.store
 uaunicef.buzz
 uaunicef.shop
 uaunicef.site
@@ -717,8 +727,12 @@ ukraina.buzz
 ukraina.pro
 ukrainadopomoga24.org
 ukrainapays24.pro
+ukraine-goodsware.store
 ukraine-mvs.site
 ukraine-shop-top.space
+ukraine-topp.com.ua
+ukraine-topp.online
+ukraine-trends.space
 ukraine24dopomoga.online
 ukraine24dopomoga.site
 ukraineaidnow.net
@@ -729,6 +743,7 @@ ukrainecross.org
 ukrainedevelopmentmission.org
 ukraineebay.vip
 ukrainefacility.store
+ukrainefamily.store
 ukrainehelp.cloud
 ukrainehelp.gives
 ukrainehelp.wiki
@@ -741,6 +756,7 @@ ukrainepay.site
 ukrainepaymentsystem.pro
 ukrainepays.site
 ukraineproduct.fun
+ukraineproductstore.fun
 ukrainerozetka.com
 ukrainerozetka.vip
 ukraineshop.space
@@ -750,6 +766,7 @@ ukraineshopp.space
 ukraineshopp.store
 ukrainestarlink.com
 ukrainianamazon.com
+ukrainianonlineshop.fun
 ukrainianshop.fun
 ukrainianshop.online
 ukrainianshop.space
@@ -757,16 +774,49 @@ ukrainianstore.site
 ukrainianstore.space
 ukrainianstoretop.fun
 ukrainskapravda.org
+ukrainsohoop.fun
 ukraintovar.fun
 ukrdopomoga.top
+ukrgoods.fun
+ukrhelp2023.com
 ukrkonkurs.site
+ukrmoda.store
+ukrmoda1.store
+ukrmoda2.store
+ukrmoda3.store
+ukrmoda4.store
+ukrmoda5.store
+ukrmoda6.store
+ukrmoda7.store
+ukrmoda8.store
+ukrmoda9.store
+ukrnet24.com
+ukronline.site
+ukronlineshop.fun
+ukronlineshopping.fun
 ukrpomosh.site
 ukrpomosh.space
 ukrpomosh.xyz
+ukrsaytonline.fun
+ukrschoponline.fun
+ukrshop.tech
+ukrshopin.fun
+ukrshoping.shop
+ukrshopingonline.store
+ukrshopingonline.uno
+ukrshopinonline.space
+ukrshoppingonline.fun
+ukrshoppingonlinefree.space
+ukrshops.fun
 ukrsib-bank.site
 ukrsib-bank.top
 ukrsibbankq.com
+ukrtop.space
+ukrtopmagaz.online
+ukrtopshop.space
+ukrtrends.store
 ukrua.art.blog
+ukrvibeshop.store
 ukrwallet.com
 un-unicef.org
 unicef-help.info
