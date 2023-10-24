@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231023.01
-# Last modified: Mon, 23 October 2023 16:49 EEST
+# Version: 20231024.01
+# Last modified: Tue, 24 October 2023 14:57 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -56,6 +56,7 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
+0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 de-ukr.net
@@ -270,6 +271,7 @@
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 ipay-ua.online
+0.0.0.0 izzi-money.online
 0.0.0.0 joepay.online
 0.0.0.0 kievstar.online
 0.0.0.0 kojnomydopomoga.sbs
@@ -333,8 +335,10 @@
 0.0.0.0 magic-brash-in-ua.shop
 0.0.0.0 market-ua.site
 0.0.0.0 maxi-store.com.ua
+0.0.0.0 maxlink.click
 0.0.0.0 me-raiffsen.charity
 0.0.0.0 meta-ua.site
+0.0.0.0 meta-ukr.su
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobiplategi.lol
 0.0.0.0 money-ukraine.site
@@ -549,6 +553,7 @@
 0.0.0.0 prytulafoundation.in
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
+0.0.0.0 pumbukraine.online
 0.0.0.0 raiffaisen-next.online
 0.0.0.0 raiffaisen-pay.shop
 0.0.0.0 raiffaisen.online
@@ -651,6 +656,7 @@
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
 0.0.0.0 ua-bankgov.info
+0.0.0.0 ua-lotoreys.top
 0.0.0.0 ua-lotosuper.top
 0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
@@ -673,6 +679,7 @@
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-wallet.pw
 0.0.0.0 ua24pomoga.online
+0.0.0.0 ua3y.store
 0.0.0.0 uadopomoga.biz
 0.0.0.0 uadopomoga.com
 0.0.0.0 uadopomoga.me
@@ -680,6 +687,7 @@
 0.0.0.0 uadopomoga24.sbs
 0.0.0.0 uadopomoga24.world
 0.0.0.0 uaehelp.site
+0.0.0.0 uahelp2023.bio
 0.0.0.0 uahelpnow.com
 0.0.0.0 uahelpnow24.com
 0.0.0.0 uakonkursevent.space
@@ -687,6 +695,8 @@
 0.0.0.0 uapays24.icu
 0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
+0.0.0.0 uatopshop.pp.ua
+0.0.0.0 uatopshop.store
 0.0.0.0 uaunicef.buzz
 0.0.0.0 uaunicef.shop
 0.0.0.0 uaunicef.site
@@ -717,8 +727,12 @@
 0.0.0.0 ukraina.pro
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
+0.0.0.0 ukraine-goodsware.store
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-shop-top.space
+0.0.0.0 ukraine-topp.com.ua
+0.0.0.0 ukraine-topp.online
+0.0.0.0 ukraine-trends.space
 0.0.0.0 ukraine24dopomoga.online
 0.0.0.0 ukraine24dopomoga.site
 0.0.0.0 ukraineaidnow.net
@@ -729,6 +743,7 @@
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainefacility.store
+0.0.0.0 ukrainefamily.store
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
@@ -741,6 +756,7 @@
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukraineproduct.fun
+0.0.0.0 ukraineproductstore.fun
 0.0.0.0 ukrainerozetka.com
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukraineshop.space
@@ -750,6 +766,7 @@
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
+0.0.0.0 ukrainianonlineshop.fun
 0.0.0.0 ukrainianshop.fun
 0.0.0.0 ukrainianshop.online
 0.0.0.0 ukrainianshop.space
@@ -757,16 +774,49 @@
 0.0.0.0 ukrainianstore.space
 0.0.0.0 ukrainianstoretop.fun
 0.0.0.0 ukrainskapravda.org
+0.0.0.0 ukrainsohoop.fun
 0.0.0.0 ukraintovar.fun
 0.0.0.0 ukrdopomoga.top
+0.0.0.0 ukrgoods.fun
+0.0.0.0 ukrhelp2023.com
 0.0.0.0 ukrkonkurs.site
+0.0.0.0 ukrmoda.store
+0.0.0.0 ukrmoda1.store
+0.0.0.0 ukrmoda2.store
+0.0.0.0 ukrmoda3.store
+0.0.0.0 ukrmoda4.store
+0.0.0.0 ukrmoda5.store
+0.0.0.0 ukrmoda6.store
+0.0.0.0 ukrmoda7.store
+0.0.0.0 ukrmoda8.store
+0.0.0.0 ukrmoda9.store
+0.0.0.0 ukrnet24.com
+0.0.0.0 ukronline.site
+0.0.0.0 ukronlineshop.fun
+0.0.0.0 ukronlineshopping.fun
 0.0.0.0 ukrpomosh.site
 0.0.0.0 ukrpomosh.space
 0.0.0.0 ukrpomosh.xyz
+0.0.0.0 ukrsaytonline.fun
+0.0.0.0 ukrschoponline.fun
+0.0.0.0 ukrshop.tech
+0.0.0.0 ukrshopin.fun
+0.0.0.0 ukrshoping.shop
+0.0.0.0 ukrshopingonline.store
+0.0.0.0 ukrshopingonline.uno
+0.0.0.0 ukrshopinonline.space
+0.0.0.0 ukrshoppingonline.fun
+0.0.0.0 ukrshoppingonlinefree.space
+0.0.0.0 ukrshops.fun
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsibbankq.com
+0.0.0.0 ukrtop.space
+0.0.0.0 ukrtopmagaz.online
+0.0.0.0 ukrtopshop.space
+0.0.0.0 ukrtrends.store
 0.0.0.0 ukrua.art.blog
+0.0.0.0 ukrvibeshop.store
 0.0.0.0 ukrwallet.com
 0.0.0.0 un-unicef.org
 0.0.0.0 unicef-help.info
