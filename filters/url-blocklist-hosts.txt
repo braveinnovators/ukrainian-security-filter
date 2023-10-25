@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231024.02
-# Last modified: Tue, 24 October 2023 15:03 EEST
+# Version: 20231025.01
+# Last modified: Wed, 25 October 2023 18:40 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -21,6 +21,7 @@
 0.0.0.0 3ds-fastpay.online
 0.0.0.0 3ds-opllata.site
 0.0.0.0 3ds-payswallet.online
+0.0.0.0 3ds-payz.site
 0.0.0.0 3ds-ua.top
 0.0.0.0 3ds-vlsa.com
 0.0.0.0 7300.cloud
@@ -68,6 +69,7 @@
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
 0.0.0.0 diadopomogaio.online
+0.0.0.0 diuaaaaxxx.sbs
 0.0.0.0 diyas.io
 0.0.0.0 dmsu-ukr.pp.ua
 0.0.0.0 donate-ukrainehelp.org
@@ -176,6 +178,7 @@
 0.0.0.0 dopomogaua24.org
 0.0.0.0 dopomogauapruvat24.world
 0.0.0.0 dopomogauk.xyz
+0.0.0.0 dopomogaukr.site
 0.0.0.0 dopomogaukr.website
 0.0.0.0 dopomogaukraiine.com
 0.0.0.0 dopomogaukraiinee.website
@@ -336,6 +339,7 @@
 0.0.0.0 maxi-store.com.ua
 0.0.0.0 maxlink.click
 0.0.0.0 me-raiffsen.charity
+0.0.0.0 megaukrshop.fun
 0.0.0.0 meta-ua.site
 0.0.0.0 meta-ukr.su
 0.0.0.0 mobilluck.com.ua
@@ -355,9 +359,11 @@
 0.0.0.0 mvs-oplaty.site
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
+0.0.0.0 my-3ds.space
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
 0.0.0.0 my-kyivstar.com.ua
+0.0.0.0 mygovua.info
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
 0.0.0.0 nacionalbankukraine.shop
@@ -420,6 +426,7 @@
 0.0.0.0 onlinediya.uk
 0.0.0.0 onlineraiffesen.com
 0.0.0.0 onlineraiffoisen.com
+0.0.0.0 onlineukrshop.fun
 0.0.0.0 oon-dopomoga.info
 0.0.0.0 oon-dopomoga.pro
 0.0.0.0 oon-viplata.co
@@ -533,6 +540,7 @@
 0.0.0.0 poshta-ua.shop
 0.0.0.0 poshta-uah.shop
 0.0.0.0 poshta.shop
+0.0.0.0 poshtaposhlanieqw.shop
 0.0.0.0 privat-bank-ua.com
 0.0.0.0 privat24.cab
 0.0.0.0 privatb24.click
@@ -634,6 +642,8 @@
 0.0.0.0 shopping-in-ukraine.online
 0.0.0.0 shoppingukraine.fun
 0.0.0.0 shoppukraine.store
+0.0.0.0 shoptodayukraine.space
+0.0.0.0 shopukraine.org.ua
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 store-ukraine.store
@@ -682,9 +692,13 @@
 0.0.0.0 uadopomoga.biz
 0.0.0.0 uadopomoga.com
 0.0.0.0 uadopomoga.me
+0.0.0.0 uadopomoga.site
 0.0.0.0 uadopomoga2023.org
 0.0.0.0 uadopomoga24.sbs
 0.0.0.0 uadopomoga24.world
+0.0.0.0 uaehelp-7300.info
+0.0.0.0 uaehelp-7300.pro
+0.0.0.0 uaehelp-7300.xyz
 0.0.0.0 uaehelp.site
 0.0.0.0 uahelp2023.bio
 0.0.0.0 uahelpnow.com
@@ -727,6 +741,7 @@
 0.0.0.0 ukrainadopomoga24.org
 0.0.0.0 ukrainapays24.pro
 0.0.0.0 ukraine-goodsware.store
+0.0.0.0 ukraine-homedepot.store
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-shop-top.space
 0.0.0.0 ukraine-topp.com.ua
@@ -805,6 +820,7 @@
 0.0.0.0 ukrshopingonline.uno
 0.0.0.0 ukrshopinonline.space
 0.0.0.0 ukrshoppingonline.fun
+0.0.0.0 ukrshoppingonline.space
 0.0.0.0 ukrshoppingonlinefree.space
 0.0.0.0 ukrshops.fun
 0.0.0.0 ukrsib-bank.site
