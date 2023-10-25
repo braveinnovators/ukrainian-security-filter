@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231024.02
-! Last modified: Tue, 24 October 2023 15:03 EEST
+! Version: 20231025.01
+! Last modified: Wed, 25 October 2023 18:40 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -21,6 +21,7 @@
 ||3ds-fastpay.online^
 ||3ds-opllata.site^
 ||3ds-payswallet.online^
+||3ds-payz.site^
 ||3ds-ua.top^
 ||3ds-vlsa.com^
 ||7300.cloud^
@@ -68,6 +69,7 @@
 ||diaaukraine.site^
 ||diaaukraine.space^
 ||diadopomogaio.online^
+||diuaaaaxxx.sbs^
 ||diyas.io^
 ||dmsu-ukr.pp.ua^
 ||donate-ukrainehelp.org^
@@ -176,6 +178,7 @@
 ||dopomogaua24.org^
 ||dopomogauapruvat24.world^
 ||dopomogauk.xyz^
+||dopomogaukr.site^
 ||dopomogaukr.website^
 ||dopomogaukraiine.com^
 ||dopomogaukraiinee.website^
@@ -336,6 +339,7 @@
 ||maxi-store.com.ua^
 ||maxlink.click^
 ||me-raiffsen.charity^
+||megaukrshop.fun^
 ||meta-ua.site^
 ||meta-ukr.su^
 ||mobilluck.com.ua^
@@ -355,9 +359,11 @@
 ||mvs-oplaty.site^
 ||mvs-ua.online^
 ||mvs-ua.space^
+||my-3ds.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
 ||my-kyivstar.com.ua^
+||mygovua.info^
 ||mygovua.online^
 ||mykyivstar.com^
 ||nacionalbankukraine.shop^
@@ -420,6 +426,7 @@
 ||onlinediya.uk^
 ||onlineraiffesen.com^
 ||onlineraiffoisen.com^
+||onlineukrshop.fun^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
 ||oon-viplata.co^
@@ -533,6 +540,7 @@
 ||poshta-ua.shop^
 ||poshta-uah.shop^
 ||poshta.shop^
+||poshtaposhlanieqw.shop^
 ||privat-bank-ua.com^
 ||privat24.cab^
 ||privatb24.click^
@@ -634,6 +642,8 @@
 ||shopping-in-ukraine.online^
 ||shoppingukraine.fun^
 ||shoppukraine.store^
+||shoptodayukraine.space^
+||shopukraine.org.ua^
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
 ||store-ukraine.store^
@@ -682,9 +692,13 @@
 ||uadopomoga.biz^
 ||uadopomoga.com^
 ||uadopomoga.me^
+||uadopomoga.site^
 ||uadopomoga2023.org^
 ||uadopomoga24.sbs^
 ||uadopomoga24.world^
+||uaehelp-7300.info^
+||uaehelp-7300.pro^
+||uaehelp-7300.xyz^
 ||uaehelp.site^
 ||uahelp2023.bio^
 ||uahelpnow.com^
@@ -727,6 +741,7 @@
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
 ||ukraine-goodsware.store^
+||ukraine-homedepot.store^
 ||ukraine-mvs.site^
 ||ukraine-shop-top.space^
 ||ukraine-topp.com.ua^
@@ -805,6 +820,7 @@
 ||ukrshopingonline.uno^
 ||ukrshopinonline.space^
 ||ukrshoppingonline.fun^
+||ukrshoppingonline.space^
 ||ukrshoppingonlinefree.space^
 ||ukrshops.fun^
 ||ukrsib-bank.site^
@@ -910,7 +926,7 @@
 ! !!!!!!!!!!!!!!!
 
 ://*g0v-ua*.*/$document
-://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|store
+://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|space|store
 ://*bankid*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*bankld*.*/$document,domain=cloud|info|lol|online|pro|shop|site|xyz
 ://*viplata*.*/$document,domain=buzz|cfd|click|cloud|cyou|fun|icu|info|online|pics|pro|pw|site|shop|space|store|tech|xyz
