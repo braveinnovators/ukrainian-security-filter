@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231025.01
-# Last modified: Wed, 25 October 2023 18:40 EEST
+# Version: 20231026.01
+# Last modified: Thu, 26 October 2023 13:18 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -332,9 +332,11 @@
 0.0.0.0 likpay.me
 0.0.0.0 liqpay.info
 0.0.0.0 live-konkurs.site
+0.0.0.0 luxury-store-ua.space
 0.0.0.0 m-raiffsen.charity
 0.0.0.0 magazine-ua.store
 0.0.0.0 magic-brash-in-ua.shop
+0.0.0.0 malunki-ua.site
 0.0.0.0 market-ua.site
 0.0.0.0 maxi-store.com.ua
 0.0.0.0 maxlink.click
@@ -354,9 +356,11 @@
 0.0.0.0 mvs-gov.online
 0.0.0.0 mvs-gov.space
 0.0.0.0 mvs-official.space
+0.0.0.0 mvs-offlcial.space
 0.0.0.0 mvs-oplata.site
 0.0.0.0 mvs-oplati.site
 0.0.0.0 mvs-oplaty.site
+0.0.0.0 mvs-police.space
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
 0.0.0.0 my-3ds.space
@@ -519,6 +523,7 @@
 0.0.0.0 perekaz24.website
 0.0.0.0 perekaz24privat.com
 0.0.0.0 pestrio.site
+0.0.0.0 petition-geroi-ua.su
 0.0.0.0 pheenecs.com.ua
 0.0.0.0 pidrimka-ua.com
 0.0.0.0 pidtrimka-accept.site
@@ -530,11 +535,13 @@
 0.0.0.0 pidtrumkadiya.info
 0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
+0.0.0.0 pkeedo.co.ua
 0.0.0.0 polsha24dopomogaua.shop
 0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
 0.0.0.0 poluchuanext24.pro
 0.0.0.0 polyuchidopomoguhelp.xyz
+0.0.0.0 popkorn-ua.store
 0.0.0.0 portal-diya.kyiv.ua
 0.0.0.0 poshta-olx.shop
 0.0.0.0 poshta-ua.shop
@@ -646,8 +653,11 @@
 0.0.0.0 shopukraine.org.ua
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
+0.0.0.0 steklo-ua.net
+0.0.0.0 steklo-ua.online
 0.0.0.0 store-ukraine.store
 0.0.0.0 support-account-ukr.net
+0.0.0.0 swift-ua.store
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
@@ -661,6 +671,7 @@
 0.0.0.0 toidopomoga.pro
 0.0.0.0 topukraineshop.store
 0.0.0.0 travel-ua.site
+0.0.0.0 trend-ua.space
 0.0.0.0 trust-group.pro
 0.0.0.0 tviy-kyivstar.com.ua
 0.0.0.0 ua-bankgov.com
@@ -912,6 +923,7 @@
 0.0.0.0 visa-ua.shop
 0.0.0.0 visa-ua.xyz
 0.0.0.0 w-ukr.net
+0.0.0.0 watch-ua.space
 0.0.0.0 www-ua.cloud
 0.0.0.0 www-ua.info
 0.0.0.0 wwwolx.site
