@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231026.01
-# Last modified: Thu, 26 October 2023 13:18 EEST
+# Version: 20231027.01
+# Last modified: Fri, 27 October 2023 17:56 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -409,6 +409,7 @@
 0.0.0.0 olx-ua.ink
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
+0.0.0.0 olx-ua.pw
 0.0.0.0 olxdomposilka.com
 0.0.0.0 olxdoostavka-ua.shop
 0.0.0.0 olxdosstavka-ua.shop
@@ -645,6 +646,7 @@
 0.0.0.0 shop-top-ua.store
 0.0.0.0 shop-ua.space
 0.0.0.0 shop-ua.top
+0.0.0.0 shopingukraine.store
 0.0.0.0 shopinukrainenow.fun
 0.0.0.0 shopping-in-ukraine.online
 0.0.0.0 shoppingukraine.fun
