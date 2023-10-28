@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231027.01
-! Last modified: Fri, 27 October 2023 17:56 EEST
+! Version: 20231028.01
+! Last modified: Sat, 28 October 2023 15:55 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -739,12 +739,16 @@
 ||ukr-money.com.ua^
 ||ukr-net.space^
 ||ukr-oil-group.online^
+||ukr-olx.com^
 ||ukr-online-shop.site^
 ||ukr-pay.charity^
 ||ukr-payment-system.online^
 ||ukr-poshta.com^
 ||ukr-product.store^
 ||ukr-space.store^
+||ukr-svitlo.store^
+||ukr-vitrin.shop^
+||ukr-vitrina.shop^
 ||ukr-vote.site^
 ||ukr24help.com^
 ||ukraina-shtraf.site^
@@ -924,6 +928,7 @@
 ||visa-ua.pro^
 ||visa-ua.shop^
 ||visa-ua.xyz^
+||vitrina-ukr7.shop^
 ||w-ukr.net^
 ||watch-ua.space^
 ||www-ua.cloud^
