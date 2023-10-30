@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231030.01
-# Last modified: Mon, 30 October 2023 15:47 EET
+# Version: 20231030.02
+# Last modified: Mon, 30 October 2023 18:37 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -71,6 +71,7 @@ address=/diaa-ukraine.space/
 address=/diaaukraine.site/
 address=/diaaukraine.space/
 address=/diadopomogaio.online/
+address=/discountshopukraine.store/
 address=/diuaaaaxxx.sbs/
 address=/diyas.io/
 address=/dmsu-ukr.pp.ua/
@@ -225,6 +226,7 @@ address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
 address=/finua.online/
 address=/flashlight-ua.store/
+address=/flashmarketua.store/
 address=/flexcapital.com/
 address=/gaz-ua.site/
 address=/get-moneyua.pro/
@@ -576,6 +578,7 @@ address=/prytulafoundation.in/
 address=/prytulafoundation.net/
 address=/prytulafoundation.site/
 address=/pumbukraine.online/
+address=/quality-ukrainegoods.store/
 address=/raiffaisen-next.online/
 address=/raiffaisen-pay.shop/
 address=/raiffaisen.online/
@@ -670,6 +673,7 @@ address=/store-ukraine.store/
 address=/support-account-ukr.net/
 address=/swift-ua.store/
 address=/swiftperekaz.pro/
+address=/tapetool.store/
 address=/tehnotop.net.ua/
 address=/telegram-ua.co/
 address=/termo-ukraine.online/
@@ -684,9 +688,13 @@ address=/topukraineshop.store/
 address=/travel-ua.site/
 address=/trend-ua.space/
 address=/trust-group.pro/
+address=/tv-shop.space/
 address=/tviy-kyivstar.com.ua/
+address=/tviyshop.online/
+address=/ua-applestore.shop/
 address=/ua-bankgov.com/
 address=/ua-bankgov.info/
+address=/ua-fashion.shop/
 address=/ua-lotoreys.top/
 address=/ua-lotosuper.top/
 address=/ua-onlinepay.shop/
@@ -702,6 +710,7 @@ address=/ua-paying.pics/
 address=/ua-paying.xyz/
 address=/ua-payme.charity/
 address=/ua-payticket.online/
+address=/ua-sell.store/
 address=/ua-tickets1.online/
 address=/ua-ua.cloud/
 address=/ua-ua.pro/
@@ -730,6 +739,8 @@ address=/uanowhelp.com/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
+address=/uaqualitymarket.store/
+address=/uashop.shop/
 address=/uatopshop.pp.ua/
 address=/uatopshop.store/
 address=/uaunicef.buzz/
