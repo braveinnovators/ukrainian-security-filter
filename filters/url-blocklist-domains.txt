@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231028.01
-# Last modified: Sat, 28 October 2023 15:55 EEST
+# Version: 20231030.01
+# Last modified: Mon, 30 October 2023 15:47 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,6 +40,7 @@ aiderinukr-gov.site
 aiderukr-gov.site
 aidforukr-gov.site
 aidgetukr-gov.site
+air-pro-ua.store
 akvapark.site
 alcohol-ukraine.com
 alcohol-ukraine.shop
@@ -57,6 +58,7 @@ cashpayforukrainepeople.business
 childrens-fund-ukraine.com
 chooseraiff.online
 chooseraiff.site
+comfort-ua.store
 comfortshop-ukraine.space
 cryptocurrency-helps-ukraine.com
 de-ukr.net
@@ -272,6 +274,7 @@ i-ua.website
 info-ukr.charity
 internet-kyivstar.com
 internet-kyivstar.com.ua
+intrestingukrainefun.fun
 ipay-ua.online
 izzi-money.online
 joepay.online
@@ -396,6 +399,7 @@ novaposhta.online
 novaposhta.org
 novaposhta.site
 novaposhtaexpress.com
+novaposhtaolx.com
 novaposhtashipping.com
 novaposhtatracking.com
 npu-gov-ua.media
@@ -415,6 +419,7 @@ olxdoostavka-ua.shop
 olxdosstavka-ua.shop
 olxdostavka-ua.shop
 olxmarket-ua.shop
+olxoplatadostavkak.com
 olxpay.pw
 olxsite.com
 olxtpay.com
@@ -537,6 +542,7 @@ pidtrumkadiya.info
 pidtrumkadiya.site
 pidtrumkapruvat24.world
 pkeedo.co.ua
+podarok-ua.space
 polsha24dopomogaua.shop
 polsha24dopomogaua.site
 poluchenieuanext24.tech
@@ -559,6 +565,7 @@ privatpay.online
 prlvatbank24.pw
 processing3ds-card.online
 processing3ds-card.site
+proffinance.site
 prokonkurs-2023.site
 prom-pay-ua.host
 promo-olx-ukrposhta.com
@@ -634,9 +641,11 @@ redcrossukraine.top
 redirect-oschad.online
 regsotsvyplat.online
 reliefukraine.today
+rockbit.space
 rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
+rybalka-ua.site
 safe-uagov.cloud
 sale-ua.shop
 salesmag.shop
@@ -730,6 +739,7 @@ uaunicefs.buzz
 uavolunteer-military.com
 uk-konkurs.site
 uk-ukr.net
+ukr-bestseller.com
 ukr-buy.com.ua
 ukr-cash.top
 ukr-dopomog.top
@@ -745,6 +755,7 @@ ukr-pay.charity
 ukr-payment-system.online
 ukr-poshta.com
 ukr-product.store
+ukr-shoppi3.shop
 ukr-space.store
 ukr-svitlo.store
 ukr-vitrin.shop
@@ -770,6 +781,7 @@ ukraineaidnow.net
 ukraineaidnow.org
 ukraineamazon.com
 ukraineamazon.pro
+ukrainebasket.space
 ukrainecross.org
 ukrainedevelopmentmission.org
 ukraineebay.vip
@@ -783,6 +795,7 @@ ukrainehotspothelp.com
 ukraineishop.com.ua
 ukrainemag.space
 ukrainemarket.site
+ukraineonlineshop.fun
 ukrainepay.site
 ukrainepaymentsystem.pro
 ukrainepays.site
