@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231030.01
-# Last modified: Mon, 30 October 2023 15:47 EET
+# Version: 20231030.02
+# Last modified: Mon, 30 October 2023 18:37 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -71,6 +71,7 @@ diaa-ukraine.space
 diaaukraine.site
 diaaukraine.space
 diadopomogaio.online
+discountshopukraine.store
 diuaaaaxxx.sbs
 diyas.io
 dmsu-ukr.pp.ua
@@ -225,6 +226,7 @@ finance-dopomoga.site
 findopomoga.sbs
 finua.online
 flashlight-ua.store
+flashmarketua.store
 flexcapital.com
 gaz-ua.site
 get-moneyua.pro
@@ -576,6 +578,7 @@ prytulafoundation.in
 prytulafoundation.net
 prytulafoundation.site
 pumbukraine.online
+quality-ukrainegoods.store
 raiffaisen-next.online
 raiffaisen-pay.shop
 raiffaisen.online
@@ -670,6 +673,7 @@ store-ukraine.store
 support-account-ukr.net
 swift-ua.store
 swiftperekaz.pro
+tapetool.store
 tehnotop.net.ua
 telegram-ua.co
 termo-ukraine.online
@@ -684,9 +688,13 @@ topukraineshop.store
 travel-ua.site
 trend-ua.space
 trust-group.pro
+tv-shop.space
 tviy-kyivstar.com.ua
+tviyshop.online
+ua-applestore.shop
 ua-bankgov.com
 ua-bankgov.info
+ua-fashion.shop
 ua-lotoreys.top
 ua-lotosuper.top
 ua-onlinepay.shop
@@ -702,6 +710,7 @@ ua-paying.pics
 ua-paying.xyz
 ua-payme.charity
 ua-payticket.online
+ua-sell.store
 ua-tickets1.online
 ua-ua.cloud
 ua-ua.pro
@@ -730,6 +739,8 @@ uanowhelp.com
 uapays24.icu
 uapoluch24.pro
 uappl.org
+uaqualitymarket.store
+uashop.shop
 uatopshop.pp.ua
 uatopshop.store
 uaunicef.buzz
