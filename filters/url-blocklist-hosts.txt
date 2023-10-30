@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231028.01
-# Last modified: Sat, 28 October 2023 15:55 EEST
+# Version: 20231030.01
+# Last modified: Mon, 30 October 2023 15:47 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -40,6 +40,7 @@
 0.0.0.0 aiderukr-gov.site
 0.0.0.0 aidforukr-gov.site
 0.0.0.0 aidgetukr-gov.site
+0.0.0.0 air-pro-ua.store
 0.0.0.0 akvapark.site
 0.0.0.0 alcohol-ukraine.com
 0.0.0.0 alcohol-ukraine.shop
@@ -57,6 +58,7 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
+0.0.0.0 comfort-ua.store
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 de-ukr.net
@@ -272,6 +274,7 @@
 0.0.0.0 info-ukr.charity
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
+0.0.0.0 intrestingukrainefun.fun
 0.0.0.0 ipay-ua.online
 0.0.0.0 izzi-money.online
 0.0.0.0 joepay.online
@@ -396,6 +399,7 @@
 0.0.0.0 novaposhta.org
 0.0.0.0 novaposhta.site
 0.0.0.0 novaposhtaexpress.com
+0.0.0.0 novaposhtaolx.com
 0.0.0.0 novaposhtashipping.com
 0.0.0.0 novaposhtatracking.com
 0.0.0.0 npu-gov-ua.media
@@ -415,6 +419,7 @@
 0.0.0.0 olxdosstavka-ua.shop
 0.0.0.0 olxdostavka-ua.shop
 0.0.0.0 olxmarket-ua.shop
+0.0.0.0 olxoplatadostavkak.com
 0.0.0.0 olxpay.pw
 0.0.0.0 olxsite.com
 0.0.0.0 olxtpay.com
@@ -537,6 +542,7 @@
 0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
 0.0.0.0 pkeedo.co.ua
+0.0.0.0 podarok-ua.space
 0.0.0.0 polsha24dopomogaua.shop
 0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
@@ -559,6 +565,7 @@
 0.0.0.0 prlvatbank24.pw
 0.0.0.0 processing3ds-card.online
 0.0.0.0 processing3ds-card.site
+0.0.0.0 proffinance.site
 0.0.0.0 prokonkurs-2023.site
 0.0.0.0 prom-pay-ua.host
 0.0.0.0 promo-olx-ukrposhta.com
@@ -634,9 +641,11 @@
 0.0.0.0 redirect-oschad.online
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
+0.0.0.0 rockbit.space
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
+0.0.0.0 rybalka-ua.site
 0.0.0.0 safe-uagov.cloud
 0.0.0.0 sale-ua.shop
 0.0.0.0 salesmag.shop
@@ -730,6 +739,7 @@
 0.0.0.0 uavolunteer-military.com
 0.0.0.0 uk-konkurs.site
 0.0.0.0 uk-ukr.net
+0.0.0.0 ukr-bestseller.com
 0.0.0.0 ukr-buy.com.ua
 0.0.0.0 ukr-cash.top
 0.0.0.0 ukr-dopomog.top
@@ -745,6 +755,7 @@
 0.0.0.0 ukr-payment-system.online
 0.0.0.0 ukr-poshta.com
 0.0.0.0 ukr-product.store
+0.0.0.0 ukr-shoppi3.shop
 0.0.0.0 ukr-space.store
 0.0.0.0 ukr-svitlo.store
 0.0.0.0 ukr-vitrin.shop
@@ -770,6 +781,7 @@
 0.0.0.0 ukraineaidnow.org
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
+0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukraineebay.vip
@@ -783,6 +795,7 @@
 0.0.0.0 ukraineishop.com.ua
 0.0.0.0 ukrainemag.space
 0.0.0.0 ukrainemarket.site
+0.0.0.0 ukraineonlineshop.fun
 0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
