@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231031.01
-# Last modified: Tue, 31 October 2023 14:51 EET
+# Version: 20231031.02
+# Last modified: Tue, 31 October 2023 17:43 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -51,6 +51,8 @@ be-ukr.net
 bestcrutches.com
 bestshopukrain.fun
 bg-ukr.net
+carcover-ua.store
+carcover-ua.uno
 card-ua.cloud
 card-ua.pro
 card-ua.shop
@@ -71,6 +73,7 @@ diaa-ukraine.space
 diaaukraine.site
 diaaukraine.space
 diadopomogaio.online
+discount-sale.website
 discountshopukraine.store
 diuaaaaxxx.sbs
 diyas.io
@@ -282,8 +285,11 @@ intrestingukrainefun.fun
 ipay-ua.online
 izzi-money.online
 joepay.online
+kattele.store
+kattele.top
 kievstar.online
 kojnomydopomoga.sbs
+komfort-house.store
 konkurs-23.site
 konkurs-24.site
 konkurs-events.top
@@ -347,10 +353,14 @@ magazine-ua.store
 magic-brash-in-ua.shop
 malunki-ua.site
 market-ua.site
+marketexclusive.store
+marketlace.store
 maxi-store.com.ua
 maxlink.click
 me-raiffsen.charity
+megashops.online
 megaukrshop.fun
+merejjka.store
 meta-ua.site
 meta-ukr.su
 mobilluck.com.ua
@@ -669,6 +679,7 @@ shoppingukraine.fun
 shoppukraine.store
 shoptodayukraine.space
 shopukraine.org.ua
+shopukraine.space
 starlink-ukraine.net
 starlinkukraine.com
 steklo-ua.net
@@ -688,7 +699,9 @@ thebestpriceukraine.store
 toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
+top-shopua.store
 topukraineshop.store
+transform-mebel.com.ua
 travel-ua.site
 treestash.store
 trend-ua.space
@@ -744,6 +757,7 @@ uanowhelp.com
 uapays24.icu
 uapoluch24.pro
 uappl.org
+uaproduct.store
 uaqualitymarket.store
 uashop.shop
 uatopshop.pp.ua
@@ -825,6 +839,7 @@ ukraineshopp.fun
 ukraineshopp.space
 ukraineshopp.store
 ukrainestarlink.com
+ukrainestore.online
 ukrainianamazon.com
 ukrainiannews.site
 ukrainianonlineshop.fun
