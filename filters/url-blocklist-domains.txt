@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231030.02
-# Last modified: Mon, 30 October 2023 18:37 EET
+# Version: 20231031.01
+# Last modified: Tue, 31 October 2023 14:51 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -210,6 +210,7 @@ ebayukraine.vip
 ecommerceukraine.website
 edoopomoga.xyz
 en-ukr.net
+enersit.com
 epidtrimka.com
 epidtrimkadopomoga.com
 epidtrimkaua.info
@@ -222,6 +223,7 @@ events-ukr.site
 facebook-ua.info
 fav-luck-ua.com
 fav-pay-ua.com
+ferstka.shop
 finance-dopomoga.site
 findopomoga.sbs
 finua.online
@@ -291,6 +293,8 @@ konkurs-my.site
 konkurs-ua.site
 konkurs-uk.site
 konkurs-ukraine.site
+konkurs.pics
+konkurs.pw
 konkurs.site
 konkurs2023.site
 konkurs23.site
@@ -686,6 +690,7 @@ toidopomoga.org
 toidopomoga.pro
 topukraineshop.store
 travel-ua.site
+treestash.store
 trend-ua.space
 trust-group.pro
 tv-shop.space
@@ -821,6 +826,7 @@ ukraineshopp.space
 ukraineshopp.store
 ukrainestarlink.com
 ukrainianamazon.com
+ukrainiannews.site
 ukrainianonlineshop.fun
 ukrainianshop.fun
 ukrainianshop.online
