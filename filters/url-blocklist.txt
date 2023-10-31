@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231031.02
-! Last modified: Tue, 31 October 2023 17:43 EET
+! Version: 20231031.03
+! Last modified: Tue, 31 October 2023 19:40 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -239,6 +239,8 @@
 ||getdopomoga.online^
 ||getpaysua.me^
 ||gohelpukraina24.site^
+||googlee.pw^
+||googleeua.com^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||goviplataua.info^
@@ -288,6 +290,7 @@
 ||kattele.store^
 ||kattele.top^
 ||kievstar.online^
+||kiiev.site^
 ||kojnomydopomoga.sbs^
 ||komfort-house.store^
 ||konkurs-23.site^
@@ -352,6 +355,7 @@
 ||magazine-ua.store^
 ||magic-brash-in-ua.shop^
 ||malunki-ua.site^
+||manypay.shop^
 ||market-ua.site^
 ||marketexclusive.store^
 ||marketlace.store^
@@ -546,6 +550,7 @@
 ||perekaz24privat.com^
 ||pestrio.site^
 ||petition-geroi-ua.su^
+||pharaohpay-nenaeb.cx.ua^
 ||pheenecs.com.ua^
 ||pidrimka-ua.com^
 ||pidtrimka-accept.site^
@@ -1089,6 +1094,11 @@
 ://*.*/select/*/privat^$document
 ://*.*/select/*/raiffaisen^$document
 
+! TAG-41
+/api/*/personal$xmlhttprequest
+/io/path/?EIO=*&transport=*&t=*$xmlhttprequest
+##.text-slate-200.cursor-pointer.to-card__button
+
 ! TAG-43
 ://web.*.*/pay/order/*$document,domain=~gov.ua|~ua
 
@@ -1110,6 +1120,8 @@
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
+||*pravovadopomoga24^$document,domain=t.me|telegram.me
+||*ukrua2023^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
 ||cash.app/$urkraineaid^$document
