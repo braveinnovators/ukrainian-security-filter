@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231031.01
-# Last modified: Tue, 31 October 2023 14:51 EET
+# Version: 20231031.02
+# Last modified: Tue, 31 October 2023 17:43 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -51,6 +51,8 @@
 0.0.0.0 bestcrutches.com
 0.0.0.0 bestshopukrain.fun
 0.0.0.0 bg-ukr.net
+0.0.0.0 carcover-ua.store
+0.0.0.0 carcover-ua.uno
 0.0.0.0 card-ua.cloud
 0.0.0.0 card-ua.pro
 0.0.0.0 card-ua.shop
@@ -71,6 +73,7 @@
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
 0.0.0.0 diadopomogaio.online
+0.0.0.0 discount-sale.website
 0.0.0.0 discountshopukraine.store
 0.0.0.0 diuaaaaxxx.sbs
 0.0.0.0 diyas.io
@@ -282,8 +285,11 @@
 0.0.0.0 ipay-ua.online
 0.0.0.0 izzi-money.online
 0.0.0.0 joepay.online
+0.0.0.0 kattele.store
+0.0.0.0 kattele.top
 0.0.0.0 kievstar.online
 0.0.0.0 kojnomydopomoga.sbs
+0.0.0.0 komfort-house.store
 0.0.0.0 konkurs-23.site
 0.0.0.0 konkurs-24.site
 0.0.0.0 konkurs-events.top
@@ -347,10 +353,14 @@
 0.0.0.0 magic-brash-in-ua.shop
 0.0.0.0 malunki-ua.site
 0.0.0.0 market-ua.site
+0.0.0.0 marketexclusive.store
+0.0.0.0 marketlace.store
 0.0.0.0 maxi-store.com.ua
 0.0.0.0 maxlink.click
 0.0.0.0 me-raiffsen.charity
+0.0.0.0 megashops.online
 0.0.0.0 megaukrshop.fun
+0.0.0.0 merejjka.store
 0.0.0.0 meta-ua.site
 0.0.0.0 meta-ukr.su
 0.0.0.0 mobilluck.com.ua
@@ -669,6 +679,7 @@
 0.0.0.0 shoppukraine.store
 0.0.0.0 shoptodayukraine.space
 0.0.0.0 shopukraine.org.ua
+0.0.0.0 shopukraine.space
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 steklo-ua.net
@@ -688,7 +699,9 @@
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
+0.0.0.0 top-shopua.store
 0.0.0.0 topukraineshop.store
+0.0.0.0 transform-mebel.com.ua
 0.0.0.0 travel-ua.site
 0.0.0.0 treestash.store
 0.0.0.0 trend-ua.space
@@ -744,6 +757,7 @@
 0.0.0.0 uapays24.icu
 0.0.0.0 uapoluch24.pro
 0.0.0.0 uappl.org
+0.0.0.0 uaproduct.store
 0.0.0.0 uaqualitymarket.store
 0.0.0.0 uashop.shop
 0.0.0.0 uatopshop.pp.ua
@@ -825,6 +839,7 @@
 0.0.0.0 ukraineshopp.space
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
+0.0.0.0 ukrainestore.online
 0.0.0.0 ukrainianamazon.com
 0.0.0.0 ukrainiannews.site
 0.0.0.0 ukrainianonlineshop.fun
