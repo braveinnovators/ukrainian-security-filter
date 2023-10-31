@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231030.02
-# Last modified: Mon, 30 October 2023 18:37 EET
+# Version: 20231031.01
+# Last modified: Tue, 31 October 2023 14:51 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -210,6 +210,7 @@ address=/ebayukraine.vip/
 address=/ecommerceukraine.website/
 address=/edoopomoga.xyz/
 address=/en-ukr.net/
+address=/enersit.com/
 address=/epidtrimka.com/
 address=/epidtrimkadopomoga.com/
 address=/epidtrimkaua.info/
@@ -222,6 +223,7 @@ address=/events-ukr.site/
 address=/facebook-ua.info/
 address=/fav-luck-ua.com/
 address=/fav-pay-ua.com/
+address=/ferstka.shop/
 address=/finance-dopomoga.site/
 address=/findopomoga.sbs/
 address=/finua.online/
@@ -291,6 +293,8 @@ address=/konkurs-my.site/
 address=/konkurs-ua.site/
 address=/konkurs-uk.site/
 address=/konkurs-ukraine.site/
+address=/konkurs.pics/
+address=/konkurs.pw/
 address=/konkurs.site/
 address=/konkurs2023.site/
 address=/konkurs23.site/
@@ -686,6 +690,7 @@ address=/toidopomoga.org/
 address=/toidopomoga.pro/
 address=/topukraineshop.store/
 address=/travel-ua.site/
+address=/treestash.store/
 address=/trend-ua.space/
 address=/trust-group.pro/
 address=/tv-shop.space/
@@ -821,6 +826,7 @@ address=/ukraineshopp.space/
 address=/ukraineshopp.store/
 address=/ukrainestarlink.com/
 address=/ukrainianamazon.com/
+address=/ukrainiannews.site/
 address=/ukrainianonlineshop.fun/
 address=/ukrainianshop.fun/
 address=/ukrainianshop.online/
