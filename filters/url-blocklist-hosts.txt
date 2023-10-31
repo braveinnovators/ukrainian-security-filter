@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231030.02
-# Last modified: Mon, 30 October 2023 18:37 EET
+# Version: 20231031.01
+# Last modified: Tue, 31 October 2023 14:51 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -210,6 +210,7 @@
 0.0.0.0 ecommerceukraine.website
 0.0.0.0 edoopomoga.xyz
 0.0.0.0 en-ukr.net
+0.0.0.0 enersit.com
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrimkaua.info
@@ -222,6 +223,7 @@
 0.0.0.0 facebook-ua.info
 0.0.0.0 fav-luck-ua.com
 0.0.0.0 fav-pay-ua.com
+0.0.0.0 ferstka.shop
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finua.online
@@ -291,6 +293,8 @@
 0.0.0.0 konkurs-ua.site
 0.0.0.0 konkurs-uk.site
 0.0.0.0 konkurs-ukraine.site
+0.0.0.0 konkurs.pics
+0.0.0.0 konkurs.pw
 0.0.0.0 konkurs.site
 0.0.0.0 konkurs2023.site
 0.0.0.0 konkurs23.site
@@ -686,6 +690,7 @@
 0.0.0.0 toidopomoga.pro
 0.0.0.0 topukraineshop.store
 0.0.0.0 travel-ua.site
+0.0.0.0 treestash.store
 0.0.0.0 trend-ua.space
 0.0.0.0 trust-group.pro
 0.0.0.0 tv-shop.space
@@ -821,6 +826,7 @@
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainianamazon.com
+0.0.0.0 ukrainiannews.site
 0.0.0.0 ukrainianonlineshop.fun
 0.0.0.0 ukrainianshop.fun
 0.0.0.0 ukrainianshop.online
