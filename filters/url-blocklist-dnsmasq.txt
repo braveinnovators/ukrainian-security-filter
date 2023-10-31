@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231031.01
-# Last modified: Tue, 31 October 2023 14:51 EET
+# Version: 20231031.02
+# Last modified: Tue, 31 October 2023 17:43 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -51,6 +51,8 @@ address=/be-ukr.net/
 address=/bestcrutches.com/
 address=/bestshopukrain.fun/
 address=/bg-ukr.net/
+address=/carcover-ua.store/
+address=/carcover-ua.uno/
 address=/card-ua.cloud/
 address=/card-ua.pro/
 address=/card-ua.shop/
@@ -71,6 +73,7 @@ address=/diaa-ukraine.space/
 address=/diaaukraine.site/
 address=/diaaukraine.space/
 address=/diadopomogaio.online/
+address=/discount-sale.website/
 address=/discountshopukraine.store/
 address=/diuaaaaxxx.sbs/
 address=/diyas.io/
@@ -282,8 +285,11 @@ address=/intrestingukrainefun.fun/
 address=/ipay-ua.online/
 address=/izzi-money.online/
 address=/joepay.online/
+address=/kattele.store/
+address=/kattele.top/
 address=/kievstar.online/
 address=/kojnomydopomoga.sbs/
+address=/komfort-house.store/
 address=/konkurs-23.site/
 address=/konkurs-24.site/
 address=/konkurs-events.top/
@@ -347,10 +353,14 @@ address=/magazine-ua.store/
 address=/magic-brash-in-ua.shop/
 address=/malunki-ua.site/
 address=/market-ua.site/
+address=/marketexclusive.store/
+address=/marketlace.store/
 address=/maxi-store.com.ua/
 address=/maxlink.click/
 address=/me-raiffsen.charity/
+address=/megashops.online/
 address=/megaukrshop.fun/
+address=/merejjka.store/
 address=/meta-ua.site/
 address=/meta-ukr.su/
 address=/mobilluck.com.ua/
@@ -669,6 +679,7 @@ address=/shoppingukraine.fun/
 address=/shoppukraine.store/
 address=/shoptodayukraine.space/
 address=/shopukraine.org.ua/
+address=/shopukraine.space/
 address=/starlink-ukraine.net/
 address=/starlinkukraine.com/
 address=/steklo-ua.net/
@@ -688,7 +699,9 @@ address=/thebestpriceukraine.store/
 address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
+address=/top-shopua.store/
 address=/topukraineshop.store/
+address=/transform-mebel.com.ua/
 address=/travel-ua.site/
 address=/treestash.store/
 address=/trend-ua.space/
@@ -744,6 +757,7 @@ address=/uanowhelp.com/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
+address=/uaproduct.store/
 address=/uaqualitymarket.store/
 address=/uashop.shop/
 address=/uatopshop.pp.ua/
@@ -825,6 +839,7 @@ address=/ukraineshopp.fun/
 address=/ukraineshopp.space/
 address=/ukraineshopp.store/
 address=/ukrainestarlink.com/
+address=/ukrainestore.online/
 address=/ukrainianamazon.com/
 address=/ukrainiannews.site/
 address=/ukrainianonlineshop.fun/
