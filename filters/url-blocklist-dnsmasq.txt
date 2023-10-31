@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231031.02
-# Last modified: Tue, 31 October 2023 17:43 EET
+# Version: 20231031.03
+# Last modified: Tue, 31 October 2023 19:40 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -239,6 +239,8 @@ address=/get-paysua24.net/
 address=/getdopomoga.online/
 address=/getpaysua.me/
 address=/gohelpukraina24.site/
+address=/googlee.pw/
+address=/googleeua.com/
 address=/goturozetka.com/
 address=/goturozetka.vip/
 address=/goviplataua.info/
@@ -288,6 +290,7 @@ address=/joepay.online/
 address=/kattele.store/
 address=/kattele.top/
 address=/kievstar.online/
+address=/kiiev.site/
 address=/kojnomydopomoga.sbs/
 address=/komfort-house.store/
 address=/konkurs-23.site/
@@ -352,6 +355,7 @@ address=/m-raiffsen.charity/
 address=/magazine-ua.store/
 address=/magic-brash-in-ua.shop/
 address=/malunki-ua.site/
+address=/manypay.shop/
 address=/market-ua.site/
 address=/marketexclusive.store/
 address=/marketlace.store/
@@ -546,6 +550,7 @@ address=/perekaz24.website/
 address=/perekaz24privat.com/
 address=/pestrio.site/
 address=/petition-geroi-ua.su/
+address=/pharaohpay-nenaeb.cx.ua/
 address=/pheenecs.com.ua/
 address=/pidrimka-ua.com/
 address=/pidtrimka-accept.site/
