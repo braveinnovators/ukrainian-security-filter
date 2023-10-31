@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231031.02
-# Last modified: Tue, 31 October 2023 17:43 EET
+# Version: 20231031.03
+# Last modified: Tue, 31 October 2023 19:40 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -239,6 +239,8 @@ get-paysua24.net
 getdopomoga.online
 getpaysua.me
 gohelpukraina24.site
+googlee.pw
+googleeua.com
 goturozetka.com
 goturozetka.vip
 goviplataua.info
@@ -288,6 +290,7 @@ joepay.online
 kattele.store
 kattele.top
 kievstar.online
+kiiev.site
 kojnomydopomoga.sbs
 komfort-house.store
 konkurs-23.site
@@ -352,6 +355,7 @@ m-raiffsen.charity
 magazine-ua.store
 magic-brash-in-ua.shop
 malunki-ua.site
+manypay.shop
 market-ua.site
 marketexclusive.store
 marketlace.store
@@ -546,6 +550,7 @@ perekaz24.website
 perekaz24privat.com
 pestrio.site
 petition-geroi-ua.su
+pharaohpay-nenaeb.cx.ua
 pheenecs.com.ua
 pidrimka-ua.com
 pidtrimka-accept.site
