@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231101.01
-# Last modified: Wed, 01 November 2023 23:42 EET
+# Version: 20231102.01
+# Last modified: Thu, 02 November 2023 13:39 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -52,6 +52,7 @@
 0.0.0.0 bestcrutches.com
 0.0.0.0 bestshopukrain.fun
 0.0.0.0 bg-ukr.net
+0.0.0.0 bitshopping.net
 0.0.0.0 carcover-ua.store
 0.0.0.0 carcover-ua.uno
 0.0.0.0 card-ua.cloud
@@ -242,7 +243,6 @@
 0.0.0.0 gingerbread-ua.store
 0.0.0.0 gohelpukraina24.site
 0.0.0.0 googlee.pw
-0.0.0.0 googleeua.com
 0.0.0.0 goturozetka.com
 0.0.0.0 goturozetka.vip
 0.0.0.0 goviplataua.info
@@ -392,6 +392,7 @@
 0.0.0.0 mvs-police.space
 0.0.0.0 mvs-ua.online
 0.0.0.0 mvs-ua.space
+0.0.0.0 mvs-ukr.space
 0.0.0.0 mvs-ukraine.space
 0.0.0.0 my-3ds.space
 0.0.0.0 my-goavuvyplate.site
@@ -685,6 +686,9 @@
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
 0.0.0.0 rockbit.space
+0.0.0.0 rozetka.cc
+0.0.0.0 rozetkaa.online
+0.0.0.0 rozetkaa.space
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
@@ -968,6 +972,7 @@
 0.0.0.0 ukrsib-bank.site
 0.0.0.0 ukrsib-bank.top
 0.0.0.0 ukrsibbankq.com
+0.0.0.0 ukrsibbk.com
 0.0.0.0 ukrtop.space
 0.0.0.0 ukrtopmagaz.online
 0.0.0.0 ukrtopshop.space
