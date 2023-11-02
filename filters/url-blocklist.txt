@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231102.01
-! Last modified: Thu, 02 November 2023 13:39 EET
+! Version: 20231102.02
+! Last modified: Thu, 02 November 2023 20:54 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -282,6 +282,7 @@
 ||home-kyivstar.online^
 ||homeanimal.site^
 ||i-ua.website^
+||ilyukr.site^
 ||info-ukr.charity^
 ||internet-kyivstar.com.ua^
 ||internet-kyivstar.com^
@@ -711,6 +712,7 @@
 ||shoptodayukraine.space^
 ||shopukraine.org.ua^
 ||shopukraine.space^
+||shopukraineonline.space^
 ||smartboutique.online^
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
@@ -913,6 +915,7 @@
 ||ukraineshopp.store^
 ||ukrainestarlink.com^
 ||ukrainestore.online^
+||ukrainewear.store^
 ||ukrainewowshop.store^
 ||ukrainianamazon.com^
 ||ukrainiannews.site^
@@ -1070,6 +1073,7 @@
 ||wwwolx.site^
 ||x-ukr.net^
 ||xwallet.website^
+||yalunka-ukraine.com.ua^
 ||yr-ukr.net^
 ||zsu-family.online^
 ||zsu-family.site^
@@ -1081,7 +1085,6 @@
 ! .GOV.UA
 ://*g0v-ua*.*/$document
 ://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|space|store
-://mygovua*.*/$document,domain=info
 
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com
@@ -1200,6 +1203,9 @@
 
 ! TAG-45
 ://web.*.*/receive/*$document,domain=~gov.ua|~ua
+
+! TAG-46
+://*.*/b/*$document,domain=charity|site
 
 ! TAG-50
 /telegram.php$document,domain=online|shop|site|store
