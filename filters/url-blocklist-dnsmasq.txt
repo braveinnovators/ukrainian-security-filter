@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231101.01
-# Last modified: Wed, 01 November 2023 23:42 EET
+# Version: 20231102.01
+# Last modified: Thu, 02 November 2023 13:39 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -52,6 +52,7 @@ address=/be-ukr.net/
 address=/bestcrutches.com/
 address=/bestshopukrain.fun/
 address=/bg-ukr.net/
+address=/bitshopping.net/
 address=/carcover-ua.store/
 address=/carcover-ua.uno/
 address=/card-ua.cloud/
@@ -242,7 +243,6 @@ address=/getpaysua.me/
 address=/gingerbread-ua.store/
 address=/gohelpukraina24.site/
 address=/googlee.pw/
-address=/googleeua.com/
 address=/goturozetka.com/
 address=/goturozetka.vip/
 address=/goviplataua.info/
@@ -392,6 +392,7 @@ address=/mvs-oplaty.site/
 address=/mvs-police.space/
 address=/mvs-ua.online/
 address=/mvs-ua.space/
+address=/mvs-ukr.space/
 address=/mvs-ukraine.space/
 address=/my-3ds.space/
 address=/my-goavuvyplate.site/
@@ -685,6 +686,9 @@ address=/redirect-oschad.online/
 address=/regsotsvyplat.online/
 address=/reliefukraine.today/
 address=/rockbit.space/
+address=/rozetka.cc/
+address=/rozetkaa.online/
+address=/rozetkaa.space/
 address=/rozetkaukraine.cc/
 address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
@@ -968,6 +972,7 @@ address=/ukrshops.fun/
 address=/ukrsib-bank.site/
 address=/ukrsib-bank.top/
 address=/ukrsibbankq.com/
+address=/ukrsibbk.com/
 address=/ukrtop.space/
 address=/ukrtopmagaz.online/
 address=/ukrtopshop.space/
