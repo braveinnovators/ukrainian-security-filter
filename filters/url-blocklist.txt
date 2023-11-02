@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231101.01
-! Last modified: Wed, 01 November 2023 23:42 EET
+! Version: 20231102.01
+! Last modified: Thu, 02 November 2023 13:39 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -52,6 +52,7 @@
 ||bestcrutches.com^
 ||bestshopukrain.fun^
 ||bg-ukr.net^
+||bitshopping.net^
 ||carcover-ua.store^
 ||carcover-ua.uno^
 ||card-ua.cloud^
@@ -242,7 +243,6 @@
 ||gingerbread-ua.store^
 ||gohelpukraina24.site^
 ||googlee.pw^
-||googleeua.com^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||goviplataua.info^
@@ -392,6 +392,7 @@
 ||mvs-police.space^
 ||mvs-ua.online^
 ||mvs-ua.space^
+||mvs-ukr.space^
 ||mvs-ukraine.space^
 ||my-3ds.space^
 ||my-goavuvyplate.site^
@@ -685,6 +686,9 @@
 ||regsotsvyplat.online^
 ||reliefukraine.today^
 ||rockbit.space^
+||rozetka.cc^
+||rozetkaa.online^
+||rozetkaa.space^
 ||rozetkaukraine.cc^
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
@@ -968,6 +972,7 @@
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
 ||ukrsibbankq.com^
+||ukrsibbk.com^
 ||ukrtop.space^
 ||ukrtopmagaz.online^
 ||ukrtopshop.space^
@@ -1209,6 +1214,8 @@
 
 ||facebook.com/uappl.org^$document
 
+||t.me/+ilAa8TtLqz42NjBi^$document
+||t.me/+gvj4twyHg8BkMDc6^$document
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
@@ -1216,10 +1223,10 @@
 ||*ukrua2023^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
-||cash.app/$urkraineaid^$document
-||diyau5.wordpress.com^$document
-||donorbox.org/urkraine-aid^$document
 ||invite.viber.com/?g2=AQA3uvCBg5uDZlHco%2BBrBdtRHlUrU1r5HKt9CXcc%2FXXPNSwbJuisc6YuywZ3lYx7^$document
 ||invite.viber.com/?g2=AQAqETadeQe6%2FFHerHWKG3aYbNdWpQYR6VnHA0Qlo6pvtX0uWS74HrSJxWdK9WAV^$document
 ||invite.viber.com/?g2=AQAYbL6PIqqzQ1HO81URILdQUW6BLiftGFk%2B9SK%2BoUew7j5NzbIaS0nRsSeCXqv%2B^$document
 ||invite.viber.com/?g2=AQBekGE6cjQUwFG69yVG2yKpwYEBSCTDXIzjlxGIRMFUvKZx8bcL4AECa75ZlDNn^$document
+
+||cash.app/$urkraineaid^$document
+||donorbox.org/urkraine-aid^$document
