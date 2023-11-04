@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231102.02
-# Last modified: Thu, 02 November 2023 20:54 EET
+# Version: 20231104.01
+# Last modified: Sat, 04 November 2023 16:31 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -28,6 +28,7 @@
 7300.cloud
 7300.pics
 7300.pro
+accaunt-ua.fun
 adidas-ua.shop
 aid-for-ukraine.info
 aid-for-ukraine.life
@@ -49,16 +50,20 @@ api-donate-ukrainehelp.org
 au-ukr.net
 bank-uagov.online
 be-ukr.net
+best-store-ua.online
 bestcrutches.com
 bestshopukrain.fun
 bg-ukr.net
+bigsales-ua.store
 bitshopping.net
+blockchain4ukraine.com
 carcover-ua.store
 carcover-ua.uno
 card-ua.cloud
 card-ua.pro
 card-ua.shop
 cashpayforukrainepeople.business
+chervonaikra-ua.fun
 childrens-fund-ukraine.com
 chooseraiff.online
 chooseraiff.site
@@ -242,6 +247,7 @@ getdopomoga.online
 getpaysua.me
 gingerbread-ua.store
 gohelpukraina24.site
+good-ua.store
 googlee.pw
 goturozetka.com
 goturozetka.vip
@@ -256,6 +262,7 @@ groshinarahunok.com
 groshovadopomoga.com
 grosovadopomoga.shop
 help-ua.social
+help-ukr.mobi
 help-ukrain.xyz
 help-ukraine.icu
 help-ukraine.org
@@ -291,6 +298,7 @@ ipay-ua.online
 izzi-money.online
 joepay.online
 kalmar-ukr-shop.space
+kaspi-online.top
 kattele.store
 kattele.top
 kievstar.online
@@ -355,9 +363,11 @@ letokonkurs.site
 likpay.me
 liqpay.info
 live-konkurs.site
+lotory-ua.top
 luxury-store-ua.space
 m-raiffsen.charity
 magazine-ua.store
+magazine-ukraine.shop
 magic-brash-in-ua.shop
 mak-store.online
 malunki-ua.site
@@ -506,6 +516,8 @@ oschadbaq.com
 oschadiprivate.click
 oschadlbank24.uk
 oschadnybank.com.ua
+oschadsecure.com
+oschadsecure.pw
 oschadviplata66.shop
 oshad-24.com
 oshad-auth.site
@@ -532,6 +544,7 @@ oshadukras.info
 oshcadbank.top
 oshviplata24.space
 otrim-koshtiv-ukr.biz.ua
+otrimanie-ua.site
 otrimannyadopomogi.xyz
 otrimati-groshi.site
 otrimati-ua.site
@@ -582,6 +595,7 @@ pidtrumkadiya.info
 pidtrumkadiya.site
 pidtrumkapruvat24.world
 pkeedo.co.ua
+podarok-ua.space
 podarok-ua.space
 polsha24dopomogaua.shop
 polsha24dopomogaua.site
@@ -734,6 +748,7 @@ toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 top-shopua.store
+topshopukraine.space
 topstoreukr.online
 topukraineshop.store
 tovari-dlya-ukrayinciv.shop
@@ -860,6 +875,7 @@ ukr-shoping.site
 ukr-shoping.store
 ukr-shoppi3.shop
 ukr-space.store
+ukr-store.space
 ukr-svitlo.store
 ukr-vitrin.shop
 ukr-vitrina.shop
@@ -923,6 +939,7 @@ ukrainianonlineshop.fun
 ukrainianshop.fun
 ukrainianshop.online
 ukrainianshop.space
+ukrainianshoponline.store
 ukrainianstore.site
 ukrainianstore.space
 ukrainianstoretop.fun
@@ -997,6 +1014,7 @@ upayment.me
 usdtrader.com
 vabrand-uaspecial.store
 vheck-viplatvidoshad.space
+vip-ua.store
 viplata-bot.eu
 viplata-com.store
 viplata-govua.cloud
@@ -1064,12 +1082,14 @@ visa-ua.shop
 visa-ua.xyz
 vitrina-ukr7.shop
 vyplata-otrymat.online
+vyplatazaraz.store
 w-ukr.net
 watch-ua.space
 winukr-pay.charity
 wowukr.store
 www-ua.cloud
 www-ua.info
+www-viplata.com
 wwwolx.site
 x-ukr.net
 xwallet.website
