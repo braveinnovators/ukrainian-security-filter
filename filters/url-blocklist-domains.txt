@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231104.01
-# Last modified: Sat, 04 November 2023 16:31 EET
+# Version: 20231106.01
+# Last modified: Mon, 06 November 2023 15:41 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -17,6 +17,7 @@
 24uadopomoga.sbs
 24uadopomoga.world
 24ukrhelp.com
+25shop.space
 3ds-check.top
 3ds-connect.top
 3ds-fastpay.online
@@ -47,7 +48,13 @@ akvapark.site
 alcohol-ukraine.com
 alcohol-ukraine.shop
 api-donate-ukrainehelp.org
+apple-ukraine.me
+apple-ukraine.online
+apple-ukraine.store
 au-ukr.net
+avon-registration.com
+awsmall.net
+awsvip.cc
 bank-uagov.online
 be-ukr.net
 best-store-ua.online
@@ -133,6 +140,7 @@ dopomoga24.com
 dopomoga24.me
 dopomoga24.site
 dopomoga24pay.win
+dopomoga24privat.world
 dopomoga24pruvat.cfd
 dopomoga24pruvat.sbs
 dopomoga24ua.me
@@ -221,6 +229,7 @@ ecommerceukraine.website
 edoopomoga.xyz
 en-ukr.net
 enersit.com
+enot-sale.com.ua
 epidtrimka.com
 epidtrimkadopomoga.com
 epidtrimkaua.info
@@ -237,6 +246,7 @@ ferstka.shop
 finance-dopomoga.site
 findopomoga.sbs
 finua.online
+firstgrader.com.ua
 flashlight-ua.store
 flashmarketua.store
 flexcapital.com
@@ -288,7 +298,9 @@ helpukrpay.com
 home-internet-kyivstar.com.ua
 home-kyivstar.online
 homeanimal.site
+hometrends.top
 i-ua.website
+icanshop.pp.ua
 ilyukr.site
 info-ukr.charity
 internet-kyivstar.com
@@ -369,6 +381,7 @@ m-raiffsen.charity
 magazine-ua.store
 magazine-ukraine.shop
 magic-brash-in-ua.shop
+mail-ukr.site
 mak-store.online
 malunki-ua.site
 manypay.shop
@@ -551,6 +564,7 @@ otrimati-ua.site
 otrimayviplatu.website
 oukr.net
 pa-ukr.net
+panda-sale.com.ua
 parfums.top
 patriot-ukraine.fun
 patriot-ukraine.info
@@ -595,7 +609,7 @@ pidtrumkadiya.info
 pidtrumkadiya.site
 pidtrumkapruvat24.world
 pkeedo.co.ua
-podarok-ua.space
+pledu-ukr31.pp.ua
 podarok-ua.space
 polsha24dopomogaua.shop
 polsha24dopomogaua.site
@@ -717,10 +731,14 @@ sendukrainians.money
 shop-top-ua.store
 shop-ua.space
 shop-ua.top
+shop23top.store
+shop4you.tech
 shopingukraine.store
 shopinukrainenow.fun
 shopmarketukr.store
 shopping-in-ukraine.online
+shopping-online.fun
+shopping-online.uno
 shoppingukraine.fun
 shoppukraine.store
 shoptodayukraine.space
@@ -728,6 +746,8 @@ shopukraine.org.ua
 shopukraine.space
 shopukraineonline.space
 smartboutique.online
+spaseid.store
+spaseid.uno
 starlink-ukraine.net
 starlinkukraine.com
 steklo-ua.net
@@ -748,9 +768,11 @@ toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 top-shopua.store
+top-store.online
 topshopukraine.space
 topstoreukr.online
 topukraineshop.store
+tovar-ukraine.online
 tovari-dlya-ukrayinciv.shop
 transform-mebel.com.ua
 travel-ua.site
@@ -890,6 +912,7 @@ ukrainapays24.pro
 ukraine-goodsware.store
 ukraine-homedepot.store
 ukraine-homeshops.store
+ukraine-hometrends.store
 ukraine-mvs.site
 ukraine-shop-top.space
 ukraine-topp.com.ua
@@ -904,6 +927,7 @@ ukraineamazon.pro
 ukrainebasket.space
 ukrainecross.org
 ukrainedevelopmentmission.org
+ukrainedostavka.store
 ukraineebay.vip
 ukrainefacility.store
 ukrainefamily.store
@@ -926,11 +950,13 @@ ukrainerozetka.com
 ukrainerozetka.vip
 ukraineshop.space
 ukraineshop.top
+ukraineshoping.store
 ukraineshopp.fun
 ukraineshopp.space
 ukraineshopp.store
 ukrainestarlink.com
 ukrainestore.online
+ukrainestore.space
 ukrainewear.store
 ukrainewowshop.store
 ukrainianamazon.com
@@ -1095,5 +1121,6 @@ x-ukr.net
 xwallet.website
 yalunka-ukraine.com.ua
 yr-ukr.net
+zakupocika.store
 zsu-family.online
 zsu-family.site
