@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231104.01
-! Last modified: Sat, 04 November 2023 16:31 EET
+! Version: 20231106.01
+! Last modified: Mon, 06 November 2023 15:41 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -17,6 +17,7 @@
 ||24uadopomoga.sbs^
 ||24uadopomoga.world^
 ||24ukrhelp.com^
+||25shop.space^
 ||3ds-check.top^
 ||3ds-connect.top^
 ||3ds-fastpay.online^
@@ -47,7 +48,13 @@
 ||alcohol-ukraine.com^
 ||alcohol-ukraine.shop^
 ||api-donate-ukrainehelp.org^
+||apple-ukraine.me^
+||apple-ukraine.online^
+||apple-ukraine.store^
 ||au-ukr.net^
+||avon-registration.com^
+||awsmall.net^
+||awsvip.cc^
 ||bank-uagov.online^
 ||be-ukr.net^
 ||best-store-ua.online^
@@ -133,6 +140,7 @@
 ||dopomoga24.me^
 ||dopomoga24.site^
 ||dopomoga24pay.win^
+||dopomoga24privat.world^
 ||dopomoga24pruvat.cfd^
 ||dopomoga24pruvat.sbs^
 ||dopomoga24ua.me^
@@ -221,6 +229,7 @@
 ||edoopomoga.xyz^
 ||en-ukr.net^
 ||enersit.com^
+||enot-sale.com.ua^
 ||epidtrimka.com^
 ||epidtrimkadopomoga.com^
 ||epidtrimkaua.info^
@@ -237,6 +246,7 @@
 ||finance-dopomoga.site^
 ||findopomoga.sbs^
 ||finua.online^
+||firstgrader.com.ua^
 ||flashlight-ua.store^
 ||flashmarketua.store^
 ||flexcapital.com^
@@ -288,7 +298,9 @@
 ||home-internet-kyivstar.com.ua^
 ||home-kyivstar.online^
 ||homeanimal.site^
+||hometrends.top^
 ||i-ua.website^
+||icanshop.pp.ua^
 ||ilyukr.site^
 ||info-ukr.charity^
 ||internet-kyivstar.com.ua^
@@ -369,6 +381,7 @@
 ||magazine-ua.store^
 ||magazine-ukraine.shop^
 ||magic-brash-in-ua.shop^
+||mail-ukr.site^
 ||mak-store.online^
 ||malunki-ua.site^
 ||manypay.shop^
@@ -551,6 +564,7 @@
 ||otrimayviplatu.website^
 ||oukr.net^
 ||pa-ukr.net^
+||panda-sale.com.ua^
 ||parfums.top^
 ||patriot-ukraine.fun^
 ||patriot-ukraine.info^
@@ -595,7 +609,7 @@
 ||pidtrumkadiya.site^
 ||pidtrumkapruvat24.world^
 ||pkeedo.co.ua^
-||podarok-ua.space^
+||pledu-ukr31.pp.ua^
 ||podarok-ua.space^
 ||polsha24dopomogaua.shop^
 ||polsha24dopomogaua.site^
@@ -717,10 +731,14 @@
 ||shop-top-ua.store^
 ||shop-ua.space^
 ||shop-ua.top^
+||shop23top.store^
+||shop4you.tech^
 ||shopingukraine.store^
 ||shopinukrainenow.fun^
 ||shopmarketukr.store^
 ||shopping-in-ukraine.online^
+||shopping-online.fun^
+||shopping-online.uno^
 ||shoppingukraine.fun^
 ||shoppukraine.store^
 ||shoptodayukraine.space^
@@ -728,6 +746,8 @@
 ||shopukraine.space^
 ||shopukraineonline.space^
 ||smartboutique.online^
+||spaseid.store^
+||spaseid.uno^
 ||starlink-ukraine.net^
 ||starlinkukraine.com^
 ||steklo-ua.net^
@@ -748,9 +768,11 @@
 ||toidopomoga.org^
 ||toidopomoga.pro^
 ||top-shopua.store^
+||top-store.online^
 ||topshopukraine.space^
 ||topstoreukr.online^
 ||topukraineshop.store^
+||tovar-ukraine.online^
 ||tovari-dlya-ukrayinciv.shop^
 ||transform-mebel.com.ua^
 ||travel-ua.site^
@@ -890,6 +912,7 @@
 ||ukraine-goodsware.store^
 ||ukraine-homedepot.store^
 ||ukraine-homeshops.store^
+||ukraine-hometrends.store^
 ||ukraine-mvs.site^
 ||ukraine-shop-top.space^
 ||ukraine-topp.com.ua^
@@ -904,6 +927,7 @@
 ||ukrainebasket.space^
 ||ukrainecross.org^
 ||ukrainedevelopmentmission.org^
+||ukrainedostavka.store^
 ||ukraineebay.vip^
 ||ukrainefacility.store^
 ||ukrainefamily.store^
@@ -926,11 +950,13 @@
 ||ukrainerozetka.vip^
 ||ukraineshop.space^
 ||ukraineshop.top^
+||ukraineshoping.store^
 ||ukraineshopp.fun^
 ||ukraineshopp.space^
 ||ukraineshopp.store^
 ||ukrainestarlink.com^
 ||ukrainestore.online^
+||ukrainestore.space^
 ||ukrainewear.store^
 ||ukrainewowshop.store^
 ||ukrainianamazon.com^
@@ -1095,6 +1121,7 @@
 ||xwallet.website^
 ||yalunka-ukraine.com.ua^
 ||yr-ukr.net^
+||zakupocika.store^
 ||zsu-family.online^
 ||zsu-family.site^
 
@@ -1228,11 +1255,11 @@
 ://*.*/b/*$document,domain=charity|site
 
 ! TAG-50
-/telegram.php$document,domain=online|shop|site|store
-/keycrm//keycrmhandler.php$xmlhttprequest,domain=online|shop|site|store
-/keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=online|shop|site|store
-/app/c$xmlhttprequest,domain=online|shop|site|store
-://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|shop|space|store
+/telegram.php$document,domain=fun|online|shop|site|store|uno
+/keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
+/keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
+/app/c$xmlhttprequest,domain=fun|online|shop|site|store|uno
+://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|shop|space|store|uno
 
 ! TAG-53
 ://*loto*.*/connect.php$document
@@ -1247,8 +1274,9 @@
 
 ||facebook.com/uappl.org^$document
 
-||t.me/+ilAa8TtLqz42NjBi^$document
 ||t.me/+gvj4twyHg8BkMDc6^$document
+||t.me/+hD2lJDyLPJs4OTY0^$document
+||t.me/+ilAa8TtLqz42NjBi^$document
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*podderzkaykr^$document,domain=t.me|telegram.me
@@ -1256,7 +1284,6 @@
 ||*ukrua2023^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
 
-||invite.viber.com/?g2=AQA3uvCBg5uDZlHco%2BBrBdtRHlUrU1r5HKt9CXcc%2FXXPNSwbJuisc6YuywZ3lYx7^$document
 ||invite.viber.com/?g2=AQAqETadeQe6%2FFHerHWKG3aYbNdWpQYR6VnHA0Qlo6pvtX0uWS74HrSJxWdK9WAV^$document
 ||invite.viber.com/?g2=AQAYbL6PIqqzQ1HO81URILdQUW6BLiftGFk%2B9SK%2BoUew7j5NzbIaS0nRsSeCXqv%2B^$document
 ||invite.viber.com/?g2=AQBekGE6cjQUwFG69yVG2yKpwYEBSCTDXIzjlxGIRMFUvKZx8bcL4AECa75ZlDNn^$document
