@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231104.01
-# Last modified: Sat, 04 November 2023 16:31 EET
+# Version: 20231106.01
+# Last modified: Mon, 06 November 2023 15:41 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -17,6 +17,7 @@
 0.0.0.0 24uadopomoga.sbs
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
+0.0.0.0 25shop.space
 0.0.0.0 3ds-check.top
 0.0.0.0 3ds-connect.top
 0.0.0.0 3ds-fastpay.online
@@ -47,7 +48,13 @@
 0.0.0.0 alcohol-ukraine.com
 0.0.0.0 alcohol-ukraine.shop
 0.0.0.0 api-donate-ukrainehelp.org
+0.0.0.0 apple-ukraine.me
+0.0.0.0 apple-ukraine.online
+0.0.0.0 apple-ukraine.store
 0.0.0.0 au-ukr.net
+0.0.0.0 avon-registration.com
+0.0.0.0 awsmall.net
+0.0.0.0 awsvip.cc
 0.0.0.0 bank-uagov.online
 0.0.0.0 be-ukr.net
 0.0.0.0 best-store-ua.online
@@ -133,6 +140,7 @@
 0.0.0.0 dopomoga24.me
 0.0.0.0 dopomoga24.site
 0.0.0.0 dopomoga24pay.win
+0.0.0.0 dopomoga24privat.world
 0.0.0.0 dopomoga24pruvat.cfd
 0.0.0.0 dopomoga24pruvat.sbs
 0.0.0.0 dopomoga24ua.me
@@ -221,6 +229,7 @@
 0.0.0.0 edoopomoga.xyz
 0.0.0.0 en-ukr.net
 0.0.0.0 enersit.com
+0.0.0.0 enot-sale.com.ua
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrimkaua.info
@@ -237,6 +246,7 @@
 0.0.0.0 finance-dopomoga.site
 0.0.0.0 findopomoga.sbs
 0.0.0.0 finua.online
+0.0.0.0 firstgrader.com.ua
 0.0.0.0 flashlight-ua.store
 0.0.0.0 flashmarketua.store
 0.0.0.0 flexcapital.com
@@ -288,7 +298,9 @@
 0.0.0.0 home-internet-kyivstar.com.ua
 0.0.0.0 home-kyivstar.online
 0.0.0.0 homeanimal.site
+0.0.0.0 hometrends.top
 0.0.0.0 i-ua.website
+0.0.0.0 icanshop.pp.ua
 0.0.0.0 ilyukr.site
 0.0.0.0 info-ukr.charity
 0.0.0.0 internet-kyivstar.com
@@ -369,6 +381,7 @@
 0.0.0.0 magazine-ua.store
 0.0.0.0 magazine-ukraine.shop
 0.0.0.0 magic-brash-in-ua.shop
+0.0.0.0 mail-ukr.site
 0.0.0.0 mak-store.online
 0.0.0.0 malunki-ua.site
 0.0.0.0 manypay.shop
@@ -551,6 +564,7 @@
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 pa-ukr.net
+0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
@@ -595,7 +609,7 @@
 0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
 0.0.0.0 pkeedo.co.ua
-0.0.0.0 podarok-ua.space
+0.0.0.0 pledu-ukr31.pp.ua
 0.0.0.0 podarok-ua.space
 0.0.0.0 polsha24dopomogaua.shop
 0.0.0.0 polsha24dopomogaua.site
@@ -717,10 +731,14 @@
 0.0.0.0 shop-top-ua.store
 0.0.0.0 shop-ua.space
 0.0.0.0 shop-ua.top
+0.0.0.0 shop23top.store
+0.0.0.0 shop4you.tech
 0.0.0.0 shopingukraine.store
 0.0.0.0 shopinukrainenow.fun
 0.0.0.0 shopmarketukr.store
 0.0.0.0 shopping-in-ukraine.online
+0.0.0.0 shopping-online.fun
+0.0.0.0 shopping-online.uno
 0.0.0.0 shoppingukraine.fun
 0.0.0.0 shoppukraine.store
 0.0.0.0 shoptodayukraine.space
@@ -728,6 +746,8 @@
 0.0.0.0 shopukraine.space
 0.0.0.0 shopukraineonline.space
 0.0.0.0 smartboutique.online
+0.0.0.0 spaseid.store
+0.0.0.0 spaseid.uno
 0.0.0.0 starlink-ukraine.net
 0.0.0.0 starlinkukraine.com
 0.0.0.0 steklo-ua.net
@@ -748,9 +768,11 @@
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
 0.0.0.0 top-shopua.store
+0.0.0.0 top-store.online
 0.0.0.0 topshopukraine.space
 0.0.0.0 topstoreukr.online
 0.0.0.0 topukraineshop.store
+0.0.0.0 tovar-ukraine.online
 0.0.0.0 tovari-dlya-ukrayinciv.shop
 0.0.0.0 transform-mebel.com.ua
 0.0.0.0 travel-ua.site
@@ -890,6 +912,7 @@
 0.0.0.0 ukraine-goodsware.store
 0.0.0.0 ukraine-homedepot.store
 0.0.0.0 ukraine-homeshops.store
+0.0.0.0 ukraine-hometrends.store
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-shop-top.space
 0.0.0.0 ukraine-topp.com.ua
@@ -904,6 +927,7 @@
 0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedevelopmentmission.org
+0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainefamily.store
@@ -926,11 +950,13 @@
 0.0.0.0 ukrainerozetka.vip
 0.0.0.0 ukraineshop.space
 0.0.0.0 ukraineshop.top
+0.0.0.0 ukraineshoping.store
 0.0.0.0 ukraineshopp.fun
 0.0.0.0 ukraineshopp.space
 0.0.0.0 ukraineshopp.store
 0.0.0.0 ukrainestarlink.com
 0.0.0.0 ukrainestore.online
+0.0.0.0 ukrainestore.space
 0.0.0.0 ukrainewear.store
 0.0.0.0 ukrainewowshop.store
 0.0.0.0 ukrainianamazon.com
@@ -1095,5 +1121,6 @@
 0.0.0.0 xwallet.website
 0.0.0.0 yalunka-ukraine.com.ua
 0.0.0.0 yr-ukr.net
+0.0.0.0 zakupocika.store
 0.0.0.0 zsu-family.online
 0.0.0.0 zsu-family.site
