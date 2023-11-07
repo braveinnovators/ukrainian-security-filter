@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231106.01
-# Last modified: Mon, 06 November 2023 15:41 EET
+# Version: 20231107.01
+# Last modified: Tue, 07 November 2023 20:05 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -218,6 +218,7 @@
 0.0.0.0 e-grivn.com
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-viplata.space
+0.0.0.0 e-vyplata.com
 0.0.0.0 ebayua.cc
 0.0.0.0 ebayua.com
 0.0.0.0 ebayua.vip
@@ -481,8 +482,11 @@
 0.0.0.0 olxmarket-ua.shop
 0.0.0.0 olxoplatadostavkak.com
 0.0.0.0 olxpay.pw
+0.0.0.0 olxpocupkakoshti.shop
+0.0.0.0 olxpoluchaika.com
 0.0.0.0 olxsite.com
 0.0.0.0 olxtpay.com
+0.0.0.0 olxtv.my.id
 0.0.0.0 olxua.eu
 0.0.0.0 olxvasaamaster.sbs
 0.0.0.0 on-ua.cloud
