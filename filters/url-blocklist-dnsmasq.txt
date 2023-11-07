@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231106.01
-# Last modified: Mon, 06 November 2023 15:41 EET
+# Version: 20231107.01
+# Last modified: Tue, 07 November 2023 20:05 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -218,6 +218,7 @@ address=/e-dopomogaua.me/
 address=/e-grivn.com/
 address=/e-gryvnia.com/
 address=/e-viplata.space/
+address=/e-vyplata.com/
 address=/ebayua.cc/
 address=/ebayua.com/
 address=/ebayua.vip/
@@ -481,8 +482,11 @@ address=/olxdostavka-ua.shop/
 address=/olxmarket-ua.shop/
 address=/olxoplatadostavkak.com/
 address=/olxpay.pw/
+address=/olxpocupkakoshti.shop/
+address=/olxpoluchaika.com/
 address=/olxsite.com/
 address=/olxtpay.com/
+address=/olxtv.my.id/
 address=/olxua.eu/
 address=/olxvasaamaster.sbs/
 address=/on-ua.cloud/
