@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231106.01
-! Last modified: Mon, 06 November 2023 15:41 EET
+! Version: 20231107.01
+! Last modified: Tue, 07 November 2023 20:05 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -218,6 +218,7 @@
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-viplata.space^
+||e-vyplata.com^
 ||ebayua.cc^
 ||ebayua.com^
 ||ebayua.vip^
@@ -481,8 +482,11 @@
 ||olxmarket-ua.shop^
 ||olxoplatadostavkak.com^
 ||olxpay.pw^
+||olxpocupkakoshti.shop^
+||olxpoluchaika.com^
 ||olxsite.com^
 ||olxtpay.com^
+||olxtv.my.id^
 ||olxua.eu^
 ||olxvasaamaster.sbs^
 ||on-ua.cloud^
@@ -1229,6 +1233,9 @@
 ###ask_num_card.container.show_div
 ###ask_pin.container.show_div
 ##.p24_web_components_modal_no_scroll
+
+! TAG-32
+://online.*.*/d/?id=*/*$document
 
 ! TAG-38
 ://*.*/select/*/abank^$document
