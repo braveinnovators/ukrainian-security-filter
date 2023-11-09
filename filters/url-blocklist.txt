@@ -1,7 +1,7 @@
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231107.01
-! Last modified: Tue, 07 November 2023 20:05 EET
+! Version: 20231109.01
+! Last modified: Thu, 09 November 2023 12:06 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 
@@ -1267,6 +1267,10 @@
 /keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 /app/c$xmlhttprequest,domain=fun|online|shop|site|store|uno
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|shop|space|store|uno
+://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
+://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
+://*.*/user.php?mod=do&act=login$document,xmlhttprequest
+://*.*/user.php?mod=do&act=register$document,xmlhttprequest
 
 ! TAG-53
 ://*loto*.*/connect.php$document
