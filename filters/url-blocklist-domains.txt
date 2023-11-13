@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231107.01
-# Last modified: Tue, 07 November 2023 20:05 EET
+# Version: 20231113.01
+# Last modified: Mon, 13 November 2023 13:13 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -53,6 +53,8 @@ apple-ukraine.online
 apple-ukraine.store
 au-ukr.net
 avon-registration.com
+avto-dok.online
+avto-dokyment.online
 awsmall.net
 awsvip.cc
 bank-uagov.online
@@ -210,6 +212,10 @@ dopomoha-ua.company.site
 dopomoha-ua.website
 dopomohaukraine.world
 dopoviplataua.xyz
+dostavka-ua.fun
+dostavka-ua.space
+dostavka-ukr.fun
+dostavka-ukr.space
 drone-ua.space
 e-dopomoga-perekazy24.space
 e-dopomoga.click
@@ -296,10 +302,12 @@ helpukraine.direct
 helpukrainemoneydopomoga.com
 helpukrainian.site
 helpukrpay.com
+hitgoodsukr.store
 home-internet-kyivstar.com.ua
 home-kyivstar.online
 homeanimal.site
 hometrends.top
+hsc-ua.online
 i-ua.website
 icanshop.pp.ua
 ilyukr.site
@@ -479,6 +487,7 @@ olxdomposilka.com
 olxdoostavka-ua.shop
 olxdosstavka-ua.shop
 olxdostavka-ua.shop
+olxdostavkaposhta.shop
 olxmarket-ua.shop
 olxoplatadostavkak.com
 olxpay.pw
@@ -567,6 +576,7 @@ otrimati-groshi.site
 otrimati-ua.site
 otrimayviplatu.website
 oukr.net
+outlet-ua.store
 pa-ukr.net
 panda-sale.com.ua
 parfums.top
@@ -732,11 +742,13 @@ salesmag.shop
 samsung-ukraine.com.ua
 sendukraine.money
 sendukrainians.money
+shop-in-ua.space
 shop-top-ua.store
 shop-ua.space
 shop-ua.top
 shop23top.store
 shop4you.tech
+shoping-ua.site
 shopingukraine.store
 shopinukrainenow.fun
 shopmarketukr.store
@@ -773,9 +785,12 @@ toidopomoga.org
 toidopomoga.pro
 top-shopua.store
 top-store.online
+topmarketukr.online
+topproductsukr.store
 topshopukraine.space
 topstoreukr.online
 topukraineshop.store
+tovar-ua.store
 tovar-ukraine.online
 tovari-dlya-ukrayinciv.shop
 transform-mebel.com.ua
@@ -847,6 +862,7 @@ uaunicefs.buzz
 uavolunteer-military.com
 uk-konkurs.site
 uk-ukr.net
+ukr-armour.store
 ukr-baza.shop
 ukr-best.shop
 ukr-bestseller.com
@@ -859,6 +875,8 @@ ukr-dekor.online
 ukr-dekor.store
 ukr-dopomog.top
 ukr-dopomoga.top
+ukr-dostavka.fun
+ukr-dostavka.space
 ukr-farmer.store
 ukr-gadgets.store
 ukr-info.charity
@@ -866,6 +884,7 @@ ukr-konkurs.site
 ukr-magaz.shop
 ukr-market24.online
 ukr-money.com.ua
+ukr-nasinnia.com
 ukr-nasinnia.shop
 ukr-nasinnia.store
 ukr-net-download-files-php-name.online
@@ -903,9 +922,11 @@ ukr-shoppi3.shop
 ukr-space.store
 ukr-store.space
 ukr-svitlo.store
+ukr-tovary2023.com
 ukr-vitrin.shop
 ukr-vitrina.shop
 ukr-vote.site
+ukr.gift
 ukr24help.com
 ukraina-shtraf.site
 ukraina-viplata.xyz
@@ -919,6 +940,8 @@ ukraine-homeshops.store
 ukraine-hometrends.store
 ukraine-mvs.site
 ukraine-shop-top.space
+ukraine-storehouse.com.ua
+ukraine-storehouse.online
 ukraine-topp.com.ua
 ukraine-topp.online
 ukraine-trends.space
@@ -979,7 +1002,10 @@ ukraintovar.fun
 ukrdopomoga.top
 ukrgoods.fun
 ukrhelp2023.com
+ukrhomestore.space
+ukrhomevibe.store
 ukrkonkurs.site
+ukrlights.store
 ukrmaggonline.fun
 ukrmaggonline.site
 ukrmaggonline.space
@@ -996,6 +1022,7 @@ ukrmoda6.store
 ukrmoda7.store
 ukrmoda8.store
 ukrmoda9.store
+ukrnet.support
 ukrnet24.com
 ukronline.site
 ukronlineshop.fun
@@ -1003,6 +1030,8 @@ ukronlineshopping.fun
 ukrpomosh.site
 ukrpomosh.space
 ukrpomosh.xyz
+ukrqasolda.com
+ukrqasolda.org
 ukrsaleboom.fun
 ukrsaytonline.fun
 ukrschoponline.fun
