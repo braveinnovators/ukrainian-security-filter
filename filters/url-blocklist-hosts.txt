@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231113.01
-# Last modified: Mon, 13 November 2023 13:13 EET
+# Version: 20231117.01
+# Last modified: Fri, 17 November 2023 14:58 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@
 0.0.0.0 awsvip.cc
 0.0.0.0 bank-uagov.online
 0.0.0.0 be-ukr.net
+0.0.0.0 best-goods.com.ua
 0.0.0.0 best-store-ua.online
 0.0.0.0 bestcrutches.com
 0.0.0.0 bestshopukrain.fun
@@ -66,6 +67,7 @@
 0.0.0.0 bigsales-ua.store
 0.0.0.0 bitshopping.net
 0.0.0.0 blockchain4ukraine.com
+0.0.0.0 buy-ua.com.ua
 0.0.0.0 carcover-ua.store
 0.0.0.0 carcover-ua.uno
 0.0.0.0 card-ua.cloud
@@ -263,6 +265,7 @@
 0.0.0.0 getdopomoga.online
 0.0.0.0 getpaysua.me
 0.0.0.0 gingerbread-ua.store
+0.0.0.0 gogleeo.shop
 0.0.0.0 gohelpukraina24.site
 0.0.0.0 good-ua.store
 0.0.0.0 googlee.pw
@@ -386,6 +389,7 @@
 0.0.0.0 live-konkurs.site
 0.0.0.0 lotory-ua.top
 0.0.0.0 luxury-store-ua.space
+0.0.0.0 lviv.in.net
 0.0.0.0 m-raiffsen.charity
 0.0.0.0 magazine-ua.store
 0.0.0.0 magazine-ukraine.shop
@@ -434,6 +438,7 @@
 0.0.0.0 mygovua.info
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
+0.0.0.0 myuagoveinfo-taxation.info
 0.0.0.0 nacionalbankukraine.shop
 0.0.0.0 nacionalbankukraine.xyz
 0.0.0.0 newsukr2023.site
@@ -503,6 +508,7 @@
 0.0.0.0 on-ua.pro
 0.0.0.0 on-ukr.net
 0.0.0.0 ondorazovaya-viplata24.space
+0.0.0.0 oneclick-ua.shop
 0.0.0.0 online-pays.tech
 0.0.0.0 online-raiffeisen.info
 0.0.0.0 online-shop.store
@@ -773,6 +779,7 @@
 0.0.0.0 swift-ua.store
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 tapetool.store
+0.0.0.0 technopolis-ua.site
 0.0.0.0 tehnotop.net.ua
 0.0.0.0 telegram-ua.co
 0.0.0.0 termo-ukraine.online
@@ -790,9 +797,11 @@
 0.0.0.0 topshopukraine.space
 0.0.0.0 topstoreukr.online
 0.0.0.0 topukraineshop.store
+0.0.0.0 torbrauzer.buzz
 0.0.0.0 tovar-ua.store
 0.0.0.0 tovar-ukraine.online
 0.0.0.0 tovari-dlya-ukrayinciv.shop
+0.0.0.0 tovarukraine.site
 0.0.0.0 transform-mebel.com.ua
 0.0.0.0 travel-ua.site
 0.0.0.0 treestash.store
@@ -814,6 +823,8 @@
 0.0.0.0 ua-oschaad.tech
 0.0.0.0 ua-oschaad.website
 0.0.0.0 ua-pay.charity
+0.0.0.0 ua-pay.click
+0.0.0.0 ua-pay.pro
 0.0.0.0 ua-paying.cloud
 0.0.0.0 ua-paying.online
 0.0.0.0 ua-paying.pics
@@ -879,6 +890,7 @@
 0.0.0.0 ukr-dostavka.space
 0.0.0.0 ukr-farmer.store
 0.0.0.0 ukr-gadgets.store
+0.0.0.0 ukr-gifts.com.ua
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-magaz.shop
