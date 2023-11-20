@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231117.01
-# Last modified: Fri, 17 November 2023 14:58 EET
+# Version: 20231120.01
+# Last modified: Mon, 20 November 2023 12:31 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -53,6 +53,7 @@
 0.0.0.0 apple-ukraine.store
 0.0.0.0 au-ukr.net
 0.0.0.0 avon-registration.com
+0.0.0.0 avon-ua.site
 0.0.0.0 avto-dok.online
 0.0.0.0 avto-dokyment.online
 0.0.0.0 awsmall.net
@@ -395,6 +396,7 @@
 0.0.0.0 magazine-ukraine.shop
 0.0.0.0 magic-brash-in-ua.shop
 0.0.0.0 mail-ukr.site
+0.0.0.0 mail-ukr.website
 0.0.0.0 mak-store.online
 0.0.0.0 malunki-ua.site
 0.0.0.0 manypay.shop
@@ -965,6 +967,7 @@
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
+0.0.0.0 ukrainedeliveryservice.website
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
