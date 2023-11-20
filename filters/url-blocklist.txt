@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231117.01
-! Last modified: Fri, 17 November 2023 14:58 EET
+! Version: 20231120.01
+! Last modified: Mon, 20 November 2023 12:31 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -54,6 +54,7 @@
 ||apple-ukraine.store^
 ||au-ukr.net^
 ||avon-registration.com^
+||avon-ua.site^
 ||avto-dok.online^
 ||avto-dokyment.online^
 ||awsmall.net^
@@ -396,6 +397,7 @@
 ||magazine-ukraine.shop^
 ||magic-brash-in-ua.shop^
 ||mail-ukr.site^
+||mail-ukr.website^
 ||mak-store.online^
 ||malunki-ua.site^
 ||manypay.shop^
@@ -966,6 +968,7 @@
 ||ukraineamazon.pro^
 ||ukrainebasket.space^
 ||ukrainecross.org^
+||ukrainedeliveryservice.website^
 ||ukrainedevelopmentmission.org^
 ||ukrainedostavka.store^
 ||ukraineebay.vip^
@@ -1314,6 +1317,7 @@
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
 ://*ukr*.*/mod/project/*/lead/send/$xmlhttprequest
 ://*.*/success.php$document,domain=fun|space
+://*.*/zakaz.php$document,domain=fun|space
 ://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
