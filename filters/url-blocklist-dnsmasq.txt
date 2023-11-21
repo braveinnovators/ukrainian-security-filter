@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231120.01
-# Last modified: Mon, 20 November 2023 12:31 EET
+# Version: 20231121.01
+# Last modified: Tue, 21 November 2023 16:55 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@ address=/avto-dokyment.online/
 address=/awsmall.net/
 address=/awsvip.cc/
 address=/bank-uagov.online/
+address=/bankid.support/
 address=/be-ukr.net/
 address=/best-goods.com.ua/
 address=/best-store-ua.online/
@@ -66,8 +67,10 @@ address=/bestcrutches.com/
 address=/bestshopukrain.fun/
 address=/bg-ukr.net/
 address=/bigsales-ua.store/
+address=/bitfinexgroup.com/
 address=/bitshopping.net/
 address=/blockchain4ukraine.com/
+address=/btcinvesta.com/
 address=/buy-ua.com.ua/
 address=/carcover-ua.store/
 address=/carcover-ua.uno/
@@ -412,6 +415,8 @@ address=/megaukrshop.fun/
 address=/merejjka.store/
 address=/meta-ua.site/
 address=/meta-ukr.su/
+address=/minagroua.com/
+address=/minagroua.org/
 address=/mobilluck.com.ua/
 address=/mobiplategi.lol/
 address=/money-ukraine.site/
@@ -468,6 +473,9 @@ address=/novaposhta.info/
 address=/novaposhta.online/
 address=/novaposhta.org/
 address=/novaposhta.site/
+address=/novaposhta24.sbs/
+address=/novaposhta24.shop/
+address=/novaposhta27.sbs/
 address=/novaposhtaexpress.com/
 address=/novaposhtaolx.com/
 address=/novaposhtashipping.com/
@@ -585,6 +593,7 @@ address=/otrimati-ua.site/
 address=/otrimayviplatu.website/
 address=/oukr.net/
 address=/outlet-ua.store/
+address=/ovaposhta27.shop/
 address=/pa-ukr.net/
 address=/panda-sale.com.ua/
 address=/parfums.top/
@@ -736,6 +745,7 @@ address=/redcrossukraine.top/
 address=/redirect-oschad.online/
 address=/regsotsvyplat.online/
 address=/reliefukraine.today/
+address=/ringo-bet.net/
 address=/rockbit.space/
 address=/rozetka.cc/
 address=/rozetkaa.online/
@@ -818,6 +828,7 @@ address=/ua-bankgov.info/
 address=/ua-fashion.shop/
 address=/ua-lotoreys.top/
 address=/ua-lotosuper.top/
+address=/ua-minagro.com/
 address=/ua-onlinepay.shop/
 address=/ua-oschaad.cloud/
 address=/ua-oschaad.online/
@@ -858,6 +869,8 @@ address=/uahelp2023.bio/
 address=/uahelpnow.com/
 address=/uahelpnow24.com/
 address=/uakonkursevent.space/
+address=/uaminagro.com/
+address=/uaminagro.org/
 address=/uanowhelp.com/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
@@ -974,6 +987,7 @@ address=/ukraineebay.vip/
 address=/ukrainefacility.store/
 address=/ukrainefamily.store/
 address=/ukrainegoods.store/
+address=/ukrainehelp.click/
 address=/ukrainehelp.cloud/
 address=/ukrainehelp.gives/
 address=/ukrainehelp.wiki/
@@ -1045,6 +1059,7 @@ address=/ukronlineshopping.fun/
 address=/ukrpomosh.site/
 address=/ukrpomosh.space/
 address=/ukrpomosh.xyz/
+address=/ukrposhta.co.ua/
 address=/ukrqasolda.com/
 address=/ukrqasolda.org/
 address=/ukrsaleboom.fun/
@@ -1057,6 +1072,7 @@ address=/ukrshoping.shop/
 address=/ukrshoping.tech/
 address=/ukrshopingonline.store/
 address=/ukrshopingonline.uno/
+address=/ukrshopingonline.website/
 address=/ukrshopingonlinee.fun/
 address=/ukrshopinonline.space/
 address=/ukrshoppingonline.fun/
