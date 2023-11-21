@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231120.01
-! Last modified: Mon, 20 November 2023 12:31 EET
+! Version: 20231121.01
+! Last modified: Tue, 21 November 2023 16:55 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -60,6 +60,7 @@
 ||awsmall.net^
 ||awsvip.cc^
 ||bank-uagov.online^
+||bankid.support^
 ||be-ukr.net^
 ||best-goods.com.ua^
 ||best-store-ua.online^
@@ -67,8 +68,10 @@
 ||bestshopukrain.fun^
 ||bg-ukr.net^
 ||bigsales-ua.store^
+||bitfinexgroup.com^
 ||bitshopping.net^
 ||blockchain4ukraine.com^
+||btcinvesta.com^
 ||buy-ua.com.ua^
 ||carcover-ua.store^
 ||carcover-ua.uno^
@@ -413,6 +416,8 @@
 ||merejjka.store^
 ||meta-ua.site^
 ||meta-ukr.su^
+||minagroua.com^
+||minagroua.org^
 ||mobilluck.com.ua^
 ||mobiplategi.lol^
 ||money-ukraine.site^
@@ -469,6 +474,9 @@
 ||novaposhta.online^
 ||novaposhta.org^
 ||novaposhta.site^
+||novaposhta24.sbs^
+||novaposhta24.shop^
+||novaposhta27.sbs^
 ||novaposhtaexpress.com^
 ||novaposhtaolx.com^
 ||novaposhtashipping.com^
@@ -586,6 +594,7 @@
 ||otrimayviplatu.website^
 ||oukr.net^
 ||outlet-ua.store^
+||ovaposhta27.shop^
 ||pa-ukr.net^
 ||panda-sale.com.ua^
 ||parfums.top^
@@ -737,6 +746,7 @@
 ||redirect-oschad.online^
 ||regsotsvyplat.online^
 ||reliefukraine.today^
+||ringo-bet.net^
 ||rockbit.space^
 ||rozetka.cc^
 ||rozetkaa.online^
@@ -819,6 +829,7 @@
 ||ua-fashion.shop^
 ||ua-lotoreys.top^
 ||ua-lotosuper.top^
+||ua-minagro.com^
 ||ua-onlinepay.shop^
 ||ua-oschaad.cloud^
 ||ua-oschaad.online^
@@ -859,6 +870,8 @@
 ||uahelpnow.com^
 ||uahelpnow24.com^
 ||uakonkursevent.space^
+||uaminagro.com^
+||uaminagro.org^
 ||uanowhelp.com^
 ||uapays24.icu^
 ||uapoluch24.pro^
@@ -975,6 +988,7 @@
 ||ukrainefacility.store^
 ||ukrainefamily.store^
 ||ukrainegoods.store^
+||ukrainehelp.click^
 ||ukrainehelp.cloud^
 ||ukrainehelp.gives^
 ||ukrainehelp.wiki^
@@ -1046,6 +1060,7 @@
 ||ukrpomosh.site^
 ||ukrpomosh.space^
 ||ukrpomosh.xyz^
+||ukrposhta.co.ua^
 ||ukrqasolda.com^
 ||ukrqasolda.org^
 ||ukrsaleboom.fun^
@@ -1058,6 +1073,7 @@
 ||ukrshoping.tech^
 ||ukrshopingonline.store^
 ||ukrshopingonline.uno^
+||ukrshopingonline.website^
 ||ukrshopingonlinee.fun^
 ||ukrshopinonline.space^
 ||ukrshoppingonline.fun^
@@ -1210,6 +1226,7 @@
 ://*oshad*.*.$document
 ://*oshcad*.*.$document
 ://ohsad.*.$document
+://ohsad24.*.$document
 ://oschadbank*.$document,domain=~oschadbank.ua
 !
 ! MONOBANK.UA
