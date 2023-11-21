@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231121.01
-# Last modified: Tue, 21 November 2023 16:55 EET
+# Version: 20231121.02
+# Last modified: Tue, 21 November 2023 17:04 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -476,6 +476,7 @@
 0.0.0.0 novaposhta24.sbs
 0.0.0.0 novaposhta24.shop
 0.0.0.0 novaposhta27.sbs
+0.0.0.0 novaposhta27.shop
 0.0.0.0 novaposhtaexpress.com
 0.0.0.0 novaposhtaolx.com
 0.0.0.0 novaposhtashipping.com
@@ -593,7 +594,6 @@
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 outlet-ua.store
-0.0.0.0 ovaposhta27.shop
 0.0.0.0 pa-ukr.net
 0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
