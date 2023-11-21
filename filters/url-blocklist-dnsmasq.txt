@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231121.01
-# Last modified: Tue, 21 November 2023 16:55 EET
+# Version: 20231121.02
+# Last modified: Tue, 21 November 2023 17:04 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -476,6 +476,7 @@ address=/novaposhta.site/
 address=/novaposhta24.sbs/
 address=/novaposhta24.shop/
 address=/novaposhta27.sbs/
+address=/novaposhta27.shop/
 address=/novaposhtaexpress.com/
 address=/novaposhtaolx.com/
 address=/novaposhtashipping.com/
@@ -593,7 +594,6 @@ address=/otrimati-ua.site/
 address=/otrimayviplatu.website/
 address=/oukr.net/
 address=/outlet-ua.store/
-address=/ovaposhta27.shop/
 address=/pa-ukr.net/
 address=/panda-sale.com.ua/
 address=/parfums.top/
