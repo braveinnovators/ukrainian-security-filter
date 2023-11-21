@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231120.01
-# Last modified: Mon, 20 November 2023 12:31 EET
+# Version: 20231121.01
+# Last modified: Tue, 21 November 2023 16:55 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -59,6 +59,7 @@
 0.0.0.0 awsmall.net
 0.0.0.0 awsvip.cc
 0.0.0.0 bank-uagov.online
+0.0.0.0 bankid.support
 0.0.0.0 be-ukr.net
 0.0.0.0 best-goods.com.ua
 0.0.0.0 best-store-ua.online
@@ -66,8 +67,10 @@
 0.0.0.0 bestshopukrain.fun
 0.0.0.0 bg-ukr.net
 0.0.0.0 bigsales-ua.store
+0.0.0.0 bitfinexgroup.com
 0.0.0.0 bitshopping.net
 0.0.0.0 blockchain4ukraine.com
+0.0.0.0 btcinvesta.com
 0.0.0.0 buy-ua.com.ua
 0.0.0.0 carcover-ua.store
 0.0.0.0 carcover-ua.uno
@@ -412,6 +415,8 @@
 0.0.0.0 merejjka.store
 0.0.0.0 meta-ua.site
 0.0.0.0 meta-ukr.su
+0.0.0.0 minagroua.com
+0.0.0.0 minagroua.org
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobiplategi.lol
 0.0.0.0 money-ukraine.site
@@ -468,6 +473,9 @@
 0.0.0.0 novaposhta.online
 0.0.0.0 novaposhta.org
 0.0.0.0 novaposhta.site
+0.0.0.0 novaposhta24.sbs
+0.0.0.0 novaposhta24.shop
+0.0.0.0 novaposhta27.sbs
 0.0.0.0 novaposhtaexpress.com
 0.0.0.0 novaposhtaolx.com
 0.0.0.0 novaposhtashipping.com
@@ -585,6 +593,7 @@
 0.0.0.0 otrimayviplatu.website
 0.0.0.0 oukr.net
 0.0.0.0 outlet-ua.store
+0.0.0.0 ovaposhta27.shop
 0.0.0.0 pa-ukr.net
 0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
@@ -736,6 +745,7 @@
 0.0.0.0 redirect-oschad.online
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 reliefukraine.today
+0.0.0.0 ringo-bet.net
 0.0.0.0 rockbit.space
 0.0.0.0 rozetka.cc
 0.0.0.0 rozetkaa.online
@@ -818,6 +828,7 @@
 0.0.0.0 ua-fashion.shop
 0.0.0.0 ua-lotoreys.top
 0.0.0.0 ua-lotosuper.top
+0.0.0.0 ua-minagro.com
 0.0.0.0 ua-onlinepay.shop
 0.0.0.0 ua-oschaad.cloud
 0.0.0.0 ua-oschaad.online
@@ -858,6 +869,8 @@
 0.0.0.0 uahelpnow.com
 0.0.0.0 uahelpnow24.com
 0.0.0.0 uakonkursevent.space
+0.0.0.0 uaminagro.com
+0.0.0.0 uaminagro.org
 0.0.0.0 uanowhelp.com
 0.0.0.0 uapays24.icu
 0.0.0.0 uapoluch24.pro
@@ -974,6 +987,7 @@
 0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainefamily.store
 0.0.0.0 ukrainegoods.store
+0.0.0.0 ukrainehelp.click
 0.0.0.0 ukrainehelp.cloud
 0.0.0.0 ukrainehelp.gives
 0.0.0.0 ukrainehelp.wiki
@@ -1045,6 +1059,7 @@
 0.0.0.0 ukrpomosh.site
 0.0.0.0 ukrpomosh.space
 0.0.0.0 ukrpomosh.xyz
+0.0.0.0 ukrposhta.co.ua
 0.0.0.0 ukrqasolda.com
 0.0.0.0 ukrqasolda.org
 0.0.0.0 ukrsaleboom.fun
@@ -1057,6 +1072,7 @@
 0.0.0.0 ukrshoping.tech
 0.0.0.0 ukrshopingonline.store
 0.0.0.0 ukrshopingonline.uno
+0.0.0.0 ukrshopingonline.website
 0.0.0.0 ukrshopingonlinee.fun
 0.0.0.0 ukrshopinonline.space
 0.0.0.0 ukrshoppingonline.fun
