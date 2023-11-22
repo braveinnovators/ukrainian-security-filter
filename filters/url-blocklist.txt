@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231121.02
-! Last modified: Tue, 21 November 2023 17:04 EET
+! Version: 20231122.01
+! Last modified: Wed, 22 November 2023 14:10 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -418,6 +418,8 @@
 ||meta-ukr.su^
 ||minagroua.com^
 ||minagroua.org^
+||minmoz.com^
+||minmoz.org^
 ||mobilluck.com.ua^
 ||mobiplategi.lol^
 ||money-ukraine.site^
@@ -513,7 +515,10 @@
 ||olxsite.com^
 ||olxtpay.com^
 ||olxtv.my.id^
+||olxua.cc^
 ||olxua.eu^
+||olxua.net^
+||olxua.world^
 ||olxvasaamaster.sbs^
 ||on-ua.cloud^
 ||on-ua.info^
