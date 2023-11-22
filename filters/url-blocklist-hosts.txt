@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231121.02
-# Last modified: Tue, 21 November 2023 17:04 EET
+# Version: 20231122.01
+# Last modified: Wed, 22 November 2023 14:10 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -417,6 +417,8 @@
 0.0.0.0 meta-ukr.su
 0.0.0.0 minagroua.com
 0.0.0.0 minagroua.org
+0.0.0.0 minmoz.com
+0.0.0.0 minmoz.org
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobiplategi.lol
 0.0.0.0 money-ukraine.site
@@ -512,7 +514,10 @@
 0.0.0.0 olxsite.com
 0.0.0.0 olxtpay.com
 0.0.0.0 olxtv.my.id
+0.0.0.0 olxua.cc
 0.0.0.0 olxua.eu
+0.0.0.0 olxua.net
+0.0.0.0 olxua.world
 0.0.0.0 olxvasaamaster.sbs
 0.0.0.0 on-ua.cloud
 0.0.0.0 on-ua.info
