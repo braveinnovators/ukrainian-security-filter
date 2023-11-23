@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231122.01
-! Last modified: Wed, 22 November 2023 14:10 EET
+! Version: 20231123.01
+! Last modified: Thu, 23 November 2023 19:53 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1256,6 +1256,7 @@
 ://us1b.*.$document
 !
 ! PUMB.UA
+://*bumb*.*.$document
 ://*pumb*.*.$document,domain=~pumb.ua
 !
 ! A-BANK.COM.UA
