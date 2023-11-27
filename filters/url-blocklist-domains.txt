@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231122.01
-# Last modified: Wed, 22 November 2023 14:10 EET
+# Version: 20231127.01
+# Last modified: Mon, 27 November 2023 15:00 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -52,6 +52,7 @@ apple-ukraine.me
 apple-ukraine.online
 apple-ukraine.store
 au-ukr.net
+autonovaposhta.org
 avon-registration.com
 avon-ua.site
 avto-dok.online
@@ -84,7 +85,9 @@ chooseraiff.online
 chooseraiff.site
 comfort-ua.store
 comfortshop-ukraine.space
+crypt0.fun
 cryptocurrency-helps-ukraine.com
+data-ukr.com
 de-ukr.net
 deal-loads.site
 delivery-pay.website
@@ -269,6 +272,7 @@ get-paysua24.net
 getdopomoga.online
 getpaysua.me
 gingerbread-ua.store
+girlyanda.store
 gogleeo.shop
 gohelpukraina24.site
 good-ua.store
@@ -285,6 +289,7 @@ groshidopomoga.top
 groshinarahunok.com
 groshovadopomoga.com
 grosovadopomoga.shop
+help-ua.in.ua
 help-ua.social
 help-ukr.mobi
 help-ukrain.xyz
@@ -309,6 +314,7 @@ helpukraine.direct
 helpukrainemoneydopomoga.com
 helpukrainian.site
 helpukrpay.com
+hitachi-ukraine.com
 hitgoodsukr.store
 home-internet-kyivstar.com.ua
 home-kyivstar.online
@@ -391,6 +397,7 @@ letokonkurs.site
 likpay.me
 liqpay.info
 live-konkurs.site
+lotorey-ua.top
 lotory-ua.top
 luxury-store-ua.space
 lviv.in.net
@@ -413,6 +420,7 @@ me-raiffsen.charity
 megashops.online
 megaukrshop.fun
 merejjka.store
+meta-ua.com
 meta-ua.site
 meta-ukr.su
 minagroua.com
@@ -421,6 +429,11 @@ minmoz.com
 minmoz.org
 mobilluck.com.ua
 mobiplategi.lol
+moda-ua.online
+moda-ua.store
+moda-ua.website
+moda-ukraine.online
+modern-gadget.store
 money-ukraine.site
 moneyhelpiukraine.site
 moneypay-for-ukrainians-people.pro
@@ -428,18 +441,22 @@ moneyua24.org
 moneyuanext24.info
 moneyukraine24.site
 msonline-ukroboronprom.com
+mvs-driver-license.com.ua
+mvs-driver-license.online
 mvs-gov.online
 mvs-gov.space
 mvs-official.space
 mvs-offlcial.space
 mvs-oplata.site
 mvs-oplati.site
+mvs-oplaty.online
 mvs-oplaty.site
 mvs-police.space
 mvs-ua.online
 mvs-ua.space
 mvs-ukr.space
 mvs-ukraine.space
+mvs-zakon.online
 my-3ds.space
 my-goavuvyplate.site
 my-govuwvyplatte.site
@@ -463,6 +480,10 @@ nextuaviplata24.pro
 noreply-olxpay.com
 nova-pay-ua.com
 nova-poshta-pay.com
+nova-poshta.in.ua
+nova-poshta.kiev.ua
+nova-poshta.org.ua
+nova-poshta.ws
 novapay-ukr.top
 novaposhta-ua.com
 novaposhta-ua.org
@@ -472,14 +493,18 @@ novaposhta.com.ua
 novaposhta.eu
 novaposhta.in
 novaposhta.info
+novaposhta.kiev.ua
 novaposhta.online
 novaposhta.org
 novaposhta.site
+novaposhta.ws
 novaposhta24.sbs
 novaposhta24.shop
 novaposhta27.sbs
 novaposhta27.shop
 novaposhtaexpress.com
+novaposhtaglobal.eu
+novaposhtaglobal.site
 novaposhtaolx.com
 novaposhtashipping.com
 novaposhtatracking.com
@@ -544,6 +569,10 @@ oonviplata.com
 oonviplata.online
 oonviplata.tech
 oonviplaty.host
+opendata-baza-mvs.com.ua
+opendata-baza-mvs.online
+opendata-gov.com.ua
+opendata-gov.online
 opendata-mvs.com.ua
 opendata-mvs.online
 original-ua.site
@@ -597,6 +626,7 @@ otrimannyadopomogi.xyz
 otrimati-groshi.site
 otrimati-ua.site
 otrimayviplatu.website
+otto-shop.com.ua
 oukr.net
 outlet-ua.store
 pa-ukr.net
@@ -654,10 +684,13 @@ poluchenie-money.online
 poluchenieuanext24.tech
 poluchuanext24.pro
 polyuchidopomoguhelp.xyz
+pomosch-ua.online
 popkorn-ua.store
 portal-diya.kyiv.ua
 poshta-olx.shop
 poshta-ua.shop
+poshta-ua24.sbs
+poshta-ua24.shop
 poshta-uah.shop
 poshta.shop
 poshtaposhlanieqw.shop
@@ -763,8 +796,19 @@ safe-uagov.cloud
 sale-ua.shop
 salesmag.shop
 samsung-ukraine.com.ua
+sbu-office.space
+sbu-official.space
+sbu-shtraf.online
+sbu-shtraf.space
+sbu-shtraff.online
+sbu-shtraff.space
+sbu-shtraffs.space
+sbu-shtrafs.space
+sbu-zakon.online
+sbu-zakon.space
 sendukraine.money
 sendukrainians.money
+set-system.com
 shop-in-ua.space
 shop-top-ua.store
 shop-ua.space
@@ -795,13 +839,16 @@ store-ukraine.store
 support-account-ukr.net
 swift-ua.store
 swiftperekaz.pro
+takticukraine.space
 tapetool.store
 technopolis-ua.site
 tehnotop.net.ua
 telegram-ua.co
+termo-ua.space
 termo-ukraine.online
 termo-ukraine.store
 termo-ukraine.website
+termo-ukraine.xyz
 termobilyzna.com
 thebestpriceukraine.store
 toidopomoga.co
@@ -819,6 +866,7 @@ tovar-ua.store
 tovar-ukraine.online
 tovari-dlya-ukrayinciv.shop
 tovarukraine.site
+toys-ukr.xyz
 transform-mebel.com.ua
 travel-ua.site
 treestash.store
@@ -849,6 +897,7 @@ ua-paying.pics
 ua-paying.xyz
 ua-payme.charity
 ua-payticket.online
+ua-pryaniki.store
 ua-sell.store
 ua-tickets1.online
 ua-ua.cloud
@@ -904,16 +953,19 @@ ukr-charm.shop
 ukr-choice.store
 ukr-dekor.online
 ukr-dekor.store
+ukr-discount.com.ua
 ukr-dopomog.top
 ukr-dopomoga.top
 ukr-dostavka.fun
 ukr-dostavka.space
+ukr-edit.com
 ukr-farmer.store
 ukr-gadgets.store
 ukr-gifts.com.ua
 ukr-info.charity
 ukr-konkurs.site
 ukr-magaz.shop
+ukr-mail.com
 ukr-market24.online
 ukr-money.com.ua
 ukr-nasinnia.com
@@ -985,6 +1037,7 @@ ukraineamazon.com
 ukraineamazon.pro
 ukrainebasket.space
 ukrainecross.org
+ukrainedecor.com.ua
 ukrainedeliveryservice.website
 ukrainedevelopmentmission.org
 ukrainedostavka.store
@@ -1030,6 +1083,7 @@ ukrainianshoponline.store
 ukrainianstore.site
 ukrainianstore.space
 ukrainianstoretop.fun
+ukrainshop.com.ua
 ukrainskapravda.org
 ukrainsohoop.fun
 ukraintovar.fun
