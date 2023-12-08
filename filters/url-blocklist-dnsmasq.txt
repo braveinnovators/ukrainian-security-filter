@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231127.01
-# Last modified: Mon, 27 November 2023 15:00 EET
+# Version: 20231208.01
+# Last modified: Fri, 08 December 2023 22:38 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -161,6 +161,7 @@ address=/dopomogaa.site/
 address=/dopomogaa.website/
 address=/dopomogaapp.online/
 address=/dopomogaatb.site/
+address=/dopomogaderjavna.org/
 address=/dopomogadia.me/
 address=/dopomogadiyaua.online/
 address=/dopomogae.eu/
@@ -234,6 +235,7 @@ address=/e-grivn.com/
 address=/e-gryvnia.com/
 address=/e-viplata.space/
 address=/e-vyplata.com/
+address=/ebay-ua.com/
 address=/ebayua.cc/
 address=/ebayua.com/
 address=/ebayua.vip/
@@ -580,6 +582,7 @@ address=/oschad-4family-zsu.online/
 address=/oschad-4family-zsu.site/
 address=/oschad-family-zsu.online/
 address=/oschad-family-zsu.site/
+address=/oschad-help.com/
 address=/oschad-help2zsu.online/
 address=/oschad-help2zsu.site/
 address=/oschad-help4family-zsu.online/
@@ -590,6 +593,8 @@ address=/oschad-online.charity/
 address=/oschad-viplaty4family-zsu.site/
 address=/oschad24-get.online/
 address=/oschadbaq.com/
+address=/oschadbk.com/
+address=/oschadhelp-ua.com/
 address=/oschadiprivate.click/
 address=/oschadlbank24.uk/
 address=/oschadnybank.com.ua/
@@ -694,6 +699,7 @@ address=/poshta-ua24.shop/
 address=/poshta-uah.shop/
 address=/poshta.shop/
 address=/poshtaposhlanieqw.shop/
+address=/privaat24-ua.site/
 address=/privat-bank-ua.com/
 address=/privat24.cab/
 address=/privatb24.click/
@@ -896,6 +902,7 @@ address=/ua-paying.online/
 address=/ua-paying.pics/
 address=/ua-paying.xyz/
 address=/ua-payme.charity/
+address=/ua-paysys.top/
 address=/ua-payticket.online/
 address=/ua-pryaniki.store/
 address=/ua-sell.store/
@@ -926,6 +933,7 @@ address=/uakonkursevent.space/
 address=/uaminagro.com/
 address=/uaminagro.org/
 address=/uanowhelp.com/
+address=/uapay.pro/
 address=/uapays24.icu/
 address=/uapoluch24.pro/
 address=/uappl.org/
