@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231127.01
-# Last modified: Mon, 27 November 2023 15:00 EET
+# Version: 20231208.01
+# Last modified: Fri, 08 December 2023 22:38 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -161,6 +161,7 @@ dopomogaa.site
 dopomogaa.website
 dopomogaapp.online
 dopomogaatb.site
+dopomogaderjavna.org
 dopomogadia.me
 dopomogadiyaua.online
 dopomogae.eu
@@ -234,6 +235,7 @@ e-grivn.com
 e-gryvnia.com
 e-viplata.space
 e-vyplata.com
+ebay-ua.com
 ebayua.cc
 ebayua.com
 ebayua.vip
@@ -580,6 +582,7 @@ oschad-4family-zsu.online
 oschad-4family-zsu.site
 oschad-family-zsu.online
 oschad-family-zsu.site
+oschad-help.com
 oschad-help2zsu.online
 oschad-help2zsu.site
 oschad-help4family-zsu.online
@@ -590,6 +593,8 @@ oschad-online.charity
 oschad-viplaty4family-zsu.site
 oschad24-get.online
 oschadbaq.com
+oschadbk.com
+oschadhelp-ua.com
 oschadiprivate.click
 oschadlbank24.uk
 oschadnybank.com.ua
@@ -694,6 +699,7 @@ poshta-ua24.shop
 poshta-uah.shop
 poshta.shop
 poshtaposhlanieqw.shop
+privaat24-ua.site
 privat-bank-ua.com
 privat24.cab
 privatb24.click
@@ -896,6 +902,7 @@ ua-paying.online
 ua-paying.pics
 ua-paying.xyz
 ua-payme.charity
+ua-paysys.top
 ua-payticket.online
 ua-pryaniki.store
 ua-sell.store
@@ -926,6 +933,7 @@ uakonkursevent.space
 uaminagro.com
 uaminagro.org
 uanowhelp.com
+uapay.pro
 uapays24.icu
 uapoluch24.pro
 uappl.org
