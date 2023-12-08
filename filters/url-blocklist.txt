@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231127.01
-! Last modified: Mon, 27 November 2023 15:00 EET
+! Version: 20231208.01
+! Last modified: Fri, 08 December 2023 22:38 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -162,6 +162,7 @@
 ||dopomogaa.website^
 ||dopomogaapp.online^
 ||dopomogaatb.site^
+||dopomogaderjavna.org^
 ||dopomogadia.me^
 ||dopomogadiyaua.online^
 ||dopomogae.eu^
@@ -235,6 +236,7 @@
 ||e-gryvnia.com^
 ||e-viplata.space^
 ||e-vyplata.com^
+||ebay-ua.com^
 ||ebayua.cc^
 ||ebayua.com^
 ||ebayua.vip^
@@ -581,6 +583,7 @@
 ||oschad-4family-zsu.site^
 ||oschad-family-zsu.online^
 ||oschad-family-zsu.site^
+||oschad-help.com^
 ||oschad-help2zsu.online^
 ||oschad-help2zsu.site^
 ||oschad-help4family-zsu.online^
@@ -591,6 +594,8 @@
 ||oschad-viplaty4family-zsu.site^
 ||oschad24-get.online^
 ||oschadbaq.com^
+||oschadbk.com^
+||oschadhelp-ua.com^
 ||oschadiprivate.click^
 ||oschadlbank24.uk^
 ||oschadnybank.com.ua^
@@ -695,6 +700,7 @@
 ||poshta-uah.shop^
 ||poshta.shop^
 ||poshtaposhlanieqw.shop^
+||privaat24-ua.site^
 ||privat-bank-ua.com^
 ||privat24.cab^
 ||privatb24.click^
@@ -897,6 +903,7 @@
 ||ua-paying.pics^
 ||ua-paying.xyz^
 ||ua-payme.charity^
+||ua-paysys.top^
 ||ua-payticket.online^
 ||ua-pryaniki.store^
 ||ua-sell.store^
@@ -927,6 +934,7 @@
 ||uaminagro.com^
 ||uaminagro.org^
 ||uanowhelp.com^
+||uapay.pro^
 ||uapays24.icu^
 ||uapoluch24.pro^
 ||uappl.org^
@@ -1253,10 +1261,6 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
-! .GOV.UA
-://*g0v-ua*.*/$document
-://*gov-ua*.*/$document,domain=buzz|cfd|click|com|cyou|icu|info|media|online|org|pics|pw|site|space|store
-!
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com
 @@||facebook.com/diia.gov.ua^$document
@@ -1394,6 +1398,10 @@
 ://*.*/b/*$document,domain=buzz|charity|site|xyz
 ://*7300*.*/b/*$document
 !
+! TAG-47
+##body > main > section > div.main_actions > div.action.act_check
+##body > main > section > div.main_actions > div.action.act_signin
+!
 ! #TAG-50
 /telegram.php$document,domain=fun|online|shop|site|space|store|uno|website
 /keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
@@ -1407,6 +1415,14 @@
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
+##a[class*="button"][href*="#order_form"]
+##a[class*="button"][href*="#order"]
+##a[class*="button"][href*="#cat"]
+##form[class*="order_form"][action*="success/thankyou.php"]
+##form[class*="order_form"][action*="mail.php"]
+##form[class*="order_form"][action*="order/"]
+##form[class*="order_form"][action*="telegram.php"]
+##form[class*="order-form"][action*="telegram.php"]
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
@@ -1417,6 +1433,13 @@
 ://*loto*.*/pay.php?price=*&s=*$document
 ://*loto*.*/pay/?am=*&who=*&sub=*$document
 !
+! TAG-53(GOS)
+://*.*/*0registrations.html$document
+://*.*/*0checkingbase.html$document
+://*.*/price.php?price=*&ss=1$document
+://*.*/pay/?aa=*&who=1&sub=*$document
+##body > div#root > div.container > div > div.row > div > form#pay-form
+!
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
@@ -1425,7 +1448,6 @@
 ||*diya_official^$document,domain=t.me|telegram.me
 ||*dopomogausimua^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
-||*podderzkaykr^$document,domain=t.me|telegram.me
 ||*pravovadopomoga24^$document,domain=t.me|telegram.me
 ||*ukrua2023^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
