@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231208.01
-! Last modified: Fri, 08 December 2023 22:38 EET
+! Version: 20231210.01
+! Last modified: Sun, 10 December 2023 15:02 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -314,6 +314,7 @@
 ||helpukr24.com^
 ||helpukraina.site^
 ||helpukraine.direct^
+||helpukraine.uk^
 ||helpukrainemoneydopomoga.com^
 ||helpukrainian.site^
 ||helpukrpay.com^
@@ -1047,7 +1048,9 @@
 ||ukrainebasket.space^
 ||ukrainecross.org^
 ||ukrainedecor.com.ua^
+||ukrainedeliveryservice.online^
 ||ukrainedeliveryservice.website^
+||ukrainedeliveryservice.xyz^
 ||ukrainedevelopmentmission.org^
 ||ukrainedostavka.store^
 ||ukraineebay.vip^
@@ -1119,6 +1122,7 @@
 ||ukrmoda7.store^
 ||ukrmoda8.store^
 ||ukrmoda9.store^
+||ukrnet.email^
 ||ukrnet.support^
 ||ukrnet24.com^
 ||ukronline.site^
@@ -1128,6 +1132,7 @@
 ||ukrpomosh.space^
 ||ukrpomosh.xyz^
 ||ukrposhta.co.ua^
+||ukrpotshta.world^
 ||ukrqasolda.com^
 ||ukrqasolda.org^
 ||ukrsaleboom.fun^
@@ -1433,7 +1438,7 @@
 ://*loto*.*/pay.php?price=*&s=*$document
 ://*loto*.*/pay/?am=*&who=*&sub=*$document
 !
-! TAG-53(GOS)
+! TAG-53 (GOSCORP)
 ://*.*/*0registrations.html$document
 ://*.*/*0checkingbase.html$document
 ://*.*/price.php?price=*&ss=1$document
