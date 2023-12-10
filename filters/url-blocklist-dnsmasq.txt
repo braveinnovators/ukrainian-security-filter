@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231208.01
-# Last modified: Fri, 08 December 2023 22:38 EET
+# Version: 20231210.01
+# Last modified: Sun, 10 December 2023 15:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -313,6 +313,7 @@ address=/helpukr.support/
 address=/helpukr24.com/
 address=/helpukraina.site/
 address=/helpukraine.direct/
+address=/helpukraine.uk/
 address=/helpukrainemoneydopomoga.com/
 address=/helpukrainian.site/
 address=/helpukrpay.com/
@@ -1046,7 +1047,9 @@ address=/ukraineamazon.pro/
 address=/ukrainebasket.space/
 address=/ukrainecross.org/
 address=/ukrainedecor.com.ua/
+address=/ukrainedeliveryservice.online/
 address=/ukrainedeliveryservice.website/
+address=/ukrainedeliveryservice.xyz/
 address=/ukrainedevelopmentmission.org/
 address=/ukrainedostavka.store/
 address=/ukraineebay.vip/
@@ -1118,6 +1121,7 @@ address=/ukrmoda6.store/
 address=/ukrmoda7.store/
 address=/ukrmoda8.store/
 address=/ukrmoda9.store/
+address=/ukrnet.email/
 address=/ukrnet.support/
 address=/ukrnet24.com/
 address=/ukronline.site/
@@ -1127,6 +1131,7 @@ address=/ukrpomosh.site/
 address=/ukrpomosh.space/
 address=/ukrpomosh.xyz/
 address=/ukrposhta.co.ua/
+address=/ukrpotshta.world/
 address=/ukrqasolda.com/
 address=/ukrqasolda.org/
 address=/ukrsaleboom.fun/
