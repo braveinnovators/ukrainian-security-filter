@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231208.01
-# Last modified: Fri, 08 December 2023 22:38 EET
+# Version: 20231210.01
+# Last modified: Sun, 10 December 2023 15:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -313,6 +313,7 @@
 0.0.0.0 helpukr24.com
 0.0.0.0 helpukraina.site
 0.0.0.0 helpukraine.direct
+0.0.0.0 helpukraine.uk
 0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpukrpay.com
@@ -1046,7 +1047,9 @@
 0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedecor.com.ua
+0.0.0.0 ukrainedeliveryservice.online
 0.0.0.0 ukrainedeliveryservice.website
+0.0.0.0 ukrainedeliveryservice.xyz
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
@@ -1118,6 +1121,7 @@
 0.0.0.0 ukrmoda7.store
 0.0.0.0 ukrmoda8.store
 0.0.0.0 ukrmoda9.store
+0.0.0.0 ukrnet.email
 0.0.0.0 ukrnet.support
 0.0.0.0 ukrnet24.com
 0.0.0.0 ukronline.site
@@ -1127,6 +1131,7 @@
 0.0.0.0 ukrpomosh.space
 0.0.0.0 ukrpomosh.xyz
 0.0.0.0 ukrposhta.co.ua
+0.0.0.0 ukrpotshta.world
 0.0.0.0 ukrqasolda.com
 0.0.0.0 ukrqasolda.org
 0.0.0.0 ukrsaleboom.fun
