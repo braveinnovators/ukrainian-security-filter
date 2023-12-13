@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231210.01
-# Last modified: Sun, 10 December 2023 15:02 EET
+# Version: 20231214.01
+# Last modified: Thu, 14 December 2023 00:34 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -273,6 +273,7 @@ get-moneyua.pro
 get-paysua24.net
 getdopomoga.online
 getpaysua.me
+getposhta.online
 gingerbread-ua.store
 girlyanda.store
 gogleeo.shop
@@ -307,6 +308,7 @@ help24ukr.com
 helpdopomoga.com
 helpfond-ua.buzz
 helpforua.me
+helpforukraine.online
 helping-ukr.site
 helpukr.pro
 helpukr.support
@@ -456,6 +458,7 @@ mvs-oplaty.online
 mvs-oplaty.site
 mvs-police.space
 mvs-ua.online
+mvs-ua.site
 mvs-ua.space
 mvs-ukr.space
 mvs-ukraine.space
@@ -579,19 +582,12 @@ opendata-gov.online
 opendata-mvs.com.ua
 opendata-mvs.online
 original-ua.site
-oschad-4family-zsu.online
-oschad-4family-zsu.site
-oschad-family-zsu.online
-oschad-family-zsu.site
 oschad-help.com
 oschad-help2zsu.online
 oschad-help2zsu.site
-oschad-help4family-zsu.online
-oschad-help4family-zsu.site
 oschad-help4zsu.online
 oschad-help4zsu.site
 oschad-online.charity
-oschad-viplaty4family-zsu.site
 oschad24-get.online
 oschadbaq.com
 oschadbk.com
@@ -632,6 +628,7 @@ otrimannyadopomogi.xyz
 otrimati-groshi.site
 otrimati-ua.site
 otrimayviplatu.website
+otrymannia-vyplaty.com
 otto-shop.com.ua
 oukr.net
 outlet-ua.store
@@ -643,14 +640,7 @@ patriot-ukraine.info
 pay-ua.cloud
 pay-ua.pics
 pay-ua.pro
-pay2zsu-family.online
-pay2zsu-family.site
-pay2zsu-family.space
-pay2zsu-family.website
-pay4family-zsu.online
-pay4family-zsu.site
-pay4zsu-family.online
-pay4zsu-family.site
+payer-ua.online
 payme-ua.charity
 payment-system.cloud
 paymenthelpukr.support
@@ -848,6 +838,7 @@ swift-ua.store
 swiftperekaz.pro
 takticukraine.space
 tapetool.store
+technicalcryptomint.space
 technopolis-ua.site
 tehnotop.net.ua
 telegram-ua.co
@@ -1027,6 +1018,7 @@ ukraina.buzz
 ukraina.pro
 ukrainadopomoga24.org
 ukrainapays24.pro
+ukraine-domopoga.org
 ukraine-goodsware.store
 ukraine-homedepot.store
 ukraine-homeshops.store
@@ -1163,6 +1155,8 @@ ukrtrends.store
 ukrua.art.blog
 ukrvibeshop.store
 ukrwallet.com
+uktposhta.buzz
+ukyposhta.buzz
 un-unicef.org
 unicef-help.info
 unicef-uk.com
@@ -1258,5 +1252,3 @@ xwallet.website
 yalunka-ukraine.com.ua
 yr-ukr.net
 zakupocika.store
-zsu-family.online
-zsu-family.site
