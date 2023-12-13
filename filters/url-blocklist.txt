@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231210.01
-! Last modified: Sun, 10 December 2023 15:02 EET
+! Version: 20231214.01
+! Last modified: Thu, 14 December 2023 00:34 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -53,7 +53,6 @@
 ||apple-ukraine.online^
 ||apple-ukraine.store^
 ||au-ukr.net^
-||autonovaposhta.org^
 ||avon-registration.com^
 ||avon-ua.site^
 ||avto-dok.online^
@@ -105,7 +104,6 @@
 ||diyas.io^
 ||dmsu-ukr.pp.ua^
 ||donate-ukrainehelp.org^
-||donate-viplata24.space^
 ||dopomoga-2023.top^
 ||dopomoga-24pay.win^
 ||dopomoga-aid.top^
@@ -222,7 +220,6 @@
 ||dopomoha-ua.company.site^
 ||dopomoha-ua.website^
 ||dopomohaukraine.world^
-||dopoviplataua.xyz^
 ||dostavka-ua.fun^
 ||dostavka-ua.space^
 ||dostavka-ukr.fun^
@@ -234,7 +231,6 @@
 ||e-dopomogaua.me^
 ||e-grivn.com^
 ||e-gryvnia.com^
-||e-viplata.space^
 ||e-vyplata.com^
 ||ebay-ua.com^
 ||ebayua.cc^
@@ -274,6 +270,7 @@
 ||get-paysua24.net^
 ||getdopomoga.online^
 ||getpaysua.me^
+||getposhta.online^
 ||gingerbread-ua.store^
 ||girlyanda.store^
 ||gogleeo.shop^
@@ -282,7 +279,6 @@
 ||googlee.pw^
 ||goturozetka.com^
 ||goturozetka.vip^
-||goviplataua.info^
 ||govs-ua.com^
 ||govs-ua.io^
 ||govua.buzz^
@@ -301,13 +297,13 @@
 ||help-ukraine.space^
 ||help-ukraine.top^
 ||help-ukraine.website^
-||help24-viplata.me^
 ||help24ua.com^
 ||help24uapay.com^
 ||help24ukr.com^
 ||helpdopomoga.com^
 ||helpfond-ua.buzz^
 ||helpforua.me^
+||helpforukraine.online^
 ||helping-ukr.site^
 ||helpukr.pro^
 ||helpukr.support^
@@ -320,8 +316,6 @@
 ||helpukrpay.com^
 ||hitachi-ukraine.com^
 ||hitgoodsukr.store^
-||home-internet-kyivstar.com.ua^
-||home-kyivstar.online^
 ||homeanimal.site^
 ||hometrends.top^
 ||hsc-ua.online^
@@ -329,8 +323,6 @@
 ||icanshop.pp.ua^
 ||ilyukr.site^
 ||info-ukr.charity^
-||internet-kyivstar.com.ua^
-||internet-kyivstar.com^
 ||intrestingukrainefun.fun^
 ||ipay-ua.online^
 ||izzi-money.online^
@@ -358,43 +350,6 @@
 ||konkurs2023.site^
 ||konkurs23.site^
 ||konkursua.site^
-||kyivstar-connect-internet.com.ua^
-||kyivstar-home-internet.com.ua^
-||kyivstar-home-promo.com.ua^
-||kyivstar-home.com.ua^
-||kyivstar-inet.com^
-||kyivstar-internet.com.ua^
-||kyivstar-internet.com^
-||kyivstar-internet.tk^
-||kyivstar-net.com.ua^
-||kyivstar-sale.com.ua^
-||kyivstar-shop.com.ua^
-||kyivstar-shop.com^
-||kyivstar-shop.net^
-||kyivstar-tv.com.ua^
-||kyivstar-vebo.com.ua^
-||kyivstar.biz.ua^
-||kyivstar.biz^
-||kyivstar.com.ua^
-||kyivstar.com^
-||kyivstar.eu^
-||kyivstar.in.ua^
-||kyivstar.in^
-||kyivstar.info^
-||kyivstar.me^
-||kyivstar.mobi^
-||kyivstar.org.ua^
-||kyivstar.org^
-||kyivstar.pl^
-||kyivstar.pro^
-||kyivstar.shop^
-||kyivstarbezlim.com^
-||kyivstardance.com.ua^
-||kyivstarhome.pp.ua^
-||kyivstarpay.com^
-||kyivstarsale.online^
-||kyivstarshop.com^
-||kyivstarshop.net^
 ||lampsukraine.shop^
 ||leemsedo.co.ua^
 ||letokonkurs.site^
@@ -457,6 +412,7 @@
 ||mvs-oplaty.site^
 ||mvs-police.space^
 ||mvs-ua.online^
+||mvs-ua.site^
 ||mvs-ua.space^
 ||mvs-ukr.space^
 ||mvs-ukraine.space^
@@ -464,10 +420,8 @@
 ||my-3ds.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
-||my-kyivstar.com.ua^
 ||mygovua.info^
 ||mygovua.online^
-||mykyivstar.com^
 ||myuagoveinfo-taxation.info^
 ||nacionalbankukraine.shop^
 ||nacionalbankukraine.xyz^
@@ -479,8 +433,6 @@
 ||next24-auth.space^
 ||next24-auth.website^
 ||nextpay.pw^
-||nextuaviplata.pro^
-||nextuaviplata24.pro^
 ||noreply-olxpay.com^
 ||nova-pay-ua.com^
 ||nova-poshta-pay.com^
@@ -489,31 +441,7 @@
 ||nova-poshta.org.ua^
 ||nova-poshta.ws^
 ||novapay-ukr.top^
-||novaposhta-ua.com^
-||novaposhta-ua.org^
-||novaposhta.app^
-||novaposhta.biz^
-||novaposhta.com.ua^
-||novaposhta.eu^
-||novaposhta.in^
-||novaposhta.info^
-||novaposhta.kiev.ua^
-||novaposhta.online^
-||novaposhta.org^
-||novaposhta.site^
-||novaposhta.ws^
-||novaposhta24.sbs^
-||novaposhta24.shop^
-||novaposhta27.sbs^
-||novaposhta27.shop^
-||novaposhtaexpress.com^
-||novaposhtaglobal.eu^
-||novaposhtaglobal.site^
-||novaposhtaolx.com^
-||novaposhtashipping.com^
-||novaposhtatracking.com^
 ||npu-gov-ua.media^
-||oficial-viplata.info^
 ||ok-ua.cloud^
 ||ok-ua.info^
 ||ok-ua.live^
@@ -552,7 +480,6 @@
 ||on-ua.info^
 ||on-ua.pro^
 ||on-ukr.net^
-||ondorazovaya-viplata24.space^
 ||oneclick-ua.shop^
 ||online-pays.tech^
 ||online-raiffeisen.info^
@@ -565,13 +492,6 @@
 ||onlineukrshop.fun^
 ||oon-dopomoga.info^
 ||oon-dopomoga.pro^
-||oon-viplata.co^
-||oon-viplata.eu^
-||oon-viplata.org^
-||oon-viplata.social^
-||oonviplata.com^
-||oonviplata.online^
-||oonviplata.tech^
 ||oonviplaty.host^
 ||opendata-baza-mvs.com.ua^
 ||opendata-baza-mvs.online^
@@ -580,19 +500,12 @@
 ||opendata-mvs.com.ua^
 ||opendata-mvs.online^
 ||original-ua.site^
-||oschad-4family-zsu.online^
-||oschad-4family-zsu.site^
-||oschad-family-zsu.online^
-||oschad-family-zsu.site^
 ||oschad-help.com^
 ||oschad-help2zsu.online^
 ||oschad-help2zsu.site^
-||oschad-help4family-zsu.online^
-||oschad-help4family-zsu.site^
 ||oschad-help4zsu.online^
 ||oschad-help4zsu.site^
 ||oschad-online.charity^
-||oschad-viplaty4family-zsu.site^
 ||oschad24-get.online^
 ||oschadbaq.com^
 ||oschadbk.com^
@@ -602,7 +515,6 @@
 ||oschadnybank.com.ua^
 ||oschadsecure.com^
 ||oschadsecure.pw^
-||oschadviplata66.shop^
 ||oshad-24.com^
 ||oshad-auth.site^
 ||oshad-bank.online^
@@ -620,19 +532,18 @@
 ||oshadbank24.win^
 ||oshadbankoon.com^
 ||oshadhelpes.life^
-||oshadhelpviplata.online^
 ||oshadpaies.co^
 ||oshadpqy.info^
 ||oshadukhel.pro^
 ||oshadukras.info^
 ||oshcadbank.top^
-||oshviplata24.space^
 ||otrim-koshtiv-ukr.biz.ua^
 ||otrimanie-ua.site^
 ||otrimannyadopomogi.xyz^
 ||otrimati-groshi.site^
 ||otrimati-ua.site^
 ||otrimayviplatu.website^
+||otrymannia-vyplaty.com^
 ||otto-shop.com.ua^
 ||oukr.net^
 ||outlet-ua.store^
@@ -644,14 +555,7 @@
 ||pay-ua.cloud^
 ||pay-ua.pics^
 ||pay-ua.pro^
-||pay2zsu-family.online^
-||pay2zsu-family.site^
-||pay2zsu-family.space^
-||pay2zsu-family.website^
-||pay4family-zsu.online^
-||pay4family-zsu.site^
-||pay4zsu-family.online^
-||pay4zsu-family.site^
+||payer-ua.online^
 ||payme-ua.charity^
 ||payment-system.cloud^
 ||paymenthelpukr.support^
@@ -660,7 +564,6 @@
 ||paysuanext24.org^
 ||paysuanext24.pro^
 ||paysuanext24.tech^
-||payviplata.shop^
 ||paywin-ua.charity^
 ||perekaz-koshtiv.online^
 ||perekaz.com^
@@ -715,7 +618,6 @@
 ||proffinance.site^
 ||prokonkurs-2023.site^
 ||prom-pay-ua.host^
-||promo-olx-ukrposhta.com^
 ||promo-pay24.win^
 ||promo24help.com^
 ||promohelp24.com^
@@ -764,7 +666,6 @@
 ||raiffeisenbankoon.social^
 ||raiffeisenhelps.shop^
 ||raiffeisennextua.site^
-||raiffeizen-viplata-help.online^
 ||raiffejsen.online^
 ||raiffesen.charity^
 ||raiffesen.com^
@@ -849,6 +750,7 @@
 ||swiftperekaz.pro^
 ||takticukraine.space^
 ||tapetool.store^
+||technicalcryptomint.space^
 ||technopolis-ua.site^
 ||tehnotop.net.ua^
 ||telegram-ua.co^
@@ -881,7 +783,6 @@
 ||trend-ua.space^
 ||trust-group.pro^
 ||tv-shop.space^
-||tviy-kyivstar.com.ua^
 ||tviyshop.online^
 ||ua-applestore.shop^
 ||ua-bankgov.com^
@@ -913,7 +814,6 @@
 ||ua-ua.pro^
 ||ua-ukr.net^
 ||ua-unicef.online^
-||ua-viplata.me^
 ||ua-wallet.pw^
 ||ua24pomoga.online^
 ||ua3y.store^
@@ -1023,11 +923,11 @@
 ||ukr.gift^
 ||ukr24help.com^
 ||ukraina-shtraf.site^
-||ukraina-viplata.xyz^
 ||ukraina.buzz^
 ||ukraina.pro^
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
+||ukraine-domopoga.org^
 ||ukraine-goodsware.store^
 ||ukraine-homedepot.store^
 ||ukraine-homeshops.store^
@@ -1131,7 +1031,6 @@
 ||ukrpomosh.site^
 ||ukrpomosh.space^
 ||ukrpomosh.xyz^
-||ukrposhta.co.ua^
 ||ukrpotshta.world^
 ||ukrqasolda.com^
 ||ukrqasolda.org^
@@ -1154,7 +1053,6 @@
 ||ukrshops.fun^
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
-||ukrsibbankq.com^
 ||ukrsibbk.com^
 ||ukrtop.space^
 ||ukrtopmagaz.online^
@@ -1164,6 +1062,8 @@
 ||ukrua.art.blog^
 ||ukrvibeshop.store^
 ||ukrwallet.com^
+||uktposhta.buzz^
+||ukyposhta.buzz^
 ||un-unicef.org^
 ||unicef-help.info^
 ||unicef-uk.com^
@@ -1178,63 +1078,6 @@
 ||vabrand-uaspecial.store^
 ||vheck-viplatvidoshad.space^
 ||vip-ua.store^
-||viplata-bot.eu^
-||viplata-com.store^
-||viplata-govua.cloud^
-||viplata-govua.site^
-||viplata-ooh.life^
-||viplata-oon-ua.com^
-||viplata-ua.eu^
-||viplata-ua.me^
-||viplata-ukraina.me^
-||viplata-ukraina.xyz^
-||viplata-vid24.space^
-||viplata.agency^
-||viplata.biz^
-||viplata.club^
-||viplata.digital^
-||viplata.eu^
-||viplata.foundation^
-||viplata.fun^
-||viplata.fyi^
-||viplata.in^
-||viplata.me^
-||viplata.mobi^
-||viplata.org^
-||viplata.space^
-||viplata24.shop^
-||viplata24.tech^
-||viplata24pay.shop^
-||viplata28.space^
-||viplatadiya.site^
-||viplatadopomogaua.com^
-||viplatadopomogi.com^
-||viplatagov.org^
-||viplatagovua.org^
-||viplatanow.online^
-||viplataonline.com^
-||viplataoon.info^
-||viplatasocoshad.online^
-||viplatasukraine.com^
-||viplataua.art.blog^
-||viplataua.co^
-||viplataua.com^
-||viplataua.info^
-||viplataua.net^
-||viplataua.org^
-||viplataua.shop^
-||viplataua.site^
-||viplataua.xyz^
-||viplataua24.com^
-||viplataua24.pro^
-||viplatauaukr.xyz^
-||viplatauaukraine.xyz^
-||viplataukr.xyz^
-||viplataukraina24.icu^
-||viplataukraina24.pro^
-||viplataukraina24.xyz^
-||viplataukraine.com^
-||viplataukraine.org^
 ||viplatiukraine.xyz^
 ||viplaty.com.ua^
 ||viplaty.online^
@@ -1252,15 +1095,12 @@
 ||wowukr.store^
 ||www-ua.cloud^
 ||www-ua.info^
-||www-viplata.com^
 ||wwwolx.site^
 ||x-ukr.net^
 ||xwallet.website^
 ||yalunka-ukraine.com.ua^
 ||yr-ukr.net^
 ||zakupocika.store^
-||zsu-family.online^
-||zsu-family.site^
 !
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
@@ -1332,18 +1172,18 @@
 ||ukrposhta*.$document,domain=~ukrposhta.ua
 !
 ! NOVAPOSHTA.UA
-://*novaposhta*.$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
-://*nova-poshta*.$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
+://*novaposhta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
+://*nova-poshta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
 @@||instagram.com/novaposhta.official^$document
-@@||play.google.com/store/apps/details?id=ua.novaposhtaa^$document
-@@||linkedin.com/company/novaposhta^$document
 @@||tiktok.com/@novaposhta.official^$document
+!
+! KYIVSTAR.UA
+://*kyivstar*.*/$document,domain=~kyivstar.ua
+@@||instagram.com/kyivstar.official^$document
 !
 ! OLX.UA
 ||olxdos*.$document,domain=cfd|sbs|shop|world
 ||olxpokupka*.$document
-||perevod-*.*/$document,domain=shop
-||perevods-*.*/$document,domain=shop
 ||poshtaolx*.$document
 !
 ! UKR.NET
@@ -1359,11 +1199,7 @@
 ! #TAG-23
 ://*bankid*.*/$document,domain=cloud|info|lol|ltd|online|pro|shop|site|xyz
 ://*bankld*.*/$document,domain=cloud|info|lol|ltd|online|pro|shop|site|xyz
-://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|cyou|fun|icu|info|net|online|pics|pro|pw|site|shop|space|store|tech|xyz
-!
-! #TAG-27
-||finalkonkursukraine*.$document
-||finalukrainekonkurs*.$document
+://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
 !
 ! #TAG-31
 ://web.*.*/web?id=*$document
@@ -1401,19 +1237,18 @@
 !
 ! #TAG-46
 ://*.*/b/*$document,domain=buzz|charity|site|xyz
-://*7300*.*/b/*$document
 !
-! TAG-47
+! #TAG-47
 ##body > main > section > div.main_actions > div.action.act_check
 ##body > main > section > div.main_actions > div.action.act_signin
 !
 ! #TAG-50
+://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
 /telegram.php$document,domain=fun|online|shop|site|space|store|uno|website
+://api.telegram.org/bot6855762556:AAFRxTEazL3n7TYAU07yNvZVJaghxXSupLE/sendMessage*$xmlhttprequest
 /keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 /keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 /app/c$xmlhttprequest,domain=com.ua|fun|online|shop|site|store|uno
-://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
-://*ukr*.*/mod/project/*/lead/send/$xmlhttprequest
 ://*.*/success.php$document,domain=fun|space
 ://*.*/zakaz.php$document,domain=fun|space
 ://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
@@ -1423,9 +1258,12 @@
 ##a[class*="button"][href*="#order_form"]
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
+##div.formbox > form[id*="order_form"]
 ##form[class*="order_form"][action*="success/thankyou.php"]
 ##form[class*="order_form"][action*="mail.php"]
+##form[class*="order_form"][action*="order.php"]
 ##form[class*="order_form"][action*="order/"]
+##form[class*="order_form"][action*="call.php"]
 ##form[class*="order_form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="telegram.php"]
 !
@@ -1437,13 +1275,18 @@
 ://*loto*.*/payout.php$document
 ://*loto*.*/pay.php?price=*&s=*$document
 ://*loto*.*/pay/?am=*&who=*&sub=*$document
-!
-! TAG-53 (GOSCORP)
 ://*.*/*0registrations.html$document
 ://*.*/*0checkingbase.html$document
 ://*.*/price.php?price=*&ss=1$document
 ://*.*/pay/?aa=*&who=1&sub=*$document
 ##body > div#root > div.container > div > div.row > div > form#pay-form
+!
+! #TAG-60
+##div.buttons > button[onclick="golden_drainer()"]
+##div.buttons > button[data-ga-event="click_defence_and_demining"][onclick="openmodal()"]
+##div.buttons > button[data-ga-event="clik_medical_aid"][onclick="openmodal()"]
+##div.buttons > button[data-ga-event="clik_rebuild_ukraine"][onclick="openmodal()"]
+##button[onclick="MSM.connect()"]
 !
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
