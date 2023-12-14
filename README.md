@@ -2,7 +2,9 @@
 
 Фільтр (список блокувань) фішингових сайтів, які обманом виманюють в українців доступ до облікових записів банківських онлайн систем, реквізити платіжних карток, конфіденційну інформацію та гроші. У фільтр додаються виключно шахрайські вебресурси, які орієнтовані саме на громадян України і які відсутні в інших наявних фільтрах.
 
-Фільтр містить три групи правил фільтрації: стандартні правила, універсальні правила (pattern-based filtering rules) та індивідуальні правила (page-specific filtering rules). Універсальні правила дозволяють блокувати фішингові веб-ресурси, навіть, якщо інформація про доменні імена таких ресурсів відсутня у фільтрі. Індивідуальні правила дозволяють блокувати сторінки у соціальних мережах, посилання на групи або чат-боти у месенджерах тощо, тобто цільові веб-адреси (URL-адреси) ресурсів які є легітимними, проте, які використовуються зловмисниками.
+Фільтр містить три групи правил фільтрації: стандартні правила, універсальні правила (pattern-based filtering rules) та індивідуальні правила (page-specific filtering rules).
+
+Універсальні правила дозволяють блокувати фішингові веб-ресурси, навіть, якщо інформація про доменні імена таких ресурсів відсутня у фільтрі (блокування відбувається на основі [паттернів](https://mastodon.online/@braveinnovators/111364189029417720)). Індивідуальні правила дозволяють блокувати сторінки у соціальних мережах, посилання на групи або чат-боти у месенджерах тощо, тобто цільові веб-адреси (URL-адреси) ресурсів які є легітимними, проте, які використовуються зловмисниками.
 
 ## Формати
 
@@ -46,14 +48,17 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 ### Браузери з вбудованими модулями фільтрації контенту
 
-* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
+  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
 * [Opera](https://www.opera.com/)
 * [Vivaldi](https://vivaldi.com/)
 
 ### Розширення
 
-* [uBlock Origin](https://ublockorigin.com/) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
-* [Adblock Plus](https://adblockplus.org/) → [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
+* [uBlock Origin](https://ublockorigin.com/)
+  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
+* [Adblock Plus](https://adblockplus.org/)
+  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
 * [AdBlock](https://getadblock.com/)
 
 ## Особливості
