@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231214.01
-# Last modified: Thu, 14 December 2023 00:34 EET
+# Version: 20231216.01
+# Last modified: Sat, 16 December 2023 15:31 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1065,6 +1065,7 @@ ukraineproduct.fun
 ukraineproductstore.fun
 ukrainerozetka.com
 ukrainerozetka.vip
+ukraines-gos.top
 ukraineshop.space
 ukraineshop.top
 ukraineshoping.store
