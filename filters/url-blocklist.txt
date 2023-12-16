@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231214.01
-! Last modified: Thu, 14 December 2023 00:34 EET
+! Version: 20231216.01
+! Last modified: Sat, 16 December 2023 15:31 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -974,6 +974,7 @@
 ||ukraineproductstore.fun^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukraines-gos.top^
 ||ukraineshop.space^
 ||ukraineshop.top^
 ||ukraineshoping.store^
@@ -1279,7 +1280,10 @@
 ://*.*/*0checkingbase.html$document
 ://*.*/price.php?price=*&ss=1$document
 ://*.*/pay/?aa=*&who=1&sub=*$document
+://*.*/gwapi.php?a=pay&p=*&aa=*$document
 ##body > div#root > div.container > div > div.row > div > form#pay-form
+##body > section.mains > section.mainsec > div.checkcomblock
+##body > section.mains > section.mainsec > form.addcommnet
 !
 ! #TAG-60
 ##div.buttons > button[onclick="golden_drainer()"]
@@ -1305,6 +1309,8 @@
 ||invite.viber.com/?g2=AQAqETadeQe6%2FFHerHWKG3aYbNdWpQYR6VnHA0Qlo6pvtX0uWS74HrSJxWdK9WAV^$document
 ||invite.viber.com/?g2=AQAYbL6PIqqzQ1HO81URILdQUW6BLiftGFk%2B9SK%2BoUew7j5NzbIaS0nRsSeCXqv%2B^$document
 ||invite.viber.com/?g2=AQBekGE6cjQUwFG69yVG2yKpwYEBSCTDXIzjlxGIRMFUvKZx8bcL4AECa75ZlDNn^$document
+||invite.viber.com/?g2=AQBGh39kgyim3lIU%2FlDpPS2ZK0A5mXqml6xvcXjPwc4rToGm9Ly4e6LdoouQtdnn^$document
+||invite.viber.com/?g2=AQBgP%2BauuhWt0FIWku5tuXN2S2mhNFxAJ1eKZjfh%2BEKJES02tkQo0eRsm9bMzWDj^$document
 ||t.me/+gvj4twyHg8BkMDc6^$document
 ||t.me/+hD2lJDyLPJs4OTY0^$document
 ||t.me/+ilAa8TtLqz42NjBi^$document
