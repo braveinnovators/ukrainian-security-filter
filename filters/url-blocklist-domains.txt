@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231216.01
-# Last modified: Sat, 16 December 2023 15:31 EET
+# Version: 20231221.01
+# Last modified: Thu, 21 December 2023 16:06 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -122,6 +122,7 @@ dopomoga-ua.pro
 dopomoga-ua.site
 dopomoga-ua.website
 dopomoga-uaweb.website
+dopomoga-ukraine.com
 dopomoga.agency
 dopomoga.app
 dopomoga.bio
@@ -473,6 +474,7 @@ mykyivstar.com
 myuagoveinfo-taxation.info
 nacionalbankukraine.shop
 nacionalbankukraine.xyz
+netflx-ua.com
 newsukr2023.site
 newsukr2023.space
 next-novapay.cloud
@@ -606,6 +608,8 @@ oshad-loto.top
 oshad-lotoukr.top
 oshad-pedtrimka.online
 oshad.online
+oshad.space
+oshad.website
 oshadbank.online
 oshadbank.pro
 oshadbank.pw
@@ -635,6 +639,7 @@ outlet-ua.store
 pa-ukr.net
 panda-sale.com.ua
 parfums.top
+passport-ua.com
 patriot-ukraine.fun
 patriot-ukraine.info
 pay-ua.cloud
@@ -1019,6 +1024,7 @@ ukraina.pro
 ukrainadopomoga24.org
 ukrainapays24.pro
 ukraine-domopoga.org
+ukraine-dopomoga.com
 ukraine-goodsware.store
 ukraine-homedepot.store
 ukraine-homeshops.store
