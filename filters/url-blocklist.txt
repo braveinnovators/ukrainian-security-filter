@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231216.01
-! Last modified: Sat, 16 December 2023 15:31 EET
+! Version: 20231221.01
+! Last modified: Thu, 21 December 2023 16:06 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -121,6 +121,7 @@
 ||dopomoga-ua.site^
 ||dopomoga-ua.website^
 ||dopomoga-uaweb.website^
+||dopomoga-ukraine.com^
 ||dopomoga.agency^
 ||dopomoga.app^
 ||dopomoga.bio^
@@ -270,7 +271,6 @@
 ||get-paysua24.net^
 ||getdopomoga.online^
 ||getpaysua.me^
-||getposhta.online^
 ||gingerbread-ua.store^
 ||girlyanda.store^
 ||gogleeo.shop^
@@ -425,6 +425,7 @@
 ||myuagoveinfo-taxation.info^
 ||nacionalbankukraine.shop^
 ||nacionalbankukraine.xyz^
+||netflx-ua.com^
 ||newsukr2023.site^
 ||newsukr2023.space^
 ||next-novapay.cloud^
@@ -435,11 +436,6 @@
 ||nextpay.pw^
 ||noreply-olxpay.com^
 ||nova-pay-ua.com^
-||nova-poshta-pay.com^
-||nova-poshta.in.ua^
-||nova-poshta.kiev.ua^
-||nova-poshta.org.ua^
-||nova-poshta.ws^
 ||novapay-ukr.top^
 ||npu-gov-ua.media^
 ||ok-ua.cloud^
@@ -462,7 +458,6 @@
 ||olxdoostavka-ua.shop^
 ||olxdosstavka-ua.shop^
 ||olxdostavka-ua.shop^
-||olxdostavkaposhta.shop^
 ||olxmarket-ua.shop^
 ||olxoplatadostavkak.com^
 ||olxpay.pw^
@@ -523,6 +518,8 @@
 ||oshad-lotoukr.top^
 ||oshad-pedtrimka.online^
 ||oshad.online^
+||oshad.space^
+||oshad.website^
 ||oshadbank.online^
 ||oshadbank.pro^
 ||oshadbank.pw^
@@ -550,6 +547,7 @@
 ||pa-ukr.net^
 ||panda-sale.com.ua^
 ||parfums.top^
+||passport-ua.com^
 ||patriot-ukraine.fun^
 ||patriot-ukraine.info^
 ||pay-ua.cloud^
@@ -597,13 +595,6 @@
 ||pomosch-ua.online^
 ||popkorn-ua.store^
 ||portal-diya.kyiv.ua^
-||poshta-olx.shop^
-||poshta-ua.shop^
-||poshta-ua24.sbs^
-||poshta-ua24.shop^
-||poshta-uah.shop^
-||poshta.shop^
-||poshtaposhlanieqw.shop^
 ||privaat24-ua.site^
 ||privat-bank-ua.com^
 ||privat24.cab^
@@ -903,7 +894,6 @@
 ||ukr-pay.charity^
 ||ukr-pay.pro^
 ||ukr-payment-system.online^
-||ukr-poshta.com^
 ||ukr-product.store^
 ||ukr-receive.buzz^
 ||ukr-receive.cfd^
@@ -928,6 +918,7 @@
 ||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
 ||ukraine-domopoga.org^
+||ukraine-dopomoga.com^
 ||ukraine-goodsware.store^
 ||ukraine-homedepot.store^
 ||ukraine-homeshops.store^
@@ -1063,8 +1054,6 @@
 ||ukrua.art.blog^
 ||ukrvibeshop.store^
 ||ukrwallet.com^
-||uktposhta.buzz^
-||ukyposhta.buzz^
 ||un-unicef.org^
 ||unicef-help.info^
 ||unicef-uk.com^
@@ -1171,6 +1160,9 @@
 ! UKRPOSHTA.UA
 ://ukrposhta.*.$document
 ||ukrposhta*.$document,domain=~ukrposhta.ua
+://*poshta*.*/$document,domain=~gov.ua|~ua|buzz|click|co.uk|com|cyou|icu|life|online|sbs|shop|site|space|store|top|uk|world|ws|xyz
+||ua*poshta.$document,domain=~gov.ua|~ua
+||uk*poshta.$document,domain=~gov.ua|~ua
 !
 ! NOVAPOSHTA.UA
 ://*novaposhta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
@@ -1198,8 +1190,6 @@
 ||webtelegram.$document
 !
 ! #TAG-23
-://*bankid*.*/$document,domain=cloud|info|lol|ltd|online|pro|shop|site|xyz
-://*bankld*.*/$document,domain=cloud|info|lol|ltd|online|pro|shop|site|xyz
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
 !
 ! #TAG-31
@@ -1256,6 +1246,7 @@
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
+://*.*/mod/project/534154/lead/send/$document,xmlhttprequest
 ##a[class*="button"][href*="#order_form"]
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
@@ -1267,6 +1258,7 @@
 ##form[class*="order_form"][action*="call.php"]
 ##form[class*="order_form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="telegram.php"]
+##form[class*="component-form"][action*="/mod/project/534154/lead/send/"]
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
@@ -1291,6 +1283,12 @@
 ##div.buttons > button[data-ga-event="clik_medical_aid"][onclick="openmodal()"]
 ##div.buttons > button[data-ga-event="clik_rebuild_ukraine"][onclick="openmodal()"]
 ##button[onclick="MSM.connect()"]
+!
+! #TAG-61
+##html.w-mod-js.w-mod-ix > body > div.global-stylesheet.w-embed
+##html.w-mod-js.w-mod-ix > body > div.page-loader
+##html.w-mod-js.w-mod-ix > body > div.section-mark
+##html.w-mod-js.w-mod-ix > body > div.section
 !
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
