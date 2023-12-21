@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231216.01
-# Last modified: Sat, 16 December 2023 15:31 EET
+# Version: 20231221.01
+# Last modified: Thu, 21 December 2023 16:06 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -122,6 +122,7 @@ address=/dopomoga-ua.pro/
 address=/dopomoga-ua.site/
 address=/dopomoga-ua.website/
 address=/dopomoga-uaweb.website/
+address=/dopomoga-ukraine.com/
 address=/dopomoga.agency/
 address=/dopomoga.app/
 address=/dopomoga.bio/
@@ -473,6 +474,7 @@ address=/mykyivstar.com/
 address=/myuagoveinfo-taxation.info/
 address=/nacionalbankukraine.shop/
 address=/nacionalbankukraine.xyz/
+address=/netflx-ua.com/
 address=/newsukr2023.site/
 address=/newsukr2023.space/
 address=/next-novapay.cloud/
@@ -606,6 +608,8 @@ address=/oshad-loto.top/
 address=/oshad-lotoukr.top/
 address=/oshad-pedtrimka.online/
 address=/oshad.online/
+address=/oshad.space/
+address=/oshad.website/
 address=/oshadbank.online/
 address=/oshadbank.pro/
 address=/oshadbank.pw/
@@ -635,6 +639,7 @@ address=/outlet-ua.store/
 address=/pa-ukr.net/
 address=/panda-sale.com.ua/
 address=/parfums.top/
+address=/passport-ua.com/
 address=/patriot-ukraine.fun/
 address=/patriot-ukraine.info/
 address=/pay-ua.cloud/
@@ -1019,6 +1024,7 @@ address=/ukraina.pro/
 address=/ukrainadopomoga24.org/
 address=/ukrainapays24.pro/
 address=/ukraine-domopoga.org/
+address=/ukraine-dopomoga.com/
 address=/ukraine-goodsware.store/
 address=/ukraine-homedepot.store/
 address=/ukraine-homeshops.store/
