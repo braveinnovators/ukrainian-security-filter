@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231221.01
-# Last modified: Thu, 21 December 2023 16:06 EET
+# Version: 20231222.01
+# Last modified: Fri, 22 December 2023 17:52 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -899,6 +899,8 @@ ua-paying.online
 ua-paying.pics
 ua-paying.xyz
 ua-payme.charity
+ua-pays.life
+ua-pays.top
 ua-paysys.top
 ua-payticket.online
 ua-pryaniki.store
@@ -1123,6 +1125,9 @@ ukrmoda9.store
 ukrnet.email
 ukrnet.support
 ukrnet24.com
+ukroboronprom.info
+ukroboronprom.ml
+ukroboronprom.space
 ukronline.site
 ukronlineshop.fun
 ukronlineshopping.fun
@@ -1154,6 +1159,7 @@ ukrsib-bank.site
 ukrsib-bank.top
 ukrsibbankq.com
 ukrsibbk.com
+ukrswap.com
 ukrtop.space
 ukrtopmagaz.online
 ukrtopshop.space
@@ -1258,4 +1264,3 @@ x-ukr.net
 xwallet.website
 yalunka-ukraine.com.ua
 yr-ukr.net
-zakupocika.store
