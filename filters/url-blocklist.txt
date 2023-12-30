@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231222.02
-! Last modified: Fri, 22 December 2023 21:25 EET
+! Version: 20231230.01
+! Last modified: Sat, 30 December 2023 21:17 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -87,6 +87,7 @@
 ||comfortshop-ukraine.space^
 ||crypt0.fun^
 ||cryptocurrency-helps-ukraine.com^
+||data-mails.com^
 ||data-ukr.com^
 ||de-ukr.net^
 ||deal-loads.site^
@@ -128,21 +129,30 @@
 ||dopomoga.buzz^
 ||dopomoga.charity^
 ||dopomoga.city^
+||dopomoga.club^
 ||dopomoga.express^
 ||dopomoga.fans^
+||dopomoga.foundation^
 ||dopomoga.giving^
 ||dopomoga.health^
+||dopomoga.icu^
 ||dopomoga.in^
+||dopomoga.link^
 ||dopomoga.me^
+||dopomoga.men^
+||dopomoga.news^
 ||dopomoga.observer^
 ||dopomoga.pics^
 ||dopomoga.place^
 ||dopomoga.rocks^
+||dopomoga.shop^
 ||dopomoga.site^
 ||dopomoga.social^
 ||dopomoga.solutions^
 ||dopomoga.space^
+||dopomoga.tech^
 ||dopomoga.today^
+||dopomoga.website^
 ||dopomoga.wtf^
 ||dopomoga2023.com^
 ||dopomoga2023.tech^
@@ -217,6 +227,22 @@
 ||dopomogaukraiinee.website^
 ||dopomogaukrainaua.com^
 ||dopomogaukraine.store^
+||dopomogavidunicef.art^
+||dopomogavidunicef.blog^
+||dopomogavidunicef.charity^
+||dopomogavidunicef.cloud^
+||dopomogavidunicef.club^
+||dopomogavidunicef.foundation^
+||dopomogavidunicef.health^
+||dopomogavidunicef.info^
+||dopomogavidunicef.live^
+||dopomogavidunicef.online^
+||dopomogavidunicef.org^
+||dopomogavidunicef.photography^
+||dopomogavidunicef.pro^
+||dopomogavidunicef.shop^
+||dopomogavidunicef.site^
+||dopomogavidunicef.xyz^
 ||dopomogs-ukr.top^
 ||dopomoha-ua.company.site^
 ||dopomoha-ua.website^
@@ -243,6 +269,8 @@
 ||ebayukraine.vip^
 ||ecommerceukraine.website^
 ||edoopomoga.xyz^
+||elastiko.online^
+||elastiko.pro^
 ||en-ukr.net^
 ||enersit.com^
 ||enot-sale.com.ua^
@@ -279,15 +307,19 @@
 ||googlee.pw^
 ||goturozetka.com^
 ||goturozetka.vip^
+||gov-ua.pics^
+||gov24-ua.com^
 ||govs-ua.com^
 ||govs-ua.io^
 ||govua.buzz^
+||govua.link^
 ||govua.shop^
 ||govuad24.cloud^
 ||groshidopomoga.top^
 ||groshinarahunok.com^
 ||groshovadopomoga.com^
 ||grosovadopomoga.shop^
+||help-oschad24.shop^
 ||help-ua.in.ua^
 ||help-ua.social^
 ||help-ukr.mobi^
@@ -301,10 +333,16 @@
 ||help24uapay.com^
 ||help24ukr.com^
 ||helpdopomoga.com^
+||helper-ua.info^
+||helper-ua.site^
+||helper-ua.xyz^
 ||helpfond-ua.buzz^
 ||helpforua.me^
 ||helpforukraine.online^
+||helpgroshiua.foundation^
+||helpgroshiua.pro^
 ||helping-ukr.site^
+||helposchad24.shop^
 ||helpukr.pro^
 ||helpukr.support^
 ||helpukr24.com^
@@ -364,6 +402,7 @@
 ||magazine-ua.store^
 ||magazine-ukraine.shop^
 ||magic-brash-in-ua.shop^
+||mail-ukr-net.systems^
 ||mail-ukr.site^
 ||mail-ukr.website^
 ||mak-store.online^
@@ -419,12 +458,15 @@
 ||mvs-zakon.online^
 ||my-3ds.space^
 ||my-goavuvyplate.site^
+||my-gov-ua.best^
 ||my-govuwvyplatte.site^
 ||mygovua.info^
 ||mygovua.online^
 ||myuagoveinfo-taxation.info^
 ||nacionalbankukraine.shop^
 ||nacionalbankukraine.xyz^
+||nationalbank.shop^
+||nationalbanking24.shop^
 ||netflx-ua.com^
 ||newsukr2023.site^
 ||newsukr2023.space^
@@ -494,6 +536,7 @@
 ||opendata-gov.online^
 ||opendata-mvs.com.ua^
 ||opendata-mvs.online^
+||oplataunicef.com^
 ||original-ua.site^
 ||oschad-help.com^
 ||oschad-help2zsu.online^
@@ -501,7 +544,10 @@
 ||oschad-help4zsu.online^
 ||oschad-help4zsu.site^
 ||oschad-online.charity^
+||oschad-paybank.xyz^
 ||oschad24-get.online^
+||oschad24-help.shop^
+||oschad24-pay.shop^
 ||oschadbaq.com^
 ||oschadbk.com^
 ||oschadhelp-ua.com^
@@ -551,6 +597,8 @@
 ||patriot-ukraine.fun^
 ||patriot-ukraine.info^
 ||pay-ua.cloud^
+||pay-ua.com^
+||pay-ua.org^
 ||pay-ua.pics^
 ||pay-ua.pro^
 ||payer-ua.online^
@@ -775,13 +823,24 @@
 ||trust-group.pro^
 ||tv-shop.space^
 ||tviyshop.online^
+||u-ua.cloud^
+||u-ua.info^
+||u-ua.us^
 ||ua-applestore.shop^
+||ua-bank.org^
 ||ua-bankgov.com^
 ||ua-bankgov.info^
+||ua-card.shop^
 ||ua-fashion.shop^
+||ua-get.info^
+||ua-get.online^
+||ua-get.pro^
+||ua-get.shop^
+||ua-get.xyz^
 ||ua-lotoreys.top^
 ||ua-lotosuper.top^
 ||ua-minagro.com^
+||ua-mvs.site^
 ||ua-onlinepay.shop^
 ||ua-oschaad.cloud^
 ||ua-oschaad.online^
@@ -801,13 +860,19 @@
 ||ua-paysys.top^
 ||ua-payticket.online^
 ||ua-pryaniki.store^
+||ua-secure24.cloud^
+||ua-secure24.info^
 ||ua-sell.store^
 ||ua-tickets1.online^
 ||ua-ua.cloud^
 ||ua-ua.pro^
 ||ua-ukr.net^
 ||ua-unicef.online^
+||ua-volonter24.shop^
 ||ua-wallet.pw^
+||ua24.cloud^
+||ua24.live^
+||ua24.xyz^
 ||ua24pomoga.online^
 ||ua3y.store^
 ||uadopomoga.biz^
@@ -880,6 +945,7 @@
 ||ukr-net.shop^
 ||ukr-net.site^
 ||ukr-net.space^
+||ukr-net.systems^
 ||ukr-net.website^
 ||ukr-oil-group.online^
 ||ukr-olx.com^
@@ -902,9 +968,11 @@
 ||ukr-receive.cyou^
 ||ukr-receive.icu^
 ||ukr-receive.sbs^
+||ukr-reset.email^
 ||ukr-shoping.site^
 ||ukr-shoping.store^
 ||ukr-shoppi3.shop^
+||ukr-site.com^
 ||ukr-space.store^
 ||ukr-store.space^
 ||ukr-svitlo.store^
@@ -913,7 +981,10 @@
 ||ukr-vitrina.shop^
 ||ukr-vote.site^
 ||ukr.gift^
+||ukr.services^
 ||ukr24help.com^
+||ukr24pays.org^
+||ukr24promo.com^
 ||ukraina-shtraf.site^
 ||ukraina.buzz^
 ||ukraina.pro^
@@ -959,6 +1030,7 @@
 ||ukraineishop.com.ua^
 ||ukrainemag.space^
 ||ukrainemarket.site^
+||ukraineneedshelp.site^
 ||ukraineonlineshop.fun^
 ||ukrainepay.site^
 ||ukrainepaymentsystem.pro^
@@ -968,6 +1040,10 @@
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukraines-gos.top^
+||ukraines.buzz^
+||ukraines.click^
+||ukraines.pics^
+||ukraines.site^
 ||ukraineshop.space^
 ||ukraineshop.top^
 ||ukraineshoping.store^
@@ -1025,6 +1101,8 @@
 ||ukronline.site^
 ||ukronlineshop.fun^
 ||ukronlineshopping.fun^
+||ukrpaymentsystem.pro^
+||ukrpaytransactions.info^
 ||ukrpomosh.site^
 ||ukrpomosh.space^
 ||ukrpomosh.xyz^
@@ -1051,6 +1129,18 @@
 ||ukrsib-bank.site^
 ||ukrsib-bank.top^
 ||ukrsibbk.com^
+||ukrsocunicef.bar^
+||ukrsocunicef.buzz^
+||ukrsocunicef.cloud^
+||ukrsocunicef.digital^
+||ukrsocunicef.info^
+||ukrsocunicef.life^
+||ukrsocunicef.live^
+||ukrsocunicef.pro^
+||ukrsocunicef.skin^
+||ukrsocunicef.today^
+||ukrsocunicef.us^
+||ukrsocunicef.xyz^
 ||ukrswap.com^
 ||ukrtop.space^
 ||ukrtopmagaz.online^
@@ -1157,11 +1247,6 @@
 ://*pumb*.*.$document,domain=~pumb.ua
 ://bumb.*.$document
 !
-! A-BANK.COM.UA
-://*-abank*.*.$document
-://a-bank.*.$document
-://abank.*.$document
-!
 ! UKRPOSHTA.UA
 ://ukrposhta.*.$document
 ||ukrposhta*.$document,domain=~ukrposhta.ua
@@ -1197,9 +1282,6 @@
 ://*gdrive.com.*/$document,xmlhttprequest
 ://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
-!
-! #TAG-23
-://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
 !
 ! #TAG-31
 ://web.*.*/web?id=*$document
@@ -1248,7 +1330,7 @@
 ://api.telegram.org/bot6855762556:AAFRxTEazL3n7TYAU07yNvZVJaghxXSupLE/sendMessage*$xmlhttprequest
 /keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 /keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
-/app/c$xmlhttprequest,domain=com.ua|fun|online|shop|site|store|uno
+://*.lpcdn.site/assets/*$script,xmlhttprequest
 ://*.*/success.php$document,domain=fun|space
 ://*.*/zakaz.php$document,domain=fun|space
 ://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
@@ -1260,11 +1342,12 @@
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
 ##div.formbox > form[id*="order_form"]
-##form[class*="order_form"][action*="success/thankyou.php"]
+##form[class*="order_form"][action*="api.php"]
+##form[class*="order_form"][action*="call.php"]
 ##form[class*="order_form"][action*="mail.php"]
 ##form[class*="order_form"][action*="order.php"]
 ##form[class*="order_form"][action*="order/"]
-##form[class*="order_form"][action*="call.php"]
+##form[class*="order_form"][action*="success/thankyou.php"]
 ##form[class*="order_form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="hand.php"]
@@ -1300,13 +1383,18 @@
 ##html.w-mod-js.w-mod-ix > body > div.section-mark
 ##html.w-mod-js.w-mod-ix > body > div.section
 !
+! #TAG-64
+://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
+://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
+://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
+!
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
 ||*dia_dopom*$document,domain=t.me|telegram.me
 ||*diya_official^$document,domain=t.me|telegram.me
-||*dopomogausimua^$document,domain=t.me|telegram.me
+||*egroshi_ua^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*pravovadopomoga24^$document,domain=t.me|telegram.me
 ||*ukrua2023^$document,domain=t.me|telegram.me
