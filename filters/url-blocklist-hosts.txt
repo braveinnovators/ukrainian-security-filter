@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20231230.01
-# Last modified: Sat, 30 December 2023 21:17 EET
+# Version: 20240101.01
+# Last modified: Mon, 01 January 2024 17:29 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -31,6 +31,7 @@
 0.0.0.0 7300.pro
 0.0.0.0 accaunt-ua.fun
 0.0.0.0 adidas-ua.shop
+0.0.0.0 ahome.uno
 0.0.0.0 aid-for-ukraine.info
 0.0.0.0 aid-for-ukraine.life
 0.0.0.0 aid-for-ukraine.world
@@ -71,6 +72,7 @@
 0.0.0.0 bitfinexgroup.com
 0.0.0.0 bitshopping.net
 0.0.0.0 blockchain4ukraine.com
+0.0.0.0 bs-market.store
 0.0.0.0 btcinvesta.com
 0.0.0.0 buy-ua.com.ua
 0.0.0.0 carcover-ua.store
@@ -329,6 +331,7 @@
 0.0.0.0 help-ua.social
 0.0.0.0 help-ukr.mobi
 0.0.0.0 help-ukrain.xyz
+0.0.0.0 help-ukraine-vsu.com
 0.0.0.0 help-ukraine.icu
 0.0.0.0 help-ukraine.org
 0.0.0.0 help-ukraine.space
