@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20231230.01
-! Last modified: Sat, 30 December 2023 21:17 EET
+! Version: 20240101.01
+! Last modified: Mon, 01 January 2024 17:29 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -32,6 +32,7 @@
 ||7300.pro^
 ||accaunt-ua.fun^
 ||adidas-ua.shop^
+||ahome.uno^
 ||aid-for-ukraine.info^
 ||aid-for-ukraine.life^
 ||aid-for-ukraine.world^
@@ -71,6 +72,7 @@
 ||bitfinexgroup.com^
 ||bitshopping.net^
 ||blockchain4ukraine.com^
+||bs-market.store^
 ||btcinvesta.com^
 ||buy-ua.com.ua^
 ||carcover-ua.store^
@@ -324,6 +326,7 @@
 ||help-ua.social^
 ||help-ukr.mobi^
 ||help-ukrain.xyz^
+||help-ukraine-vsu.com^
 ||help-ukraine.icu^
 ||help-ukraine.org^
 ||help-ukraine.space^
@@ -1318,11 +1321,14 @@
 ://web.*.*/receive/*$document,domain=~gov.ua|~ua
 !
 ! #TAG-46
-://*.*/b/*$document,domain=buzz|charity|site|xyz
+://*.*/b/*$document,domain=buzz|charity|site|website|xyz
 !
 ! #TAG-47
 ##body > main > section > div.main_actions > div.action.act_check
 ##body > main > section > div.main_actions > div.action.act_signin
+!
+! #TAG-48
+##div.container > div > div > div > div.card-body > form[action*="unlock"]
 !
 ! #TAG-50
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
@@ -1341,6 +1347,7 @@
 ##a[class*="button"][href*="#order_form"]
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
+##section.offer_section > b > form[id*="order_form"]
 ##div.formbox > form[id*="order_form"]
 ##form[class*="order_form"][action*="api.php"]
 ##form[class*="order_form"][action*="call.php"]
@@ -1410,3 +1417,4 @@
 ||t.me/+gvj4twyHg8BkMDc6^$document
 ||t.me/+hD2lJDyLPJs4OTY0^$document
 ||t.me/+ilAa8TtLqz42NjBi^$document
+||t.me/+xp5hvriUlW01ZGYy^$document
