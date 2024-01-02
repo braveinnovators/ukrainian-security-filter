@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240101.01
-! Last modified: Mon, 01 January 2024 17:29 EET
+! Version: 20240102.01
+! Last modified: Tue, 02 January 2024 23:30 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1279,46 +1279,13 @@
 ||*ukr.net/desktop/security/login^$document,domain=~ukr.net
 !
 ! UAC-0177 (CERT-UA#8290)
-://*binance.com.*/$document,xmlhttprequest,domain=~binance.com
-://*coinbase.*/$document,xmlhttprequest,domain=~coinbase.com
 ://*gdocs.com.*/$document,xmlhttprequest
 ://*gdrive.com.*/$document,xmlhttprequest
 ://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
 !
-! #TAG-31
-://web.*.*/web?id=*$document
-://web.*.*/api/sendLk$xmlhttprequest
-##.container > .content > .login > div > div > .p24o
-###ask_page.container.show_div
-###ask_phone.container.show_div
-###ask_num_card.container.show_div
-###ask_pin.container.show_div
-##.p24_web_components_modal_no_scroll
-!
 ! #TAG-32
 ://online.*.*/d/?id=*/*$document
-!
-! #TAG-38
-://*.*/select/*/abank^$document
-://*.*/select/*/oschad^$document
-://*.*/select/*/privat^$document
-://*.*/select/*/raiffaisen^$document
-/api/submitLk$xmlhttprequest
-!
-! #TAG-41
-/api/*/personal$xmlhttprequest
-/io/path/?EIO=*&transport=*&t=*$xmlhttprequest
-##.text-slate-200.cursor-pointer.to-card__button
-!
-! #TAG-43
-://web.*.*/pay/order/*$document,domain=~gov.ua|~ua
-!
-! #TAG-44
-://web.*.*/get/*$document,domain=~gov.ua|~ua
-!
-! #TAG-45
-://web.*.*/receive/*$document,domain=~gov.ua|~ua
 !
 ! #TAG-46
 ://*.*/b/*$document,domain=buzz|charity|site|website|xyz
@@ -1344,6 +1311,17 @@
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
 ://*.*/mod/project/534154/lead/send/$document,xmlhttprequest
+##html[lang*="ru-RU"] > body > div.main_wrapper > footer.footer_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > header.offer_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.benefits_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.description_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.offer_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.problems_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.set_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.stars_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.use_steps_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section[class*="order_"]
+##html[lang*="ru-RU"] > body > div.main_wrapper > section[class*="reviews"]
 ##a[class*="button"][href*="#order_form"]
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
@@ -1355,6 +1333,7 @@
 ##form[class*="order_form"][action*="order.php"]
 ##form[class*="order_form"][action*="order/"]
 ##form[class*="order_form"][action*="success/thankyou.php"]
+##form[class*="order_form"][action*="zakaz.php"]
 ##form[class*="order_form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="hand.php"]
@@ -1394,6 +1373,40 @@
 ://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
+!
+! #TAG-65
+://web.*.*/web?id=*$document,domain=~gov.ua|~ua
+://web.*.*/pay/order/*$document,domain=~gov.ua|~ua
+://web.*.*/get/*$document,domain=~gov.ua|~ua
+://web.*.*/receive/*$document,domain=~gov.ua|~ua
+://*.*/select/*/abank^$document
+://*.*/select/*/oschad^$document
+://*.*/select/*/privat^$document
+://*.*/select/*/raiffaisen^$document
+/pay/merchant/confirm-call/*/$document,xmlhttprequest
+/pay/merchant/confirm-sms/*/$document,xmlhttprequest
+/pay/merchant/confirm-balanc/*/$document,xmlhttprequest
+/pay/merchant/confirm-smenalk/*/$document,xmlhttprequest
+/pay/merchant/confirm-smsCall/*/$document,xmlhttprequest
+/pay/merchant/confirm-wrongPin/*/$document,xmlhttprequest
+/pay/merchant/confirm-wrongLogin/*/$document,xmlhttprequest
+/pay/merchant/confirm-wrongPass/*/$document,xmlhttprequest
+/pay/merchant/confirm-error/*/$document,xmlhttprequest
+/pay/merchant/confirm-*/*/$document,xmlhttprequest
+/io/path/?EIO=*&transport=*&t=*$xmlhttprequest
+##.container > .content > .login > div > div > .p24o
+##.p24_web_components_modal_no_scroll
+##.text-slate-200.cursor-pointer.to-card__button
+##div#ask_call_code.show_div.container
+##div#ask_custom_error.show_div.container
+##div#ask_login.show_div.container
+##div#ask_num_card.show_div.container
+##div#ask_page.show_div.container
+##div#ask_password_hidden.show_div.container
+##div#ask_phone.show_div.container
+##div#ask_pin.show_div.container
+##div#ask_sms.show_div.container
+##div#ask_url_3ds.show_div.container
 !
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
