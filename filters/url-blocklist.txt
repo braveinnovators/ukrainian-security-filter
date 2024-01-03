@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240103.02
-! Last modified: Wed, 03 January 2024 14:00 EET
+! Version: 20240103.03
+! Last modified: Wed, 03 January 2024 15:24 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1580,6 +1580,8 @@
 ://web.*.*/pay/order/*$document,domain=~gov.ua|~ua
 ://web.*.*/get/*$document,domain=~gov.ua|~ua
 ://web.*.*/receive/*$document,domain=~gov.ua|~ua
+://web.*.*/api/sendLk$xmlhttprequest
+://web.*.*/api/getStatus$xmlhttprequest
 ://*.*/select/*/abank^$document
 ://*.*/select/*/oschad^$document
 ://*.*/select/*/privat^$document
