@@ -73,6 +73,7 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 * Власна моніторингова команда
 * Урядова команда реагування на комп'ютерні надзвичайні події України (CERT-UA)
+* Комісія з регулювання азартних ігор та лотерей (КРАІЛ)
 * BlackList EMA
 
 ## Партнери проекту
