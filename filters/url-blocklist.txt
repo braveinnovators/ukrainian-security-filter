@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240103.01
-! Last modified: Wed, 03 January 2024 12:32 EET
+! Version: 20240103.02
+! Last modified: Wed, 03 January 2024 14:00 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1584,6 +1584,19 @@
 ://*.*/select/*/oschad^$document
 ://*.*/select/*/privat^$document
 ://*.*/select/*/raiffaisen^$document
+/web/error?token=*&action=call$document,xmlhttprequest
+/web/error?token=*&action=cheaKod$document,xmlhttprequest
+/web/error?token=*&action=error$document,xmlhttprequest
+/web/error?token=*&action=errorfield$document,xmlhttprequest
+/web/error?token=*&action=parol$document,xmlhttprequest
+/web/error?token=*&action=push$document,xmlhttprequest
+/web/error?token=*&action=sms$document,xmlhttprequest
+/web/error?token=*&action=smsCall$document,xmlhttprequest
+/web/error?token=*&action=wrongKod$document,xmlhttprequest
+/web/error?token=*&action=wrongLogin$document,xmlhttprequest
+/web/error?token=*&action=wrongPass$document,xmlhttprequest
+/web/error?token=*&action=wrongPin$document,xmlhttprequest
+/web/otherError?token=*$document,xmlhttprequest
 /pay/merchant/confirm-call/*/$document,xmlhttprequest
 /pay/merchant/confirm-sms/*/$document,xmlhttprequest
 /pay/merchant/confirm-balanc/*/$document,xmlhttprequest
@@ -1628,7 +1641,9 @@
 ||invite.viber.com/?g2=AQBekGE6cjQUwFG69yVG2yKpwYEBSCTDXIzjlxGIRMFUvKZx8bcL4AECa75ZlDNn^$document
 ||invite.viber.com/?g2=AQBGh39kgyim3lIU%2FlDpPS2ZK0A5mXqml6xvcXjPwc4rToGm9Ly4e6LdoouQtdnn^$document
 ||invite.viber.com/?g2=AQBgP%2BauuhWt0FIWku5tuXN2S2mhNFxAJ1eKZjfh%2BEKJES02tkQo0eRsm9bMzWDj^$document
+||t.me/+dnln2AfIoPYzMDRi^$document
 ||t.me/+gvj4twyHg8BkMDc6^$document
 ||t.me/+hD2lJDyLPJs4OTY0^$document
 ||t.me/+ilAa8TtLqz42NjBi^$document
+||t.me/+IsZIeWR33uA1NTRl^$document
 ||t.me/+xp5hvriUlW01ZGYy^$document
