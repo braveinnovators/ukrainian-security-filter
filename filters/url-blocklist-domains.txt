@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240103.01
-# Last modified: Wed, 03 January 2024 12:32 EET
+# Version: 20240105.01
+# Last modified: Fri, 05 January 2024 12:41 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -45,6 +45,7 @@
 7goxbet.com
 8slottica.com
 accaunt-ua.fun
+accounts-ukr.com
 adidas-ua.shop
 ahome.uno
 aid-for-ukraine.info
@@ -172,7 +173,9 @@ dopomoga-ua.pro
 dopomoga-ua.site
 dopomoga-ua.website
 dopomoga-uaweb.website
+dopomoga-ukraine.cloud
 dopomoga-ukraine.com
+dopomoga-ukraine.pro
 dopomoga.agency
 dopomoga.app
 dopomoga.bio
@@ -753,6 +756,9 @@ opendata-baza-mvs.com.ua
 opendata-baza-mvs.online
 opendata-gov.com.ua
 opendata-gov.online
+opendata-hsc-gov-ua.com
+opendata-hsc-gov-ua.online
+opendata-hsc-gov-ua.store
 opendata-mvs.com.ua
 opendata-mvs.online
 oplataunicef.com
@@ -975,6 +981,7 @@ redcrossukraine.co
 redcrossukraine.top
 redirect-oschad.online
 regsotsvyplat.online
+relffelsen-ua.com
 reliefukraine.today
 retivabet.com
 ringo-bet.net
@@ -1053,6 +1060,8 @@ superboss1.com
 superboss777.com
 superboss8.com
 support-account-ukr.net
+support-ukr.com
+support-ukr.net
 swift-ua.store
 swiftperekaz.pro
 takticukraine.space
@@ -1097,7 +1106,6 @@ tviyshop.online
 u-ua.cloud
 u-ua.info
 u-ua.us
-ua-1x_bet.com
 ua-applestore.shop
 ua-bank.org
 ua-bankgov.com
