@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240103.01
-# Last modified: Wed, 03 January 2024 12:32 EET
+# Version: 20240105.01
+# Last modified: Fri, 05 January 2024 12:41 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -45,6 +45,7 @@ address=/777originals.org/
 address=/7goxbet.com/
 address=/8slottica.com/
 address=/accaunt-ua.fun/
+address=/accounts-ukr.com/
 address=/adidas-ua.shop/
 address=/ahome.uno/
 address=/aid-for-ukraine.info/
@@ -172,7 +173,9 @@ address=/dopomoga-ua.pro/
 address=/dopomoga-ua.site/
 address=/dopomoga-ua.website/
 address=/dopomoga-uaweb.website/
+address=/dopomoga-ukraine.cloud/
 address=/dopomoga-ukraine.com/
+address=/dopomoga-ukraine.pro/
 address=/dopomoga.agency/
 address=/dopomoga.app/
 address=/dopomoga.bio/
@@ -753,6 +756,9 @@ address=/opendata-baza-mvs.com.ua/
 address=/opendata-baza-mvs.online/
 address=/opendata-gov.com.ua/
 address=/opendata-gov.online/
+address=/opendata-hsc-gov-ua.com/
+address=/opendata-hsc-gov-ua.online/
+address=/opendata-hsc-gov-ua.store/
 address=/opendata-mvs.com.ua/
 address=/opendata-mvs.online/
 address=/oplataunicef.com/
@@ -975,6 +981,7 @@ address=/redcrossukraine.co/
 address=/redcrossukraine.top/
 address=/redirect-oschad.online/
 address=/regsotsvyplat.online/
+address=/relffelsen-ua.com/
 address=/reliefukraine.today/
 address=/retivabet.com/
 address=/ringo-bet.net/
@@ -1053,6 +1060,8 @@ address=/superboss1.com/
 address=/superboss777.com/
 address=/superboss8.com/
 address=/support-account-ukr.net/
+address=/support-ukr.com/
+address=/support-ukr.net/
 address=/swift-ua.store/
 address=/swiftperekaz.pro/
 address=/takticukraine.space/
@@ -1097,7 +1106,6 @@ address=/tviyshop.online/
 address=/u-ua.cloud/
 address=/u-ua.info/
 address=/u-ua.us/
-address=/ua-1x_bet.com/
 address=/ua-applestore.shop/
 address=/ua-bank.org/
 address=/ua-bankgov.com/
