@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240103.01
-# Last modified: Wed, 03 January 2024 12:32 EET
+# Version: 20240105.01
+# Last modified: Fri, 05 January 2024 12:41 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -45,6 +45,7 @@
 0.0.0.0 7goxbet.com
 0.0.0.0 8slottica.com
 0.0.0.0 accaunt-ua.fun
+0.0.0.0 accounts-ukr.com
 0.0.0.0 adidas-ua.shop
 0.0.0.0 ahome.uno
 0.0.0.0 aid-for-ukraine.info
@@ -172,7 +173,9 @@
 0.0.0.0 dopomoga-ua.site
 0.0.0.0 dopomoga-ua.website
 0.0.0.0 dopomoga-uaweb.website
+0.0.0.0 dopomoga-ukraine.cloud
 0.0.0.0 dopomoga-ukraine.com
+0.0.0.0 dopomoga-ukraine.pro
 0.0.0.0 dopomoga.agency
 0.0.0.0 dopomoga.app
 0.0.0.0 dopomoga.bio
@@ -753,6 +756,9 @@
 0.0.0.0 opendata-baza-mvs.online
 0.0.0.0 opendata-gov.com.ua
 0.0.0.0 opendata-gov.online
+0.0.0.0 opendata-hsc-gov-ua.com
+0.0.0.0 opendata-hsc-gov-ua.online
+0.0.0.0 opendata-hsc-gov-ua.store
 0.0.0.0 opendata-mvs.com.ua
 0.0.0.0 opendata-mvs.online
 0.0.0.0 oplataunicef.com
@@ -975,6 +981,7 @@
 0.0.0.0 redcrossukraine.top
 0.0.0.0 redirect-oschad.online
 0.0.0.0 regsotsvyplat.online
+0.0.0.0 relffelsen-ua.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 retivabet.com
 0.0.0.0 ringo-bet.net
@@ -1053,6 +1060,8 @@
 0.0.0.0 superboss777.com
 0.0.0.0 superboss8.com
 0.0.0.0 support-account-ukr.net
+0.0.0.0 support-ukr.com
+0.0.0.0 support-ukr.net
 0.0.0.0 swift-ua.store
 0.0.0.0 swiftperekaz.pro
 0.0.0.0 takticukraine.space
@@ -1097,7 +1106,6 @@
 0.0.0.0 u-ua.cloud
 0.0.0.0 u-ua.info
 0.0.0.0 u-ua.us
-0.0.0.0 ua-1x_bet.com
 0.0.0.0 ua-applestore.shop
 0.0.0.0 ua-bank.org
 0.0.0.0 ua-bankgov.com
