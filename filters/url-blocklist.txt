@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240108.01
-! Last modified: Mon, 08 January 2024 16:39 EET
+! Version: 20240109.01
+! Last modified: Tue, 09 January 2024 00:10 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1046,6 +1046,7 @@
 ||ua-applestore.shop^
 ||ua-bankgov.com^
 ||ua-bankgov.info^
+||ua-bank.co^
 ||ua-bank.org^
 ||ua-card.shop^
 ||ua-fan-sport.com^
@@ -1061,6 +1062,7 @@
 ||ua-lotosuper.top^
 ||ua-minagro.com^
 ||ua-mvs.site^
+||ua-nbu.cloud^
 ||ua-onlinepay.shop^
 ||ua-oschaad.cloud^
 ||ua-oschaad.online^
@@ -1207,6 +1209,7 @@
 ||ukrnet.support^
 ||ukroboronprom.info^
 ||ukroboronprom.ml^
+||ukroboronprom.software^
 ||ukroboronprom.space^
 ||ukronlineshopping.fun^
 ||ukronlineshop.fun^
@@ -1526,6 +1529,7 @@
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.benefits_section
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.description_section
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.offer_section
+##html[lang*="ru-RU"] > body > div.main_wrapper > section.order1_section
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.problems_section
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.set_section
 ##html[lang*="ru-RU"] > body > div.main_wrapper > section.stars_section
@@ -1547,7 +1551,6 @@
 ##form[class*="order_form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="telegram.php"]
 ##form[class*="order-form"][action*="hand.php"]
-##form[class*="component-form"][action*="/mod/project/534154/lead/send/"]
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
@@ -1562,8 +1565,15 @@
 ://*.*/price.php?price=*&ss=1$document
 ://*.*/pay/?aa=*&who=1&sub=*$document
 ://*.*/gwapi.php?a=pay&p=*&aa=*$document
+##html[lang="ru"].u-responsive-xl > body[data-lang="ru"].u-body.u-xl-mode
 ##body > div#root > div.container > div > div.row > div > form#pay-form
 ##body > section.mains > section.mainsec > div.checkcomblock
+##body > section.mains > section.mainsec > div.compenstov
+##body > section.mains > section.mainsec > div.dsgdf
+##body > section.mains > section.mainsec > div.fdghjdb
+##body > section.mains > section.mainsec > div.onetovko
+##body > section.mains > section.mainsec > div[class*="comment"]
+##body > section.mains > section.mainsec > div[class*="ttlind"]
 ##body > section.mains > section.mainsec > form.addcommnet
 !
 ! #TAG-60
@@ -1633,6 +1643,11 @@
 ##div#ask_sms.show_div.container
 ##div#ask_url_3ds.show_div.container
 !
+! #TAG-66
+://*.*/bi/*1704*$document
+##div.layout-item > div.layout-item__body > a[href*="banks.php"]
+##div.main_table > div.content_section > div.content > div#comBankPager_2.pager.com_bank.com_blog.list
+!
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
@@ -1657,4 +1672,5 @@
 ||t.me/+hD2lJDyLPJs4OTY0^$document
 ||t.me/+ilAa8TtLqz42NjBi^$document
 ||t.me/+IsZIeWR33uA1NTRl^$document
+||t.me/+QJ6ha3cNr61kNTk6^$document
 ||t.me/+xp5hvriUlW01ZGYy^$document
