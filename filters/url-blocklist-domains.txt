@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240108.01
-# Last modified: Mon, 08 January 2024 16:39 EET
+# Version: 20240109.01
+# Last modified: Tue, 09 January 2024 00:10 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1149,6 +1149,7 @@ uaunicef.site
 uaunicefs.buzz
 uavolunteer-military.com
 ua-applestore.shop
+ua-bank.co
 ua-bank.org
 ua-bankgov.com
 ua-bankgov.info
@@ -1166,6 +1167,7 @@ ua-lotoreys.top
 ua-lotosuper.top
 ua-minagro.com
 ua-mvs.site
+ua-nbu.cloud
 ua-onlinepay.shop
 ua-oschaad.cloud
 ua-oschaad.online
@@ -1314,6 +1316,7 @@ ukrnet.support
 ukrnet24.com
 ukroboronprom.info
 ukroboronprom.ml
+ukroboronprom.software
 ukroboronprom.space
 ukronline.site
 ukronlineshop.fun
