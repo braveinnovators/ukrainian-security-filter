@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (dnsmasq)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240108.01
-# Last modified: Mon, 08 January 2024 16:39 EET
+# Version: 20240109.01
+# Last modified: Tue, 09 January 2024 00:10 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -1149,6 +1149,7 @@ address=/uavolunteer-military.com/
 address=/ua-applestore.shop/
 address=/ua-bankgov.com/
 address=/ua-bankgov.info/
+address=/ua-bank.co/
 address=/ua-bank.org/
 address=/ua-card.shop/
 address=/ua-fan-sport.com/
@@ -1164,6 +1165,7 @@ address=/ua-lotoreys.top/
 address=/ua-lotosuper.top/
 address=/ua-minagro.com/
 address=/ua-mvs.site/
+address=/ua-nbu.cloud/
 address=/ua-onlinepay.shop/
 address=/ua-oschaad.cloud/
 address=/ua-oschaad.online/
@@ -1312,6 +1314,7 @@ address=/ukrnet.email/
 address=/ukrnet.support/
 address=/ukroboronprom.info/
 address=/ukroboronprom.ml/
+address=/ukroboronprom.software/
 address=/ukroboronprom.space/
 address=/ukronlineshopping.fun/
 address=/ukronlineshop.fun/
