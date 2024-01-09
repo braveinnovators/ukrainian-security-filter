@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240109.01
-! Last modified: Tue, 09 January 2024 00:10 EET
+! Version: 20240109.02
+! Last modified: Tue, 09 January 2024 16:48 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1512,7 +1512,7 @@
 !
 ! #TAG-50
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
-/telegram.php$document,domain=fun|online|shop|site|space|store|uno|website
+/telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
 ://api.telegram.org/bot6855762556:AAFRxTEazL3n7TYAU07yNvZVJaghxXSupLE/sendMessage*$xmlhttprequest
 /keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 /keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
@@ -1539,6 +1539,7 @@
 ##a[class*="button"][href*="#order_form"]
 ##a[class*="button"][href*="#order"]
 ##a[class*="button"][href*="#cat"]
+##section#order_form > form#telegram-form.main-order-form
 ##section.offer_section > b > form[id*="order_form"]
 ##div.formbox > form[id*="order_form"]
 ##form[class*="order_form"][action*="api.php"]
