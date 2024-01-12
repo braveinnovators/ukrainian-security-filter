@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (hosts-based)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240109.01
-# Last modified: Tue, 09 January 2024 00:10 EET
+# Version: 20240112.01
+# Last modified: Fri, 12 January 2024 19:23 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -134,6 +134,7 @@
 0.0.0.0 chooseraiff.site
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
+0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
 0.0.0.0 crypt0.fun
 0.0.0.0 cryptocurrency-helps-ukraine.com
@@ -143,6 +144,7 @@
 0.0.0.0 delivery-pay.website
 0.0.0.0 derjavaukraine.cc
 0.0.0.0 device-by-apple-ua.store
+0.0.0.0 devtome.top
 0.0.0.0 de-ukr.net
 0.0.0.0 diaaukraine.site
 0.0.0.0 diaaukraine.space
@@ -305,6 +307,7 @@
 0.0.0.0 dostavka-ua.space
 0.0.0.0 dostavka-ukr.fun
 0.0.0.0 dostavka-ukr.space
+0.0.0.0 dostawo4ka-ua.life
 0.0.0.0 dragongold88.com
 0.0.0.0 dragonsgold888.com
 0.0.0.0 drone-ua.space
@@ -358,6 +361,7 @@
 0.0.0.0 fan-sport-ua.website
 0.0.0.0 favbet.casino
 0.0.0.0 favbet.com
+0.0.0.0 favbetukraine.co.uk
 0.0.0.0 favorit.com.ua
 0.0.0.0 favorit1.com.ua
 0.0.0.0 favoritua.com
@@ -727,6 +731,7 @@
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
 0.0.0.0 olx-ua.pw
+0.0.0.0 olx-ukrnp.co.uk
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 oneclick-ua.shop
 0.0.0.0 online1shop.store
@@ -737,6 +742,7 @@
 0.0.0.0 onlineslots.stream
 0.0.0.0 onlineukrshop.fun
 0.0.0.0 online-pays.tech
+0.0.0.0 online-prizeme.com
 0.0.0.0 online-raiffeisen.info
 0.0.0.0 online-shop.store
 0.0.0.0 on-ua.cloud
@@ -801,6 +807,7 @@
 0.0.0.0 oshadukhel.pro
 0.0.0.0 oshadukras.info
 0.0.0.0 oshad-24.com
+0.0.0.0 oshad-24-ua.online
 0.0.0.0 oshad-auth.site
 0.0.0.0 oshad-bank.online
 0.0.0.0 oshad-cash.pro
@@ -867,6 +874,7 @@
 0.0.0.0 pidtrumkapruvat24.world
 0.0.0.0 pin-up.casino
 0.0.0.0 pkeedo.co.ua
+0.0.0.0 planet-ua.com
 0.0.0.0 playggbet.com
 0.0.0.0 pledu-ukr31.pp.ua
 0.0.0.0 pmc-slots.com
@@ -901,6 +909,7 @@
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
 0.0.0.0 privat-bank-ua.com
+0.0.0.0 privat-inv.org
 0.0.0.0 prlvatbank24.pw
 0.0.0.0 processing3ds-card.online
 0.0.0.0 processing3ds-card.site
@@ -987,6 +996,7 @@
 0.0.0.0 retivabet.com
 0.0.0.0 ringo-bet.net
 0.0.0.0 riobet.com
+0.0.0.0 rmssrv.ru
 0.0.0.0 rockbit.space
 0.0.0.0 roxcasino.com
 0.0.0.0 rozetka.cc
@@ -1047,6 +1057,7 @@
 0.0.0.0 spacecasino.co.uk
 0.0.0.0 spaseid.store
 0.0.0.0 spaseid.uno
+0.0.0.0 spend-ua.top
 0.0.0.0 spinbetter.com
 0.0.0.0 sportloto.co
 0.0.0.0 stake.com
@@ -1059,6 +1070,7 @@
 0.0.0.0 superboss1.com
 0.0.0.0 superboss8.com
 0.0.0.0 superboss777.com
+0.0.0.0 supergra-ukr.website
 0.0.0.0 support-account-ukr.net
 0.0.0.0 support-ukr.com
 0.0.0.0 support-ukr.net
@@ -1198,6 +1210,7 @@
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-volonter24.shop
 0.0.0.0 ua-wallet.pw
+0.0.0.0 ukpost-ua.cc
 0.0.0.0 ukr.gift
 0.0.0.0 ukr.services
 0.0.0.0 ukr24help.com
@@ -1394,6 +1407,7 @@
 0.0.0.0 ukr-gifts.com.ua
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
+0.0.0.0 ukr-links.kiev.ua
 0.0.0.0 ukr-magaz.shop
 0.0.0.0 ukr-mail.com
 0.0.0.0 ukr-market24.online
@@ -1565,6 +1579,8 @@
 0.0.0.0 www-ua.info
 0.0.0.0 www-viplata.com
 0.0.0.0 w-ukr.net
+0.0.0.0 xe-ukr.net
+0.0.0.0 xh-ukr.net
 0.0.0.0 xwallet.website
 0.0.0.0 x-ukr.net
 0.0.0.0 yalunka-ukraine.com.ua
