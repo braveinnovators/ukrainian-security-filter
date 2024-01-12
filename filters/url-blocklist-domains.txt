@@ -1,7 +1,7 @@
 # Title: Ukrainian Malicious URL Blocklist (clean version, domains only)
 # Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-# Version: 20240109.01
-# Last modified: Tue, 09 January 2024 00:10 EET
+# Version: 20240112.01
+# Last modified: Fri, 12 January 2024 19:23 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 #
@@ -134,6 +134,7 @@ chooseraiff.online
 chooseraiff.site
 comfortshop-ukraine.space
 comfort-ua.store
+cosmolotukraine.co.uk
 cosmoslot.site
 crypt0.fun
 cryptocurrency-helps-ukraine.com
@@ -143,6 +144,7 @@ deal-loads.site
 delivery-pay.website
 derjavaukraine.cc
 device-by-apple-ua.store
+devtome.top
 de-ukr.net
 diaaukraine.site
 diaaukraine.space
@@ -305,6 +307,7 @@ dostavka-ua.fun
 dostavka-ua.space
 dostavka-ukr.fun
 dostavka-ukr.space
+dostawo4ka-ua.life
 dragongold88.com
 dragonsgold888.com
 drone-ua.space
@@ -358,6 +361,7 @@ fan-sport-ua.online
 fan-sport-ua.website
 favbet.casino
 favbet.com
+favbetukraine.co.uk
 favorit.com.ua
 favorit1.com.ua
 favoritua.com
@@ -727,6 +731,7 @@ olx-ua.ink
 olx-ua.life
 olx-ua.pro
 olx-ua.pw
+olx-ukrnp.co.uk
 ondorazovaya-viplata24.space
 oneclick-ua.shop
 online1shop.store
@@ -737,6 +742,7 @@ onlineraiffoisen.com
 onlineslots.stream
 onlineukrshop.fun
 online-pays.tech
+online-prizeme.com
 online-raiffeisen.info
 online-shop.store
 on-ua.cloud
@@ -801,6 +807,7 @@ oshadpqy.info
 oshadukhel.pro
 oshadukras.info
 oshad-24.com
+oshad-24-ua.online
 oshad-auth.site
 oshad-bank.online
 oshad-cash.pro
@@ -867,6 +874,7 @@ pidtrumkadiya.site
 pidtrumkapruvat24.world
 pin-up.casino
 pkeedo.co.ua
+planet-ua.com
 playggbet.com
 pledu-ukr31.pp.ua
 pmc-slots.com
@@ -901,6 +909,7 @@ privatbua.com
 privatpay.me
 privatpay.online
 privat-bank-ua.com
+privat-inv.org
 prlvatbank24.pw
 processing3ds-card.online
 processing3ds-card.site
@@ -987,6 +996,7 @@ reliefukraine.today
 retivabet.com
 ringo-bet.net
 riobet.com
+rmssrv.ru
 rockbit.space
 roxcasino.com
 rozetka.cc
@@ -1047,6 +1057,7 @@ smartboutique.online
 spacecasino.co.uk
 spaseid.store
 spaseid.uno
+spend-ua.top
 spinbetter.com
 sportloto.co
 stake.com
@@ -1059,6 +1070,7 @@ superboss.com
 superboss1.com
 superboss8.com
 superboss777.com
+supergra-ukr.website
 support-account-ukr.net
 support-ukr.com
 support-ukr.net
@@ -1198,6 +1210,7 @@ ua-unicef.online
 ua-viplata.me
 ua-volonter24.shop
 ua-wallet.pw
+ukpost-ua.cc
 ukr.gift
 ukr.services
 ukr24help.com
@@ -1394,6 +1407,7 @@ ukr-gadgets.store
 ukr-gifts.com.ua
 ukr-info.charity
 ukr-konkurs.site
+ukr-links.kiev.ua
 ukr-magaz.shop
 ukr-mail.com
 ukr-market24.online
@@ -1565,6 +1579,8 @@ www-ua.cloud
 www-ua.info
 www-viplata.com
 w-ukr.net
+xe-ukr.net
+xh-ukr.net
 xwallet.website
 x-ukr.net
 yalunka-ukraine.com.ua
