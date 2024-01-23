@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Malicious URL Blocklist (Adblock filter syntax)
 ! Description: Blocklist of phishing web resources that are targeted at citizens of Ukraine
-! Version: 20240117.01
-! Last modified: Wed, 17 January 2024 16:53 EET
+! Version: 20240123.01
+! Last modified: Tue, 23 January 2024 18:12 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE
 !
@@ -1606,10 +1606,11 @@
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pro|pw|shop|site|social|space|store|tech|website|xyz
 !
 ! #TAG-65
-://web.*.*/web?id=*$document,domain=~gov.ua|~ua
-://web.*.*/pay/order/*$document,domain=~gov.ua|~ua
-://web.*.*/get/*$document,domain=~gov.ua|~ua
-://web.*.*/receive/*$document,domain=~gov.ua|~ua
+://web.*.*/get/*$document
+://web.*.*/pay/order/*$document
+://web.*.*/receive/*$document
+://web.*.*/t?id=*$document
+://web.*.*/web?id=*$document
 ://web.*.*/api/sendLk$xmlhttprequest
 ://web.*.*/api/getStatus$xmlhttprequest
 ://*.*/select/*/abank^$document
@@ -1689,3 +1690,5 @@
 ||t.me/+IsZIeWR33uA1NTRl^$document
 ||t.me/+QJ6ha3cNr61kNTk6^$document
 ||t.me/+xp5hvriUlW01ZGYy^$document
+||t.me/+Vazo7VA93EwyMGUy^$document
+||t.me/+c_SeqIDrI5A2OWQ0^$document
