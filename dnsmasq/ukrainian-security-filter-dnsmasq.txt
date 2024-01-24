@@ -1,4 +1,4 @@
-# Title: Ukrainian Security Filter (Adblock-style syntax)
+# Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
 # Version: 20240112.01
 # Last modified: Fri, 12 January 2024 19:23 EET
