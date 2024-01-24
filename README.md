@@ -1,29 +1,28 @@
-# Ukrainian Malicious URL Blocklist
+# Ukrainian Security Filter
 
-Фільтр (список блокувань) фішингових сайтів, які обманом виманюють в українців доступ до облікових записів банківських онлайн систем, реквізити платіжних карток, конфіденційну інформацію та гроші. У фільтр додаються виключно шахрайські вебресурси, які орієнтовані саме на громадян України і які відсутні в інших наявних фільтрах.
+**Ukrainian Security Filter (Український безпековий фільтр)** — це фільтр шкідливих веб-ресурсів (фішинг, онлайн-шахрайство, шкідливе програмне забезпечення тощо), що орієнтовані на громадян України.
 
-Фільтр містить три групи правил фільтрації: стандартні правила, універсальні правила (pattern-based filtering rules) та індивідуальні правила (page-specific filtering rules).
-
-Універсальні правила дозволяють блокувати фішингові веб-ресурси, навіть, якщо інформація про доменні імена таких ресурсів відсутня у фільтрі (блокування відбувається на основі [паттернів](https://mastodon.online/@braveinnovators/111364189029417720)). Індивідуальні правила дозволяють блокувати сторінки у соціальних мережах, посилання на групи або чат-боти у месенджерах тощо, тобто цільові веб-адреси (URL-адреси) ресурсів які є легітимними, проте, які використовуються зловмисниками.
+Щодня зловмисники активують нові шкідливі веб-ресурси за допомогою яких обманом виманюють в українців доступ до облікових записів банківських онлайн систем, реквізити платіжних карток, конфіденційну інформацію та гроші. Щодня реєструються десятки нових доменних імен, які згодом будуть використані у нових фішингових кампаніях та онлайн-шахрайстві. За таких обставин блокування шкідливих веб-ресурсів лише за назвою доменних імен не є ефективним. Саме тому Український безпековий фільтр містить три групи правил фільтрації:
+1. `Стандартні правила` (domain-based blocklist) — це список блокувань за назвою доменного ім'я
+2. `Індивідуальні правила` (page-specific filtering rules) дозволяють блокувати сторінки у соціальних мережах, посилання на групи або чат-боти у месенджерах тощо, тобто цільові веб-адреси (URL-адреси) ресурсів які є легітимними, проте, які використовуються зловмисниками
+3. `Універсальні правила` (pattern-based filtering rules) дозволяють блокувати шкідливі веб-ресурси, навіть, якщо інформація про доменні імена таких ресурсів відсутня у фільтрі, адже блокування відбувається на основі [паттернів](https://mastodon.online/@braveinnovators/111364189029417720)
 
 ## Формати
 
-### Domain-based blocklist (синтаксис AdBlock)
+### Adblock-style syntax
 
 Цей формат фільтра сумісний з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
 
-Усі веб-адреси (URL-адреси) відображені у такому форматі: `||example.com^`
-
 ```
-https://www.awwwwesome.org/url-blocklist/url-blocklist.txt
+https://www.awwwwesome.org/ukrainian-security-filter.txt
 ```
 
-### Domain-based blocklist (без синтаксису AdBlock)
+### Domain-based blocklist
 
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `example.com`
 
 ```
-https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-domains.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/domains/ukrainian-security-filter-domains.txt
 ```
 
 ### Hosts-based blocklist
@@ -31,7 +30,7 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `0.0.0.0 example.com`
 
 ```
-https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-hosts.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/hosts/ukrainian-security-filter-hosts.txt
 ```
 
 ### dnsmasq
@@ -39,27 +38,82 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `address=/example.com/`
 
 ```
-https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-dnsmasq.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/dnsmasq/ukrainian-security-filter-dnsmasq.txt
 ```
 
 ## Сумісність з браузерами та розширеннями
 
-Нижче наведений перелік браузерів та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі Ukrainian Malicious URL Blocklist.
+Нижче наведений перелік браузерів (з вбудованими модулями фільтрації контенту) та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі.
 
-### Браузери з вбудованими модулями фільтрації контенту
-
-* [Brave](https://brave.com/) (включно з версіями для операційних систем Android та iOS)
-  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Brave)
+* [Brave](https://brave.com/)
 * [Opera](https://www.opera.com/)
 * [Vivaldi](https://vivaldi.com/)
-
-### Розширення
-
 * [uBlock Origin](https://ublockorigin.com/)
-  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/uBlock-Origin)
 * [Adblock Plus](https://adblockplus.org/)
-  * інструкції: [як імпортувати фільтр](https://github.com/braveinnovators/url-blocklist/wiki/Adblock-Plus)
 * [AdBlock](https://getadblock.com/)
+
+## Як імпортувати фільтр
+
+#### Браузери з вбудованими модулями фільтрації контенту
+
+### Brave
+
+<details>
+<summary>Операційні системи Windows, macOS та Linux</summary>
+
+1. У меню Settings відкрити вкладку Shields й змінити налаштування Trackers & ads blocking на Aggressive
+2. У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтра:
+
+```
+https://www.awwwwesome.org/ukrainian-security-filter.txt
+```
+</details>
+
+<details>
+<summary>Операційні системи Android та iOS</summary>
+
+1. У меню Settings відкрити розділ меню Brave Shields & privacy й змінити налаштування Block trackers & ads на Aggressive
+2. Вийти з меню, відкрити нову вкладку та ввести наступну адресу: brave://adblock
+3. Перейти до розділу Subscribe to filter list, натиснути на кнопку Add filter list via URL і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку Submit:
+
+```
+https://www.awwwwesome.org/ukrainian-security-filter.txt
+```
+
+Додаткова інструкція доступна за адресою: https://brave.com/privacy-updates/10-custom-filter-lists/
+</details>
+
+#### Розширення (extensions)
+
+### uBlock Origin
+
+<details>
+<summary>Операційні системи Windows, macOS та Linux</summary>
+
+1. Відкрити меню Preferences розширення uBlock Origin, клацнути мишею на вкладку Filter lists і прокрутити до розділу Custom
+2. Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
+
+```
+https://www.awwwwesome.org/ukrainian-security-filter.txt
+```
+
+Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+</details>
+
+### Adblock Plus
+
+<details>
+<summary>Операційні системи Windows, macOS та Linux</summary>
+
+1. Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку Advanced і прокрутити до розділу My filter list
+2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
+
+```
+https://www.awwwwesome.org/ukrainian-security-filter.txt
+```
+
+Додаткова інструкція доступна за адресою: [https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter](https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter)
+</details>
 
 ## Особливості
 
@@ -80,10 +134,6 @@ https://github.com/braveinnovators/url-blocklist/raw/main/filters/url-blocklist-
 
 * [DNSlytics](https://dnslytics.com)
 
-## Wiki
-
-Додаткова інформація про фільтр та інструкції щодо його імпорту у веб-браузерах та сторонніх розширеннях: [https://github.com/braveinnovators/url-blocklist/wiki](https://github.com/braveinnovators/url-blocklist/wiki)
-
 ## Ліцензія
 
-На фільтр (список блокувань) Ukrainian Malicious URL Blocklist поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/braveinnovators/url-blocklist/blob/main/LICENSE)
+На Ukrainian Security Filter (Український безпековий фільтр) поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE)
