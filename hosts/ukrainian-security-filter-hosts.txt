@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240112.01
-# Last modified: Fri, 12 January 2024 19:23 EET
+# Version: 20240130.01
+# Last modified: Tue, 30 January 2024 00:22 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -76,6 +76,7 @@
 0.0.0.0 avto-dokyment.online
 0.0.0.0 awsmall.net
 0.0.0.0 awsvip.cc
+0.0.0.0 azinoplay.online
 0.0.0.0 bankid.support
 0.0.0.0 bank-uagov.online
 0.0.0.0 bc.game
@@ -89,6 +90,7 @@
 0.0.0.0 bet2fun.world
 0.0.0.0 bet2fun.xyz
 0.0.0.0 bet2fun1.online
+0.0.0.0 bet2fun2.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -107,6 +109,7 @@
 0.0.0.0 bitfinexgroup.com
 0.0.0.0 bitshopping.net
 0.0.0.0 bitz.io
+0.0.0.0 bitz1.vip
 0.0.0.0 bk-1x-bet.com
 0.0.0.0 blockchain4ukraine.com
 0.0.0.0 bs-market.store
@@ -564,6 +567,11 @@
 0.0.0.0 lottoland.com
 0.0.0.0 luxury-store-ua.space
 0.0.0.0 lviv.in.net
+0.0.0.0 m.casinoaviator.com
+0.0.0.0 m.melbetua.com
+0.0.0.0 m.retivabet.com
+0.0.0.0 m.vbetua1.com
+0.0.0.0 m.vbetua.com
 0.0.0.0 magazine-ua.store
 0.0.0.0 magazine-ukraine.shop
 0.0.0.0 magic-brash-in-ua.shop
@@ -646,6 +654,8 @@
 0.0.0.0 my-gov-ua.best
 0.0.0.0 my-kyivstar.com.ua
 0.0.0.0 m-raiffsen.charity
+0.0.0.0 m.betwinner-ua.com
+0.0.0.0 m.bet-boom.com
 0.0.0.0 nacionalbankukraine.shop
 0.0.0.0 nacionalbankukraine.xyz
 0.0.0.0 nationalbank.shop
@@ -829,6 +839,11 @@
 0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
 0.0.0.0 pari.win
+0.0.0.0 pari1.win
+0.0.0.0 pari2.win
+0.0.0.0 pari3.win
+0.0.0.0 pari4.win
+0.0.0.0 parik2413.com
 0.0.0.0 parimatch.com
 0.0.0.0 parimatch.net
 0.0.0.0 pari-match.com
@@ -1327,6 +1342,8 @@
 0.0.0.0 ukrnet.email
 0.0.0.0 ukrnet.support
 0.0.0.0 ukrnet24.com
+0.0.0.0 ukrnet-qr.com
+0.0.0.0 ukrnovapaytransfer24-ua.pro
 0.0.0.0 ukroboronprom.info
 0.0.0.0 ukroboronprom.ml
 0.0.0.0 ukroboronprom.software
@@ -1483,8 +1500,10 @@
 0.0.0.0 vbetua.com
 0.0.0.0 vbetua1.com
 0.0.0.0 vheck-viplatvidoshad.space
+0.0.0.0 vipcazino.net
 0.0.0.0 vipkasino.club
 0.0.0.0 vipkasinos.org
+0.0.0.0 vipkazinos.org
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
 0.0.0.0 viplata.club
