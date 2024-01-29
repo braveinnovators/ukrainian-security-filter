@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240112.01
-# Last modified: Fri, 12 January 2024 19:23 EET
+# Version: 20240130.01
+# Last modified: Tue, 30 January 2024 00:22 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -76,6 +76,7 @@ avto-dok.online
 avto-dokyment.online
 awsmall.net
 awsvip.cc
+azinoplay.online
 bankid.support
 bank-uagov.online
 bc.game
@@ -89,6 +90,7 @@ bet2fun.pw
 bet2fun.world
 bet2fun.xyz
 bet2fun1.online
+bet2fun2.online
 betandyou2.com
 betwinner.com
 betwinner1.com
@@ -107,6 +109,7 @@ bigsales-ua.store
 bitfinexgroup.com
 bitshopping.net
 bitz.io
+bitz1.vip
 bk-1x-bet.com
 blockchain4ukraine.com
 bs-market.store
@@ -564,6 +567,11 @@ lottogo.com
 lottoland.com
 luxury-store-ua.space
 lviv.in.net
+m.casinoaviator.com
+m.melbetua.com
+m.retivabet.com
+m.vbetua1.com
+m.vbetua.com
 magazine-ua.store
 magazine-ukraine.shop
 magic-brash-in-ua.shop
@@ -646,6 +654,8 @@ my-govuwvyplatte.site
 my-gov-ua.best
 my-kyivstar.com.ua
 m-raiffsen.charity
+m.betwinner-ua.com
+m.bet-boom.com
 nacionalbankukraine.shop
 nacionalbankukraine.xyz
 nationalbank.shop
@@ -829,6 +839,11 @@ outlet-ua.store
 panda-sale.com.ua
 parfums.top
 pari.win
+pari1.win
+pari2.win
+pari3.win
+pari4.win
+parik2413.com
 parimatch.com
 parimatch.net
 pari-match.com
@@ -1327,6 +1342,8 @@ ukrmoda9.store
 ukrnet.email
 ukrnet.support
 ukrnet24.com
+ukrnet-qr.com
+ukrnovapaytransfer24-ua.pro
 ukroboronprom.info
 ukroboronprom.ml
 ukroboronprom.software
@@ -1483,8 +1500,10 @@ vbet20.com
 vbetua.com
 vbetua1.com
 vheck-viplatvidoshad.space
+vipcazino.net
 vipkasino.club
 vipkasinos.org
+vipkazinos.org
 viplata.agency
 viplata.biz
 viplata.club
