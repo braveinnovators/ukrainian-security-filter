@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240130.01
-# Last modified: Tue, 30 January 2024 00:22 EET
+# Version: 20240203.01
+# Last modified: Sat, 03 February 2024 20:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -204,6 +204,7 @@
 0.0.0.0 dopomoga24ua.win
 0.0.0.0 dopomoga2023.com
 0.0.0.0 dopomoga2023.tech
+0.0.0.0 dopomoga2024.com
 0.0.0.0 dopomogaa.site
 0.0.0.0 dopomogaa.website
 0.0.0.0 dopomogaapp.online
@@ -843,6 +844,8 @@
 0.0.0.0 pari2.win
 0.0.0.0 pari3.win
 0.0.0.0 pari4.win
+0.0.0.0 pari7.win
+0.0.0.0 pari8.win
 0.0.0.0 parik2413.com
 0.0.0.0 parimatch.com
 0.0.0.0 parimatch.net
@@ -916,6 +919,7 @@
 0.0.0.0 poshta-ua24.sbs
 0.0.0.0 poshta-ua24.shop
 0.0.0.0 poshta-uah.shop
+0.0.0.0 presidentofukraine-gov.org
 0.0.0.0 privaat24-ua.site
 0.0.0.0 privat24.cab
 0.0.0.0 privatb24.click
@@ -1416,6 +1420,7 @@
 0.0.0.0 ukr-discount.com.ua
 0.0.0.0 ukr-dopomog.top
 0.0.0.0 ukr-dopomoga.top
+0.0.0.0 ukr-dopomoga-2024.pics
 0.0.0.0 ukr-dostavka.fun
 0.0.0.0 ukr-dostavka.space
 0.0.0.0 ukr-edit.com
@@ -1503,6 +1508,7 @@
 0.0.0.0 vipcazino.net
 0.0.0.0 vipkasino.club
 0.0.0.0 vipkasinos.org
+0.0.0.0 vipkazinos.net
 0.0.0.0 vipkazinos.org
 0.0.0.0 viplata.agency
 0.0.0.0 viplata.biz
@@ -1579,6 +1585,8 @@
 0.0.0.0 vulkan777.app
 0.0.0.0 vulkan777.life
 0.0.0.0 vulkan777.net
+0.0.0.0 vulkan777.vip
+0.0.0.0 vulkan777.world
 0.0.0.0 vulkan777casino.com
 0.0.0.0 vulkan777online.biz
 0.0.0.0 vulkan777online.club
