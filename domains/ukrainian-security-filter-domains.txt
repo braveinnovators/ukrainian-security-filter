@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240130.01
-# Last modified: Tue, 30 January 2024 00:22 EET
+# Version: 20240203.01
+# Last modified: Sat, 03 February 2024 20:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -204,6 +204,7 @@ dopomoga24ua.me
 dopomoga24ua.win
 dopomoga2023.com
 dopomoga2023.tech
+dopomoga2024.com
 dopomogaa.site
 dopomogaa.website
 dopomogaapp.online
@@ -843,6 +844,8 @@ pari1.win
 pari2.win
 pari3.win
 pari4.win
+pari7.win
+pari8.win
 parik2413.com
 parimatch.com
 parimatch.net
@@ -916,6 +919,7 @@ poshta-ua.shop
 poshta-ua24.sbs
 poshta-ua24.shop
 poshta-uah.shop
+presidentofukraine-gov.org
 privaat24-ua.site
 privat24.cab
 privatb24.click
@@ -1416,6 +1420,7 @@ ukr-dekor.store
 ukr-discount.com.ua
 ukr-dopomog.top
 ukr-dopomoga.top
+ukr-dopomoga-2024.pics
 ukr-dostavka.fun
 ukr-dostavka.space
 ukr-edit.com
@@ -1503,6 +1508,7 @@ vheck-viplatvidoshad.space
 vipcazino.net
 vipkasino.club
 vipkasinos.org
+vipkazinos.net
 vipkazinos.org
 viplata.agency
 viplata.biz
@@ -1579,6 +1585,8 @@ vulk7.bet
 vulkan777.app
 vulkan777.life
 vulkan777.net
+vulkan777.vip
+vulkan777.world
 vulkan777casino.com
 vulkan777online.biz
 vulkan777online.club
