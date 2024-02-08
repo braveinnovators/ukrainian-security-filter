@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240203.01
-! Last modified: Sat, 03 February 2024 20:02 EET
+! Version: 20240208.01
+! Last modified: Thu, 08 February 2024 12:05 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1203,6 +1203,7 @@
 ||ukraine-homedepot.store^
 ||ukraine-homeshops.store^
 ||ukraine-hometrends.store^
+||ukraine-med.shop^
 ||ukraine-mvs.site^
 ||ukraine-shop-top.space^
 ||ukraine-storehouse.com.ua^
@@ -1607,21 +1608,13 @@
 ! #TAG-50
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
-://api.telegram.org/bot6855762556:AAFRxTEazL3n7TYAU07yNvZVJaghxXSupLE/sendMessage*$xmlhttprequest
-/keycrm//keycrmhandler.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
-/keycrm/keycrmhandler_additional.php$xmlhttprequest,domain=fun|online|shop|site|store|uno
 ://*.lpcdn.site/assets/*$script,xmlhttprequest
-://*.*/success.php$document,domain=fun|space
-://*.*/zakaz.php$document,domain=fun|space
 ://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
-://*.*/mod/project/534154/lead/send/$document,xmlhttprequest
 ##html[lang*="ru"] > body > div.main_wrapper > [class*="_section"]
-##a[class*="button"][href*="#order_form"]
-##a[class*="button"][href*="#order"]
-##a[class*="button"][href*="#cat"]
+##html[lang*="ru"] > body > div.wrap > [class*="_section"]
 ##section#order_form > form#telegram-form.main-order-form
 ##section.offer_section > b > form[id*="order_form"]
 ##div.formbox > form[id*="order_form"]
