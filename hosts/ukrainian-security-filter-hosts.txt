@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240203.01
-# Last modified: Sat, 03 February 2024 20:02 EET
+# Version: 20240208.01
+# Last modified: Thu, 08 February 2024 12:05 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -1299,6 +1299,7 @@
 0.0.0.0 ukraine-homedepot.store
 0.0.0.0 ukraine-homeshops.store
 0.0.0.0 ukraine-hometrends.store
+0.0.0.0 ukraine-med.shop
 0.0.0.0 ukraine-mvs.site
 0.0.0.0 ukraine-shop-top.space
 0.0.0.0 ukraine-storehouse.com.ua
