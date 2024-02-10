@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240208.01
-# Last modified: Thu, 08 February 2024 12:05 EET
+# Version: 20240211.01
+# Last modified: Sun, 11 February 2024 00:40 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -77,6 +77,7 @@ avto-dokyment.online
 awsmall.net
 awsvip.cc
 azinoplay.online
+backblk.com
 bankid.support
 bank-uagov.online
 bc.game
@@ -793,6 +794,8 @@ oschadnybank.com.ua
 oschadsecure.com
 oschadsecure.pw
 oschadviplata66.shop
+oschad-dia.shop
+oschad-dya.shop
 oschad-help.com
 oschad-help2zsu.online
 oschad-help2zsu.site
@@ -1194,6 +1197,8 @@ ua-get.online
 ua-get.pro
 ua-get.shop
 ua-get.xyz
+ua-konkurs.online
+ua-konkurs.site
 ua-lotoreys.top
 ua-lotosuper.top
 ua-minagro.com
@@ -1301,6 +1306,7 @@ ukraine-homeshops.store
 ukraine-hometrends.store
 ukraine-med.shop
 ukraine-mvs.site
+ukraine-official.site
 ukraine-shop-top.space
 ukraine-storehouse.com.ua
 ukraine-storehouse.online
