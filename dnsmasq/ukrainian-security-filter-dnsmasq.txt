@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240208.01
-# Last modified: Thu, 08 February 2024 12:05 EET
+# Version: 20240211.01
+# Last modified: Sun, 11 February 2024 00:40 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -77,6 +77,7 @@ address=/avto-dok.online/
 address=/awsmall.net/
 address=/awsvip.cc/
 address=/azinoplay.online/
+address=/backblk.com/
 address=/bankid.support/
 address=/bank-uagov.online/
 address=/bc.game/
@@ -793,6 +794,8 @@ address=/oschadnybank.com.ua/
 address=/oschadsecure.com/
 address=/oschadsecure.pw/
 address=/oschadviplata66.shop/
+address=/oschad-dia.shop/
+address=/oschad-dya.shop/
 address=/oschad-help2zsu.online/
 address=/oschad-help2zsu.site/
 address=/oschad-help4zsu.online/
@@ -1192,6 +1195,8 @@ address=/ua-get.online/
 address=/ua-get.pro/
 address=/ua-get.shop/
 address=/ua-get.xyz/
+address=/ua-konkurs.online/
+address=/ua-konkurs.site/
 address=/ua-lotoreys.top/
 address=/ua-lotosuper.top/
 address=/ua-minagro.com/
@@ -1299,6 +1304,7 @@ address=/ukraine-homeshops.store/
 address=/ukraine-hometrends.store/
 address=/ukraine-med.shop/
 address=/ukraine-mvs.site/
+address=/ukraine-official.site/
 address=/ukraine-shop-top.space/
 address=/ukraine-storehouse.com.ua/
 address=/ukraine-storehouse.online/
