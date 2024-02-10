@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240208.01
-! Last modified: Thu, 08 February 2024 12:05 EET
+! Version: 20240211.01
+! Last modified: Sun, 11 February 2024 00:40 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -81,6 +81,7 @@
 ||awsmall.net^
 ||awsvip.cc^
 ||azinoplay.online^
+||backblk.com^
 ||bankid.support^
 ||bank-uagov.online^
 ||bc.game^
@@ -706,6 +707,8 @@
 ||oschadnybank.com.ua^
 ||oschadsecure.com^
 ||oschadsecure.pw^
+||oschad-dia.shop^
+||oschad-dya.shop^
 ||oschad-help2zsu.online^
 ||oschad-help2zsu.site^
 ||oschad-help4zsu.online^
@@ -1100,6 +1103,8 @@
 ||ua-get.pro^
 ||ua-get.shop^
 ||ua-get.xyz^
+||ua-konkurs.online^
+||ua-konkurs.site^
 ||ua-lotoreys.top^
 ||ua-lotosuper.top^
 ||ua-minagro.com^
@@ -1205,6 +1210,7 @@
 ||ukraine-hometrends.store^
 ||ukraine-med.shop^
 ||ukraine-mvs.site^
+||ukraine-official.site^
 ||ukraine-shop-top.space^
 ||ukraine-storehouse.com.ua^
 ||ukraine-storehouse.online^
@@ -1592,18 +1598,22 @@
 ://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
 !
-! #TAG-32
-://online.*.*/d/?id=*/*$document
-!
-! #TAG-46
-://*.*/b/*$document,domain=buzz|charity|site|website|xyz
-!
 ! #TAG-47
-##body > main > section > div.main_actions > div.action.act_check
-##body > main > section > div.main_actions > div.action.act_signin
+://*/bank/raif.php?id=*$document
+://*/bank/pumb.php?id=*$document
+://*/bank/ochad.php?id=*$document
+://*/bank/mono.php?id=*$document
+://*/bank/privat24.php?id=*$document
+://*/bank/ukrsibbank.php?id=*$document
+://*/bank/kredobank.php?id=*$document
+://*/bank/credit-agricole.php?id=*$document
+://*/bank/otp.php?id=*$document
+://*.*.*/music.php?id=*-*$xmlhttprequest
+##html[data-scrapbook-title^="Грошова допомога від"]:has(button.btn[href="lg/login.html"])
+##html[data-scrapbook-title="Отримання коштів"]:has(div.auth-block > div#login-box.auth-block__box)
 !
 ! #TAG-48
-##div.container > div > div > div > div.card-body > form[action*="unlock"]
+##body:has(div.container > div > div > div > div.card-body > form[action^="unlock"])
 !
 ! #TAG-50
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
@@ -1613,23 +1623,16 @@
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
-##html[lang*="ru"] > body > div.main_wrapper > [class*="_section"]
-##html[lang*="ru"] > body > div.wrap > [class*="_section"]
-##section#order_form > form#telegram-form.main-order-form
-##section.offer_section > b > form[id*="order_form"]
-##div.formbox > form[id*="order_form"]
-##form[class*="order_form"][action*="api.php"]
-##form[class*="order_form"][action*="call.php"]
-##form[class*="order_form"][action*="mail.php"]
-##form[class*="order_form"][action*="order.php"]
-##form[class*="order_form"][action*="order/"]
-##form[class*="order_form"][action*="send.php"]
-##form[class*="order_form"][action*="success/thankyou.php"]
-##form[class*="order_form"][action*="telegram.php"]
-##form[class*="order_form"][action*="zakaz.php"]
-##form[class*="order-form"][action*="hand.php"]
-##form[class*="order-form"][action*="order.php"]
-##form[class*="order-form"][action*="telegram.php"]
+##html[lang*="ru"] > body:has(> div.main_wrapper > [class*="_section"])
+##html[lang*="ru"] > body:has(> div.wrap > [class*="_section"])
+##body:has(section.offer > div.order_form > form[id*="order"][class*="main-order"][action*="order.php"])
+##body:has(div.wrap > section.b2 > form[id*="order"][class*="main-order"][action*="order.php"])
+##body:has(> div.wrap > div.offer_section > section.offer > form.order_form)
+##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
+##body:has(> div.wrap > section.opisanie > div > form.order_form)
+##body:has(> div.main_wrapper > section.offer_section > div > form.order_form)
+##body:has(> div.main_wrapper > section.offer_section > form.order_form)
+##body:has(> div.main-wrap > section#zakaz.order-block-v1 > div > form.m1-form)
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
@@ -1709,8 +1712,8 @@
 /pay/merchant/confirm-error/*/$document,xmlhttprequest
 /pay/merchant/confirm-*/*/$document,xmlhttprequest
 /io/path/?EIO=*&transport=*&t=*$xmlhttprequest
+##body:has(div#app > div.wrapper.velmld-parent > div.p24_web_components_modal_no_scroll)
 ##.container > .content > .login > div > div > .p24o
-##.p24_web_components_modal_no_scroll
 ##.text-slate-200.cursor-pointer.to-card__button
 ##div#ask_call_code.show_div.container
 ##div#ask_custom_error.show_div.container
@@ -1728,3 +1731,7 @@
 ://*.*/bi/*1704*$document
 ##div.layout-item > div.layout-item__body > a[href*="banks.php"]
 ##div.main_table > div.content_section > div.content > div#comBankPager_2.pager.com_bank.com_blog.list
+!
+! #TAG-69
+://*.*/jphone/9*$xmlhttprequest
+##html[lang="ru"] > body:has(a[href*="/vote"])
