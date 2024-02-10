@@ -43,14 +43,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Сумісність з браузерами та розширеннями
 
-Нижче наведений перелік браузерів (з вбудованими модулями фільтрації контенту) та сторонніх розширень з якими гарантована сумісність правил, які містяться у фільтрі:
-
-* [Brave](https://brave.com/)
-* [Opera](https://www.opera.com/)
-* [Vivaldi](https://vivaldi.com/)
-* [uBlock Origin](https://ublockorigin.com/)
-* [Adblock Plus](https://adblockplus.org/)
-* [AdBlock](https://getadblock.com/)
+Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту ([Brave](https://brave.com/), [Opera](https://www.opera.com/), [Vivaldi](https://vivaldi.com/)), так і з популярними сторонніми розширеннями ([uBlock Origin](https://ublockorigin.com/), [Adblock Plus](https://adblockplus.org/), [AdBlock](https://getadblock.com/)), ми рекомендуємо використовувати браузер [Firefox](https://www.mozilla.org/firefox/) разом з розширенням [uBlock Origin](https://ublockorigin.com/).
 
 ## Як імпортувати фільтр
 
