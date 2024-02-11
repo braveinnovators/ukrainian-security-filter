@@ -14,7 +14,7 @@
 Цей формат фільтра сумісний з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/adblock/ukrainian-security-filter.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 
 ### Domain-based blocklist
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `example.com`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/domains/ukrainian-security-filter-domains.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/dnsmasq.txt
 ```
 
 ### Hosts-based blocklist
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `0.0.0.0 example.com`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/hosts/ukrainian-security-filter-hosts.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 ```
 
 ### dnsmasq
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `address=/example.com/`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/dnsmasq/ukrainian-security-filter-dnsmasq.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/hosts.txt
 ```
 
 ## Сумісність з браузерами та розширеннями
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 2. У вкладці Shields відкрити розділ Content filtering і у розділі Add custom filter lists у поле вводу вставити скопійовану адресу фільтра:
 
 ```
-https://www.awwwwesome.org/ukrainian-security-filter.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 </details>
 
@@ -70,7 +70,7 @@ https://www.awwwwesome.org/ukrainian-security-filter.txt
 3. Перейти до розділу Subscribe to filter list, натиснути на кнопку Add filter list via URL і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку Submit:
 
 ```
-https://www.awwwwesome.org/ukrainian-security-filter.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: https://brave.com/privacy-updates/10-custom-filter-lists/
@@ -87,7 +87,7 @@ https://www.awwwwesome.org/ukrainian-security-filter.txt
 2. Клацнути мишею на Import... і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
-https://www.awwwwesome.org/ukrainian-security-filter.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
@@ -102,7 +102,7 @@ https://www.awwwwesome.org/ukrainian-security-filter.txt
 2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
-https://www.awwwwesome.org/ukrainian-security-filter.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: [https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter](https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter)
