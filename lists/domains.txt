@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240211.01
-# Last modified: Sun, 11 February 2024 00:40 EET
+# Version: 20240213.01
+# Last modified: Tue, 13 February 2024 23:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -31,6 +31,7 @@
 3ds-vlsa.com
 7goxbet.com
 8slottica.com
+15jokerua.top
 23konkurs.site
 24helpuapay.com
 24helpukr.com
@@ -92,6 +93,7 @@ bet2fun.world
 bet2fun.xyz
 bet2fun1.online
 bet2fun2.online
+bet2fun3.online
 betandyou2.com
 betwinner.com
 betwinner1.com
@@ -111,6 +113,7 @@ bitfinexgroup.com
 bitshopping.net
 bitz.io
 bitz1.vip
+bitz2.vip
 bk-1x-bet.com
 blockchain4ukraine.com
 bs-market.store
@@ -138,10 +141,13 @@ chooseraiff.online
 chooseraiff.site
 comfortshop-ukraine.space
 comfort-ua.store
+confirms-qr.com
 cosmolotukraine.co.uk
 cosmoslot.site
+courier.darkleads.pro
 crypt0.fun
 cryptocurrency-helps-ukraine.com
+datacheckqr.net
 data-mails.com
 data-ukr.com
 deal-loads.site
@@ -333,7 +339,9 @@ elslots.net
 elslotswin.com
 enersit.com
 enot-sale.com.ua
+enters-qr.com
 en-ukr.net
+epicentrk.dp.ua
 epidtrimka.com
 epidtrimkadopomoga.com
 epidtrimkaua.info
@@ -419,6 +427,7 @@ groshidopomoga.top
 groshinarahunok.com
 groshovadopomoga.com
 grosovadopomoga.shop
+harpoon.dp.ua
 help24ua.com
 help24uapay.com
 help24ukr.com
@@ -550,6 +559,7 @@ kyivstar-shop.net
 kyivstar-tv.com.ua
 kyivstar-vebo.com.ua
 lampsukraine.shop
+land.darkleads.pro
 leemsedo.co.ua
 legzo.casino
 legzocasinoua.com
@@ -560,6 +570,8 @@ likpay.me
 liqpay.info
 lite.1xbet-new.com
 live-konkurs.site
+loginqrukr.net
+logsdataqr.com
 loot.bet
 lotorey-ua.top
 lotory-ua.top
@@ -650,6 +662,7 @@ mygovua.info
 mygovua.online
 mykyivstar.com
 myuagoveinfo-taxation.info
+myukrnet.com
 my-3ds.space
 my-goavuvyplate.site
 my-govuwvyplatte.site
@@ -663,6 +676,7 @@ nacionalbankukraine.xyz
 nationalbank.shop
 nationalbanking24.shop
 netflx-ua.com
+newcourier.darkleads.pro
 newsukr2023.site
 newsukr2023.space
 next24-auth.online
@@ -713,6 +727,7 @@ ok-ua.info
 ok-ua.live
 old.favoritua.com
 olimp.com
+olx.dp.ua
 olxdomposilka.com
 olxdoostavka-ua.shop
 olxdosstavka-ua.shop
@@ -803,6 +818,7 @@ oschad-help4zsu.online
 oschad-help4zsu.site
 oschad-online.charity
 oschad-paybank.xyz
+oschad-ua.shop
 oshad.online
 oshad.space
 oshad.website
@@ -853,6 +869,7 @@ parik2413.com
 parimatch.com
 parimatch.net
 pari-match.com
+pari-win1.com
 passport-ua.com
 patriot-ukraine.fun
 patriot-ukraine.info
@@ -930,6 +947,7 @@ privatbnk.com
 privatbua.com
 privatpay.me
 privatpay.online
+privat-24-dia.shop
 privat-bank-ua.com
 privat-inv.org
 prlvatbank24.pw
@@ -947,6 +965,11 @@ prytulafoundation.in
 prytulafoundation.net
 prytulafoundation.site
 pumbukraine.online
+qrcenterua.net
+qrukr.com
+qr-confirmc.com
+qr-enter.com
+qr-verification.com
 quality-ukrainegoods.store
 quiz-ua.site
 raiffaisen.online
@@ -1029,6 +1052,7 @@ rozetkaukraine.com
 rozetkaukraine.vip
 rybalka-ua.site
 rysebet.com
+s.pl.lpcdn.site
 safe-uagov.cloud
 salesmag.shop
 sale-ua.shop
@@ -1068,6 +1092,7 @@ shop-ua.space
 shop-ua.top
 simpacasino.com
 slotclub.pro
+slotclub1.pro
 slotclubcasino.com
 slotoking.me
 slotoking.org.ua
@@ -1371,6 +1396,7 @@ ukrposhta.co.ua
 ukrpotshta.world
 ukrqasolda.com
 ukrqasolda.org
+ukrqr.net
 ukrsaleboom.fun
 ukrsaytonline.fun
 ukrschoponline.fun
@@ -1452,6 +1478,7 @@ ukr-net.website
 ukr-net-download.online
 ukr-net-download-files-php-name.online
 ukr-net-support.online
+ukr-official.site
 ukr-oil-group.online
 ukr-olx.com
 ukr-onlin.shop
@@ -1619,4 +1646,5 @@ xwallet.website
 x-ukr.net
 yalunka-ukraine.com.ua
 yr-ukr.net
+zaluzhny2024.com
 zoloto-loto.net
