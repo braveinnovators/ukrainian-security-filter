@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240211.01
-! Last modified: Sun, 11 February 2024 00:40 EET
+! Version: 20240213.01
+! Last modified: Tue, 13 February 2024 23:02 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -36,6 +36,7 @@
 ||3ds-vlsa.com^
 ||7goxbet.com^
 ||8slottica.com^
+||15jokerua.top^
 ||23konkurs.site^
 ||24helpuapay.com^
 ||24helpukr.com^
@@ -91,6 +92,7 @@
 ||best-store-ua.online^
 ||bet2fun1.online^
 ||bet2fun2.online^
+||bet2fun3.online^
 ||bet2fun.lol^
 ||bet2fun.online^
 ||bet2fun.pw^
@@ -114,6 +116,7 @@
 ||bitfinexgroup.com^
 ||bitshopping.net^
 ||bitz1.vip^
+||bitz2.vip^
 ||bitz.io^
 ||bk-1x-bet.com^
 ||blockchain4ukraine.com^
@@ -142,10 +145,13 @@
 ||chooseraiff.site^
 ||comfortshop-ukraine.space^
 ||comfort-ua.store^
+||confirms-qr.com^
 ||cosmolotukraine.co.uk^
 ||cosmoslot.site^
+||courier.darkleads.pro^
 ||crypt0.fun^
 ||cryptocurrency-helps-ukraine.com^
+||datacheckqr.net^
 ||data-mails.com^
 ||data-ukr.com^
 ||deal-loads.site^
@@ -335,7 +341,9 @@
 ||elslots.net^
 ||enersit.com^
 ||enot-sale.com.ua^
+||enters-qr.com^
 ||en-ukr.net^
+||epicentrk.dp.ua^
 ||epidtrimkadopomoga.com^
 ||epidtrimkaua.info^
 ||epidtrimka.com^
@@ -419,6 +427,7 @@
 ||groshinarahunok.com^
 ||groshovadopomoga.com^
 ||grosovadopomoga.shop^
+||harpoon.dp.ua^
 ||help24uapay.com^
 ||help24ua.com^
 ||help24ukr.com^
@@ -508,6 +517,7 @@
 ||konkurs.site^
 ||krakencasino.club^
 ||lampsukraine.shop^
+||land.darkleads.pro^
 ||leemsedo.co.ua^
 ||legzocasinoua.com^
 ||legzo.casino^
@@ -518,6 +528,8 @@
 ||liqpay.info^
 ||lite.1xbet-new.com^
 ||live-konkurs.site^
+||loginqrukr.net^
+||logsdataqr.com^
 ||loot.bet^
 ||lotorey-ua.top^
 ||lotory-ua.top^
@@ -602,6 +614,7 @@
 ||mygovua.info^
 ||mygovua.online^
 ||myuagoveinfo-taxation.info^
+||myukrnet.com^
 ||my-3ds.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
@@ -619,6 +632,7 @@
 ||nationalbanking24.shop^
 ||nationalbank.shop^
 ||netflx-ua.com^
+||newcourier.darkleads.pro^
 ||newsukr2023.site^
 ||newsukr2023.space^
 ||next24-auth.online^
@@ -666,6 +680,7 @@
 ||olx-ua.pro^
 ||olx-ua.pw^
 ||olx-ukrnp.co.uk^
+||olx.dp.ua^
 ||oneclick-ua.shop^
 ||online1shop.store^
 ||onlinediya.com^
@@ -716,6 +731,7 @@
 ||oschad-help.com^
 ||oschad-online.charity^
 ||oschad-paybank.xyz^
+||oschad-ua.shop^
 ||oshadbank24.win^
 ||oshadbankoon.com^
 ||oshadbank.online^
@@ -763,6 +779,7 @@
 ||parimatch.com^
 ||parimatch.net^
 ||pari-match.com^
+||pari-win1.com^
 ||pari.win^
 ||passport-ua.com^
 ||patriot-ukraine.fun^
@@ -840,6 +857,7 @@
 ||privatbua.com^
 ||privatpay.me^
 ||privatpay.online^
+||privat-24-dia.shop^
 ||privat-bank-ua.com^
 ||privat-inv.org^
 ||prlvatbank24.pw^
@@ -857,6 +875,11 @@
 ||prytulafoundation.net^
 ||prytulafoundation.site^
 ||pumbukraine.online^
+||qrcenterua.net^
+||qrukr.com^
+||qr-confirmc.com^
+||qr-enter.com^
+||qr-verification.com^
 ||quality-ukrainegoods.store^
 ||quiz-ua.site^
 ||raiffaisenbank.com^
@@ -976,6 +999,7 @@
 ||shop-ua.space^
 ||shop-ua.top^
 ||simpacasino.com^
+||slotclub1.pro^
 ||slotclubcasino.com^
 ||slotclub.pro^
 ||slotokingua.com^
@@ -1275,6 +1299,7 @@
 ||ukrpotshta.world^
 ||ukrqasolda.com^
 ||ukrqasolda.org^
+||ukrqr.net^
 ||ukrsaleboom.fun^
 ||ukrsaytonline.fun^
 ||ukrschoponline.fun^
@@ -1356,6 +1381,7 @@
 ||ukr-net.space^
 ||ukr-net.systems^
 ||ukr-net.website^
+||ukr-official.site^
 ||ukr-oil-group.online^
 ||ukr-olx.com^
 ||ukr-onlinemagaz.online^
@@ -1467,6 +1493,7 @@
 ||x-ukr.net^
 ||yalunka-ukraine.com.ua^
 ||yr-ukr.net^
+||zaluzhny2024.com^
 ||zoloto-loto.net^
 !
 ! !!!!!!!!!!!!!!!
@@ -1474,7 +1501,11 @@
 ! !!!!!!!!!!!!!!!
 !
 ||*diya_official^$document,domain=t.me|telegram.me
+||*dopomogahi^$document,domain=t.me|telegram.me
+||*DopomogaOfficial_Bot^$document,domain=t.me|telegram.me
+||*e_dopomoga_2024^$document,domain=t.me|telegram.me
 ||*egroshi_ua^$document,domain=t.me|telegram.me
+||*ekaterinadopomogaoon2024^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*pravovadopomoga24^$document,domain=t.me|telegram.me
 ||*ukrua2023^$document,domain=t.me|telegram.me
@@ -1488,7 +1519,9 @@
 ||invite.viber.com/?g2=AQBGh39kgyim3lIU%2FlDpPS2ZK0A5mXqml6xvcXjPwc4rToGm9Ly4e6LdoouQtdnn^$document
 ||invite.viber.com/?g2=AQBgP%2BauuhWt0FIWku5tuXN2S2mhNFxAJ1eKZjfh%2BEKJES02tkQo0eRsm9bMzWDj^$document
 ||t.me/+bye4lJIqbQwzOWI1^$document
+||t.me/+c_SeqIDrI5A2OWQ0^$document
 ||t.me/+dnln2AfIoPYzMDRi^$document
+||t.me/+enwiZ8lRK6djY2E6^$document
 ||t.me/+G7FPG_hofQJjZjli^$document
 ||t.me/+gvj4twyHg8BkMDc6^$document
 ||t.me/+H_ihqCQLUdQ1MDJk^$document
@@ -1496,9 +1529,8 @@
 ||t.me/+ilAa8TtLqz42NjBi^$document
 ||t.me/+IsZIeWR33uA1NTRl^$document
 ||t.me/+QJ6ha3cNr61kNTk6^$document
-||t.me/+xp5hvriUlW01ZGYy^$document
 ||t.me/+Vazo7VA93EwyMGUy^$document
-||t.me/+c_SeqIDrI5A2OWQ0^$document
+||t.me/+xp5hvriUlW01ZGYy^$document
 !
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
@@ -1515,6 +1547,7 @@
 ! EDOPOMOGA.GOV.UA
 ://*edopomoga*.*/$document,domain=~gov.ua
 @@||instagram.com/edopomoga.gov.ua^$document
+||*e-dopomoga*$document,domain=homes|life|lol|mom|pics|shop|world
 ||*edopomoga*$document,domain=t.me|telegram.me
 !
 ! PRIVATBANK.UA
@@ -1619,6 +1652,8 @@
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
 ://*.lpcdn.site/assets/*$script,xmlhttprequest
+://courier.darkleads.pro/data/exchange/extpartner/addorder*$document,xmlhttprequest,script
+://*.*/common/php/send-order.php?partnerid=*&lendid=*&offer=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
@@ -1627,12 +1662,14 @@
 ##html[lang*="ru"] > body:has(> div.wrap > [class*="_section"])
 ##body:has(section.offer > div.order_form > form[id*="order"][class*="main-order"][action*="order.php"])
 ##body:has(div.wrap > section.b2 > form[id*="order"][class*="main-order"][action*="order.php"])
-##body:has(> div.wrap > div.offer_section > section.offer > form.order_form)
-##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
-##body:has(> div.wrap > section.opisanie > div > form.order_form)
+##body:has(> div#t1.b2 > div.section > div.tovar > form > a.upp[target="_blank"])
+##body:has(> div.main_wrapper > section.description_section > section > form.order_form)
 ##body:has(> div.main_wrapper > section.offer_section > div > form.order_form)
 ##body:has(> div.main_wrapper > section.offer_section > form.order_form)
 ##body:has(> div.main-wrap > section#zakaz.order-block-v1 > div > form.m1-form)
+##body:has(> div.wrap > div.offer_section > section.offer > form.order_form)
+##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
+##body:has(> div.wrap > section.opisanie > div > form.order_form)
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
@@ -1712,20 +1749,10 @@
 /pay/merchant/confirm-error/*/$document,xmlhttprequest
 /pay/merchant/confirm-*/*/$document,xmlhttprequest
 /io/path/?EIO=*&transport=*&t=*$xmlhttprequest
+##body:has(div.container > div.content > div.login > div > div > div.p24o > form#lk_form.p24_modal)
 ##body:has(div#app > div.wrapper.velmld-parent > div.p24_web_components_modal_no_scroll)
-##.container > .content > .login > div > div > .p24o
+##body:has(div#ask_page[data-next="ask_phone"])
 ##.text-slate-200.cursor-pointer.to-card__button
-##div#ask_call_code.show_div.container
-##div#ask_custom_error.show_div.container
-##div#ask_login.show_div.container
-##div#ask_num_card.show_div.container
-##div#ask_page.show_div.container
-##div#ask_password_hidden.show_div.container
-##div#ask_phone.show_div.container
-##div#ask_pin.show_div.container
-##div#ask_sms.show_div.container
-##div#ask_url_3ds.show_div.container
-##div#recieve[data-next="ask_phone"]
 !
 ! #TAG-66
 ://*.*/bi/*1704*$document
