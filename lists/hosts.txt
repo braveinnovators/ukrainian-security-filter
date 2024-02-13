@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240211.01
-# Last modified: Sun, 11 February 2024 00:40 EET
+# Version: 20240213.01
+# Last modified: Tue, 13 February 2024 23:02 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -31,6 +31,7 @@
 0.0.0.0 3ds-vlsa.com
 0.0.0.0 7goxbet.com
 0.0.0.0 8slottica.com
+0.0.0.0 15jokerua.top
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
 0.0.0.0 24helpukr.com
@@ -92,6 +93,7 @@
 0.0.0.0 bet2fun.xyz
 0.0.0.0 bet2fun1.online
 0.0.0.0 bet2fun2.online
+0.0.0.0 bet2fun3.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -111,6 +113,7 @@
 0.0.0.0 bitshopping.net
 0.0.0.0 bitz.io
 0.0.0.0 bitz1.vip
+0.0.0.0 bitz2.vip
 0.0.0.0 bk-1x-bet.com
 0.0.0.0 blockchain4ukraine.com
 0.0.0.0 bs-market.store
@@ -138,10 +141,13 @@
 0.0.0.0 chooseraiff.site
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
+0.0.0.0 confirms-qr.com
 0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
+0.0.0.0 courier.darkleads.pro
 0.0.0.0 crypt0.fun
 0.0.0.0 cryptocurrency-helps-ukraine.com
+0.0.0.0 datacheckqr.net
 0.0.0.0 data-mails.com
 0.0.0.0 data-ukr.com
 0.0.0.0 deal-loads.site
@@ -333,7 +339,9 @@
 0.0.0.0 elslotswin.com
 0.0.0.0 enersit.com
 0.0.0.0 enot-sale.com.ua
+0.0.0.0 enters-qr.com
 0.0.0.0 en-ukr.net
+0.0.0.0 epicentrk.dp.ua
 0.0.0.0 epidtrimka.com
 0.0.0.0 epidtrimkadopomoga.com
 0.0.0.0 epidtrimkaua.info
@@ -419,6 +427,7 @@
 0.0.0.0 groshinarahunok.com
 0.0.0.0 groshovadopomoga.com
 0.0.0.0 grosovadopomoga.shop
+0.0.0.0 harpoon.dp.ua
 0.0.0.0 help24ua.com
 0.0.0.0 help24uapay.com
 0.0.0.0 help24ukr.com
@@ -550,6 +559,7 @@
 0.0.0.0 kyivstar-tv.com.ua
 0.0.0.0 kyivstar-vebo.com.ua
 0.0.0.0 lampsukraine.shop
+0.0.0.0 land.darkleads.pro
 0.0.0.0 leemsedo.co.ua
 0.0.0.0 legzo.casino
 0.0.0.0 legzocasinoua.com
@@ -560,6 +570,8 @@
 0.0.0.0 liqpay.info
 0.0.0.0 lite.1xbet-new.com
 0.0.0.0 live-konkurs.site
+0.0.0.0 loginqrukr.net
+0.0.0.0 logsdataqr.com
 0.0.0.0 loot.bet
 0.0.0.0 lotorey-ua.top
 0.0.0.0 lotory-ua.top
@@ -650,6 +662,7 @@
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
 0.0.0.0 myuagoveinfo-taxation.info
+0.0.0.0 myukrnet.com
 0.0.0.0 my-3ds.space
 0.0.0.0 my-goavuvyplate.site
 0.0.0.0 my-govuwvyplatte.site
@@ -663,6 +676,7 @@
 0.0.0.0 nationalbank.shop
 0.0.0.0 nationalbanking24.shop
 0.0.0.0 netflx-ua.com
+0.0.0.0 newcourier.darkleads.pro
 0.0.0.0 newsukr2023.site
 0.0.0.0 newsukr2023.space
 0.0.0.0 next24-auth.online
@@ -713,6 +727,7 @@
 0.0.0.0 ok-ua.live
 0.0.0.0 old.favoritua.com
 0.0.0.0 olimp.com
+0.0.0.0 olx.dp.ua
 0.0.0.0 olxdomposilka.com
 0.0.0.0 olxdoostavka-ua.shop
 0.0.0.0 olxdosstavka-ua.shop
@@ -803,6 +818,7 @@
 0.0.0.0 oschad-help4zsu.site
 0.0.0.0 oschad-online.charity
 0.0.0.0 oschad-paybank.xyz
+0.0.0.0 oschad-ua.shop
 0.0.0.0 oshad.online
 0.0.0.0 oshad.space
 0.0.0.0 oshad.website
@@ -853,6 +869,7 @@
 0.0.0.0 parimatch.com
 0.0.0.0 parimatch.net
 0.0.0.0 pari-match.com
+0.0.0.0 pari-win1.com
 0.0.0.0 passport-ua.com
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
@@ -930,6 +947,7 @@
 0.0.0.0 privatbua.com
 0.0.0.0 privatpay.me
 0.0.0.0 privatpay.online
+0.0.0.0 privat-24-dia.shop
 0.0.0.0 privat-bank-ua.com
 0.0.0.0 privat-inv.org
 0.0.0.0 prlvatbank24.pw
@@ -947,6 +965,11 @@
 0.0.0.0 prytulafoundation.net
 0.0.0.0 prytulafoundation.site
 0.0.0.0 pumbukraine.online
+0.0.0.0 qrcenterua.net
+0.0.0.0 qrukr.com
+0.0.0.0 qr-confirmc.com
+0.0.0.0 qr-enter.com
+0.0.0.0 qr-verification.com
 0.0.0.0 quality-ukrainegoods.store
 0.0.0.0 quiz-ua.site
 0.0.0.0 raiffaisen.online
@@ -1029,6 +1052,7 @@
 0.0.0.0 rozetkaukraine.vip
 0.0.0.0 rybalka-ua.site
 0.0.0.0 rysebet.com
+0.0.0.0 s.pl.lpcdn.site
 0.0.0.0 safe-uagov.cloud
 0.0.0.0 salesmag.shop
 0.0.0.0 sale-ua.shop
@@ -1068,6 +1092,7 @@
 0.0.0.0 shop-ua.top
 0.0.0.0 simpacasino.com
 0.0.0.0 slotclub.pro
+0.0.0.0 slotclub1.pro
 0.0.0.0 slotclubcasino.com
 0.0.0.0 slotoking.me
 0.0.0.0 slotoking.org.ua
@@ -1371,6 +1396,7 @@
 0.0.0.0 ukrpotshta.world
 0.0.0.0 ukrqasolda.com
 0.0.0.0 ukrqasolda.org
+0.0.0.0 ukrqr.net
 0.0.0.0 ukrsaleboom.fun
 0.0.0.0 ukrsaytonline.fun
 0.0.0.0 ukrschoponline.fun
@@ -1452,6 +1478,7 @@
 0.0.0.0 ukr-net-download.online
 0.0.0.0 ukr-net-download-files-php-name.online
 0.0.0.0 ukr-net-support.online
+0.0.0.0 ukr-official.site
 0.0.0.0 ukr-oil-group.online
 0.0.0.0 ukr-olx.com
 0.0.0.0 ukr-onlin.shop
@@ -1619,4 +1646,5 @@
 0.0.0.0 x-ukr.net
 0.0.0.0 yalunka-ukraine.com.ua
 0.0.0.0 yr-ukr.net
+0.0.0.0 zaluzhny2024.com
 0.0.0.0 zoloto-loto.net
