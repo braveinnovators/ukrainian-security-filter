@@ -136,7 +136,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Повідомлення про шкідливі веб-ресурси
 
-Повідомити нам про шкідливі веб-ресурси можна, заповнивши відповідний шаблон звернення: [https://github.com/braveinnovators/ukrainian-security-filter/issues](https://github.com/braveinnovators/ukrainian-security-filter/issues/new?assignees=&labels=malicious+website&projects=&template=report-malicious-websites.md&title=)
+Повідомити нам про шкідливі веб-ресурси можна, заповнивши відповідний [шаблон звернення](https://github.com/braveinnovators/ukrainian-security-filter/issues/new?assignees=&labels=malicious+website&projects=&template=report-malicious-websites.md&title=).
 
 ## Партнери проекту
 
