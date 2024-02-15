@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240213.01
-# Last modified: Tue, 13 February 2024 23:02 EET
+# Version: 20240215.01
+# Last modified: Thu, 15 February 2024 18:44 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -298,6 +298,8 @@ dopomoga-dia.com
 dopomoga-dlia-ukraintsiv.life
 dopomoga-epay.site
 dopomoga-oon.com
+dopomoga-oschad.services
+dopomoga-oschad.shop
 dopomoga-ua.click
 dopomoga-ua.info
 dopomoga-ua.online
@@ -1118,6 +1120,7 @@ superboss1.com
 superboss8.com
 superboss777.com
 supergra-ukr.website
+support-4-ukraine.com
 support-account-ukr.net
 support-ukr.com
 support-ukr.net
@@ -1235,6 +1238,7 @@ ua-oschaad.online
 ua-oschaad.shop
 ua-oschaad.tech
 ua-oschaad.website
+ua-oschad.shop
 ua-pay.charity
 ua-pay.click
 ua-pay.pro
