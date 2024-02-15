@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240213.01
-! Last modified: Tue, 13 February 2024 23:02 EET
+! Version: 20240215.01
+! Last modified: Thu, 15 February 2024 18:44 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -270,6 +270,8 @@
 ||dopomoga-dlia-ukraintsiv.life^
 ||dopomoga-epay.site^
 ||dopomoga-oon.com^
+||dopomoga-oschad.services^
+||dopomoga-oschad.shop^
 ||dopomoga-uaweb.website^
 ||dopomoga-ua-online-web.site^
 ||dopomoga-ua.click^
@@ -1026,6 +1028,7 @@
 ||superboss777.com^
 ||superboss.com^
 ||supergra-ukr.website^
+||support-4-ukraine.com^
 ||support-account-ukr.net^
 ||support-ukr.com^
 ||support-ukr.net^
@@ -1140,6 +1143,7 @@
 ||ua-oschaad.shop^
 ||ua-oschaad.tech^
 ||ua-oschaad.website^
+||ua-oschad.shop^
 ||ua-paying.cloud^
 ||ua-paying.online^
 ||ua-paying.pics^
@@ -1502,7 +1506,7 @@
 !
 ||*diya_official^$document,domain=t.me|telegram.me
 ||*dopomogahi^$document,domain=t.me|telegram.me
-||*DopomogaOfficial_Bot^$document,domain=t.me|telegram.me
+||*dopomogaofficial_bot^$document,domain=t.me|telegram.me
 ||*e_dopomoga_2024^$document,domain=t.me|telegram.me
 ||*egroshi_ua^$document,domain=t.me|telegram.me
 ||*ekaterinadopomogaoon2024^$document,domain=t.me|telegram.me
