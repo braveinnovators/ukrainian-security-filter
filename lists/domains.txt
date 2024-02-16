@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240215.01
-# Last modified: Thu, 15 February 2024 18:44 EET
+# Version: 20240216.01
+# Last modified: Fri, 16 February 2024 15:29 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -1651,4 +1651,8 @@ x-ukr.net
 yalunka-ukraine.com.ua
 yr-ukr.net
 zaluzhny2024.com
+zaluzhny2024.info
+zaluzhny2024.pro
+zaluzhny2024.top
+zaluzhny-2024.com
 zoloto-loto.net
