@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240216.01
-# Last modified: Fri, 16 February 2024 15:29 EET
+# Version: 20240218.01
+# Last modified: Sun, 18 February 2024 19:20 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -1304,6 +1304,7 @@ ukrainemag.space
 ukrainemarket.site
 ukraineneedshelp.site
 ukraineonlineshop.fun
+ukrainepay.online
 ukrainepay.site
 ukrainepaymentsystem.pro
 ukrainepays.site
