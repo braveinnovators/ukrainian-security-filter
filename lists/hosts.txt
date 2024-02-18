@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240216.01
-# Last modified: Fri, 16 February 2024 15:29 EET
+# Version: 20240218.01
+# Last modified: Sun, 18 February 2024 19:20 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -1304,6 +1304,7 @@
 0.0.0.0 ukrainemarket.site
 0.0.0.0 ukraineneedshelp.site
 0.0.0.0 ukraineonlineshop.fun
+0.0.0.0 ukrainepay.online
 0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
