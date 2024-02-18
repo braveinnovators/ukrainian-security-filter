@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240216.02
-! Last modified: Fri, 16 February 2024 15:51 EET
+! Version: 20240218.01
+! Last modified: Sun, 18 February 2024 19:20 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1209,6 +1209,7 @@
 ||ukraineonlineshop.fun^
 ||ukrainepaymentsystem.pro^
 ||ukrainepays.site^
+||ukrainepay.online^
 ||ukrainepay.site^
 ||ukraineproductstore.fun^
 ||ukraineproduct.fun^
@@ -1655,6 +1656,7 @@
 ! #TAG-50
 ://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
+/mod/project/*/lead/send/*$document,xmlhttprequest
 ://*.lpcdn.site/assets/*$script,xmlhttprequest
 ://courier.darkleads.pro/data/exchange/extpartner/addorder*$document,xmlhttprequest,script
 ://*.*/common/php/send-order.php?partnerid=*&lendid=*&offer=*$document,xmlhttprequest
@@ -1674,6 +1676,7 @@
 ##body:has(> div.wrap > div.offer_section > section.offer > form.order_form)
 ##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
 ##body:has(> div.wrap > section.opisanie > div > form.order_form)
+##body:has(div.element-content > form.component-form[action$="/lead/send/"])
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
