@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240219.01
-! Last modified: Mon, 19 February 2024 13:43 EET
+! Version: 20240220.01
+! Last modified: Tue, 20 February 2024 15:53 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -149,6 +149,7 @@
 ||cosmolotukraine.co.uk^
 ||cosmoslot.site^
 ||courier.darkleads.pro^
+||crazy-hero.com^
 ||crypt0.fun^
 ||cryptocurrency-helps-ukraine.com^
 ||datacheckqr.net^
@@ -269,9 +270,12 @@
 ||dopomoga-dia.com^
 ||dopomoga-dlia-ukraintsiv.life^
 ||dopomoga-epay.site^
+||dopomoga-ocshd.shop^
 ||dopomoga-oon.com^
 ||dopomoga-oschad.services^
 ||dopomoga-oschad.shop^
+||dopomoga-p24.shop^
+||dopomoga-pr24.shop^
 ||dopomoga-uaweb.website^
 ||dopomoga-ua-online-web.site^
 ||dopomoga-ua.click^
@@ -1719,6 +1723,7 @@
 ://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
+://*dopomoga*.*/$document,domain=business|club|co|eu|fun|pics|services|shop|site|space|top
 !
 ! #TAG-65
 ://web.*.*/get/*$document
@@ -1773,3 +1778,13 @@
 ! #TAG-69
 ://*.*/jphone/9*$xmlhttprequest
 ##html[lang="ru"] > body:has(a[href*="/vote"])
+!
+! #TAG-70
+://*.*/static/servers/*.txt$xmlhttprequest
+://*.*/static/errors/*.txt$xmlhttprequest
+##html[data-scrapbook-source="https://next.privat24.ua/"]
+##html[lang="en"]:has(> body > div.container > div.wrapp > a#btn.btn[href*="/input/"])
+!
+! #TAG-71
+://*.*/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
+##body:has(> div.container > div.order-info > div.aproove > button.button-apr[onclick="location.href='#pay'; subscribe(); sendworker1();"])
