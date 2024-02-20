@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240218.01
-# Last modified: Sun, 18 February 2024 19:20 EET
+# Version: 20240220.01
+# Last modified: Tue, 20 February 2024 15:53 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -145,6 +145,7 @@
 0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
 0.0.0.0 courier.darkleads.pro
+0.0.0.0 crazy-hero.com
 0.0.0.0 crypt0.fun
 0.0.0.0 cryptocurrency-helps-ukraine.com
 0.0.0.0 datacheckqr.net
@@ -297,9 +298,12 @@
 0.0.0.0 dopomoga-dia.com
 0.0.0.0 dopomoga-dlia-ukraintsiv.life
 0.0.0.0 dopomoga-epay.site
+0.0.0.0 dopomoga-ocshd.shop
 0.0.0.0 dopomoga-oon.com
 0.0.0.0 dopomoga-oschad.services
 0.0.0.0 dopomoga-oschad.shop
+0.0.0.0 dopomoga-p24.shop
+0.0.0.0 dopomoga-pr24.shop
 0.0.0.0 dopomoga-ua.click
 0.0.0.0 dopomoga-ua.info
 0.0.0.0 dopomoga-ua.online
