@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240218.01
-# Last modified: Sun, 18 February 2024 19:20 EET
+# Version: 20240220.01
+# Last modified: Tue, 20 February 2024 15:53 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -145,6 +145,7 @@ address=/confirms-qr.com/
 address=/cosmolotukraine.co.uk/
 address=/cosmoslot.site/
 address=/courier.darkleads.pro/
+address=/crazy-hero.com/
 address=/crypt0.fun/
 address=/cryptocurrency-helps-ukraine.com/
 address=/datacheckqr.net/
@@ -266,9 +267,12 @@ address=/dopomoga-az.site/
 address=/dopomoga-dia.com/
 address=/dopomoga-dlia-ukraintsiv.life/
 address=/dopomoga-epay.site/
+address=/dopomoga-ocshd.shop/
 address=/dopomoga-oon.com/
 address=/dopomoga-oschad.services/
 address=/dopomoga-oschad.shop/
+address=/dopomoga-p24.shop/
+address=/dopomoga-pr24.shop/
 address=/dopomoga-uaweb.website/
 address=/dopomoga-ua-online-web.site/
 address=/dopomoga-ua.click/
