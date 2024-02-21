@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240220.01
-! Last modified: Tue, 20 February 2024 15:53 EET
+! Version: 20240221.01
+! Last modified: Wed, 21 February 2024 17:40 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1545,6 +1545,8 @@
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
+/console-ban.min.js$third-party,xmlhttprequest,script
+!
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com
 @@||facebook.com/diia.gov.ua^$document
@@ -1788,3 +1790,7 @@
 ! #TAG-71
 ://*.*/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
 ##body:has(> div.container > div.order-info > div.aproove > button.button-apr[onclick="location.href='#pay'; subscribe(); sendworker1();"])
+!
+! #TAG-72
+##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
+##body:has(div > span.jss60.jss63[style*="background-image: url(/img/logo_site.png)"])
