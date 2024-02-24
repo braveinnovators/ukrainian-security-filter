@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240220.01
-# Last modified: Tue, 20 February 2024 15:53 EET
+# Version: 20240224.01
+# Last modified: Sat, 24 February 2024 16:11 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -315,6 +315,7 @@
 0.0.0.0 dopomoga-ukraine.cloud
 0.0.0.0 dopomoga-ukraine.com
 0.0.0.0 dopomoga-ukraine.pro
+0.0.0.0 dopomogi24.online
 0.0.0.0 dopomogs-ukr.top
 0.0.0.0 dopomohaukraine.world
 0.0.0.0 dopomoha-ua.company.site
@@ -1045,6 +1046,7 @@
 0.0.0.0 relffelsen-ua.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 retivabet.com
+0.0.0.0 rezina-diski.com.ua
 0.0.0.0 ringo-bet.net
 0.0.0.0 riobet.com
 0.0.0.0 rmssrv.ru
