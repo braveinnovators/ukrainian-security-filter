@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240220.01
-# Last modified: Tue, 20 February 2024 15:53 EET
+# Version: 20240224.01
+# Last modified: Sat, 24 February 2024 16:11 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -315,6 +315,7 @@ dopomoga-ua-online-web.site
 dopomoga-ukraine.cloud
 dopomoga-ukraine.com
 dopomoga-ukraine.pro
+dopomogi24.online
 dopomogs-ukr.top
 dopomohaukraine.world
 dopomoha-ua.company.site
@@ -1045,6 +1046,7 @@ regsotsvyplat.online
 relffelsen-ua.com
 reliefukraine.today
 retivabet.com
+rezina-diski.com.ua
 ringo-bet.net
 riobet.com
 rmssrv.ru
