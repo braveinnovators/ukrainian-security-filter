@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240224.01
-! Last modified: Sat, 24 February 2024 16:11 EET
+! Version: 20240224.02
+! Last modified: Sat, 24 February 2024 17:07 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1583,7 +1583,7 @@
 !
 ! MONOBANK.UA
 ://mono.*.$document
-||monobank*.$document,domain=~monobank.ua
+||monobank*.$document,domain=~monobank.com.ua|~monobank.ua
 !
 ! RAIFFEISEN.UA
 ://*-raif.*.$document
