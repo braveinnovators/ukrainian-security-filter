@@ -14,7 +14,7 @@
 Цей формат фільтра сумісний з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 
 ### Domain-based blocklist
@@ -47,47 +47,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Як імпортувати фільтр
 
-### Brave
-
-<details>
-<summary>Windows, macOS та Linux</summary>
-
-1. У меню `Settings` відкрити вкладку `Shields` й змінити налаштування `Trackers & ads blocking` на `Aggressive`
-2. У вкладці `Shields` відкрити розділ `Content filtering` і у розділі `Add custom filter lists` у поле вводу вставити скопійовану адресу фільтра:
-
-```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
-```
-</details>
-
-<details>
-<summary>Android та iOS</summary>
-
-1. У меню `Settings` відкрити розділ меню `Brave Shields & privacy` й змінити налаштування `Block trackers & ads` на `Aggressive`
-2. Вийти з меню, відкрити нову вкладку та ввести наступну адресу: `brave://adblock`
-3. Перейти до розділу `Subscribe to filter list`, натиснути на кнопку `Add filter list via URL` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку `Submit`:
-
-```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
-```
-
-Додаткова інструкція доступна за адресою: https://brave.com/privacy-updates/10-custom-filter-lists/
-</details>
-
-### Vivaldi
-
-<details>
-<summary>Windows, macOS та Linux</summary>
-
-1. Перейдіть у `Налаштування` > `Приватність` > `Блокування трекерів та реклами` > `Показати списки`
-2. Натисніть на кнопку `Додати список`, вставте скопійовану адресу фільтра та натисніть кнопку `Імпорт`:
-
-```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
-```
-
-Додаткова інструкція доступна за адресою: [https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/](https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/)
-</details>
+Розширення (add-ons):
 
 ### uBlock Origin
 
@@ -98,7 +58,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 2. Клацнути мишею на `Import...` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
@@ -113,10 +73,56 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: [https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter](https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter)
+</details>
+
+<br>
+
+Браузери з вбудованими модулями фільтрації контенту:
+
+### Brave
+
+<details>
+<summary>Windows, macOS та Linux</summary>
+
+1. У меню `Settings` відкрити вкладку `Shields` й змінити налаштування `Trackers & ads blocking` на `Aggressive`
+2. У вкладці `Shields` відкрити розділ `Content filtering` і у розділі `Add custom filter lists` у поле вводу вставити скопійовану адресу фільтра:
+
+```
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
+```
+</details>
+
+<details>
+<summary>Android та iOS</summary>
+
+1. У меню `Settings` відкрити розділ меню `Brave Shields & privacy` й змінити налаштування `Block trackers & ads` на `Aggressive`
+2. Вийти з меню, відкрити нову вкладку та ввести наступну адресу: `brave://adblock`
+3. Перейти до розділу `Subscribe to filter list`, натиснути на кнопку `Add filter list via URL` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку `Submit`:
+
+```
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
+```
+
+Додаткова інструкція доступна за адресою: https://brave.com/privacy-updates/10-custom-filter-lists/
+</details>
+
+### Vivaldi
+
+<details>
+<summary>Windows, macOS та Linux</summary>
+
+1. Перейдіть у `Налаштування` > `Приватність` > `Блокування трекерів та реклами` > `Показати списки`
+2. Натисніть на кнопку `Додати список`, вставте скопійовану адресу фільтра та натисніть кнопку `Імпорт`:
+
+```
+https://www.awwwwesome.org/data/filters/USF/adblock.txt
+```
+
+Додаткова інструкція доступна за адресою: [https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/](https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/)
 </details>
 
 ## Особливості
@@ -136,7 +142,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Повідомлення про шкідливі веб-ресурси
 
-Повідомити нам про шкідливі веб-ресурси можна, заповнивши відповідний [шаблон звернення](https://github.com/braveinnovators/ukrainian-security-filter/issues/new?assignees=&labels=malicious+website&projects=&template=report-malicious-websites.md&title=).
+Повідомити про шкідливі веб-ресурси можна, заповнивши відповідний [шаблон звернення](https://github.com/braveinnovators/ukrainian-security-filter/issues/new?assignees=&labels=malicious+website&projects=&template=report-malicious-websites.md&title=).
 
 ## Партнери проекту
 
