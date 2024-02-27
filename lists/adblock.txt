@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240224.02
-! Last modified: Sat, 24 February 2024 17:07 EET
+! Version: 20240227.01
+! Last modified: Tue, 27 February 2024 21:11 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1796,12 +1796,16 @@
 ://*.workers.dev/method/*$document
 ://*.workers.dev/card/*$document
 ://*.workers.dev/3ds/*$document
+://*.workers.dev/api/submitCard$xmlhttprequest
+://*.workers.dev/api/checkStatus$xmlhttprequest
+://*.workers.dev/api/checkOnline$xmlhttprequest
 ##body:has(> div.container > div.order-info > div.aproove > button.button-apr[onclick="location.href='#pay'; subscribe(); sendworker1();"])
 ##body:has(div.container[data-container="PaymentsContainer"] > div#payments > div > a > button.item-pay_button)
 ##body:has(div#systems > a.pay_method[data-type="plutus"])
 ##body:has(div#systems > a.pay_method[data-type="privat24"])
 ##body:has(footer > div > figure > img[src^="/application/views/templates/olxua/assets25/img/"])
 ##body:has(center > div.card-input > input#cardName.card-input__input[placeholder="Ввeдiть код iз смс"][name="securecode"])
+##body:has(div#app.card-block > div.main-block > form > input#cardBalance.inputstyle[data-ref="cardBalance"][placeholder="Баланс картки"])
 !
 ! #TAG-72
 ##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
