@@ -1,1 +1,2 @@
-*.txt linguist-language=AdBlock linguist-detectable
+lists/adblock.txt linguist-language=adblock linguist-detectable
+lists/hosts.txt linguist-language=hosts linguist-detectable
