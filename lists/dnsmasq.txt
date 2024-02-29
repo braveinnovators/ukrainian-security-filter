@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240224.01
-# Last modified: Sat, 24 February 2024 16:11 EET
+# Version: 20240229.01
+# Last modified: Thu, 29 February 2024 15:49 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -162,6 +162,7 @@ address=/diaaukraine.space/
 address=/diaa-ukraine.site/
 address=/diaa-ukraine.space/
 address=/diadopomogaio.online/
+address=/diamondclub.casino/
 address=/discountshopukraine.store/
 address=/discount-sale.website/
 address=/diuaaaaxxx.sbs/
@@ -637,6 +638,7 @@ address=/moneyukraine24.site/
 address=/money-ukraine.site/
 address=/monoslot1.com/
 address=/monoslot2.com/
+address=/monoslot3.com/
 address=/monoslot.com/
 address=/mostbet-ua5.com/
 address=/mostbet.com/
@@ -826,6 +828,7 @@ address=/oschad-help.com/
 address=/oschad-online.charity/
 address=/oschad-paybank.xyz/
 address=/oschad-ua.shop/
+address=/oshad24.biz.ua/
 address=/oshadbank24.win/
 address=/oshadbankoon.com/
 address=/oshadbank.online/
@@ -871,6 +874,7 @@ address=/pari3.win/
 address=/pari4.win/
 address=/pari7.win/
 address=/pari8.win/
+address=/parik24.win/
 address=/parik2413.com/
 address=/parimatch.com/
 address=/parimatch.net/
@@ -1046,6 +1050,7 @@ address=/regsotsvyplat.online/
 address=/relffelsen-ua.com/
 address=/reliefukraine.today/
 address=/retivabet.com/
+address=/retiva-bet777.com/
 address=/rezina-diski.com.ua/
 address=/ringo-bet.net/
 address=/riobet.com/
@@ -1113,6 +1118,7 @@ address=/spaseid.store/
 address=/spaseid.uno/
 address=/spend-ua.top/
 address=/spinbetter.com/
+address=/sportloto-1.co/
 address=/sportloto.co/
 address=/stake.com/
 address=/starlinkukraine.com/
