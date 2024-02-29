@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240224.01
-# Last modified: Sat, 24 February 2024 16:11 EET
+# Version: 20240229.01
+# Last modified: Thu, 29 February 2024 15:49 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -162,6 +162,7 @@ diaaukraine.space
 diaa-ukraine.site
 diaa-ukraine.space
 diadopomogaio.online
+diamondclub.casino
 discountshopukraine.store
 discount-sale.website
 diuaaaaxxx.sbs
@@ -643,6 +644,7 @@ money-ukraine.site
 monoslot.com
 monoslot1.com
 monoslot2.com
+monoslot3.com
 mostbet.com
 mostbet-ua5.com
 mrking.fun
@@ -829,6 +831,7 @@ oschad-ua.shop
 oshad.online
 oshad.space
 oshad.website
+oshad24.biz.ua
 oshadbank.online
 oshadbank.pro
 oshadbank.pw
@@ -872,6 +875,7 @@ pari3.win
 pari4.win
 pari7.win
 pari8.win
+parik24.win
 parik2413.com
 parimatch.com
 parimatch.net
@@ -1046,6 +1050,7 @@ regsotsvyplat.online
 relffelsen-ua.com
 reliefukraine.today
 retivabet.com
+retiva-bet777.com
 rezina-diski.com.ua
 ringo-bet.net
 riobet.com
@@ -1115,6 +1120,7 @@ spaseid.uno
 spend-ua.top
 spinbetter.com
 sportloto.co
+sportloto-1.co
 stake.com
 starlinkukraine.com
 starlink-ukraine.net

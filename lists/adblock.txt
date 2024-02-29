@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240227.01
-! Last modified: Tue, 27 February 2024 21:11 EET
+! Version: 20240229.01
+! Last modified: Thu, 29 February 2024 15:49 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -166,6 +166,7 @@
 ||diaa-ukraine.site^
 ||diaa-ukraine.space^
 ||diadopomogaio.online^
+||diamondclub.casino^
 ||discountshopukraine.store^
 ||discount-sale.website^
 ||diuaaaaxxx.sbs^
@@ -595,6 +596,7 @@
 ||money-ukraine.site^
 ||monoslot1.com^
 ||monoslot2.com^
+||monoslot3.com^
 ||monoslot.com^
 ||mostbet-ua5.com^
 ||mostbet.com^
@@ -739,6 +741,7 @@
 ||oschad-online.charity^
 ||oschad-paybank.xyz^
 ||oschad-ua.shop^
+||oshad24.biz.ua^
 ||oshadbank24.win^
 ||oshadbankoon.com^
 ||oshadbank.online^
@@ -782,6 +785,7 @@
 ||pari4.win^
 ||pari7.win^
 ||pari8.win^
+||parik24.win^
 ||parik2413.com^
 ||parimatch.com^
 ||parimatch.net^
@@ -955,6 +959,7 @@
 ||relffelsen-ua.com^
 ||reliefukraine.today^
 ||retivabet.com^
+||retiva-bet777.com^
 ||rezina-diski.com.ua^
 ||ringo-bet.net^
 ||riobet.com^
@@ -1022,6 +1027,7 @@
 ||spaseid.uno^
 ||spend-ua.top^
 ||spinbetter.com^
+||sportloto-1.co^
 ||sportloto.co^
 ||stake.com^
 ||starlinkukraine.com^
@@ -1810,3 +1816,6 @@
 ! #TAG-72
 ##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
 ##body:has(div > span.jss60.jss63[style*="background-image: url(/img/logo_site.png)"])
+!
+! #TAG-71
+##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
