@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240224.01
-# Last modified: Sat, 24 February 2024 16:11 EET
+# Version: 20240229.01
+# Last modified: Thu, 29 February 2024 15:49 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -162,6 +162,7 @@
 0.0.0.0 diaa-ukraine.site
 0.0.0.0 diaa-ukraine.space
 0.0.0.0 diadopomogaio.online
+0.0.0.0 diamondclub.casino
 0.0.0.0 discountshopukraine.store
 0.0.0.0 discount-sale.website
 0.0.0.0 diuaaaaxxx.sbs
@@ -643,6 +644,7 @@
 0.0.0.0 monoslot.com
 0.0.0.0 monoslot1.com
 0.0.0.0 monoslot2.com
+0.0.0.0 monoslot3.com
 0.0.0.0 mostbet.com
 0.0.0.0 mostbet-ua5.com
 0.0.0.0 mrking.fun
@@ -829,6 +831,7 @@
 0.0.0.0 oshad.online
 0.0.0.0 oshad.space
 0.0.0.0 oshad.website
+0.0.0.0 oshad24.biz.ua
 0.0.0.0 oshadbank.online
 0.0.0.0 oshadbank.pro
 0.0.0.0 oshadbank.pw
@@ -872,6 +875,7 @@
 0.0.0.0 pari4.win
 0.0.0.0 pari7.win
 0.0.0.0 pari8.win
+0.0.0.0 parik24.win
 0.0.0.0 parik2413.com
 0.0.0.0 parimatch.com
 0.0.0.0 parimatch.net
@@ -1046,6 +1050,7 @@
 0.0.0.0 relffelsen-ua.com
 0.0.0.0 reliefukraine.today
 0.0.0.0 retivabet.com
+0.0.0.0 retiva-bet777.com
 0.0.0.0 rezina-diski.com.ua
 0.0.0.0 ringo-bet.net
 0.0.0.0 riobet.com
@@ -1115,6 +1120,7 @@
 0.0.0.0 spend-ua.top
 0.0.0.0 spinbetter.com
 0.0.0.0 sportloto.co
+0.0.0.0 sportloto-1.co
 0.0.0.0 stake.com
 0.0.0.0 starlinkukraine.com
 0.0.0.0 starlink-ukraine.net
