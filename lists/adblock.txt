@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240229.01
-! Last modified: Thu, 29 February 2024 15:49 EET
+! Version: 20240302.01
+! Last modified: Sat, 02 March 2024 11:19 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -61,6 +61,7 @@
 ||aid24-ua.website^
 ||aiderinukr-gov.site^
 ||aiderukr-gov.site^
+||aidforukraine.za.com^
 ||aidforukr-gov.site^
 ||aidgetukr-gov.site^
 ||aid-for-ukraine.info^
@@ -459,6 +460,7 @@
 ||helpukrpay.com^
 ||helpukr.pro^
 ||helpukr.support^
+||help-for-ukraine.online^
 ||help-oschad24.shop^
 ||help-ua.in.ua^
 ||help-ua.social^
@@ -1196,6 +1198,7 @@
 ||ukraineaidnow.org^
 ||ukraineamazon.com^
 ||ukraineamazon.pro^
+||ukraineassistancefund.za.com^
 ||ukrainebasket.space^
 ||ukrainecross.org^
 ||ukrainedecor.com.ua^
@@ -1207,6 +1210,7 @@
 ||ukraineebay.vip^
 ||ukrainefacility.store^
 ||ukrainefamily.store^
+||ukrainefinancialaid.za.com^
 ||ukrainegoods.store^
 ||ukrainehelps.cloud^
 ||ukrainehelp.click^
@@ -1217,12 +1221,14 @@
 ||ukraineishop.com.ua^
 ||ukrainemag.space^
 ||ukrainemarket.site^
+||ukrainemoneyhelp.za.com^
 ||ukraineneedshelp.site^
 ||ukraineonlineshop.fun^
 ||ukrainepaymentsystem.pro^
 ||ukrainepays.site^
 ||ukrainepay.online^
 ||ukrainepay.site^
+||ukrainepomosh.online^
 ||ukraineproductstore.fun^
 ||ukraineproduct.fun^
 ||ukrainerozetka.com^
