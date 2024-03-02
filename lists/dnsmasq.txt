@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240229.01
-# Last modified: Thu, 29 February 2024 15:49 EET
+# Version: 20240302.01
+# Last modified: Sat, 02 March 2024 11:19 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -56,6 +56,7 @@ address=/aid24-ua.space/
 address=/aid24-ua.website/
 address=/aiderinukr-gov.site/
 address=/aiderukr-gov.site/
+address=/aidforukraine.za.com/
 address=/aidforukr-gov.site/
 address=/aidgetukr-gov.site/
 address=/aid-for-ukraine.info/
@@ -460,6 +461,7 @@ address=/helpukrainian.site/
 address=/helpukrpay.com/
 address=/helpukr.pro/
 address=/helpukr.support/
+address=/help-for-ukraine.online/
 address=/help-oschad24.shop/
 address=/help-ua.in.ua/
 address=/help-ua.social/
@@ -1291,6 +1293,7 @@ address=/ukraineaidnow.net/
 address=/ukraineaidnow.org/
 address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
+address=/ukraineassistancefund.za.com/
 address=/ukrainebasket.space/
 address=/ukrainecross.org/
 address=/ukrainedecor.com.ua/
@@ -1302,6 +1305,7 @@ address=/ukrainedostavka.store/
 address=/ukraineebay.vip/
 address=/ukrainefacility.store/
 address=/ukrainefamily.store/
+address=/ukrainefinancialaid.za.com/
 address=/ukrainegoods.store/
 address=/ukrainehelps.cloud/
 address=/ukrainehelp.click/
@@ -1312,12 +1316,14 @@ address=/ukrainehotspothelp.com/
 address=/ukraineishop.com.ua/
 address=/ukrainemag.space/
 address=/ukrainemarket.site/
+address=/ukrainemoneyhelp.za.com/
 address=/ukraineneedshelp.site/
 address=/ukraineonlineshop.fun/
 address=/ukrainepaymentsystem.pro/
 address=/ukrainepays.site/
 address=/ukrainepay.online/
 address=/ukrainepay.site/
+address=/ukrainepomosh.online/
 address=/ukraineproductstore.fun/
 address=/ukraineproduct.fun/
 address=/ukrainerozetka.com/
