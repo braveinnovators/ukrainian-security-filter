@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240229.01
-# Last modified: Thu, 29 February 2024 15:49 EET
+# Version: 20240302.01
+# Last modified: Sat, 02 March 2024 11:19 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -56,6 +56,7 @@
 0.0.0.0 aid24-ua.website
 0.0.0.0 aiderinukr-gov.site
 0.0.0.0 aiderukr-gov.site
+0.0.0.0 aidforukraine.za.com
 0.0.0.0 aidforukr-gov.site
 0.0.0.0 aidgetukr-gov.site
 0.0.0.0 aid-for-ukraine.info
@@ -460,6 +461,7 @@
 0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpukrpay.com
+0.0.0.0 help-for-ukraine.online
 0.0.0.0 help-oschad24.shop
 0.0.0.0 help-ua.in.ua
 0.0.0.0 help-ua.social
@@ -1293,6 +1295,7 @@
 0.0.0.0 ukraineaidnow.org
 0.0.0.0 ukraineamazon.com
 0.0.0.0 ukraineamazon.pro
+0.0.0.0 ukraineassistancefund.za.com
 0.0.0.0 ukrainebasket.space
 0.0.0.0 ukrainecross.org
 0.0.0.0 ukrainedecor.com.ua
@@ -1304,6 +1307,7 @@
 0.0.0.0 ukraineebay.vip
 0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainefamily.store
+0.0.0.0 ukrainefinancialaid.za.com
 0.0.0.0 ukrainegoods.store
 0.0.0.0 ukrainehelp.click
 0.0.0.0 ukrainehelp.cloud
@@ -1314,12 +1318,14 @@
 0.0.0.0 ukraineishop.com.ua
 0.0.0.0 ukrainemag.space
 0.0.0.0 ukrainemarket.site
+0.0.0.0 ukrainemoneyhelp.za.com
 0.0.0.0 ukraineneedshelp.site
 0.0.0.0 ukraineonlineshop.fun
 0.0.0.0 ukrainepay.online
 0.0.0.0 ukrainepay.site
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
+0.0.0.0 ukrainepomosh.online
 0.0.0.0 ukraineproduct.fun
 0.0.0.0 ukraineproductstore.fun
 0.0.0.0 ukrainerozetka.com
