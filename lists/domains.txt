@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240229.01
-# Last modified: Thu, 29 February 2024 15:49 EET
+# Version: 20240302.01
+# Last modified: Sat, 02 March 2024 11:19 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -56,6 +56,7 @@ aid24-ua.space
 aid24-ua.website
 aiderinukr-gov.site
 aiderukr-gov.site
+aidforukraine.za.com
 aidforukr-gov.site
 aidgetukr-gov.site
 aid-for-ukraine.info
@@ -460,6 +461,7 @@ helpukraine.uk
 helpukrainemoneydopomoga.com
 helpukrainian.site
 helpukrpay.com
+help-for-ukraine.online
 help-oschad24.shop
 help-ua.in.ua
 help-ua.social
@@ -1293,6 +1295,7 @@ ukraineaidnow.net
 ukraineaidnow.org
 ukraineamazon.com
 ukraineamazon.pro
+ukraineassistancefund.za.com
 ukrainebasket.space
 ukrainecross.org
 ukrainedecor.com.ua
@@ -1304,6 +1307,7 @@ ukrainedostavka.store
 ukraineebay.vip
 ukrainefacility.store
 ukrainefamily.store
+ukrainefinancialaid.za.com
 ukrainegoods.store
 ukrainehelp.click
 ukrainehelp.cloud
@@ -1314,12 +1318,14 @@ ukrainehotspothelp.com
 ukraineishop.com.ua
 ukrainemag.space
 ukrainemarket.site
+ukrainemoneyhelp.za.com
 ukraineneedshelp.site
 ukraineonlineshop.fun
 ukrainepay.online
 ukrainepay.site
 ukrainepaymentsystem.pro
 ukrainepays.site
+ukrainepomosh.online
 ukraineproduct.fun
 ukraineproductstore.fun
 ukrainerozetka.com
