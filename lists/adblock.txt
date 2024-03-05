@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240302.01
-! Last modified: Sat, 02 March 2024 11:19 EET
+! Version: 20240305.01
+! Last modified: Tue, 05 March 2024 16:51 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1684,6 +1684,7 @@
 ://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=login$document,xmlhttprequest
 ://*.*/user.php?mod=do&act=register$document,xmlhttprequest
+://*.*/ok.php$document,domain=shop|store
 ##html[lang*="ru"] > body:has(> div.main_wrapper > [class*="_section"])
 ##html[lang*="ru"] > body:has(> div.wrap > [class*="_section"])
 ##body:has(section.offer > div.order_form > form[id*="order"][class*="main-order"][action*="order.php"])
@@ -1698,6 +1699,7 @@
 ##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
 ##body:has(> div.wrap > section.opisanie > div > form.order_form)
 ##body:has(div.element-content > form.component-form[action$="/lead/send/"])
+##body:has(div.newsletter-wrap > div.newsletter-form > form[action="ok.php"])
 !
 ! #TAG-53
 ://*loto*.*/comission.php$document
