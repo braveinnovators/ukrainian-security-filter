@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240305.01
-! Last modified: Tue, 05 March 2024 16:51 EET
+! Version: 20240306.01
+! Last modified: Wed, 06 March 2024 19:39 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -974,6 +974,7 @@
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
 ||rozetka.cc^
+||ru.com^
 ||rybalka-ua.site^
 ||rysebet.com^
 ||safe-uagov.cloud^
@@ -1524,10 +1525,9 @@
 !
 ||*diya_official^$document,domain=t.me|telegram.me
 ||*dopomogahi^$document,domain=t.me|telegram.me
-||*dopomogaofficial_bot^$document,domain=t.me|telegram.me
 ||*e_dopomoga_2024^$document,domain=t.me|telegram.me
 ||*egroshi_ua^$document,domain=t.me|telegram.me
-||*ekaterinadopomogaoon2024^$document,domain=t.me|telegram.me
+||*ekaterinaoonuk^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*pravovadopomoga24^$document,domain=t.me|telegram.me
 ||*ukrua2023^$document,domain=t.me|telegram.me
