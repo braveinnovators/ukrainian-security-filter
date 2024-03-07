@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240306.01
-! Last modified: Wed, 06 March 2024 19:39 EET
+! Version: 20240307.01
+! Last modified: Thu, 07 March 2024 18:48 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1820,10 +1820,11 @@
 ##body:has(footer > div > figure > img[src^="/application/views/templates/olxua/assets25/img/"])
 ##body:has(center > div.card-input > input#cardName.card-input__input[placeholder="Ввeдiть код iз смс"][name="securecode"])
 ##body:has(div#app.card-block > div.main-block > form > input#cardBalance.inputstyle[data-ref="cardBalance"][placeholder="Баланс картки"])
+##body:has(div#root > div > div > div > div > div > div > form[action^="/card/"][method="get"])
 !
 ! #TAG-72
 ##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
 ##body:has(div > span.jss60.jss63[style*="background-image: url(/img/logo_site.png)"])
 !
-! #TAG-71
+! #TAG-73
 ##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
