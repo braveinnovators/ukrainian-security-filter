@@ -105,7 +105,7 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 <summary>Android та iOS</summary>
 
 1. У меню `Settings` відкрити розділ меню `Brave Shields & privacy` й змінити налаштування `Block trackers & ads` на `Aggressive`
-2. У розділі меню `Brave Shields & privacy` відкрити `Content filtering`, далі `Add custom filter list` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку `Submit`:
+2. У розділі меню `Brave Shields & privacy` відкрити `Content filtering`, далі `Add custom filter list` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку `Add`:
 
 ```
 https://www.awwwwesome.org/data/filters/USF/adblock.txt
