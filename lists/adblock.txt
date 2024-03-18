@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240309.01
-! Last modified: Sat, 09 March 2024 13:16 EET
+! Version: 20240318.01
+! Last modified: Mon, 18 March 2024 15:35 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -36,6 +36,7 @@
 ||3ds-vlsa.com^
 ||7goxbet.com^
 ||8slottica.com^
+||10goxbet.com^
 ||15jokerua.top^
 ||23konkurs.site^
 ||24helpuapay.com^
@@ -94,6 +95,8 @@
 ||bet2fun1.online^
 ||bet2fun2.online^
 ||bet2fun3.online^
+||bet2fun4.online^
+||bet2fun5.online^
 ||bet2fun.lol^
 ||bet2fun.online^
 ||bet2fun.pw^
@@ -106,6 +109,7 @@
 ||betwinner4.com^
 ||betwinner5.com^
 ||betwinner-371307.top^
+||betwinner-india.com^
 ||betwinner-ua.com^
 ||betwinner-ukraine.com^
 ||betwinner.com^
@@ -118,6 +122,7 @@
 ||bitshopping.net^
 ||bitz1.vip^
 ||bitz2.vip^
+||bitz6.vip^
 ||bitz.io^
 ||bk-1x-bet.com^
 ||blockchain4ukraine.com^
@@ -160,7 +165,6 @@
 ||delivery-pay.website^
 ||derjavaukraine.cc^
 ||device-by-apple-ua.store^
-||devtome.top^$document,xmlhttprequest
 ||de-ukr.net^
 ||diaaukraine.site^
 ||diaaukraine.space^
@@ -333,6 +337,7 @@
 ||dragongold88.com^
 ||dragonsgold888.com^
 ||drone-ua.space^
+||dude1.bet^
 ||easy-casino.net^
 ||ebayua66.com^
 ||ebayua66.vip^
@@ -490,6 +495,7 @@
 ||i-ua.website^
 ||jackpot.com^
 ||joepay.online^
+||johnny24.bet^
 ||jokerua.live^
 ||jokerua.pro^
 ||jokerua.top^
@@ -572,6 +578,7 @@
 ||megaukrshop.fun^
 ||melbetua.com^
 ||melbet-60491.top^
+||melbet-india.net^
 ||melbet.com^
 ||merejjka.store^
 ||meta-ua.com^
@@ -599,6 +606,7 @@
 ||monoslot1.com^
 ||monoslot2.com^
 ||monoslot3.com^
+||monoslot4.com^
 ||monoslot.com^
 ||mostbet-ua5.com^
 ||mostbet.com^
@@ -782,6 +790,7 @@
 ||panda-sale.com.ua^
 ||parfums.top^
 ||pari1.win^
+||pari2win.net^
 ||pari2.win^
 ||pari3.win^
 ||pari4.win^
@@ -793,6 +802,7 @@
 ||parimatch.net^
 ||pari-match.com^
 ||pari-win1.com^
+||pari-win67.com^
 ||pari.win^
 ||passport-ua.com^
 ||patriot-ukraine.fun^
@@ -833,6 +843,7 @@
 ||pidtrumkadiya.info^
 ||pidtrumkadiya.site^
 ||pidtrumkapruvat24.world^
+||pingwincasino.com^
 ||pin-up.casino^
 ||pkeedo.co.ua^
 ||planet-ua.com^
@@ -1014,6 +1025,7 @@
 ||shop-top-ua.store^
 ||shop-ua.space^
 ||shop-ua.top^
+||simpacasino1.com^
 ||simpacasino.com^
 ||slotclub1.pro^
 ||slotclubcasino.com^
@@ -1021,6 +1033,7 @@
 ||slotokingua.com^
 ||slotoking.me^
 ||slotoking.org.ua^
+||slotoland-casino.com.ua^
 ||slotor2.com^
 ||slotor7.com^
 ||slottica.com^
@@ -1069,6 +1082,7 @@
 ||toidopomoga.org^
 ||toidopomoga.pro^
 ||topmarketukr.online^
+||topmatch.win^
 ||topproductsukr.store^
 ||topshopukraine.space^
 ||topstoreukr.online^
@@ -1519,6 +1533,8 @@
 ||yr-ukr.net^
 ||zoloto-loto.net^
 !
+||devtome.top^$document,xmlhttprequest
+!
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
@@ -1636,6 +1652,7 @@
 ! KYIVSTAR.UA
 ://*kyivstar*.*/$document,domain=~kyivstar.ua
 @@||instagram.com/kyivstar.official^$document
+://*kievstar*.*/$document
 !
 ! OLX.UA
 ||olxdos*.$document,domain=cfd|sbs|shop|world
