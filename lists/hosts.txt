@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240302.01
-# Last modified: Sat, 02 March 2024 11:19 EET
+# Version: 20240318.01
+# Last modified: Mon, 18 March 2024 15:35 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -31,6 +31,7 @@
 0.0.0.0 3ds-vlsa.com
 0.0.0.0 7goxbet.com
 0.0.0.0 8slottica.com
+0.0.0.0 10goxbet.com
 0.0.0.0 15jokerua.top
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
@@ -95,6 +96,8 @@
 0.0.0.0 bet2fun1.online
 0.0.0.0 bet2fun2.online
 0.0.0.0 bet2fun3.online
+0.0.0.0 bet2fun4.online
+0.0.0.0 bet2fun5.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -103,6 +106,7 @@
 0.0.0.0 betwinner4.com
 0.0.0.0 betwinner5.com
 0.0.0.0 betwinner-371307.top
+0.0.0.0 betwinner-india.com
 0.0.0.0 betwinner-ua.com
 0.0.0.0 betwinner-ukraine.com
 0.0.0.0 betworld247.com
@@ -115,6 +119,7 @@
 0.0.0.0 bitz.io
 0.0.0.0 bitz1.vip
 0.0.0.0 bitz2.vip
+0.0.0.0 bitz6.vip
 0.0.0.0 bk-1x-bet.com
 0.0.0.0 blockchain4ukraine.com
 0.0.0.0 bs-market.store
@@ -331,6 +336,7 @@
 0.0.0.0 dragongold88.com
 0.0.0.0 dragonsgold888.com
 0.0.0.0 drone-ua.space
+0.0.0.0 dude1.bet
 0.0.0.0 easy-casino.net
 0.0.0.0 ebayua.cc
 0.0.0.0 ebayua.com
@@ -495,6 +501,7 @@
 0.0.0.0 i-ua.website
 0.0.0.0 jackpot.com
 0.0.0.0 joepay.online
+0.0.0.0 johnny24.bet
 0.0.0.0 joker.green
 0.0.0.0 joker.land
 0.0.0.0 joker.ua
@@ -512,6 +519,7 @@
 0.0.0.0 kattele.top
 0.0.0.0 kazinosvip.net
 0.0.0.0 kievstar.online
+0.0.0.0 kievstar.org
 0.0.0.0 kiiev.site
 0.0.0.0 kojnomydopomoga.sbs
 0.0.0.0 komfort-house.store
@@ -620,6 +628,7 @@
 0.0.0.0 melbet.com
 0.0.0.0 melbetua.com
 0.0.0.0 melbet-60491.top
+0.0.0.0 melbet-india.net
 0.0.0.0 merejjka.store
 0.0.0.0 meta-ua.com
 0.0.0.0 meta-ua.site
@@ -647,6 +656,7 @@
 0.0.0.0 monoslot1.com
 0.0.0.0 monoslot2.com
 0.0.0.0 monoslot3.com
+0.0.0.0 monoslot4.com
 0.0.0.0 mostbet.com
 0.0.0.0 mostbet-ua5.com
 0.0.0.0 mrking.fun
@@ -873,6 +883,7 @@
 0.0.0.0 pari.win
 0.0.0.0 pari1.win
 0.0.0.0 pari2.win
+0.0.0.0 pari2win.net
 0.0.0.0 pari3.win
 0.0.0.0 pari4.win
 0.0.0.0 pari7.win
@@ -883,6 +894,7 @@
 0.0.0.0 parimatch.net
 0.0.0.0 pari-match.com
 0.0.0.0 pari-win1.com
+0.0.0.0 pari-win67.com
 0.0.0.0 passport-ua.com
 0.0.0.0 patriot-ukraine.fun
 0.0.0.0 patriot-ukraine.info
@@ -923,6 +935,7 @@
 0.0.0.0 pidtrumkadiya.info
 0.0.0.0 pidtrumkadiya.site
 0.0.0.0 pidtrumkapruvat24.world
+0.0.0.0 pingwincasino.com
 0.0.0.0 pin-up.casino
 0.0.0.0 pkeedo.co.ua
 0.0.0.0 planet-ua.com
@@ -1106,12 +1119,14 @@
 0.0.0.0 shop-ua.space
 0.0.0.0 shop-ua.top
 0.0.0.0 simpacasino.com
+0.0.0.0 simpacasino1.com
 0.0.0.0 slotclub.pro
 0.0.0.0 slotclub1.pro
 0.0.0.0 slotclubcasino.com
 0.0.0.0 slotoking.me
 0.0.0.0 slotoking.org.ua
 0.0.0.0 slotokingua.com
+0.0.0.0 slotoland-casino.com.ua
 0.0.0.0 slotor2.com
 0.0.0.0 slotor7.com
 0.0.0.0 slottica.com
@@ -1160,6 +1175,7 @@
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
 0.0.0.0 topmarketukr.online
+0.0.0.0 topmatch.win
 0.0.0.0 topproductsukr.store
 0.0.0.0 topshopukraine.space
 0.0.0.0 topstoreukr.online
