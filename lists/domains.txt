@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240302.01
-# Last modified: Sat, 02 March 2024 11:19 EET
+# Version: 20240318.01
+# Last modified: Mon, 18 March 2024 15:35 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -31,6 +31,7 @@
 3ds-vlsa.com
 7goxbet.com
 8slottica.com
+10goxbet.com
 15jokerua.top
 23konkurs.site
 24helpuapay.com
@@ -95,6 +96,8 @@ bet2fun.xyz
 bet2fun1.online
 bet2fun2.online
 bet2fun3.online
+bet2fun4.online
+bet2fun5.online
 betandyou2.com
 betwinner.com
 betwinner1.com
@@ -103,6 +106,7 @@ betwinner3.com
 betwinner4.com
 betwinner5.com
 betwinner-371307.top
+betwinner-india.com
 betwinner-ua.com
 betwinner-ukraine.com
 betworld247.com
@@ -115,6 +119,7 @@ bitshopping.net
 bitz.io
 bitz1.vip
 bitz2.vip
+bitz6.vip
 bk-1x-bet.com
 blockchain4ukraine.com
 bs-market.store
@@ -331,6 +336,7 @@ dostawo4ka-ua.life
 dragongold88.com
 dragonsgold888.com
 drone-ua.space
+dude1.bet
 easy-casino.net
 ebayua.cc
 ebayua.com
@@ -495,6 +501,7 @@ izzi-money.online
 i-ua.website
 jackpot.com
 joepay.online
+johnny24.bet
 joker.green
 joker.land
 joker.ua
@@ -512,6 +519,7 @@ kattele.store
 kattele.top
 kazinosvip.net
 kievstar.online
+kievstar.org
 kiiev.site
 kojnomydopomoga.sbs
 komfort-house.store
@@ -620,6 +628,7 @@ megaukrshop.fun
 melbet.com
 melbetua.com
 melbet-60491.top
+melbet-india.net
 merejjka.store
 meta-ua.com
 meta-ua.site
@@ -647,6 +656,7 @@ monoslot.com
 monoslot1.com
 monoslot2.com
 monoslot3.com
+monoslot4.com
 mostbet.com
 mostbet-ua5.com
 mrking.fun
@@ -873,6 +883,7 @@ parfums.top
 pari.win
 pari1.win
 pari2.win
+pari2win.net
 pari3.win
 pari4.win
 pari7.win
@@ -883,6 +894,7 @@ parimatch.com
 parimatch.net
 pari-match.com
 pari-win1.com
+pari-win67.com
 passport-ua.com
 patriot-ukraine.fun
 patriot-ukraine.info
@@ -923,6 +935,7 @@ pidtrimka-e.xyz
 pidtrumkadiya.info
 pidtrumkadiya.site
 pidtrumkapruvat24.world
+pingwincasino.com
 pin-up.casino
 pkeedo.co.ua
 planet-ua.com
@@ -1106,12 +1119,14 @@ shop-top-ua.store
 shop-ua.space
 shop-ua.top
 simpacasino.com
+simpacasino1.com
 slotclub.pro
 slotclub1.pro
 slotclubcasino.com
 slotoking.me
 slotoking.org.ua
 slotokingua.com
+slotoland-casino.com.ua
 slotor2.com
 slotor7.com
 slottica.com
@@ -1160,6 +1175,7 @@ toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
 topmarketukr.online
+topmatch.win
 topproductsukr.store
 topshopukraine.space
 topstoreukr.online
