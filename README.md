@@ -48,15 +48,15 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Сумісність з браузерами та розширеннями
 
-Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту ([Brave](https://brave.com/), [Vivaldi](https://vivaldi.com/)), так і з популярними сторонніми розширеннями ([uBlock Origin](https://ublockorigin.com/), [Adblock Plus](https://adblockplus.org/), [AdBlock](https://getadblock.com/)), ми рекомендуємо використовувати браузер [Firefox](https://www.mozilla.org/firefox/) разом з розширенням [uBlock Origin](https://ublockorigin.com/).
+Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту, так і з популярними сторонніми розширеннями, користувачам персональних комп'ютерів ми рекомендуємо використовувати браузер [Firefox](https://www.mozilla.org/firefox/) разом з розширенням [uBlock Origin](https://ublockorigin.com/) (або ж будь-який інший браузер разом із розширенням uBlock Origin).
 
-**Увага**. Останні версії розширень Adblock Plus та AdGuard ([Issue #2760](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2760)) перестали обробляти правила фільтрації, що містяться у фільтрі, незважаючи на те, що вони повністю відповідають синтаксису Adblock. Враховуючи нестабільність роботи вищезгаданих розширень, ми рекомендуємо використовувати або браузер Brave (має власний модуль фільтрації), або розширення uBlock Origin.
+Для мобільних пристроїв оптимальним варіантом буде використання браузера [Brave](https://brave.com/), який має власний модуль фільтрації контенту та вбудовані різноманітні функції захисту.
 
-## Як імпортувати фільтр
+**Увага**. Останні версії розширень Adblock Plus та AdGuard ([Issue #2760](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2760)) перестали обробляти правила фільтрації, що містяться у фільтрі, незважаючи на те, що вони повністю відповідають синтаксису Adblock. Враховуючи нестабільність роботи вищезгаданих розширень, ми не рекомендуємо їх використовувати.
 
-Браузери з вбудованими модулями фільтрації контенту:
+### Як імпортувати фільтр
 
-### Brave
+#### Brave
 
 <details>
 <summary>Windows, macOS та Linux</summary>
@@ -80,26 +80,7 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 </details>
 
-### Vivaldi
-
-<details>
-<summary>Windows, macOS та Linux</summary>
-
-1. Перейдіть у `Налаштування` > `Приватність` > `Блокування трекерів та реклами` > `Показати списки`
-2. Натисніть на кнопку `Додати список`, вставте скопійовану адресу фільтра та натисніть кнопку `Імпорт`:
-
-```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
-```
-
-Додаткова інструкція доступна за адресою: [https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/](https://help.vivaldi.com/uk/desktop-uk/privacy-uk/tracking-and-ad-blocking/)
-</details>
-
-<br>
-
-Розширення (add-ons):
-
-### uBlock Origin
+#### uBlock Origin
 
 <details>
 <summary>Windows, macOS та Linux</summary>
@@ -112,21 +93,6 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
-</details>
-
-### Adblock Plus
-
-<details>
-<summary>Windows, macOS та Linux</summary>
-
-1. Відкрити меню налаштування розширення Adblock Plus, клацнути мишею на вкладку `Advanced` і прокрутити до розділу `My filter list`
-2. У поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
-
-```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
-```
-
-Додаткова інструкція доступна за адресою: [https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter](https://help.adblockplus.org/hc/en-us/articles/360062859913-Add-a-custom-filter)
 </details>
 
 ## Особливості
