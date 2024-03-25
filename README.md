@@ -27,7 +27,7 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `example.com`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/dnsmasq.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 ```
 
 ### Hosts-based blocklist
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `0.0.0.0 example.com`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/hosts.txt
 ```
 
 ### dnsmasq
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Усі веб-адреси (URL-адреси) відображені у такому форматі: `address=/example.com/`
 
 ```
-https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/hosts.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/dnsmasq.txt
 ```
 
 ## Сумісність з браузерами та розширеннями
