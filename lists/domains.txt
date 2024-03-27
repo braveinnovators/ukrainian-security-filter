@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240318.01
-# Last modified: Mon, 18 March 2024 15:35 EET
+# Version: 20240327.01
+# Last modified: Wed, 27 March 2024 15:56 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 7goxbet.com
 8slottica.com
 10goxbet.com
+11goxbet.com
 15jokerua.top
 23konkurs.site
 24helpuapay.com
@@ -98,6 +99,7 @@ bet2fun2.online
 bet2fun3.online
 bet2fun4.online
 bet2fun5.online
+bet2fun6.online
 betandyou2.com
 betwinner.com
 betwinner1.com
@@ -502,6 +504,7 @@ i-ua.website
 jackpot.com
 joepay.online
 johnny24.bet
+johnny24.com
 joker.green
 joker.land
 joker.ua
@@ -1129,8 +1132,10 @@ slotokingua.com
 slotoland-casino.com.ua
 slotor2.com
 slotor7.com
+slotor8.com
 slottica.com
 smartboutique.online
+sourcecheckview.sbs
 spacecasino.co.uk
 spaseid.store
 spaseid.uno
@@ -1176,6 +1181,7 @@ toidopomoga.org
 toidopomoga.pro
 topmarketukr.online
 topmatch.win
+topmatch2.win
 topproductsukr.store
 topshopukraine.space
 topstoreukr.online
@@ -1391,6 +1397,7 @@ ukrainshop.com.ua
 ukrainskapravda.org
 ukrainsohoop.fun
 ukraintovar.fun
+ukraongov-ua.com
 ukrdopomoga.top
 ukrgoods.fun
 ukrhelp2023.com
@@ -1499,6 +1506,7 @@ ukr-edit.com
 ukr-farmer.store
 ukr-gadgets.store
 ukr-gifts.com.ua
+ukr-gov-idua.com
 ukr-info.charity
 ukr-konkurs.site
 ukr-links.kiev.ua
