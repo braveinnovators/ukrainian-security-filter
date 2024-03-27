@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240318.01
-# Last modified: Mon, 18 March 2024 15:35 EET
+# Version: 20240327.01
+# Last modified: Wed, 27 March 2024 15:56 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@ address=/3ds-vlsa.com/
 address=/7goxbet.com/
 address=/8slottica.com/
 address=/10goxbet.com/
+address=/11goxbet.com/
 address=/15jokerua.top/
 address=/23konkurs.site/
 address=/24helpuapay.com/
@@ -93,6 +94,7 @@ address=/bet2fun2.online/
 address=/bet2fun3.online/
 address=/bet2fun4.online/
 address=/bet2fun5.online/
+address=/bet2fun6.online/
 address=/bet2fun.lol/
 address=/bet2fun.online/
 address=/bet2fun.pw/
@@ -502,6 +504,7 @@ address=/i-ua.website/
 address=/jackpot.com/
 address=/joepay.online/
 address=/johnny24.bet/
+address=/johnny24.com/
 address=/jokerua.live/
 address=/jokerua.pro/
 address=/jokerua.top/
@@ -1128,8 +1131,10 @@ address=/slotoking.org.ua/
 address=/slotoland-casino.com.ua/
 address=/slotor2.com/
 address=/slotor7.com/
+address=/slotor8.com/
 address=/slottica.com/
 address=/smartboutique.online/
+address=/sourcecheckview.sbs/
 address=/spacecasino.co.uk/
 address=/spaseid.store/
 address=/spaseid.uno/
@@ -1175,6 +1180,7 @@ address=/toidopomoga.co/
 address=/toidopomoga.org/
 address=/toidopomoga.pro/
 address=/topmarketukr.online/
+address=/topmatch2.win/
 address=/topmatch.win/
 address=/topproductsukr.store/
 address=/topshopukraine.space/
@@ -1389,6 +1395,7 @@ address=/ukrainshop.com.ua/
 address=/ukrainskapravda.org/
 address=/ukrainsohoop.fun/
 address=/ukraintovar.fun/
+address=/ukraongov-ua.com/
 address=/ukrdopomoga.top/
 address=/ukrgoods.fun/
 address=/ukrhelp2023.com/
@@ -1497,6 +1504,7 @@ address=/ukr-edit.com/
 address=/ukr-farmer.store/
 address=/ukr-gadgets.store/
 address=/ukr-gifts.com.ua/
+address=/ukr-gov-idua.com/
 address=/ukr-info.charity/
 address=/ukr-konkurs.site/
 address=/ukr-links.kiev.ua/
