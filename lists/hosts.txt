@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240318.01
-# Last modified: Mon, 18 March 2024 15:35 EET
+# Version: 20240327.01
+# Last modified: Wed, 27 March 2024 15:56 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -32,6 +32,7 @@
 0.0.0.0 7goxbet.com
 0.0.0.0 8slottica.com
 0.0.0.0 10goxbet.com
+0.0.0.0 11goxbet.com
 0.0.0.0 15jokerua.top
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
@@ -98,6 +99,7 @@
 0.0.0.0 bet2fun3.online
 0.0.0.0 bet2fun4.online
 0.0.0.0 bet2fun5.online
+0.0.0.0 bet2fun6.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -502,6 +504,7 @@
 0.0.0.0 jackpot.com
 0.0.0.0 joepay.online
 0.0.0.0 johnny24.bet
+0.0.0.0 johnny24.com
 0.0.0.0 joker.green
 0.0.0.0 joker.land
 0.0.0.0 joker.ua
@@ -1129,8 +1132,10 @@
 0.0.0.0 slotoland-casino.com.ua
 0.0.0.0 slotor2.com
 0.0.0.0 slotor7.com
+0.0.0.0 slotor8.com
 0.0.0.0 slottica.com
 0.0.0.0 smartboutique.online
+0.0.0.0 sourcecheckview.sbs
 0.0.0.0 spacecasino.co.uk
 0.0.0.0 spaseid.store
 0.0.0.0 spaseid.uno
@@ -1176,6 +1181,7 @@
 0.0.0.0 toidopomoga.pro
 0.0.0.0 topmarketukr.online
 0.0.0.0 topmatch.win
+0.0.0.0 topmatch2.win
 0.0.0.0 topproductsukr.store
 0.0.0.0 topshopukraine.space
 0.0.0.0 topstoreukr.online
@@ -1391,6 +1397,7 @@
 0.0.0.0 ukrainskapravda.org
 0.0.0.0 ukrainsohoop.fun
 0.0.0.0 ukraintovar.fun
+0.0.0.0 ukraongov-ua.com
 0.0.0.0 ukrdopomoga.top
 0.0.0.0 ukrgoods.fun
 0.0.0.0 ukrhelp2023.com
@@ -1499,6 +1506,7 @@
 0.0.0.0 ukr-farmer.store
 0.0.0.0 ukr-gadgets.store
 0.0.0.0 ukr-gifts.com.ua
+0.0.0.0 ukr-gov-idua.com
 0.0.0.0 ukr-info.charity
 0.0.0.0 ukr-konkurs.site
 0.0.0.0 ukr-links.kiev.ua

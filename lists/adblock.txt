@@ -1,8 +1,8 @@
 ! [Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240318.01
-! Last modified: Mon, 18 March 2024 15:35 EET
+! Version: 20240327.01
+! Last modified: Wed, 27 March 2024 15:56 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -37,6 +37,7 @@
 ||7goxbet.com^
 ||8slottica.com^
 ||10goxbet.com^
+||11goxbet.com^
 ||15jokerua.top^
 ||23konkurs.site^
 ||24helpuapay.com^
@@ -97,6 +98,7 @@
 ||bet2fun3.online^
 ||bet2fun4.online^
 ||bet2fun5.online^
+||bet2fun6.online^
 ||bet2fun.lol^
 ||bet2fun.online^
 ||bet2fun.pw^
@@ -496,6 +498,7 @@
 ||jackpot.com^
 ||joepay.online^
 ||johnny24.bet^
+||johnny24.com^
 ||jokerua.live^
 ||jokerua.pro^
 ||jokerua.top^
@@ -1036,8 +1039,10 @@
 ||slotoland-casino.com.ua^
 ||slotor2.com^
 ||slotor7.com^
+||slotor8.com^
 ||slottica.com^
 ||smartboutique.online^
+||sourcecheckview.sbs^
 ||spacecasino.co.uk^
 ||spaseid.store^
 ||spaseid.uno^
@@ -1082,6 +1087,7 @@
 ||toidopomoga.org^
 ||toidopomoga.pro^
 ||topmarketukr.online^
+||topmatch2.win^
 ||topmatch.win^
 ||topproductsukr.store^
 ||topshopukraine.space^
@@ -1293,6 +1299,7 @@
 ||ukrainskapravda.org^
 ||ukrainsohoop.fun^
 ||ukraintovar.fun^
+||ukraongov-ua.com^
 ||ukrdopomoga.top^
 ||ukrgoods.fun^
 ||ukrhelp2023.com^
@@ -1401,6 +1408,7 @@
 ||ukr-farmer.store^
 ||ukr-gadgets.store^
 ||ukr-gifts.com.ua^
+||ukr-gov-idua.com^
 ||ukr-info.charity^
 ||ukr-konkurs.site^
 ||ukr-links.kiev.ua^
@@ -1846,3 +1854,9 @@
 !
 ! #TAG-73
 ##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
+!
+! #TAG-74
+://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pcustomizationloader_*.js$script,xmlhttprequest
+://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
+://*.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
+://*.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
