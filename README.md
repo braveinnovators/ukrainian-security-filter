@@ -1,6 +1,6 @@
 # Ukrainian Security Filter
 
-**Ukrainian Security Filter (Український безпековий фільтр)** — це фільтр шкідливих веб-ресурсів (фішинг, онлайн-шахрайство, шкідливе програмне забезпечення тощо), що орієнтовані на громадян України.
+**Ukrainian Security Filter (Український безпековий фільтр)** — це фільтр шкідливих веб-ресурсів (фішинг, онлайн-шахрайство, дропшопінг, шкідливе програмне забезпечення тощо), що орієнтовані на громадян України.
 
 ## Правила фільтрації
 
@@ -113,6 +113,13 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ## Повідомлення про шкідливі веб-ресурси
 
 Повідомити про шкідливі веб-ресурси можна, заповнивши відповідний [шаблон звернення](https://github.com/braveinnovators/ukrainian-security-filter/issues/new?assignees=&labels=malicious+website&projects=&template=report-malicious-websites.md&title=).
+
+## Співпраця
+
+Якщо ви створили правила фільтрації та бажаєте, щоб вони були додані до фільтра, вам необхідно:
+
+1. Створити [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) проекту та додати правила до файлів (списків) з відповідними фільтрами: `adblock.txt`, `dnsmasq.txt`, `domains.txt`, `hosts.txt`, що містяться в окремій директорії під назвою `sandbox`
+2. Створити [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (після проходження тестування, ваші правила будуть додані безпосередньо мейнтейнерами проекту із зазначенням авторства)
 
 ## Партнери проекту
 
