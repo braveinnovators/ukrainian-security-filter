@@ -1,0 +1,3 @@
+# Title: Ukrainian Security Filter (dnsmasq)
+#
+# address=/example.com/
