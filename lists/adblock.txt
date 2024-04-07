@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240405.01
-! Last modified: Fri, 05 April 2024 14:03 EEST
+! Version: 20240407.01
+! Last modified: Sun, 07 April 2024 21:14 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1768,7 +1768,7 @@
 ://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
-://*dopomoga*.*/$document,domain=business|click|club|co|eu|fun|kiev.ua|pics|services|shop|site|space|top
+://*dopomoga*.*/$document,domain=business|click|club|co|eu|fun|kiev.ua|pics|services|shop|site|space|tech|top
 !
 ! #TAG-65
 ://web.*.*/get/*$document
