@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240327.01
-# Last modified: Wed, 27 March 2024 15:56 EET
+# Version: 20240418.01
+# Last modified: Thu, 18 April 2024 16:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -41,7 +41,17 @@
 24uadopomoga.world
 24ukrhelp.com
 25shop.space
+51.38.145.47
+78.153.139.61
+88.151.192.14
+94.156.66.107
+97jokerua.top
 100bankiv.com.ua
+178.33.57.148
+178.33.57.149
+178.33.57.159
+185.196.11.194
+193.203.202.17
 777originals.org
 2023dopomoga.online
 7300.cloud
@@ -100,6 +110,7 @@ bet2fun3.online
 bet2fun4.online
 bet2fun5.online
 bet2fun6.online
+bet2fun7.online
 betandyou2.com
 betwinner.com
 betwinner1.com
@@ -113,6 +124,7 @@ betwinner-ua.com
 betwinner-ukraine.com
 betworld247.com
 bet-boom.com
+bet-match1.io
 be-ukr.net
 bg-ukr.net
 bigsales-ua.store
@@ -150,6 +162,7 @@ chooseraiff.site
 comfortshop-ukraine.space
 comfort-ua.store
 confirms-qr.com
+cosmobet.com
 cosmolotukraine.co.uk
 cosmoslot.site
 courier.darkleads.pro
@@ -436,7 +449,10 @@ govua.buzz
 govua.link
 govua.shop
 govuad24.cloud
+gov-ua.cyou
+gov-ua.icu
 gov-ua.pics
+gov-ukrain.icu
 goxbet4.com
 grandspincasino.net
 grompokerua.com
@@ -821,6 +837,7 @@ opendata-mvs.com.ua
 opendata-mvs.online
 oplataunicef.com
 original-ua.site
+oschad.online
 oschad24-get.online
 oschad24-help.shop
 oschad24-pay.shop
@@ -830,9 +847,11 @@ oschadhelp-ua.com
 oschadiprivate.click
 oschadlbank24.uk
 oschadnybank.com.ua
+oschadpidtrimka.credit
 oschadsecure.com
 oschadsecure.pw
 oschadviplata66.shop
+oschad-account.com
 oschad-dia.shop
 oschad-dya.shop
 oschad-help.com
@@ -841,7 +860,9 @@ oschad-help2zsu.site
 oschad-help4zsu.online
 oschad-help4zsu.site
 oschad-online.charity
+oschad-panel.com
 oschad-paybank.xyz
+oschad-portal.com
 oschad-ua.shop
 oshad.online
 oshad.space
@@ -1142,6 +1163,7 @@ spaseid.uno
 spend-ua.top
 spinbetter.com
 sportloto.co
+sportloto1.co
 sportloto-1.co
 stake.com
 starlinkukraine.com
@@ -1299,6 +1321,8 @@ ua-unicef.online
 ua-viplata.me
 ua-volonter24.shop
 ua-wallet.pw
+uberukraine.info
+uber-ukraine.com
 ukpost-ua.cc
 ukr.gift
 ukr.services
@@ -1444,6 +1468,7 @@ ukrqasolda.com
 ukrqasolda.org
 ukrqr.net
 ukrsaleboom.fun
+ukrsavuagov.com
 ukrsaytonline.fun
 ukrschoponline.fun
 ukrshoooponline.space
