@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240407.01
-! Last modified: Sun, 07 April 2024 21:14 EEST
+! Version: 20240418.01
+! Last modified: Thu, 18 April 2024 16:34 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -46,7 +46,17 @@
 ||24uadopomoga.world^
 ||24ukrhelp.com^
 ||25shop.space^
+||51.38.145.47^
+||78.153.139.61^
+||88.151.192.14^
+||94.156.66.107^
+||97jokerua.top^
 ||100bankiv.com.ua^
+||178.33.57.148^
+||178.33.57.149^
+||178.33.57.159^
+||185.196.11.194^
+||193.203.202.17^
 ||777originals.org^
 ||2023dopomoga.online^
 ||7300.cloud^
@@ -99,6 +109,7 @@
 ||bet2fun4.online^
 ||bet2fun5.online^
 ||bet2fun6.online^
+||bet2fun7.online^
 ||bet2fun.lol^
 ||bet2fun.online^
 ||bet2fun.pw^
@@ -117,6 +128,7 @@
 ||betwinner.com^
 ||betworld247.com^
 ||bet-boom.com^
+||bet-match1.io^
 ||be-ukr.net^
 ||bg-ukr.net^
 ||bigsales-ua.store^
@@ -154,6 +166,7 @@
 ||comfortshop-ukraine.space^
 ||comfort-ua.store^
 ||confirms-qr.com^
+||cosmobet.com^
 ||cosmolotukraine.co.uk^
 ||cosmoslot.site^
 ||courier.darkleads.pro^
@@ -435,7 +448,10 @@
 ||govua.buzz^
 ||govua.link^
 ||govua.shop^
+||gov-ua.cyou^
+||gov-ua.icu^
 ||gov-ua.pics^
+||gov-ukrain.icu^
 ||goxbet4.com^
 ||grandspincasino.net^
 ||grompokerua.com^
@@ -742,8 +758,10 @@
 ||oschadiprivate.click^
 ||oschadlbank24.uk^
 ||oschadnybank.com.ua^
+||oschadpidtrimka.credit^
 ||oschadsecure.com^
 ||oschadsecure.pw^
+||oschad-account.com^
 ||oschad-dia.shop^
 ||oschad-dya.shop^
 ||oschad-help2zsu.online^
@@ -752,8 +770,11 @@
 ||oschad-help4zsu.site^
 ||oschad-help.com^
 ||oschad-online.charity^
+||oschad-panel.com^
 ||oschad-paybank.xyz^
+||oschad-portal.com^
 ||oschad-ua.shop^
+||oschad.online^
 ||oshad24.biz.ua^
 ||oshadbank24.win^
 ||oshadbankoon.com^
@@ -1048,6 +1069,7 @@
 ||spaseid.uno^
 ||spend-ua.top^
 ||spinbetter.com^
+||sportloto1.co^
 ||sportloto-1.co^
 ||sportloto.co^
 ||stake.com^
@@ -1204,6 +1226,8 @@
 ||ua-wallet.pw^
 ||ua.ggpoker.com^
 ||ua.leonbets.com^
+||uberukraine.info^
+||uber-ukraine.com^
 ||ukpost-ua.cc^
 ||ukr24help.com^
 ||ukr24pays.org^
@@ -1346,6 +1370,7 @@
 ||ukrqasolda.org^
 ||ukrqr.net^
 ||ukrsaleboom.fun^
+||ukrsavuagov.com^
 ||ukrsaytonline.fun^
 ||ukrschoponline.fun^
 ||ukrshoooponline.space^
@@ -1682,6 +1707,11 @@
 ://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
 !
+! UAC-0184 (CERT-UA#9474)
+://*.*.*.*:9000/hooks/*?id=*$document,xmlhttprequest
+://*.ua/securitycheck.exe$document,xmlhttprequest
+://*.ua/sud/dvs.exe$document,xmlhttprequest
+!
 ! #TAG-47
 ://*/bank/raif.php?id=*$document
 ://*/bank/pumb.php?id=*$document
@@ -1724,6 +1754,7 @@
 ##body:has(> div.wrap > div.offer_section > section.offer > form.order_form)
 ##body:has(> div.wrap > section > form#lv-formLanding1.m1-form.lv2-form.lv2-form1.lv2-form-validation-by-alert)
 ##body:has(> div.wrap > section.opisanie > div > form.order_form)
+##body:has(> div#page.site > div.container-body > div.content-wrap > div > form#order_form)
 ##body:has(div.element-content > form.component-form[action$="/lead/send/"])
 ##body:has(div.newsletter-wrap > div.newsletter-form > form[action="ok.php"])
 !
@@ -1861,3 +1892,6 @@
 ://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
 ://*.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
 ://*.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
+!
+! #TAG-75
+##body.oschadbank:has(form#cardForm > div > div.auth-fields > div > div > input[name="cvc"][maxlength="4"])
