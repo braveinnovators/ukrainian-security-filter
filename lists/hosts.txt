@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240327.01
-# Last modified: Wed, 27 March 2024 15:56 EET
+# Version: 20240418.01
+# Last modified: Thu, 18 April 2024 16:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -41,7 +41,17 @@
 0.0.0.0 24uadopomoga.world
 0.0.0.0 24ukrhelp.com
 0.0.0.0 25shop.space
+0.0.0.0 51.38.145.47
+0.0.0.0 78.153.139.61
+0.0.0.0 88.151.192.14
+0.0.0.0 94.156.66.107
+0.0.0.0 97jokerua.top
 0.0.0.0 100bankiv.com.ua
+0.0.0.0 178.33.57.148
+0.0.0.0 178.33.57.149
+0.0.0.0 178.33.57.159
+0.0.0.0 185.196.11.194
+0.0.0.0 193.203.202.17
 0.0.0.0 777originals.org
 0.0.0.0 2023dopomoga.online
 0.0.0.0 7300.cloud
@@ -100,6 +110,7 @@
 0.0.0.0 bet2fun4.online
 0.0.0.0 bet2fun5.online
 0.0.0.0 bet2fun6.online
+0.0.0.0 bet2fun7.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -113,6 +124,7 @@
 0.0.0.0 betwinner-ukraine.com
 0.0.0.0 betworld247.com
 0.0.0.0 bet-boom.com
+0.0.0.0 bet-match1.io
 0.0.0.0 be-ukr.net
 0.0.0.0 bg-ukr.net
 0.0.0.0 bigsales-ua.store
@@ -150,6 +162,7 @@
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
 0.0.0.0 confirms-qr.com
+0.0.0.0 cosmobet.com
 0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
 0.0.0.0 courier.darkleads.pro
@@ -436,7 +449,10 @@
 0.0.0.0 govua.link
 0.0.0.0 govua.shop
 0.0.0.0 govuad24.cloud
+0.0.0.0 gov-ua.cyou
+0.0.0.0 gov-ua.icu
 0.0.0.0 gov-ua.pics
+0.0.0.0 gov-ukrain.icu
 0.0.0.0 goxbet4.com
 0.0.0.0 grandspincasino.net
 0.0.0.0 grompokerua.com
@@ -821,6 +837,7 @@
 0.0.0.0 opendata-mvs.online
 0.0.0.0 oplataunicef.com
 0.0.0.0 original-ua.site
+0.0.0.0 oschad.online
 0.0.0.0 oschad24-get.online
 0.0.0.0 oschad24-help.shop
 0.0.0.0 oschad24-pay.shop
@@ -830,9 +847,11 @@
 0.0.0.0 oschadiprivate.click
 0.0.0.0 oschadlbank24.uk
 0.0.0.0 oschadnybank.com.ua
+0.0.0.0 oschadpidtrimka.credit
 0.0.0.0 oschadsecure.com
 0.0.0.0 oschadsecure.pw
 0.0.0.0 oschadviplata66.shop
+0.0.0.0 oschad-account.com
 0.0.0.0 oschad-dia.shop
 0.0.0.0 oschad-dya.shop
 0.0.0.0 oschad-help.com
@@ -841,7 +860,9 @@
 0.0.0.0 oschad-help4zsu.online
 0.0.0.0 oschad-help4zsu.site
 0.0.0.0 oschad-online.charity
+0.0.0.0 oschad-panel.com
 0.0.0.0 oschad-paybank.xyz
+0.0.0.0 oschad-portal.com
 0.0.0.0 oschad-ua.shop
 0.0.0.0 oshad.online
 0.0.0.0 oshad.space
@@ -1142,6 +1163,7 @@
 0.0.0.0 spend-ua.top
 0.0.0.0 spinbetter.com
 0.0.0.0 sportloto.co
+0.0.0.0 sportloto1.co
 0.0.0.0 sportloto-1.co
 0.0.0.0 stake.com
 0.0.0.0 starlinkukraine.com
@@ -1299,6 +1321,8 @@
 0.0.0.0 ua-viplata.me
 0.0.0.0 ua-volonter24.shop
 0.0.0.0 ua-wallet.pw
+0.0.0.0 uberukraine.info
+0.0.0.0 uber-ukraine.com
 0.0.0.0 ukpost-ua.cc
 0.0.0.0 ukr.gift
 0.0.0.0 ukr.services
@@ -1444,6 +1468,7 @@
 0.0.0.0 ukrqasolda.org
 0.0.0.0 ukrqr.net
 0.0.0.0 ukrsaleboom.fun
+0.0.0.0 ukrsavuagov.com
 0.0.0.0 ukrsaytonline.fun
 0.0.0.0 ukrschoponline.fun
 0.0.0.0 ukrshoooponline.space
