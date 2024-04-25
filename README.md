@@ -19,7 +19,7 @@
 Цей формат фільтра сумісний з усіма браузерами, розширеннями та іншим програмним забезпеченням, що підтримує синтаксис AdBlock.
 
 ```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 
 ### Domain-based blocklist
