@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240418.01
-# Last modified: Thu, 18 April 2024 16:34 EEST
+# Version: 20240501.01
+# Last modified: Wed, 01 May 2024 13:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -111,6 +111,7 @@
 0.0.0.0 bet2fun5.online
 0.0.0.0 bet2fun6.online
 0.0.0.0 bet2fun7.online
+0.0.0.0 bet2fun8.online
 0.0.0.0 betandyou2.com
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -159,6 +160,8 @@
 0.0.0.0 childrens-fund-ukraine.com
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
+0.0.0.0 clubdeluxe.net
+0.0.0.0 coins.game
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
 0.0.0.0 confirms-qr.com
@@ -456,6 +459,7 @@
 0.0.0.0 goxbet4.com
 0.0.0.0 grandspincasino.net
 0.0.0.0 grompokerua.com
+0.0.0.0 grompokerua2.com
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshinarahunok.com
 0.0.0.0 groshovadopomoga.com
@@ -1144,6 +1148,7 @@
 0.0.0.0 shop-ua.top
 0.0.0.0 simpacasino.com
 0.0.0.0 simpacasino1.com
+0.0.0.0 simpacasino2.com
 0.0.0.0 slotclub.pro
 0.0.0.0 slotclub1.pro
 0.0.0.0 slotclubcasino.com
