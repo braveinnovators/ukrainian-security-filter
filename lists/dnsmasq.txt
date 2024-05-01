@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240418.01
-# Last modified: Thu, 18 April 2024 16:34 EEST
+# Version: 20240501.01
+# Last modified: Wed, 01 May 2024 13:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -106,6 +106,7 @@ address=/bet2fun4.online/
 address=/bet2fun5.online/
 address=/bet2fun6.online/
 address=/bet2fun7.online/
+address=/bet2fun8.online/
 address=/bet2fun.lol/
 address=/bet2fun.online/
 address=/bet2fun.pw/
@@ -159,6 +160,8 @@ address=/chervonaikra-ua.fun/
 address=/childrens-fund-ukraine.com/
 address=/chooseraiff.online/
 address=/chooseraiff.site/
+address=/clubdeluxe.net/
+address=/coins.game/
 address=/comfortshop-ukraine.space/
 address=/comfort-ua.store/
 address=/confirms-qr.com/
@@ -455,6 +458,7 @@ address=/gov-ua.pics/
 address=/gov-ukrain.icu/
 address=/goxbet4.com/
 address=/grandspincasino.net/
+address=/grompokerua2.com/
 address=/grompokerua.com/
 address=/groshidopomoga.top/
 address=/groshinarahunok.com/
@@ -1142,6 +1146,7 @@ address=/shop-top-ua.store/
 address=/shop-ua.space/
 address=/shop-ua.top/
 address=/simpacasino1.com/
+address=/simpacasino2.com/
 address=/simpacasino.com/
 address=/slotclub1.pro/
 address=/slotclubcasino.com/
