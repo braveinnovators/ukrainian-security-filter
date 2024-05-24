@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240501.01
-# Last modified: Wed, 01 May 2024 13:19 EEST
+# Version: 20240524.01
+# Last modified: Fri, 24 May 2024 20:56 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -355,6 +355,7 @@ dragongold88.com
 dragonsgold888.com
 drone-ua.space
 dude1.bet
+dude2.bet
 easy-casino.net
 ebayua.cc
 ebayua.com
@@ -976,6 +977,7 @@ pointloto4.com
 point-slots.com
 pokermatch.com
 poker-bet.com
+poker-bet1.com
 polsha24dopomogaua.shop
 polsha24dopomogaua.site
 poluchenieuanext24.tech
@@ -1156,11 +1158,14 @@ slotoking.me
 slotoking.org.ua
 slotokingua.com
 slotoland-casino.com.ua
+slotomen.com
 slotor2.com
 slotor7.com
 slotor8.com
+sloto-land.com.ua
 slottica.com
 smartboutique.online
+sol.casino
 sourcecheckview.sbs
 spacecasino.co.uk
 spaseid.store

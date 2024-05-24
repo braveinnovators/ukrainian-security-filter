@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240501.01
-# Last modified: Wed, 01 May 2024 13:19 EEST
+# Version: 20240524.01
+# Last modified: Fri, 24 May 2024 20:56 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -355,6 +355,7 @@
 0.0.0.0 dragonsgold888.com
 0.0.0.0 drone-ua.space
 0.0.0.0 dude1.bet
+0.0.0.0 dude2.bet
 0.0.0.0 easy-casino.net
 0.0.0.0 ebayua.cc
 0.0.0.0 ebayua.com
@@ -976,6 +977,7 @@
 0.0.0.0 point-slots.com
 0.0.0.0 pokermatch.com
 0.0.0.0 poker-bet.com
+0.0.0.0 poker-bet1.com
 0.0.0.0 polsha24dopomogaua.shop
 0.0.0.0 polsha24dopomogaua.site
 0.0.0.0 poluchenieuanext24.tech
@@ -1156,11 +1158,14 @@
 0.0.0.0 slotoking.org.ua
 0.0.0.0 slotokingua.com
 0.0.0.0 slotoland-casino.com.ua
+0.0.0.0 slotomen.com
 0.0.0.0 slotor2.com
 0.0.0.0 slotor7.com
 0.0.0.0 slotor8.com
+0.0.0.0 sloto-land.com.ua
 0.0.0.0 slottica.com
 0.0.0.0 smartboutique.online
+0.0.0.0 sol.casino
 0.0.0.0 sourcecheckview.sbs
 0.0.0.0 spacecasino.co.uk
 0.0.0.0 spaseid.store

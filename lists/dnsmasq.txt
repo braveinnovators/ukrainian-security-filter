@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240501.01
-# Last modified: Wed, 01 May 2024 13:19 EEST
+# Version: 20240524.01
+# Last modified: Fri, 24 May 2024 20:56 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -355,6 +355,7 @@ address=/dragongold88.com/
 address=/dragonsgold888.com/
 address=/drone-ua.space/
 address=/dude1.bet/
+address=/dude2.bet/
 address=/easy-casino.net/
 address=/ebayua66.com/
 address=/ebayua66.vip/
@@ -975,6 +976,7 @@ address=/pointloto1.com/
 address=/pointloto4.com/
 address=/point-slots.com/
 address=/pokermatch.com/
+address=/poker-bet1.com/
 address=/poker-bet.com/
 address=/polsha24dopomogaua.shop/
 address=/polsha24dopomogaua.site/
@@ -1155,11 +1157,14 @@ address=/slotokingua.com/
 address=/slotoking.me/
 address=/slotoking.org.ua/
 address=/slotoland-casino.com.ua/
+address=/slotomen.com/
 address=/slotor2.com/
 address=/slotor7.com/
 address=/slotor8.com/
+address=/sloto-land.com.ua/
 address=/slottica.com/
 address=/smartboutique.online/
+address=/sol.casino/
 address=/sourcecheckview.sbs/
 address=/spacecasino.co.uk/
 address=/spaseid.store/
