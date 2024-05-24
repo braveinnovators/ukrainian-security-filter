@@ -125,10 +125,6 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 1. Створити [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) проекту та додати правила до файлів (списків) з відповідними фільтрами: `adblock.txt`, `dnsmasq.txt`, `domains.txt`, `hosts.txt`, що містяться в окремій директорії під назвою `sandbox`
 2. Створити [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (після проходження тестування, ваші правила будуть додані безпосередньо мейнтейнерами проекту із зазначенням авторства)
 
-## Партнери проекту
-
-* [DNSlytics](https://dnslytics.com)
-
 ## Ліцензія
 
 На Ukrainian Security Filter (Український безпековий фільтр) поширюються умови ліцензії [GNU General Public License v3.0](https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE)
