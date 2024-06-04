@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240524.01
-# Last modified: Fri, 24 May 2024 20:56 EEST
+# Version: 20240604.01
+# Last modified: Tue, 04 June 2024 13:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -33,6 +33,7 @@ address=/7goxbet.com/
 address=/8slottica.com/
 address=/10goxbet.com/
 address=/11goxbet.com/
+address=/13goxbet.com/
 address=/15jokerua.top/
 address=/23konkurs.site/
 address=/24helpuapay.com/
@@ -137,6 +138,8 @@ address=/bitz6.vip/
 address=/bitz.io/
 address=/bk-1x-bet.com/
 address=/blockchain4ukraine.com/
+address=/bonanzagame21.com/
+address=/boompari.xyz/
 address=/bs-market.store/
 address=/btcinvesta.com/
 address=/buddy1.bet/
@@ -161,6 +164,7 @@ address=/childrens-fund-ukraine.com/
 address=/chooseraiff.online/
 address=/chooseraiff.site/
 address=/clubdeluxe.net/
+address=/clubvulcanbet.store/
 address=/coins.game/
 address=/comfortshop-ukraine.space/
 address=/comfort-ua.store/
@@ -1689,6 +1693,7 @@ address=/viplaty.com.ua/
 address=/viplaty.online/
 address=/vip-casino-pm.com.ua/
 address=/vip-casino.org/
+address=/vip-kazinos.club/
 address=/vip-ua.store/
 address=/visa-ua.cloud/
 address=/visa-ua.pro/
