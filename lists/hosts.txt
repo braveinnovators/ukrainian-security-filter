@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240524.01
-# Last modified: Fri, 24 May 2024 20:56 EEST
+# Version: 20240604.01
+# Last modified: Tue, 04 June 2024 13:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -33,6 +33,7 @@
 0.0.0.0 8slottica.com
 0.0.0.0 10goxbet.com
 0.0.0.0 11goxbet.com
+0.0.0.0 13goxbet.com
 0.0.0.0 15jokerua.top
 0.0.0.0 23konkurs.site
 0.0.0.0 24helpuapay.com
@@ -137,6 +138,8 @@
 0.0.0.0 bitz6.vip
 0.0.0.0 bk-1x-bet.com
 0.0.0.0 blockchain4ukraine.com
+0.0.0.0 bonanzagame21.com
+0.0.0.0 boompari.xyz
 0.0.0.0 bs-market.store
 0.0.0.0 btcinvesta.com
 0.0.0.0 buddy1.bet
@@ -161,6 +164,7 @@
 0.0.0.0 chooseraiff.online
 0.0.0.0 chooseraiff.site
 0.0.0.0 clubdeluxe.net
+0.0.0.0 clubvulcanbet.store
 0.0.0.0 coins.game
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
@@ -1689,6 +1693,7 @@
 0.0.0.0 viplatya-kosthiv.com.ua
 0.0.0.0 vip-casino.org
 0.0.0.0 vip-casino-pm.com.ua
+0.0.0.0 vip-kazinos.club
 0.0.0.0 vip-ua.store
 0.0.0.0 visa-ua.cloud
 0.0.0.0 visa-ua.pro
