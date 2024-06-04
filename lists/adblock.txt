@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240524.01
-! Last modified: Fri, 24 May 2024 20:56 EEST
+! Version: 20240604.01
+! Last modified: Tue, 04 June 2024 13:10 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -38,6 +38,7 @@
 ||8slottica.com^
 ||10goxbet.com^
 ||11goxbet.com^
+||13goxbet.com^
 ||15jokerua.top^
 ||23konkurs.site^
 ||24helpuapay.com^
@@ -141,6 +142,8 @@
 ||bitz.io^
 ||bk-1x-bet.com^
 ||blockchain4ukraine.com^
+||bonanzagame21.com^
+||boompari.xyz^
 ||bs-market.store^
 ||btcinvesta.com^
 ||buddy1.bet^
@@ -165,6 +168,7 @@
 ||chooseraiff.online^
 ||chooseraiff.site^
 ||clubdeluxe.net^
+||clubvulcanbet.store^
 ||coins.game^
 ||comfortshop-ukraine.space^
 ||comfort-ua.store^
@@ -1536,6 +1540,7 @@
 ||viplaty.online^
 ||vip-casino-pm.com.ua^
 ||vip-casino.org^
+||vip-kazinos.club^
 ||vip-ua.store^
 ||visa-ua.cloud^
 ||visa-ua.pro^
