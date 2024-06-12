@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240604.01
-# Last modified: Tue, 04 June 2024 13:10 EEST
+# Version: 20240612.01 (24.06.1)
+# Last modified: Wed, 12 June 2024 12:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -100,6 +100,7 @@ address=/bestcrutches.com/
 address=/bestshopukrain.fun/
 address=/best-goods.com.ua/
 address=/best-store-ua.online/
+address=/bet2fun1.fun/
 address=/bet2fun1.online/
 address=/bet2fun2.online/
 address=/bet2fun3.online/
@@ -144,6 +145,7 @@ address=/bs-market.store/
 address=/btcinvesta.com/
 address=/buddy1.bet/
 address=/buy-ua.com.ua/
+address=/b-twinner.com/
 address=/carcover-ua.store/
 address=/carcover-ua.uno/
 address=/card-ua.cloud/
@@ -386,8 +388,6 @@ address=/epidtrimka.com/
 address=/epidtrumka.org/
 address=/epidtrymka.cloud/
 address=/europeanchallengeukraine.eu/
-address=/eu-dopomoga.com/
-address=/eu-st.site/
 address=/events-ukr.site/
 address=/everest-bet.com/
 address=/e-dopomogaua.me/
@@ -467,14 +467,12 @@ address=/grompokerua2.com/
 address=/grompokerua.com/
 address=/groshidopomoga.top/
 address=/groshinarahunok.com/
-address=/groshovadopomoga.com/
 address=/grosovadopomoga.shop/
 address=/harpoon.dp.ua/
 address=/help24uapay.com/
 address=/help24ua.com/
 address=/help24ukr.com/
 address=/help24-viplata.me/
-address=/helpdopomoga.com/
 address=/helper-ua.info/
 address=/helper-ua.site/
 address=/helper-ua.xyz/
@@ -487,7 +485,6 @@ address=/helping-ukr.site/
 address=/helposchad24.shop/
 address=/helpukr24.com/
 address=/helpukraina.site/
-address=/helpukrainemoneydopomoga.com/
 address=/helpukraine.direct/
 address=/helpukraine.uk/
 address=/helpukrainian.site/
@@ -1112,6 +1109,7 @@ address=/rozetkaukraine.cc/
 address=/rozetkaukraine.com/
 address=/rozetkaukraine.vip/
 address=/rozetka.cc/
+address=/rubet.com/
 address=/rybalka-ua.site/
 address=/rysebet.com/
 address=/safe-uagov.cloud/
@@ -1720,6 +1718,7 @@ address=/vyplatazaraz.store/
 address=/vyplata-otrymat.online/
 address=/watch-ua.space/
 address=/winukr-pay.charity/
+address=/winwin.bet/
 address=/wowukr.store/
 address=/wulkan-777.com/
 address=/wwwolx.site/
