@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240604.01
-# Last modified: Tue, 04 June 2024 13:10 EEST
+# Version: 20240612.01 (24.06.1)
+# Last modified: Wed, 12 June 2024 12:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -105,6 +105,7 @@ bet2fun.online
 bet2fun.pw
 bet2fun.world
 bet2fun.xyz
+bet2fun1.fun
 bet2fun1.online
 bet2fun2.online
 bet2fun3.online
@@ -144,6 +145,7 @@ bs-market.store
 btcinvesta.com
 buddy1.bet
 buy-ua.com.ua
+b-twinner.com
 carcover-ua.store
 carcover-ua.uno
 card-ua.cloud
@@ -386,8 +388,6 @@ epidtrimkaua.info
 epidtrumka.org
 epidtrymka.cloud
 europeanchallengeukraine.eu
-eu-dopomoga.com
-eu-st.site
 events-ukr.site
 everest-bet.com
 e-dopomoga.click
@@ -467,14 +467,12 @@ grompokerua.com
 grompokerua2.com
 groshidopomoga.top
 groshinarahunok.com
-groshovadopomoga.com
 grosovadopomoga.shop
 harpoon.dp.ua
 help24ua.com
 help24uapay.com
 help24ukr.com
 help24-viplata.me
-helpdopomoga.com
 helper-ua.info
 helper-ua.site
 helper-ua.xyz
@@ -491,7 +489,6 @@ helpukr24.com
 helpukraina.site
 helpukraine.direct
 helpukraine.uk
-helpukrainemoneydopomoga.com
 helpukrainian.site
 helpukrpay.com
 help-for-ukraine.online
@@ -1112,6 +1109,7 @@ rozetkaa.space
 rozetkaukraine.cc
 rozetkaukraine.com
 rozetkaukraine.vip
+rubet.com
 rybalka-ua.site
 rysebet.com
 s.pl.lpcdn.site
@@ -1720,6 +1718,7 @@ vyplatazaraz.store
 vyplata-otrymat.online
 watch-ua.space
 winukr-pay.charity
+winwin.bet
 wowukr.store
 wulkan-777.com
 wwwolx.site
