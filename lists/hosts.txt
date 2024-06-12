@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240604.01
-# Last modified: Tue, 04 June 2024 13:10 EEST
+# Version: 20240612.01 (24.06.1)
+# Last modified: Wed, 12 June 2024 12:19 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -105,6 +105,7 @@
 0.0.0.0 bet2fun.pw
 0.0.0.0 bet2fun.world
 0.0.0.0 bet2fun.xyz
+0.0.0.0 bet2fun1.fun
 0.0.0.0 bet2fun1.online
 0.0.0.0 bet2fun2.online
 0.0.0.0 bet2fun3.online
@@ -144,6 +145,7 @@
 0.0.0.0 btcinvesta.com
 0.0.0.0 buddy1.bet
 0.0.0.0 buy-ua.com.ua
+0.0.0.0 b-twinner.com
 0.0.0.0 carcover-ua.store
 0.0.0.0 carcover-ua.uno
 0.0.0.0 card-ua.cloud
@@ -386,8 +388,6 @@
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
 0.0.0.0 europeanchallengeukraine.eu
-0.0.0.0 eu-dopomoga.com
-0.0.0.0 eu-st.site
 0.0.0.0 events-ukr.site
 0.0.0.0 everest-bet.com
 0.0.0.0 e-dopomoga.click
@@ -467,14 +467,12 @@
 0.0.0.0 grompokerua2.com
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshinarahunok.com
-0.0.0.0 groshovadopomoga.com
 0.0.0.0 grosovadopomoga.shop
 0.0.0.0 harpoon.dp.ua
 0.0.0.0 help24ua.com
 0.0.0.0 help24uapay.com
 0.0.0.0 help24ukr.com
 0.0.0.0 help24-viplata.me
-0.0.0.0 helpdopomoga.com
 0.0.0.0 helper-ua.info
 0.0.0.0 helper-ua.site
 0.0.0.0 helper-ua.xyz
@@ -491,7 +489,6 @@
 0.0.0.0 helpukraina.site
 0.0.0.0 helpukraine.direct
 0.0.0.0 helpukraine.uk
-0.0.0.0 helpukrainemoneydopomoga.com
 0.0.0.0 helpukrainian.site
 0.0.0.0 helpukrpay.com
 0.0.0.0 help-for-ukraine.online
@@ -1112,6 +1109,7 @@
 0.0.0.0 rozetkaukraine.cc
 0.0.0.0 rozetkaukraine.com
 0.0.0.0 rozetkaukraine.vip
+0.0.0.0 rubet.com
 0.0.0.0 rybalka-ua.site
 0.0.0.0 rysebet.com
 0.0.0.0 s.pl.lpcdn.site
@@ -1720,6 +1718,7 @@
 0.0.0.0 vyplata-otrymat.online
 0.0.0.0 watch-ua.space
 0.0.0.0 winukr-pay.charity
+0.0.0.0 winwin.bet
 0.0.0.0 wowukr.store
 0.0.0.0 wulkan-777.com
 0.0.0.0 wwwolx.site
