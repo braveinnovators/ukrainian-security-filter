@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240604.01
-! Last modified: Tue, 04 June 2024 13:10 EEST
+! Version: 20240612.01 (24.06.1)
+! Last modified: Wed, 12 June 2024 12:19 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -43,8 +43,6 @@
 ||23konkurs.site^
 ||24helpuapay.com^
 ||24helpukr.com^
-||24uadopomoga.sbs^
-||24uadopomoga.world^
 ||24ukrhelp.com^
 ||25shop.space^
 ||51.38.145.47^
@@ -59,7 +57,6 @@
 ||185.196.11.194^
 ||193.203.202.17^
 ||777originals.org^
-||2023dopomoga.online^
 ||7300.cloud^
 ||7300.pics^
 ||7300.pro^
@@ -104,6 +101,7 @@
 ||bestshopukrain.fun^
 ||best-goods.com.ua^
 ||best-store-ua.online^
+||bet2fun1.fun^
 ||bet2fun1.online^
 ||bet2fun2.online^
 ||bet2fun3.online^
@@ -148,6 +146,7 @@
 ||btcinvesta.com^
 ||buddy1.bet^
 ||buy-ua.com.ua^
+||b-twinner.com^
 ||carcover-ua.store^
 ||carcover-ua.uno^
 ||card-ua.cloud^
@@ -192,7 +191,6 @@
 ||diaaukraine.space^
 ||diaa-ukraine.site^
 ||diaa-ukraine.space^
-||diadopomogaio.online^
 ||diamondclub.casino^
 ||discountshopukraine.store^
 ||discount-sale.website^
@@ -200,121 +198,6 @@
 ||diyas.io^
 ||dmsu-ukr.pp.ua^
 ||donate-ukrainehelp.org^
-||dopomoga23.top^
-||dopomoga24pay.win^
-||dopomoga24privat.world^
-||dopomoga24pruvat.cfd^
-||dopomoga24pruvat.sbs^
-||dopomoga24ua.me^
-||dopomoga24ua.win^
-||dopomoga24.com^
-||dopomoga24.me^
-||dopomoga24.site^
-||dopomoga2023.com^
-||dopomoga2023.tech^
-||dopomoga2024.com^
-||dopomogaapp.online^
-||dopomogaatb.site^
-||dopomogaa-id03914.website^
-||dopomogaa.site^
-||dopomogaa.website^
-||dopomogaderjavna.org^
-||dopomogadia.me^
-||dopomogadiyaua.online^
-||dopomogaexpress.app^
-||dopomogaexpress.biz^
-||dopomogaexpress.info^
-||dopomogaexpress.net^
-||dopomogaexpress.online^
-||dopomogaexpress.org^
-||dopomogaexpress.xyz^
-||dopomogae.eu^
-||dopomogae.info^
-||dopomogae.online^
-||dopomogae.social^
-||dopomogae.xyz^
-||dopomogafromoon-ukr.com^
-||dopomogagroshi.top^
-||dopomogahelp.com^
-||dopomogainukraine.com^
-||dopomogalive.online^
-||dopomogaofficialua.com^
-||dopomogaonleneukraina.co^
-||dopomogaonlinevpo.space^
-||dopomogaonline.app^
-||dopomogaonline.biz^
-||dopomogaonline.club^
-||dopomogaonline.com^
-||dopomogaonline.express^
-||dopomogaonline.info^
-||dopomogaonline.net^
-||dopomogaonline.org^
-||dopomogaonline.shop^
-||dopomogaonline.site^
-||dopomogaonline.store^
-||dopomogaonline.xyz^
-||dopomogaooh.pro^
-||dopomogaoon.space^
-||dopomogapays.site^
-||dopomogapro.club^
-||dopomogapruvat24ua.world^
-||dopomogatyt.info^
-||dopomogaua24.me^
-||dopomogaua24.org^
-||dopomogauapruvat24.world^
-||dopomogaua-pidtrimkaua.com^
-||dopomogaua-pidtrimka.com^
-||dopomogaua.live^
-||dopomogaua.pro^
-||dopomogaua.xyz^
-||dopomogaukraiinee.website^
-||dopomogaukraiine.com^
-||dopomogaukrainaua.com^
-||dopomogaukraine.store^
-||dopomogaukr.site^
-||dopomogaukr.website^
-||dopomogauk.xyz^
-||dopomogavidunicef.art^
-||dopomogavidunicef.blog^
-||dopomogavidunicef.charity^
-||dopomogavidunicef.cloud^
-||dopomogavidunicef.club^
-||dopomogavidunicef.foundation^
-||dopomogavidunicef.health^
-||dopomogavidunicef.info^
-||dopomogavidunicef.live^
-||dopomogavidunicef.online^
-||dopomogavidunicef.org^
-||dopomogavidunicef.photography^
-||dopomogavidunicef.pro^
-||dopomogavidunicef.shop^
-||dopomogavidunicef.site^
-||dopomogavidunicef.xyz^
-||dopomoga-24pay.win^
-||dopomoga-2023.top^
-||dopomoga-aid.top^
-||dopomoga-atb.site^
-||dopomoga-az.site^
-||dopomoga-dia.com^
-||dopomoga-dlia-ukraintsiv.life^
-||dopomoga-epay.site^
-||dopomoga-ocshd.shop^
-||dopomoga-oon.com^
-||dopomoga-oschad.services^
-||dopomoga-oschad.shop^
-||dopomoga-p24.shop^
-||dopomoga-pr24.shop^
-||dopomoga-uaweb.website^
-||dopomoga-ua-online-web.site^
-||dopomoga-ua.click^
-||dopomoga-ua.info^
-||dopomoga-ua.online^
-||dopomoga-ua.pro^
-||dopomoga-ua.site^
-||dopomoga-ua.website^
-||dopomoga-ukraine.cloud^
-||dopomoga-ukraine.com^
-||dopomoga-ukraine.pro^
 ||dopomoga.agency^
 ||dopomoga.app^
 ||dopomoga.bio^
@@ -381,20 +264,13 @@
 ||enters-qr.com^
 ||en-ukr.net^
 ||epicentrk.dp.ua^
-||epidtrimkadopomoga.com^
 ||epidtrimkaua.info^
 ||epidtrimka.com^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
 ||europeanchallengeukraine.eu^
-||eu-dopomoga.com^
-||eu-st.site^
 ||events-ukr.site^
 ||everest-bet.com^
-||e-dopomogaua.me^
-||e-dopomoga-perekazy24.space^
-||e-dopomoga.click^
-||e-dopomoga.uk^
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-vyplata.com^
@@ -419,8 +295,6 @@
 ||fav-luck-ua.com^
 ||fav-pay-ua.com^
 ||ferstka.shop^
-||finance-dopomoga.site^
-||findopomoga.sbs^
 ||finua.online^
 ||firstgrader.com.ua^
 ||fizzslots.com^
@@ -430,7 +304,6 @@
 ||freeggbet.com^
 ||fresh.casino^
 ||gaz-ua.site^
-||getdopomoga.online^
 ||getpaysua.me^
 ||getposhta.online^
 ||get-moneyua.pro^
@@ -464,15 +337,11 @@
 ||grandspincasino.net^
 ||grompokerua2.com^
 ||grompokerua.com^
-||groshidopomoga.top^
 ||groshinarahunok.com^
-||groshovadopomoga.com^
-||grosovadopomoga.shop^
 ||harpoon.dp.ua^
 ||help24uapay.com^
 ||help24ua.com^
 ||help24ukr.com^
-||helpdopomoga.com^
 ||helper-ua.info^
 ||helper-ua.site^
 ||helper-ua.xyz^
@@ -485,7 +354,6 @@
 ||helposchad24.shop^
 ||helpukr24.com^
 ||helpukraina.site^
-||helpukrainemoneydopomoga.com^
 ||helpukraine.direct^
 ||helpukraine.uk^
 ||helpukrainian.site^
@@ -542,7 +410,6 @@
 ||kazinosvip.net^
 ||kievstar.online^
 ||kiiev.site^
-||kojnomydopomoga.sbs^
 ||komfort-house.store^
 ||konkurs23.site^
 ||konkurs2023.site^
@@ -745,8 +612,6 @@
 ||on-ua.pro^
 ||on-ukr.net^
 ||oonviplaty.host^
-||oon-dopomoga.info^
-||oon-dopomoga.pro^
 ||opendata-baza-mvs.com.ua^
 ||opendata-baza-mvs.online^
 ||opendata-gov.com.ua^
@@ -845,7 +710,6 @@
 ||paymentukrainenow.com^
 ||payment-system.cloud^
 ||payme-ua.charity^
-||paysdopomogaua.pro^
 ||paysuanext24.org^
 ||paysuanext24.pro^
 ||paysuanext24.tech^
@@ -890,8 +754,6 @@
 ||pokermatch.com^
 ||poker-bet1.com^
 ||poker-bet.com^
-||polsha24dopomogaua.shop^
-||polsha24dopomogaua.site^
 ||poluchenieuanext24.tech^
 ||poluchenie-cash.online^
 ||poluchenie-money.online^
@@ -996,7 +858,6 @@
 ||recive-money.icu^
 ||recovery-ukr.net^
 ||redcrossbezl.yolasite.com^
-||redcrossdopomoga.info^
 ||redcrossua.top^
 ||redcrossukraine.co^
 ||redcrossukraine.top^
@@ -1019,6 +880,7 @@
 ||rozetkaukraine.com^
 ||rozetkaukraine.vip^
 ||rozetka.cc^
+||rubet.com^
 ||ru.com^
 ||rybalka-ua.site^
 ||rysebet.com^
@@ -1119,9 +981,6 @@
 ||termo-ukraine.xyz^
 ||thebestpriceukraine.store^
 ||the-ggbet.com^
-||toidopomoga.co^
-||toidopomoga.org^
-||toidopomoga.pro^
 ||topmarketukr.online^
 ||topmatch2.win^
 ||topmatch.win^
@@ -1151,13 +1010,6 @@
 ||ua24.cloud^
 ||ua24.live^
 ||ua24.xyz^
-||uadopomoga24.sbs^
-||uadopomoga24.world^
-||uadopomoga2023.org^
-||uadopomoga.biz^
-||uadopomoga.com^
-||uadopomoga.me^
-||uadopomoga.site^
 ||uaehelp-7300.info^
 ||uaehelp-7300.pro^
 ||uaehelp-7300.xyz^
@@ -1246,13 +1098,10 @@
 ||ukr24help.com^
 ||ukr24pays.org^
 ||ukr24promo.com^
-||ukrainadopomoga24.org^
 ||ukrainapays24.pro^
 ||ukraina-shtraf.site^
 ||ukraina.buzz^
 ||ukraina.pro^
-||ukraine24dopomoga.online^
-||ukraine24dopomoga.site^
 ||ukraineaidnow.net^
 ||ukraineaidnow.org^
 ||ukraineamazon.com^
@@ -1338,7 +1187,6 @@
 ||ukrainsohoop.fun^
 ||ukraintovar.fun^
 ||ukraongov-ua.com^
-||ukrdopomoga.top^
 ||ukrgoods.fun^
 ||ukrhelp2023.com^
 ||ukrhomestore.space^
@@ -1438,8 +1286,6 @@
 ||ukr-dekor.online^
 ||ukr-dekor.store^
 ||ukr-discount.com.ua^
-||ukr-dopomoga-2024.pics^
-||ukr-dopomoga.top^
 ||ukr-dopomog.top^
 ||ukr-dostavka.fun^
 ||ukr-dostavka.space^
@@ -1567,6 +1413,7 @@
 ||vyplata-otrymat.online^
 ||watch-ua.space^
 ||winukr-pay.charity^
+||winwin.bet^
 ||wowukr.store^
 ||wulkan-777.com^
 ||wwwolx.site^
@@ -1751,7 +1598,7 @@
 ##body:has(div.container > div > div > div > div.card-body > form[action^="unlock"])
 !
 ! #TAG-50
-://forms.tildacdn.com/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno
+://forms.tilda*.*/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno|website
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
 /mod/project/*/lead/send/*$document,xmlhttprequest
 ://*.lpcdn.site/assets/*$script,xmlhttprequest
@@ -1820,7 +1667,7 @@
 ://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
-://*dopomoga*.*/$document,domain=business|click|club|co|eu|fun|kiev.ua|pics|services|shop|site|space|tech|top
+://*dopomoga*.*/$document,domain=biz|business|buzz|cfd|click|cloud|club|co|eu|fun|info|live|me|online|org|pics|pro|sbs|services|shop|site|space|top|uk|website|win|world|xyz
 !
 ! #TAG-65
 ://web.*.*/get/*$document
