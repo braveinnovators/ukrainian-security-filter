@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240612.01 (24.06.1)
-! Last modified: Wed, 12 June 2024 12:19 EEST
+! Version: 20240615.01 (24.06.2)
+! Last modified: Sat, 15 June 2024 23:10 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -132,6 +132,7 @@
 ||be-ukr.net^
 ||bg-ukr.net^
 ||bigsales-ua.store^
+||bitcoinukraine.xyz^
 ||bitfinexgroup.com^
 ||bitshopping.net^
 ||bitz1.vip^
@@ -144,6 +145,7 @@
 ||boompari.xyz^
 ||bs-market.store^
 ||btcinvesta.com^
+||btcukraine.xyz^
 ||buddy1.bet^
 ||buy-ua.com.ua^
 ||b-twinner.com^
@@ -169,6 +171,7 @@
 ||clubdeluxe.net^
 ||clubvulcanbet.store^
 ||coins.game^
+||coinukraine.xyz^
 ||comfortshop-ukraine.space^
 ||comfort-ua.store^
 ||confirms-qr.com^
@@ -179,6 +182,7 @@
 ||crazy-hero.com^
 ||crypt0.fun^
 ||cryptocurrency-helps-ukraine.com^
+||cryptoukraine.xyz^
 ||datacheckqr.net^
 ||data-mails.com^
 ||data-ukr.com^
@@ -593,6 +597,7 @@
 ||olx-ua.life^
 ||olx-ua.pro^
 ||olx-ua.pw^
+||olx-ukraine.info^
 ||olx-ukrnp.co.uk^
 ||olx.dp.ua^
 ||oneclick-ua.shop^
@@ -1108,7 +1113,11 @@
 ||ukraineamazon.pro^
 ||ukraineassistancefund.za.com^
 ||ukrainebasket.space^
+||ukrainebitcoin.xyz^
+||ukraineblockchain.xyz^
+||ukrainebtc.xyz^
 ||ukrainecross.org^
+||ukrainecrypto.xyz^
 ||ukrainedecor.com.ua^
 ||ukrainedeliveryservice.online^
 ||ukrainedeliveryservice.website^
@@ -1116,6 +1125,7 @@
 ||ukrainedevelopmentmission.org^
 ||ukrainedostavka.store^
 ||ukraineebay.vip^
+||ukraineexchange.xyz^
 ||ukrainefacility.store^
 ||ukrainefamily.store^
 ||ukrainefinancialaid.za.com^
@@ -1139,6 +1149,7 @@
 ||ukrainepomosh.online^
 ||ukraineproductstore.fun^
 ||ukraineproduct.fun^
+||ukrainepro.site^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
 ||ukraineshoping.store^
