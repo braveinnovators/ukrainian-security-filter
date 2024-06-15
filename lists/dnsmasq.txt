@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240612.01 (24.06.1)
-# Last modified: Wed, 12 June 2024 12:19 EEST
+# Version: 20240615.01 (24.06.2)
+# Last modified: Sat, 15 June 2024 23:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -131,6 +131,7 @@ address=/bet-match1.io/
 address=/be-ukr.net/
 address=/bg-ukr.net/
 address=/bigsales-ua.store/
+address=/bitcoinukraine.xyz/
 address=/bitfinexgroup.com/
 address=/bitshopping.net/
 address=/bitz1.vip/
@@ -143,6 +144,7 @@ address=/bonanzagame21.com/
 address=/boompari.xyz/
 address=/bs-market.store/
 address=/btcinvesta.com/
+address=/btcukraine.xyz/
 address=/buddy1.bet/
 address=/buy-ua.com.ua/
 address=/b-twinner.com/
@@ -168,6 +170,7 @@ address=/chooseraiff.site/
 address=/clubdeluxe.net/
 address=/clubvulcanbet.store/
 address=/coins.game/
+address=/coinukraine.xyz/
 address=/comfortshop-ukraine.space/
 address=/comfort-ua.store/
 address=/confirms-qr.com/
@@ -178,6 +181,7 @@ address=/courier.darkleads.pro/
 address=/crazy-hero.com/
 address=/crypt0.fun/
 address=/cryptocurrency-helps-ukraine.com/
+address=/cryptoukraine.xyz/
 address=/datacheckqr.net/
 address=/data-mails.com/
 address=/data-ukr.com/
@@ -803,6 +807,7 @@ address=/olx-ua.ink/
 address=/olx-ua.life/
 address=/olx-ua.pro/
 address=/olx-ua.pw/
+address=/olx-ukraine.info/
 address=/olx-ukrnp.co.uk/
 address=/olx.dp.ua/
 address=/ondorazovaya-viplata24.space/
@@ -1353,7 +1358,11 @@ address=/ukraineamazon.com/
 address=/ukraineamazon.pro/
 address=/ukraineassistancefund.za.com/
 address=/ukrainebasket.space/
+address=/ukrainebitcoin.xyz/
+address=/ukraineblockchain.xyz/
+address=/ukrainebtc.xyz/
 address=/ukrainecross.org/
+address=/ukrainecrypto.xyz/
 address=/ukrainedecor.com.ua/
 address=/ukrainedeliveryservice.online/
 address=/ukrainedeliveryservice.website/
@@ -1361,6 +1370,7 @@ address=/ukrainedeliveryservice.xyz/
 address=/ukrainedevelopmentmission.org/
 address=/ukrainedostavka.store/
 address=/ukraineebay.vip/
+address=/ukraineexchange.xyz/
 address=/ukrainefacility.store/
 address=/ukrainefamily.store/
 address=/ukrainefinancialaid.za.com/
@@ -1384,6 +1394,7 @@ address=/ukrainepay.site/
 address=/ukrainepomosh.online/
 address=/ukraineproductstore.fun/
 address=/ukraineproduct.fun/
+address=/ukrainepro.site/
 address=/ukrainerozetka.com/
 address=/ukrainerozetka.vip/
 address=/ukraineshoping.store/
