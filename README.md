@@ -53,14 +53,14 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту, так і з популярними сторонніми розширеннями, користувачам персональних комп'ютерів ми рекомендуємо використовувати браузер [Firefox](https://www.mozilla.org/firefox/) разом з розширенням [uBlock Origin](https://ublockorigin.com/) (або ж будь-який інший браузер разом із розширенням uBlock Origin).
 
-Браузер Firefox підтримує роботу розширень і на мобільних пристроях, проте, розширення uBlock Origin працює лише на ОС Android. Тому альтернативою для мобільних пристроїв, що працюють на базі ОС Android та iOS, може стати використання браузера [Brave](https://brave.com/), який має власний модуль фільтрації контенту.
+Альтернативою для мобільних пристроїв, що працюють на базі ОС Android та iOS, може стати використання браузера [Brave](https://brave.com/), який має власний модуль фільтрації контенту та підтримує [синтаксис фільтрації](https://support.brave.com/hc/en-us/articles/6449369961741-How-do-I-manage-Ad-Block-filters-in-Brave) розширення uBlock Origin.
 
 > [!WARNING]
 > Починаючи з версії 0.5, розробники розширення **Adblock** [вирішили прибрати](https://web.archive.org/web/20111206122411/http://adblockplus.org/en/faq_features#siteblock) функцію блокування веб-сторінок (strict blocking). Це означає, що ані **Adblock**, ані **Adblock Plus** не можуть блокувати доступ до шкідливих веб-ресурсів на рівні доменного ім'я. Розширення **AdGuard** так само має проблеми з обробкою правил фільтрації ([Issue #2760](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2760)), навіть тих, що прямо прописані в документації цього розширення. Саме тому ми не рекомендуємо використовувати ці розширення.
 
-### Як імпортувати фільтр
+## Як імпортувати фільтр
 
-#### Brave
+### Brave
 
 <details>
 <summary>Windows, macOS та Linux</summary>
@@ -84,7 +84,7 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 ```
 </details>
 
-#### uBlock Origin
+### uBlock Origin
 
 <details>
 <summary>Windows, macOS та Linux</summary>
