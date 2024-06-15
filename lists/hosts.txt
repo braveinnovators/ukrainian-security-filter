@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240612.01 (24.06.1)
-# Last modified: Wed, 12 June 2024 12:19 EEST
+# Version: 20240615.01 (24.06.2)
+# Last modified: Sat, 15 June 2024 23:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -131,6 +131,7 @@
 0.0.0.0 be-ukr.net
 0.0.0.0 bg-ukr.net
 0.0.0.0 bigsales-ua.store
+0.0.0.0 bitcoinukraine.xyz
 0.0.0.0 bitfinexgroup.com
 0.0.0.0 bitshopping.net
 0.0.0.0 bitz.io
@@ -143,6 +144,7 @@
 0.0.0.0 boompari.xyz
 0.0.0.0 bs-market.store
 0.0.0.0 btcinvesta.com
+0.0.0.0 btcukraine.xyz
 0.0.0.0 buddy1.bet
 0.0.0.0 buy-ua.com.ua
 0.0.0.0 b-twinner.com
@@ -168,6 +170,7 @@
 0.0.0.0 clubdeluxe.net
 0.0.0.0 clubvulcanbet.store
 0.0.0.0 coins.game
+0.0.0.0 coinukraine.xyz
 0.0.0.0 comfortshop-ukraine.space
 0.0.0.0 comfort-ua.store
 0.0.0.0 confirms-qr.com
@@ -178,6 +181,7 @@
 0.0.0.0 crazy-hero.com
 0.0.0.0 crypt0.fun
 0.0.0.0 cryptocurrency-helps-ukraine.com
+0.0.0.0 cryptoukraine.xyz
 0.0.0.0 datacheckqr.net
 0.0.0.0 data-mails.com
 0.0.0.0 data-ukr.com
@@ -804,6 +808,7 @@
 0.0.0.0 olx-ua.life
 0.0.0.0 olx-ua.pro
 0.0.0.0 olx-ua.pw
+0.0.0.0 olx-ukraine.info
 0.0.0.0 olx-ukrnp.co.uk
 0.0.0.0 ondorazovaya-viplata24.space
 0.0.0.0 oneclick-ua.shop
@@ -1355,7 +1360,11 @@
 0.0.0.0 ukraineamazon.pro
 0.0.0.0 ukraineassistancefund.za.com
 0.0.0.0 ukrainebasket.space
+0.0.0.0 ukrainebitcoin.xyz
+0.0.0.0 ukraineblockchain.xyz
+0.0.0.0 ukrainebtc.xyz
 0.0.0.0 ukrainecross.org
+0.0.0.0 ukrainecrypto.xyz
 0.0.0.0 ukrainedecor.com.ua
 0.0.0.0 ukrainedeliveryservice.online
 0.0.0.0 ukrainedeliveryservice.website
@@ -1363,6 +1372,7 @@
 0.0.0.0 ukrainedevelopmentmission.org
 0.0.0.0 ukrainedostavka.store
 0.0.0.0 ukraineebay.vip
+0.0.0.0 ukraineexchange.xyz
 0.0.0.0 ukrainefacility.store
 0.0.0.0 ukrainefamily.store
 0.0.0.0 ukrainefinancialaid.za.com
@@ -1384,6 +1394,7 @@
 0.0.0.0 ukrainepaymentsystem.pro
 0.0.0.0 ukrainepays.site
 0.0.0.0 ukrainepomosh.online
+0.0.0.0 ukrainepro.site
 0.0.0.0 ukraineproduct.fun
 0.0.0.0 ukraineproductstore.fun
 0.0.0.0 ukrainerozetka.com
