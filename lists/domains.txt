@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240612.01 (24.06.1)
-# Last modified: Wed, 12 June 2024 12:19 EEST
+# Version: 20240615.01 (24.06.2)
+# Last modified: Sat, 15 June 2024 23:10 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -131,6 +131,7 @@ bet-match1.io
 be-ukr.net
 bg-ukr.net
 bigsales-ua.store
+bitcoinukraine.xyz
 bitfinexgroup.com
 bitshopping.net
 bitz.io
@@ -143,6 +144,7 @@ bonanzagame21.com
 boompari.xyz
 bs-market.store
 btcinvesta.com
+btcukraine.xyz
 buddy1.bet
 buy-ua.com.ua
 b-twinner.com
@@ -168,6 +170,7 @@ chooseraiff.site
 clubdeluxe.net
 clubvulcanbet.store
 coins.game
+coinukraine.xyz
 comfortshop-ukraine.space
 comfort-ua.store
 confirms-qr.com
@@ -178,6 +181,7 @@ courier.darkleads.pro
 crazy-hero.com
 crypt0.fun
 cryptocurrency-helps-ukraine.com
+cryptoukraine.xyz
 datacheckqr.net
 data-mails.com
 data-ukr.com
@@ -804,6 +808,7 @@ olx-ua.ink
 olx-ua.life
 olx-ua.pro
 olx-ua.pw
+olx-ukraine.info
 olx-ukrnp.co.uk
 ondorazovaya-viplata24.space
 oneclick-ua.shop
@@ -1355,7 +1360,11 @@ ukraineamazon.com
 ukraineamazon.pro
 ukraineassistancefund.za.com
 ukrainebasket.space
+ukrainebitcoin.xyz
+ukraineblockchain.xyz
+ukrainebtc.xyz
 ukrainecross.org
+ukrainecrypto.xyz
 ukrainedecor.com.ua
 ukrainedeliveryservice.online
 ukrainedeliveryservice.website
@@ -1363,6 +1372,7 @@ ukrainedeliveryservice.xyz
 ukrainedevelopmentmission.org
 ukrainedostavka.store
 ukraineebay.vip
+ukraineexchange.xyz
 ukrainefacility.store
 ukrainefamily.store
 ukrainefinancialaid.za.com
@@ -1384,6 +1394,7 @@ ukrainepay.site
 ukrainepaymentsystem.pro
 ukrainepays.site
 ukrainepomosh.online
+ukrainepro.site
 ukraineproduct.fun
 ukraineproductstore.fun
 ukrainerozetka.com
