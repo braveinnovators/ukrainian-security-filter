@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240615.01 (24.06.2)
-! Last modified: Sat, 15 June 2024 23:10 EEST
+! Version: 20240617.01 (24.06.3)
+! Last modified: Mon, 17 June 2024 14:28 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1677,8 +1677,8 @@
 ! #TAG-64
 ://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
 ://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
-://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
-://*dopomoga*.*/$document,domain=biz|business|buzz|cfd|click|cloud|club|co|eu|fun|info|live|me|online|org|pics|pro|sbs|services|shop|site|space|top|uk|website|win|world|xyz
+://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
+://*dopomoga*.*/$document,domain=biz|business|buzz|cfd|click|cloud|club|co|eu|fun|help|info|live|me|online|org|pics|pro|sbs|services|shop|site|space|top|uk|website|win|world|xyz
 !
 ! #TAG-65
 ://web.*.*/get/*$document
