@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240617.01 (24.06.3)
-! Last modified: Mon, 17 June 2024 14:28 EEST
+! Version: 20240624.1 (24.06.4)
+! Last modified: Mon, 24 June 2024 14:45 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1591,6 +1591,13 @@
 ://presiden*petiti*.*$document,domain=~gov.ua|~e-dem.ua
 ://*petition*.*$document,domain=~gov.ua|~e-dem.ua
 !
+! CERT-UA#9688
+/\/jphone/\d{7,}$/$xmlhttprequest
+##html > body:has(div.popup > div.popup-inner > a[href*="/vote"])
+##html > body:has(nav.header__nav > a.header__login[href*="/vote"])
+##html > body:has(form[action="/vote"] > button[name="send_phone"])
+##html > body:has(form[action="/vote/code"] > button[name="send_code"])
+!
 ! #TAG-47
 ://*/bank/raif.php?id=*$document
 ://*/bank/pumb.php?id=*$document
@@ -1729,10 +1736,6 @@
 ! #TAG-68
 ||zaluzhny2024.$document
 ||zaluzhny-2024.$document
-!
-! #TAG-69
-://*.*/jphone/9*$xmlhttprequest
-##html[lang="ru"] > body:has(a[href*="/vote"])
 !
 ! #TAG-70
 ://*.*/static/servers/*.txt$xmlhttprequest
