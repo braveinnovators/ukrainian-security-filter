@@ -1591,7 +1591,7 @@
 ://presiden*petiti*.*$document,domain=~gov.ua|~e-dem.ua
 ://*petition*.*$document,domain=~gov.ua|~e-dem.ua
 !
-! CERT-UA#9688
+! UAC-0195 (CERT-UA#9688)
 /\/jphone/\d{7,}$/$xmlhttprequest
 ##html > body:has(div.popup > div.popup-inner > a[href*="/vote"])
 ##html > body:has(nav.header__nav > a.header__login[href*="/vote"])
