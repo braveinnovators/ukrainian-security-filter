@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240615.01 (24.06.2)
-# Last modified: Sat, 15 June 2024 23:10 EEST
+# Version: 20240712.1 (24.07.1)
+# Last modified: Fri, 12 July 2024 18:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -54,6 +54,7 @@
 185.196.11.194
 193.203.202.17
 777originals.org
+888starz.bet
 2023dopomoga.online
 7300.cloud
 7300.pics
@@ -83,6 +84,7 @@ api-donate-ukrainehelp.org
 apple-ukraine.me
 apple-ukraine.online
 apple-ukraine.store
+astekbet.com
 autonovaposhta.org
 au-ukr.net
 avon-registration.com
@@ -102,6 +104,7 @@ best-goods.com.ua
 best-store-ua.online
 bet2fun.lol
 bet2fun.online
+bet2fun.pro
 bet2fun.pw
 bet2fun.world
 bet2fun.xyz
@@ -115,6 +118,7 @@ bet2fun6.online
 bet2fun7.online
 bet2fun8.online
 betandyou2.com
+bettwo.fun
 betwinner.com
 betwinner1.com
 betwinner2.com
@@ -175,6 +179,7 @@ comfortshop-ukraine.space
 comfort-ua.store
 confirms-qr.com
 cosmobet.com
+cosmobet.one
 cosmolotukraine.co.uk
 cosmoslot.site
 courier.darkleads.pro
@@ -370,8 +375,6 @@ easy-casino.net
 ebayua.cc
 ebayua.com
 ebayua.vip
-ebayua66.com
-ebayua66.vip
 ebayukraine.com
 ebayukraine.vip
 ebay-ua.com
@@ -402,6 +405,7 @@ e-grivn.com
 e-gryvnia.com
 e-viplata.space
 e-vyplata.com
+f1casino.club
 facebook-ua.info
 fan-sport.biz.ua
 fan-sportua.com
@@ -469,6 +473,7 @@ goxbet4.com
 grandspincasino.net
 grompokerua.com
 grompokerua2.com
+grompokerua33.com
 groshidopomoga.top
 groshinarahunok.com
 grosovadopomoga.shop
@@ -686,6 +691,7 @@ monoslot1.com
 monoslot2.com
 monoslot3.com
 monoslot4.com
+monoslot9.com
 mostbet.com
 mostbet-ua5.com
 mrking.fun
@@ -1161,6 +1167,7 @@ simpacasino2.com
 slotclub.pro
 slotclub1.pro
 slotclubcasino.com
+slotik4.com
 slotoking.me
 slotoking.org.ua
 slotokingua.com
@@ -1725,6 +1732,7 @@ vulkanslots.live
 vulkanslots.online
 vulkanslots.site
 vulkanvegas.com
+vulkan-777.biz
 vyplatazaraz.store
 vyplata-otrymat.online
 watch-ua.space
