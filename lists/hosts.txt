@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240615.01 (24.06.2)
-# Last modified: Sat, 15 June 2024 23:10 EEST
+# Version: 20240712.1 (24.07.1)
+# Last modified: Fri, 12 July 2024 18:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -54,6 +54,7 @@
 0.0.0.0 185.196.11.194
 0.0.0.0 193.203.202.17
 0.0.0.0 777originals.org
+0.0.0.0 888starz.bet
 0.0.0.0 2023dopomoga.online
 0.0.0.0 7300.cloud
 0.0.0.0 7300.pics
@@ -83,6 +84,7 @@
 0.0.0.0 apple-ukraine.me
 0.0.0.0 apple-ukraine.online
 0.0.0.0 apple-ukraine.store
+0.0.0.0 astekbet.com
 0.0.0.0 autonovaposhta.org
 0.0.0.0 au-ukr.net
 0.0.0.0 avon-registration.com
@@ -102,6 +104,7 @@
 0.0.0.0 best-store-ua.online
 0.0.0.0 bet2fun.lol
 0.0.0.0 bet2fun.online
+0.0.0.0 bet2fun.pro
 0.0.0.0 bet2fun.pw
 0.0.0.0 bet2fun.world
 0.0.0.0 bet2fun.xyz
@@ -115,6 +118,7 @@
 0.0.0.0 bet2fun7.online
 0.0.0.0 bet2fun8.online
 0.0.0.0 betandyou2.com
+0.0.0.0 bettwo.fun
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
 0.0.0.0 betwinner2.com
@@ -175,6 +179,7 @@
 0.0.0.0 comfort-ua.store
 0.0.0.0 confirms-qr.com
 0.0.0.0 cosmobet.com
+0.0.0.0 cosmobet.one
 0.0.0.0 cosmolotukraine.co.uk
 0.0.0.0 cosmoslot.site
 0.0.0.0 courier.darkleads.pro
@@ -370,8 +375,6 @@
 0.0.0.0 ebayua.cc
 0.0.0.0 ebayua.com
 0.0.0.0 ebayua.vip
-0.0.0.0 ebayua66.com
-0.0.0.0 ebayua66.vip
 0.0.0.0 ebayukraine.com
 0.0.0.0 ebayukraine.vip
 0.0.0.0 ebay-ua.com
@@ -402,6 +405,7 @@
 0.0.0.0 e-gryvnia.com
 0.0.0.0 e-viplata.space
 0.0.0.0 e-vyplata.com
+0.0.0.0 f1casino.club
 0.0.0.0 facebook-ua.info
 0.0.0.0 fan-sport.biz.ua
 0.0.0.0 fan-sportua.com
@@ -469,6 +473,7 @@
 0.0.0.0 grandspincasino.net
 0.0.0.0 grompokerua.com
 0.0.0.0 grompokerua2.com
+0.0.0.0 grompokerua33.com
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshinarahunok.com
 0.0.0.0 grosovadopomoga.shop
@@ -686,6 +691,7 @@
 0.0.0.0 monoslot2.com
 0.0.0.0 monoslot3.com
 0.0.0.0 monoslot4.com
+0.0.0.0 monoslot9.com
 0.0.0.0 mostbet.com
 0.0.0.0 mostbet-ua5.com
 0.0.0.0 mrking.fun
@@ -1161,6 +1167,7 @@
 0.0.0.0 slotclub.pro
 0.0.0.0 slotclub1.pro
 0.0.0.0 slotclubcasino.com
+0.0.0.0 slotik4.com
 0.0.0.0 slotoking.me
 0.0.0.0 slotoking.org.ua
 0.0.0.0 slotokingua.com
@@ -1725,6 +1732,7 @@
 0.0.0.0 vulkanslots.online
 0.0.0.0 vulkanslots.site
 0.0.0.0 vulkanvegas.com
+0.0.0.0 vulkan-777.biz
 0.0.0.0 vyplatazaraz.store
 0.0.0.0 vyplata-otrymat.online
 0.0.0.0 watch-ua.space
