@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240615.01 (24.06.2)
-# Last modified: Sat, 15 June 2024 23:10 EEST
+# Version: 20240712.1 (24.07.1)
+# Last modified: Fri, 12 July 2024 18:34 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -54,6 +54,7 @@ address=/178.33.57.159/
 address=/185.196.11.194/
 address=/193.203.202.17/
 address=/777originals.org/
+address=/888starz.bet/
 address=/2023dopomoga.online/
 address=/7300.cloud/
 address=/7300.pics/
@@ -83,6 +84,7 @@ address=/api-donate-ukrainehelp.org/
 address=/apple-ukraine.me/
 address=/apple-ukraine.online/
 address=/apple-ukraine.store/
+address=/astekbet.com/
 address=/autonovaposhta.org/
 address=/au-ukr.net/
 address=/avon-registration.com/
@@ -111,10 +113,12 @@ address=/bet2fun7.online/
 address=/bet2fun8.online/
 address=/bet2fun.lol/
 address=/bet2fun.online/
+address=/bet2fun.pro/
 address=/bet2fun.pw/
 address=/bet2fun.world/
 address=/bet2fun.xyz/
 address=/betandyou2.com/
+address=/bettwo.fun/
 address=/betwinner1.com/
 address=/betwinner2.com/
 address=/betwinner3.com/
@@ -175,6 +179,7 @@ address=/comfortshop-ukraine.space/
 address=/comfort-ua.store/
 address=/confirms-qr.com/
 address=/cosmobet.com/
+address=/cosmobet.one/
 address=/cosmolotukraine.co.uk/
 address=/cosmoslot.site/
 address=/courier.darkleads.pro/
@@ -367,8 +372,6 @@ address=/drone-ua.space/
 address=/dude1.bet/
 address=/dude2.bet/
 address=/easy-casino.net/
-address=/ebayua66.com/
-address=/ebayua66.vip/
 address=/ebayua.cc/
 address=/ebayua.com/
 address=/ebayua.vip/
@@ -402,6 +405,7 @@ address=/e-grivn.com/
 address=/e-gryvnia.com/
 address=/e-viplata.space/
 address=/e-vyplata.com/
+address=/f1casino.club/
 address=/facebook-ua.info/
 address=/fan-sportua.com/
 address=/fan-sportua.org/
@@ -468,6 +472,7 @@ address=/gov-ukrain.icu/
 address=/goxbet4.com/
 address=/grandspincasino.net/
 address=/grompokerua2.com/
+address=/grompokerua33.com/
 address=/grompokerua.com/
 address=/groshidopomoga.top/
 address=/groshinarahunok.com/
@@ -680,6 +685,7 @@ address=/monoslot1.com/
 address=/monoslot2.com/
 address=/monoslot3.com/
 address=/monoslot4.com/
+address=/monoslot9.com/
 address=/monoslot.com/
 address=/mostbet-ua5.com/
 address=/mostbet.com/
@@ -1160,6 +1166,7 @@ address=/simpacasino.com/
 address=/slotclub1.pro/
 address=/slotclubcasino.com/
 address=/slotclub.pro/
+address=/slotik4.com/
 address=/slotokingua.com/
 address=/slotoking.me/
 address=/slotoking.org.ua/
@@ -1725,6 +1732,7 @@ address=/vulkanslots.live/
 address=/vulkanslots.online/
 address=/vulkanslots.site/
 address=/vulkanvegas.com/
+address=/vulkan-777.biz/
 address=/vyplatazaraz.store/
 address=/vyplata-otrymat.online/
 address=/watch-ua.space/

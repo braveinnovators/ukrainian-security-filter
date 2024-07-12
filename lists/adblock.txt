@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240626.1 (24.06.5)
-! Last modified: Wed, 26 June 2024 18:56 EEST
+! Version: 20240712.1 (24.07.1)
+! Last modified: Fri, 12 July 2024 18:34 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -57,6 +57,7 @@
 ||185.196.11.194^
 ||193.203.202.17^
 ||777originals.org^
+||888starz.bet^
 ||7300.cloud^
 ||7300.pics^
 ||7300.pro^
@@ -85,6 +86,7 @@
 ||apple-ukraine.me^
 ||apple-ukraine.online^
 ||apple-ukraine.store^
+||astekbet.com^
 ||au-ukr.net^
 ||avon-registration.com^
 ||avon-ua.site^
@@ -112,10 +114,12 @@
 ||bet2fun8.online^
 ||bet2fun.lol^
 ||bet2fun.online^
+||bet2fun.pro^
 ||bet2fun.pw^
 ||bet2fun.world^
 ||bet2fun.xyz^
 ||betandyou2.com^
+||bettwo.fun^
 ||betwinner1.com^
 ||betwinner2.com^
 ||betwinner3.com^
@@ -176,6 +180,7 @@
 ||comfort-ua.store^
 ||confirms-qr.com^
 ||cosmobet.com^
+||cosmobet.one^
 ||cosmolotukraine.co.uk^
 ||cosmoslot.site^
 ||courier.darkleads.pro^
@@ -249,8 +254,6 @@
 ||dude1.bet^
 ||dude2.bet^
 ||easy-casino.net^
-||ebayua66.com^
-||ebayua66.vip^
 ||ebayua.cc^
 ||ebayua.com^
 ||ebayua.vip^
@@ -278,6 +281,7 @@
 ||e-grivn.com^
 ||e-gryvnia.com^
 ||e-vyplata.com^
+||f1casino.club^
 ||facebook-ua.info^
 ||fan-sportua.com^
 ||fan-sportua.org^
@@ -340,6 +344,7 @@
 ||goxbet4.com^
 ||grandspincasino.net^
 ||grompokerua2.com^
+||grompokerua33.com^
 ||grompokerua.com^
 ||groshinarahunok.com^
 ||harpoon.dp.ua^
@@ -506,6 +511,7 @@
 ||monoslot2.com^
 ||monoslot3.com^
 ||monoslot4.com^
+||monoslot9.com^
 ||monoslot.com^
 ||mostbet-ua5.com^
 ||mostbet.com^
@@ -932,6 +938,7 @@
 ||slotclub1.pro^
 ||slotclubcasino.com^
 ||slotclub.pro^
+||slotik4.com^
 ||slotokingua.com^
 ||slotoking.me^
 ||slotoking.org.ua^
@@ -1420,6 +1427,7 @@
 ||vulkanslots.online^
 ||vulkanslots.site^
 ||vulkanvegas.com^
+||vulkan-777.biz^
 ||vyplatazaraz.store^
 ||vyplata-otrymat.online^
 ||watch-ua.space^
