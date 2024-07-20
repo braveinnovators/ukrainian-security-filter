@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240712.1 (24.07.1)
-# Last modified: Fri, 12 July 2024 18:34 EEST
+# Version: 20240720.1 (24.07.2)
+# Last modified: Sat, 20 July 2024 19:01 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -162,6 +162,7 @@ cashpayforukrainepeople.business
 casinoaviator.com
 casinos-vip.net
 casino-elslots.net
+casino-joker-20.com
 cazino-vip.org
 champblack.com
 champclub.net
@@ -169,9 +170,11 @@ championcasino.net
 chcplay.net
 chervonaikra-ua.fun
 childrens-fund-ukraine.com
+chipstars.bet
 chooseraiff.online
 chooseraiff.site
 clubdeluxe.net
+clubsvulkanbets.store
 clubvulcanbet.store
 coins.game
 coinukraine.xyz
@@ -1113,6 +1116,7 @@ ringo-bet.net
 riobet.com
 rmssrv.ru
 rockbit.space
+roobet.com
 roxcasino.com
 rozetka.cc
 rozetkaa.online
@@ -1189,6 +1193,7 @@ spinbetter.com
 sportloto.co
 sportloto1.co
 sportloto-1.co
+stake.ceo
 stake.com
 starlinkukraine.com
 starlink-ukraine.net
