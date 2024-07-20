@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240720.1 (24.07.2)
-! Last modified: Sat, 20 July 2024 19:01 EEST
+! Version: 20240720.2 (24.07.3)
+! Last modified: Sat, 20 July 2024 19:27 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1510,6 +1510,9 @@
 @@||instagram.com/edopomoga.gov.ua^$document
 ||e-dopomoga*.$document,domain=eu|homes|life|lol|mom|pics|shop|world
 ||*edopomoga*$document,domain=t.me|telegram.me
+!
+! PROZORRO.GOV.UA / UAC-0180
+://*prozorro*.*/$document,domain=~gov.ua|~prozorro.ua|~prozorro.org|~prozorro.sale
 !
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
