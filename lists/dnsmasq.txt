@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240712.1 (24.07.1)
-# Last modified: Fri, 12 July 2024 18:34 EEST
+# Version: 20240720.1 (24.07.2)
+# Last modified: Sat, 20 July 2024 19:01 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -162,6 +162,7 @@ address=/cashpayforukrainepeople.business/
 address=/casinoaviator.com/
 address=/casinos-vip.net/
 address=/casino-elslots.net/
+address=/casino-joker-20.com/
 address=/cazino-vip.org/
 address=/champblack.com/
 address=/champclub.net/
@@ -169,9 +170,11 @@ address=/championcasino.net/
 address=/chcplay.net/
 address=/chervonaikra-ua.fun/
 address=/childrens-fund-ukraine.com/
+address=/chipstars.bet/
 address=/chooseraiff.online/
 address=/chooseraiff.site/
 address=/clubdeluxe.net/
+address=/clubsvulkanbets.store/
 address=/clubvulcanbet.store/
 address=/coins.game/
 address=/coinukraine.xyz/
@@ -1113,6 +1116,7 @@ address=/ringo-bet.net/
 address=/riobet.com/
 address=/rmssrv.ru/
 address=/rockbit.space/
+address=/roobet.com/
 address=/roxcasino.com/
 address=/rozetkaa.online/
 address=/rozetkaa.space/
@@ -1188,6 +1192,7 @@ address=/spinbetter.com/
 address=/sportloto1.co/
 address=/sportloto-1.co/
 address=/sportloto.co/
+address=/stake.ceo/
 address=/stake.com/
 address=/starlinkukraine.com/
 address=/starlink-ukraine.net/
