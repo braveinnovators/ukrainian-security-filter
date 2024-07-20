@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 20240712.1 (24.07.1)
-! Last modified: Fri, 12 July 2024 18:34 EEST
+! Version: 20240720.1 (24.07.2)
+! Last modified: Sat, 20 July 2024 19:01 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -163,6 +163,7 @@
 ||casinoaviator.com^
 ||casinos-vip.net^
 ||casino-elslots.net^
+||casino-joker-20.com^
 ||cazino-vip.org^
 ||champblack.com^
 ||champclub.net^
@@ -170,9 +171,11 @@
 ||chcplay.net^
 ||chervonaikra-ua.fun^
 ||childrens-fund-ukraine.com^
+||chipstars.bet^
 ||chooseraiff.online^
 ||chooseraiff.site^
 ||clubdeluxe.net^
+||clubsvulkanbets.store^
 ||clubvulcanbet.store^
 ||coins.game^
 ||coinukraine.xyz^
@@ -884,6 +887,7 @@
 ||riobet.com^
 ||rmssrv.ru^
 ||rockbit.space^
+||roobet.com^
 ||roxcasino.com^
 ||rozetkaa.online^
 ||rozetkaa.space^
@@ -960,6 +964,7 @@
 ||sportloto1.co^
 ||sportloto-1.co^
 ||sportloto.co^
+||stake.ceo^
 ||stake.com^
 ||starlinkukraine.com^
 ||starlink-ukraine.net^
