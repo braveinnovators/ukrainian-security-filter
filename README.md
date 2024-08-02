@@ -3,7 +3,7 @@
 **Ukrainian Security Filter (Український безпековий фільтр)** — це фільтр шкідливих веб-ресурсів (фішинг, онлайн-шахрайство, дропшопінг, шкідливе програмне забезпечення тощо), що орієнтовані на громадян України.
 
 > [!NOTE]
-> Цей проект є частиною ініціативи [Ukrainian Filters](https://github.com/ukrainianfilters/lists) (Українські фільтри)
+> Цей проєкт є частиною ініціативи [Ukrainian Filters](https://github.com/ukrainianfilters/lists) (Українські фільтри)
 
 ## Правила фільтрації
 
@@ -122,8 +122,8 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 Якщо ви створили правила фільтрації та бажаєте, щоб вони були додані до фільтра, вам необхідно:
 
-1. Створити [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) проекту та додати правила до файлів (списків) з відповідними фільтрами: `adblock.txt`, `dnsmasq.txt`, `domains.txt`, `hosts.txt`, що містяться в окремій директорії під назвою `sandbox`
-2. Створити [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (після проходження тестування, ваші правила будуть додані безпосередньо мейнтейнерами проекту із зазначенням авторства)
+1. Створити [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) проєкту та додати правила до файлів (списків) з відповідними фільтрами: `adblock.txt`, `dnsmasq.txt`, `domains.txt`, `hosts.txt`, що містяться в окремій директорії під назвою `sandbox`
+2. Створити [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (після проходження тестування, ваші правила будуть додані безпосередньо мейнтейнерами проєкту із зазначенням авторства)
 
 ## Ліцензія
 
