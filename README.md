@@ -60,6 +60,21 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Як імпортувати фільтр
 
+### uBlock Origin
+
+<details>
+<summary>Windows, macOS, Linux та Android</summary>
+
+1. Відкрити меню `Preferences` розширення uBlock Origin, клацнути мишею на вкладку `Filter lists` і прокрутити до розділу `Custom`
+2. Клацнути мишею на `Import...` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
+
+```
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
+```
+
+Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+</details>
+
 ### Brave
 
 <details>
@@ -69,7 +84,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 2. У вкладці `Shields` відкрити розділ `Content filtering` і у розділі `Add custom filter lists` у поле вводу вставити скопійовану адресу фільтра:
 
 ```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
 </details>
 
@@ -80,23 +95,8 @@ https://www.awwwwesome.org/data/filters/USF/adblock.txt
 2. У розділі меню `Brave Shields & privacy` відкрити `Content filtering`, далі `Add custom filter list` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни шляхом натискання на кнопку `Add`:
 
 ```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/adblock.txt
 ```
-</details>
-
-### uBlock Origin
-
-<details>
-<summary>Windows, macOS та Linux</summary>
-
-1. Відкрити меню `Preferences` розширення uBlock Origin, клацнути мишею на вкладку `Filter lists` і прокрутити до розділу `Custom`
-2. Клацнути мишею на `Import...` і у поле вводу вставити скопійовану адресу фільтра, зберігши зміни:
-
-```
-https://www.awwwwesome.org/data/filters/USF/adblock.txt
-```
-
-Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 </details>
 
 ## Особливості
