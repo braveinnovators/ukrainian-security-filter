@@ -1,38 +1,57 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Повідомлення про помилки
+about: Створіть звіт, щоб допомогти нам покращити проєкт
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: serhiyguryev
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Перш, ніж створювати звіт:
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1) Переконайтеся у відсутності проблем або конфліктів з іншими розширеннями веб-браузера.
+2) Переконайтеся, що ви використовуєте лише одне розширення для блокування реклами (фільтрації контенту).
+3) Вимкніть NoScript, Ghostery, Disconnect, HTTPS Everywhere, Privacy Badger, AntiBanner, VPN розширення і повторно протестуйте (перевірте) роботу веб-сайту, з яким виникли проблеми.
+-->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Вкажіть веб-сайт(и), з якими у вас виникли проблеми
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!-- Вкажіть URL-адресу веб-сайту (ОБОВ'ЯЗКОВО) -->
+<!-- Будь ласка, вставляйте URL-адресу сайту в кодовий тег (ОБОВ'ЯЗКОВО) -->
+<!-- Попередьте, якщо мова йде про сайт з NSFW контентом -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### Що відбувається?
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Опишіть проблеми, які виникають при відвідуванні сайту та вкажіть кроки відтворення цих проблем -->
+
+### Скриншот(и)
+
+<!-- Скриншот(и) для візуального опису проблем -->
+<!-- Розміщуйте посилання замість вбудованих зображень для скриншотів, що містять матеріали для дорослих -->
+
+### Списки фільтрів, які ви використовуєте
+
+<!-- Вкажіть формат Українських безпекових фільтрів, які ви використовуєте
+     наприклад, Adblock-style syntax, Domain-based blocklist, Hosts-based blocklist, dnsmasq -->
+<!-- Вкажіть версію та дату створення для цих списків (ОБОВ'ЯЗКОВО) -->
+
+### Програмне забезпечення, що використовується
+
+**Desktop:**
+
+- ОС / версія: <!-- наприклад, Windows 10 -->
+- Браузер / версія: <!-- наприклад, Firefox 128.0.3 -->
+- Розширення блокування реклами / версія: <!-- наприклад, uBlock Origin 1.59.0 -->
+
+**Smartphone:**
+
+- Пристрій: <!-- наприклад, Samsung Galaxy A35 -->
+- ОС / версія: <!-- наприклад, Android 14 -->
+- Браузер / версія: <!-- наприклад, Firefox 127 -->
+- Розширення блокування реклами / версія: <!-- наприклад, uBlock Origin 1.59.0 -->
+
+### Додаткова інформація
+
+<!-- Додайте тут будь-що інше, що може бути корисним для оперативного усунення проблеми -->
