@@ -3,7 +3,7 @@ name: Повідомити про шкідливі веб-сайти
 about: Ви можете повідомити про шкідливі веб-сайти, заповнивши цей шаблон
 title: ''
 labels: malicious website
-assignees: ''
+assignees: serhiyguryev
 
 ---
 
