@@ -1,2 +1,3 @@
 ! [uBlock Origin; Adblock Plus 3.2]
+! Title: Ukrainian Security Filter (Adblock-style syntax)
 !
