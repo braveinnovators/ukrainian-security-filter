@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240720.1 (24.07.2)
-# Last modified: Sat, 20 July 2024 19:01 EEST
+# Version: 24.08.3
+# Last modified: Mon, 12 August 2024 21:45 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@
 0.0.0.0 1xbet.ng
 0.0.0.0 1xbett.mobi
 0.0.0.0 1xbet-new.com
+0.0.0.0 1xslot.com
 0.0.0.0 1xslot-ua.com
 0.0.0.0 1-x-bet.com
 0.0.0.0 3ds-check.top
@@ -102,6 +103,7 @@
 0.0.0.0 bestshopukrain.fun
 0.0.0.0 best-goods.com.ua
 0.0.0.0 best-store-ua.online
+0.0.0.0 bet2casino.fun
 0.0.0.0 bet2fun.lol
 0.0.0.0 bet2fun.online
 0.0.0.0 bet2fun.pro
@@ -118,6 +120,7 @@
 0.0.0.0 bet2fun7.online
 0.0.0.0 bet2fun8.online
 0.0.0.0 betandyou2.com
+0.0.0.0 betmatch2win.com
 0.0.0.0 bettwo.fun
 0.0.0.0 betwinner.com
 0.0.0.0 betwinner1.com
@@ -125,6 +128,7 @@
 0.0.0.0 betwinner3.com
 0.0.0.0 betwinner4.com
 0.0.0.0 betwinner5.com
+0.0.0.0 betwinner6.com
 0.0.0.0 betwinner-371307.top
 0.0.0.0 betwinner-india.com
 0.0.0.0 betwinner-ua.com
@@ -548,6 +552,7 @@
 0.0.0.0 jokerua.vip
 0.0.0.0 joycasino2.com.ua
 0.0.0.0 kalmar-ukr-shop.space
+0.0.0.0 kasinos-vip.net
 0.0.0.0 kasinos-vip.xyz
 0.0.0.0 kasinovip.net
 0.0.0.0 kasino-vavada.co
