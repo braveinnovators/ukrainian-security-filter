@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240720.1 (24.07.2)
-# Last modified: Sat, 20 July 2024 19:01 EEST
+# Version: 24.08.3
+# Last modified: Mon, 12 August 2024 21:45 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -20,6 +20,7 @@ address=/1xbet.kz/
 address=/1xbet.mobi/
 address=/1xbet.ng/
 address=/1xslot-ua.com/
+address=/1xslot.com/
 address=/1-x-bet.com/
 address=/3ds-check.top/
 address=/3ds-connect.top/
@@ -102,6 +103,7 @@ address=/bestcrutches.com/
 address=/bestshopukrain.fun/
 address=/best-goods.com.ua/
 address=/best-store-ua.online/
+address=/bet2casino.fun/
 address=/bet2fun1.fun/
 address=/bet2fun1.online/
 address=/bet2fun2.online/
@@ -118,12 +120,14 @@ address=/bet2fun.pw/
 address=/bet2fun.world/
 address=/bet2fun.xyz/
 address=/betandyou2.com/
+address=/betmatch2win.com/
 address=/bettwo.fun/
 address=/betwinner1.com/
 address=/betwinner2.com/
 address=/betwinner3.com/
 address=/betwinner4.com/
 address=/betwinner5.com/
+address=/betwinner6.com/
 address=/betwinner-371307.top/
 address=/betwinner-india.com/
 address=/betwinner-ua.com/
@@ -548,6 +552,7 @@ address=/joker.land/
 address=/joker.ua/
 address=/joycasino2.com.ua/
 address=/kalmar-ukr-shop.space/
+address=/kasinos-vip.net/
 address=/kasinos-vip.xyz/
 address=/kasinovip.net/
 address=/kasino-vavada.co/
