@@ -1,13 +1,14 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.08.2
-! Last modified: Sat, 10 August 2024 14:59 EEST
+! Version: 24.08.3
+! Last modified: Mon, 12 August 2024 21:45 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
 ! Homepage: https://github.com/braveinnovators/ukrainian-security-filter
 ! Issues: https://github.com/braveinnovators/ukrainian-security-filter/issues
+!
 !
 ! !!!!!!!!!!!!!!!
 ! DOMAIN-BASED BLOCKLIST
@@ -25,6 +26,7 @@
 ||1xbet.mobi^
 ||1xbet.ng^
 ||1xslot-ua.com^
+||1xslot.com^
 ||1-x-bet.com^
 ||3ds-check.top^
 ||3ds-connect.top^
@@ -103,6 +105,7 @@
 ||bestshopukrain.fun^
 ||best-goods.com.ua^
 ||best-store-ua.online^
+||bet2casino.fun^
 ||bet2fun1.fun^
 ||bet2fun1.online^
 ||bet2fun2.online^
@@ -119,12 +122,14 @@
 ||bet2fun.world^
 ||bet2fun.xyz^
 ||betandyou2.com^
+||betmatch2win.com^
 ||bettwo.fun^
 ||betwinner1.com^
 ||betwinner2.com^
 ||betwinner3.com^
 ||betwinner4.com^
 ||betwinner5.com^
+||betwinner6.com^
 ||betwinner-371307.top^
 ||betwinner-india.com^
 ||betwinner-ua.com^
@@ -413,6 +418,7 @@
 ||joker.ua^
 ||joycasino2.com.ua^
 ||kalmar-ukr-shop.space^
+||kasinos-vip.net^
 ||kasinos-vip.xyz^
 ||kasinovip.net^
 ||kasino-vavada.co^
@@ -1451,18 +1457,15 @@
 ||yalunka-ukraine.com.ua^
 ||yr-ukr.net^
 ||zoloto-loto.net^
-!
+! >>>
 ||devtome.top^$document,xmlhttprequest
+!
 !
 ! !!!!!!!!!!!!!!!
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
-||*diya_official^$document,domain=t.me|telegram.me
-||*dopomogahi^$document,domain=t.me|telegram.me
-||*e_dopomoga_2024^$document,domain=t.me|telegram.me
 ||*egroshi_ua^$document,domain=t.me|telegram.me
-||*ekaterinaoonuk^$document,domain=t.me|telegram.me
 ||*grosgovadopomoga^$document,domain=t.me|telegram.me
 ||*pravovadopomoga24^$document,domain=t.me|telegram.me
 ||*ukrua2023^$document,domain=t.me|telegram.me
@@ -1491,12 +1494,13 @@
 ||t.me/+Vazo7VA93EwyMGUy^$document
 ||t.me/+xp5hvriUlW01ZGYy^$document
 !
+!
 ! !!!!!!!!!!!!!!!
 ! PATTERN-BASED FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
 /console-ban.min.js$third-party,xmlhttprequest,script
-!
+! >>>
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com|~spivdiia.com|~spivdiia.org.ua
 @@||facebook.com/diia.gov.ua^$document
@@ -1504,23 +1508,23 @@
 ||*diia*$document,domain=t.me|telegram.me
 @@||*diia_gov^$document,domain=t.me|telegram.me
 @@||*diia_help_bot^$document,domain=t.me|telegram.me
-!
+! >>>
 ! EDOPOMOGA.GOV.UA
 ://*edopomoga*.*/$document,domain=~gov.ua
 @@||instagram.com/edopomoga.gov.ua^$document
 ||e-dopomoga*.$document,domain=eu|homes|life|lol|mom|pics|shop|world
 ||*edopomoga*$document,domain=t.me|telegram.me
-!
+! >>>
 ! RESERVEPLUS.MOD.GOV.UA
 ://*reserveplus*.*/$document,domain=~gov.ua|~reserveplus.app
 ||*reserveplus*$document,domain=play.google.com
 @@||*id=ua.gov.reserveplus^$document,domain=play.google.com
 ||*reserveplus*$document,domain=viber.com
 @@||*reserveplusbot^$document,domain=viber.com
-!
+! >>>
 ! PROZORRO.GOV.UA / UAC-0180
 ://*prozorro*.*/$document,domain=~gov.ua|~prozorro.ua|~prozorro.org|~prozorro.sale
-!
+! >>>
 ! PRIVATBANK.UA
 ://*privat24*.*/$document,domain=~privat24.ua
 ://*privatbank*.*/$document,domain=~privatbank.ua
@@ -1530,7 +1534,7 @@
 ://privat-ua.*.$document
 ://privat.*.$document
 ://privatbank.*.$document
-!
+! >>>
 ! OSCHADBANK.UA
 ://*oschad*.*.$document,domain=~oschadbank.ua
 ://*oshad*.*.$document
@@ -1538,11 +1542,11 @@
 ://ohsad.*.$document
 ://ohsad24.*.$document
 ||oschadbank*.$document,domain=~oschadbank.ua
-!
+! >>>
 ! MONOBANK.UA
 ://mono.*.$document
 ||monobank*.$document,domain=~monobank.com.ua|~monobank.ua
-!
+! >>>
 ! RAIFFEISEN.UA
 ://*-raif.*.$document
 ://*aval24*.*.$document
@@ -1552,18 +1556,18 @@
 ://ra1f.*.$document
 ://raif-*.*.$document
 ://raif.*.$document
-!
+! >>>
 ! UKRSIBBANK.COM
 ://*ukersb24*.*.$document
 ://*ukersib*.*.$document
 ://*ukrsib*.*.$document,domain=~ukrsibbank.com
 ://us1b.*.$document
 ||ukrsibbank*.$document,domain=~ukrsibbank.com
-!
+! >>>
 ! PUMB.UA
 ://*pumb*.*.$document,domain=~pumb.ua
 ://bumb.*.$document
-!
+! >>>
 ! UKRPOSHTA.UA
 ://ukrposhta.*.$document
 ||ukrposhta*.$document,domain=~ukrposhta.ua
@@ -1572,55 +1576,55 @@
 ||uk*poshta.$document,domain=~gov.ua|~ua
 ||postukr.$document,domain=info|life|top|xyz
 ||ukr*pos*.$document,domain=info|life|top|xyz
-!
+! >>>
 ! NOVAPOSHTA.UA
 ://*novaposhta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
 ://*nova-poshta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
 @@||instagram.com/novaposhta.official^$document
 @@||tiktok.com/@novaposhta.official^$document
-!
+! >>>
 ! KYIVSTAR.UA
 ://*kyivstar*.*/$document,domain=~kyivstar.ua
 @@||instagram.com/kyivstar.official^$document
 ://*kievstar*.*/$document
-!
+! >>>
 ! OLX.UA
 ||olxdos*.$document,domain=cfd|sbs|shop|world
 ||olxpokupka*.$document
 ||poshtaolx*.$document
-!
+! >>>
 ! UAC-0050 (CERT-UA#8453, CERT-UA#8494)
 ||bitbucket.org/yener3/yener3/downloads/gbquas.exe^$document
 ||bitbucket.org/dvsvc/medoc_doc/downloads/zapit_medoc.rar^$document
-!
+! >>>
 ! UAC-0102 (CERT-UA#6858)
 ||passport-ukr-net.$document
 ||*ukr.net/desktop/security/login^$document,domain=~ukr.net
-!
+! >>>
 ! UAC-0177 (CERT-UA#8290)
 ://*gdocs.com.*/$document,xmlhttprequest
 ://*gdrive.com.*/$document,xmlhttprequest
 ://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
-!
+! >>>
 ! UAC-0184 (CERT-UA#9474)
 ://*.*.*.*:9000/hooks/*?id=*$document,xmlhttprequest
 ://*.ua/securitycheck.exe$document,xmlhttprequest
 ://*.ua/sud/dvs.exe$document,xmlhttprequest
-!
+! >>>
 ! UAC-0195 (CERT-UA#9565)
 ://petiti*ukr*.*$document,domain=~gov.ua|~e-dem.ua
 ://petiti*presiden*.*$document,domain=~gov.ua|~e-dem.ua
 ://presiden*petiti*.*$document,domain=~gov.ua|~e-dem.ua
 ://*petition*.*$document,domain=~gov.ua|~e-dem.ua
-!
+! >>>
 ! UAC-0195 (CERT-UA#9688)
 /\/jphone/\d{7,}$/$xmlhttprequest
 ##html > body:has(div.popup > div.popup-inner > a[href*="/vote"])
 ##html > body:has(nav.header__nav > a.header__login[href*="/vote"])
 ##html > body:has(form[action="/vote"] > button[name="send_phone"])
 ##html > body:has(form[action="/vote/code"] > button[name="send_code"])
-!
+! >>>
 ! #TAG-47
 ://*/bank/raif.php?id=*$document
 ://*/bank/pumb.php?id=*$document
@@ -1634,10 +1638,10 @@
 ://*.*.*/music.php?id=*-*$xmlhttprequest
 ##html[data-scrapbook-title^="Грошова допомога від"]:has(button.btn[href="lg/login.html"])
 ##html[data-scrapbook-title="Отримання коштів"]:has(div.auth-block > div#login-box.auth-block__box)
-!
+! >>>
 ! #TAG-48
 ##body:has(div.container > div > div > div > div.card-body > form[action^="unlock"])
-!
+! >>>
 ! #TAG-50
 ://forms.tilda*.*/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno|website
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
@@ -1666,7 +1670,7 @@
 ##body:has(> div#page.site > div.container-body > div.content-wrap > div > form#order_form)
 ##body:has(div.element-content > form.component-form[action$="/lead/send/"])
 ##body:has(div.newsletter-wrap > div.newsletter-form > form[action="ok.php"])
-!
+! >>>
 ! #TAG-53
 ://*loto*.*/comission.php$document
 ://*loto*.*/gametip*.php$document
@@ -1690,26 +1694,26 @@
 ##body > section.mains > section.mainsec > div[class*="comment"]
 ##body > section.mains > section.mainsec > div[class*="ttlind"]
 ##body > section.mains > section.mainsec > form.addcommnet
-!
+! >>>
 ! #TAG-60
 ##div.buttons > button[onclick="golden_drainer()"]
 ##div.buttons > button[data-ga-event="click_defence_and_demining"][onclick="openmodal()"]
 ##div.buttons > button[data-ga-event="clik_medical_aid"][onclick="openmodal()"]
 ##div.buttons > button[data-ga-event="clik_rebuild_ukraine"][onclick="openmodal()"]
 ##button[onclick="MSM.connect()"]
-!
+! >>>
 ! #TAG-61
 ##html.w-mod-js.w-mod-ix > body > div.global-stylesheet.w-embed
 ##html.w-mod-js.w-mod-ix > body > div.page-loader
 ##html.w-mod-js.w-mod-ix > body > div.section-mark
 ##html.w-mod-js.w-mod-ix > body > div.section
-!
+! >>>
 ! #TAG-64
-://*bankid*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
-://*bankld*.*/$document,domain=art|au|click|cloud|com|health|info|me|net|online|org|pro|shop|site|us|xyz
-://*viplata*.*/$document,domain=biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|website|xyz
-://*dopomoga*.*/$document,domain=biz|business|buzz|cfd|click|cloud|club|co|eu|fun|help|info|live|me|online|org|pics|pro|sbs|services|shop|site|space|top|uk|website|win|world|xyz
-!
+://*bankid*.*/$document,domain=~gov.ua
+://*bankld*.*/$document
+://*viplata*.*/$document,domain=art|au|biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|health|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|us|website|xyz
+://*dopomoga*.*/$document,domain=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
+! >>>
 ! #TAG-65
 ://web.*.*/get/*$document
 ://web.*.*/pay/order/*$document
@@ -1752,22 +1756,22 @@
 ##body:has(div#app > div.wrapper.velmld-parent > div.p24_web_components_modal_no_scroll)
 ##body:has(div#ask_page[data-next="ask_phone"])
 ##.text-slate-200.cursor-pointer.to-card__button
-!
+! >>>
 ! #TAG-66
 ://*.*/bi/*1704*$document
 ##div.layout-item > div.layout-item__body > a[href*="banks.php"]
 ##div.main_table > div.content_section > div.content > div#comBankPager_2.pager.com_bank.com_blog.list
-!
+! >>>
 ! #TAG-68
 ||zaluzhny2024.$document
 ||zaluzhny-2024.$document
-!
+! >>>
 ! #TAG-70
 ://*.*/static/servers/*.txt$xmlhttprequest
 ://*.*/static/errors/*.txt$xmlhttprequest
 ##html[data-scrapbook-source="https://next.privat24.ua/"]
 ##html[lang="en"]:has(> body > div.container > div.wrapp > a#btn.btn[href*="/input/"])
-!
+! >>>
 ! #TAG-71
 ://*.*/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
 ://*.workers.dev/link_card/*$document
@@ -1786,19 +1790,19 @@
 ##body:has(div#app > div.main-block > form > input#cardBalance[data-ref="cardBalance"][placeholder="Баланс картки"])
 ##body:has(div#app > div#card > section#openModal > div > div > div > form > input#cardBalance[data-ref="cardBalance"][placeholder="Баланс картки"])
 ##body:has(div#root > div > div > div > div > div > div > form[action^="/card/"][method="get"])
-!
+! >>>
 ! #TAG-72
 ##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
 ##body:has(div > span.jss60.jss63[style*="background-image: url(/img/logo_site.png)"])
-!
+! >>>
 ! #TAG-73
 ##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
-!
+! >>>
 ! #TAG-74
 ://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pcustomizationloader_*.js$script,xmlhttprequest
 ://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
 ://*.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
 ://*.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
-!
+! >>>
 ! #TAG-75
 ##body.oschadbank:has(form#cardForm > div > div.auth-fields > div > div > input[name="cvc"][maxlength="4"])
