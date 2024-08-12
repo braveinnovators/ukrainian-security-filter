@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 20240720.1 (24.07.2)
-# Last modified: Sat, 20 July 2024 19:01 EEST
+# Version: 24.08.3
+# Last modified: Mon, 12 August 2024 21:45 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@
 1xbet.ng
 1xbett.mobi
 1xbet-new.com
+1xslot.com
 1xslot-ua.com
 1-x-bet.com
 3ds-check.top
@@ -102,6 +103,7 @@ bestcrutches.com
 bestshopukrain.fun
 best-goods.com.ua
 best-store-ua.online
+bet2casino.fun
 bet2fun.lol
 bet2fun.online
 bet2fun.pro
@@ -118,6 +120,7 @@ bet2fun6.online
 bet2fun7.online
 bet2fun8.online
 betandyou2.com
+betmatch2win.com
 bettwo.fun
 betwinner.com
 betwinner1.com
@@ -125,6 +128,7 @@ betwinner2.com
 betwinner3.com
 betwinner4.com
 betwinner5.com
+betwinner6.com
 betwinner-371307.top
 betwinner-india.com
 betwinner-ua.com
@@ -548,6 +552,7 @@ jokerua.top
 jokerua.vip
 joycasino2.com.ua
 kalmar-ukr-shop.space
+kasinos-vip.net
 kasinos-vip.xyz
 kasinovip.net
 kasino-vavada.co
