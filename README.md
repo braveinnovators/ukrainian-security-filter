@@ -50,9 +50,9 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 
 ## Сумісність з браузерами та розширеннями
 
-Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту, так і з популярними сторонніми розширеннями, користувачам персональних комп'ютерів ми рекомендуємо використовувати браузер [Firefox](https://www.mozilla.org/firefox/) разом з розширенням [uBlock Origin](https://ublockorigin.com/) (або ж будь-який інший браузер разом із розширенням uBlock Origin).
+Незважаючи на те, що правила, які містяться у фільтрі, сумісні як з браузерами з вбудованими модулями фільтрації контенту, так і з популярними сторонніми розширеннями, користувачам персональних комп'ютерів та мобільних пристроїв на базі ОС Android ми рекомендуємо використовувати розширення [uBlock Origin](https://ublockorigin.com/) разом з браузером [Firefox](https://www.mozilla.org/firefox/) (або ж будь-який інший браузер разом із розширенням uBlock Origin).
 
-Альтернативою для мобільних пристроїв, що працюють на базі ОС Android та iOS, може стати використання браузера [Brave](https://brave.com/), який має власний модуль фільтрації контенту та підтримує [синтаксис фільтрації](https://support.brave.com/hc/en-us/articles/6449369961741-How-do-I-manage-Ad-Block-filters-in-Brave) розширення uBlock Origin.
+Якщо ви використовуєте браузер Google Chrome, майте на увазі, що, починаючи з червня 2024 року, цей браузер почне поступово деактивувати розширення, які не підтримують [Manifest V3](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html). Це означає, що жодне розширення-блокувальник реклами більше [не зможе повноцінно працювати](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers) з цим браузером. Альтернативою може стати або Firefox, або браузери на основі [Chromium](https://uk.wikipedia.org/wiki/Chromium), які продовжать підтримувати Manifest V2 та сторонні блокувальники реклами, включно з uBlock Origin.
 
 > [!WARNING]
 > Починаючи з версії 0.5, розробники розширення **Adblock** [вирішили прибрати](https://web.archive.org/web/20111206122411/http://adblockplus.org/en/faq_features#siteblock) функцію блокування веб-сторінок (strict blocking). Це означає, що ані **Adblock**, ані **Adblock Plus** не можуть блокувати доступ до шкідливих веб-ресурсів на рівні доменного ім'я. Розширення **AdGuard** так само має проблеми з обробкою правил фільтрації ([Issue #2760](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2760)), навіть тих, що прописані в документації цього розширення. Відповідно, ці розширення не є сумісними з нашим фільтром.
@@ -60,6 +60,8 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 ## Як імпортувати фільтр
 
 ### uBlock Origin
+
+[uBlock Origin](https://ublockorigin.com/) (uBO) — платформонезалежне розширення фільтрації контенту для Firefox та інших браузерів, що засновані на [Chromium](https://uk.wikipedia.org/wiki/Chromium) (зокрема, Google Chrome, Opera, Microsoft Edge, Brave). Переваги цього розширення: вільне програмне забезпечення з відкритим кодом, ефективне використання процесора та пам'яті, об'єктивно найкращий вибір з точки зору функціональних можливостей та гнучкості налаштувань.
 
 <details>
 <summary>Windows, macOS, Linux та Android</summary>
@@ -74,9 +76,9 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 Додаткова інструкція доступна за адресою: [https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
 </details>
 
-> Android-версія браузера Firefox повноцінно підтримує сторонні розширення, серед яких є і uBlock Origin.
-
 ### Brave
+
+Браузер [Brave](https://brave.com/) заснований на [Chromium](https://uk.wikipedia.org/wiki/Chromium), має власний модуль фільтрації контенту з підтримкою [синтаксису фільтрації](https://support.brave.com/hc/en-us/articles/6449369961741-How-do-I-manage-Ad-Block-filters-in-Brave) розширення uBlock Origin. Цей браузер [продовжить підтримувати Manifest V2](https://brave.com/blog/brave-shields-manifest-v3/) та сторонні розширення-блокувальники реклами, включно з uBlock Origin.
 
 <details>
 <summary>Windows, macOS та Linux</summary>
@@ -101,7 +103,7 @@ https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main
 </details>
 
 > [!NOTE]
-> Якщо програмне забезпечення фільтрації контенту підтримує функцію автооновлення імпортованих списків, списки фільтрів (Adblock-style syntax) будуть оновлюватися автоматично кожні 2 дні. У разі необхідності списки також можна оновлювати вручну.
+> Якщо програмне забезпечення фільтрації контенту підтримує функцію автооновлення імпортованих списків, список фільтрів у форматі adblock-style syntax буде оновлюватися автоматично. У разі необхідності цей список також можна оновлювати вручну.
 
 ## Джерела інформації
 
