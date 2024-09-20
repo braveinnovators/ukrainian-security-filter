@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.09.1
-! Last modified: Fri, 06 September 2024 10:25 EEST
+! Version: 24.09.2
+! Last modified: Fri, 20 September 2024 22:28 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -25,6 +25,7 @@
 ||1xbet.kz^
 ||1xbet.mobi^
 ||1xbet.ng^
+||1xbit-ua.com^
 ||1xslot-ua.com^
 ||1xslot.com^
 ||1-x-bet.com^
@@ -122,6 +123,8 @@
 ||bet2fun.world^
 ||bet2fun.xyz^
 ||betandyou2.com^
+||betandyou.com^
+||betbet2fun.com^
 ||betmatch2win.com^
 ||bettwo.fun^
 ||betwinner1.com^
@@ -330,6 +333,7 @@
 ||gg.bet^
 ||gingerbread-ua.store^
 ||girlyanda.store^
+||gizbocasino.com^
 ||gogleeo.shop^
 ||gohelpukraina24.site^
 ||goldcup24.com^
@@ -487,6 +491,7 @@
 ||maxi-store.com.ua^
 ||maxline.by^
 ||maxlink.click^
+||megapari.com^
 ||megashops.online^
 ||megaukrshop.fun^
 ||melbetua.com^
