@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.08.3
-# Last modified: Mon, 12 August 2024 21:45 EEST
+# Version: 24.09.2
+# Last modified: Fri, 20 September 2024 22:28 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@ address=/1xbet.com/
 address=/1xbet.kz/
 address=/1xbet.mobi/
 address=/1xbet.ng/
+address=/1xbit-ua.com/
 address=/1xslot-ua.com/
 address=/1xslot.com/
 address=/1-x-bet.com/
@@ -120,6 +121,8 @@ address=/bet2fun.pw/
 address=/bet2fun.world/
 address=/bet2fun.xyz/
 address=/betandyou2.com/
+address=/betandyou.com/
+address=/betbet2fun.com/
 address=/betmatch2win.com/
 address=/bettwo.fun/
 address=/betwinner1.com/
@@ -456,6 +459,7 @@ address=/ggpokerok.com/
 address=/gg.bet/
 address=/gingerbread-ua.store/
 address=/girlyanda.store/
+address=/gizbocasino.com/
 address=/gogleeo.shop/
 address=/gohelpukraina24.site/
 address=/goldcup24.com/
@@ -660,6 +664,7 @@ address=/maxi-sales.store/
 address=/maxi-store.com.ua/
 address=/maxline.by/
 address=/maxlink.click/
+address=/megapari.com/
 address=/megashops.online/
 address=/megaukrshop.fun/
 address=/melbetua.com/
