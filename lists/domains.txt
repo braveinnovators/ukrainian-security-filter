@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.08.3
-# Last modified: Mon, 12 August 2024 21:45 EEST
+# Version: 24.09.2
+# Last modified: Fri, 20 September 2024 22:28 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -19,6 +19,7 @@
 1xbet.ng
 1xbett.mobi
 1xbet-new.com
+1xbit-ua.com
 1xslot.com
 1xslot-ua.com
 1-x-bet.com
@@ -119,7 +120,9 @@ bet2fun5.online
 bet2fun6.online
 bet2fun7.online
 bet2fun8.online
+betandyou.com
 betandyou2.com
+betbet2fun.com
 betmatch2win.com
 bettwo.fun
 betwinner.com
@@ -456,6 +459,7 @@ ggbets.co
 ggpokerok.com
 gingerbread-ua.store
 girlyanda.store
+gizbocasino.com
 gogleeo.shop
 gohelpukraina24.site
 goldcup24.com
@@ -665,6 +669,7 @@ maxi-sales.store
 maxi-store.com.ua
 maxline.by
 maxlink.click
+megapari.com
 megashops.online
 megaukrshop.fun
 melbet.com
