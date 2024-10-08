@@ -1,14 +1,13 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.09.2
-# Last modified: Fri, 20 September 2024 22:28 EEST
+# Version: 24.10.1
+# Last modified: Tue, 08 October 2024 14:48 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
 # Homepage: https://github.com/braveinnovators/ukrainian-security-filter
 # Issues: https://github.com/braveinnovators/ukrainian-security-filter/issues
 #
-0ukr.net
 1webs.top
 1win.pro
 1xbet.ci
@@ -30,19 +29,14 @@
 3ds-payswallet.online
 3ds-payz.site
 3ds-ua.top
-3ds-vlsa.com
 7goxbet.com
 8slottica.com
 10goxbet.com
 11goxbet.com
 13goxbet.com
 15jokerua.top
-23konkurs.site
 24helpuapay.com
 24helpukr.com
-24uadopomoga.sbs
-24uadopomoga.world
-24ukrhelp.com
 25shop.space
 51.38.145.47
 78.153.139.61
@@ -57,35 +51,19 @@
 193.203.202.17
 777originals.org
 888starz.bet
-2023dopomoga.online
-7300.cloud
-7300.pics
-7300.pro
 accaunt-ua.fun
 accounts-ukr.com
-adidas-ua.shop
 ahome.uno
 aid24-ua.online
 aid24-ua.pw
 aid24-ua.site
 aid24-ua.space
 aid24-ua.website
-aiderinukr-gov.site
-aiderukr-gov.site
 aidforukraine.za.com
-aidforukr-gov.site
-aidgetukr-gov.site
-aid-for-ukraine.info
-aid-for-ukraine.life
-aid-for-ukraine.world
 air-pro-ua.store
-akvapark.site
 alcohol-ukraine.com
-alcohol-ukraine.shop
-api-donate-ukrainehelp.org
-apple-ukraine.me
 apple-ukraine.online
-apple-ukraine.store
+asprobet.com
 astekbet.com
 autonovaposhta.org
 au-ukr.net
@@ -100,9 +78,9 @@ backblk.com
 bankid.support
 bank-uagov.online
 bc.game
+be2fun.pro
 bestcrutches.com
 bestshopukrain.fun
-best-goods.com.ua
 best-store-ua.online
 bet2casino.fun
 bet2fun.lol
@@ -121,6 +99,7 @@ bet2fun6.online
 bet2fun7.online
 bet2fun8.online
 betandyou.com
+betandyou1.com
 betandyou2.com
 betbet2fun.com
 betmatch2win.com
@@ -132,6 +111,7 @@ betwinner3.com
 betwinner4.com
 betwinner5.com
 betwinner6.com
+betwinner7.com
 betwinner-371307.top
 betwinner-india.com
 betwinner-ua.com
@@ -178,8 +158,6 @@ chcplay.net
 chervonaikra-ua.fun
 childrens-fund-ukraine.com
 chipstars.bet
-chooseraiff.online
-chooseraiff.site
 clubdeluxe.net
 clubsvulkanbets.store
 clubvulcanbet.store
@@ -194,31 +172,18 @@ cosmolotukraine.co.uk
 cosmoslot.site
 courier.darkleads.pro
 crazy-hero.com
-crypt0.fun
 cryptocurrency-helps-ukraine.com
 cryptoukraine.xyz
 datacheckqr.net
 data-mails.com
 data-ukr.com
-deal-loads.site
-delivery-pay.website
 derjavaukraine.cc
 device-by-apple-ua.store
 devtome.top
 de-ukr.net
-diaaukraine.site
-diaaukraine.space
-diaa-ukraine.site
-diaa-ukraine.space
-diadopomogaio.online
 diamondclub.casino
 discountshopukraine.store
-discount-sale.website
-diuaaaaxxx.sbs
-diyas.io
 dmsu-ukr.pp.ua
-donate-ukrainehelp.org
-donate-viplata24.space
 dopomoga.agency
 dopomoga.app
 dopomoga.bio
@@ -271,18 +236,6 @@ dopomogaa-id03914.website
 dopomogaderjavna.org
 dopomogadia.me
 dopomogadiyaua.online
-dopomogae.eu
-dopomogae.info
-dopomogae.online
-dopomogae.social
-dopomogae.xyz
-dopomogaexpress.app
-dopomogaexpress.biz
-dopomogaexpress.info
-dopomogaexpress.net
-dopomogaexpress.online
-dopomogaexpress.org
-dopomogaexpress.xyz
 dopomogafromoon-ukr.com
 dopomogagroshi.top
 dopomogahelp.com
@@ -340,7 +293,6 @@ dopomogavidunicef.pro
 dopomogavidunicef.shop
 dopomogavidunicef.site
 dopomogavidunicef.xyz
-dopomoga-24pay.win
 dopomoga-2023.top
 dopomoga-aid.top
 dopomoga-atb.site
@@ -357,9 +309,6 @@ dopomoga-pr24.shop
 dopomoga-ua.click
 dopomoga-ua.info
 dopomoga-ua.online
-dopomoga-ua.pro
-dopomoga-ua.site
-dopomoga-ua.website
 dopomoga-uaweb.website
 dopomoga-ua-online-web.site
 dopomoga-ukraine.cloud
@@ -378,7 +327,6 @@ dostavka-ukr.space
 dostawo4ka-ua.life
 dragongold88.com
 dragonsgold888.com
-drone-ua.space
 dude1.bet
 dude2.bet
 easy-casino.net
@@ -1751,6 +1699,7 @@ vulkan-777.biz
 vyplatazaraz.store
 vyplata-otrymat.online
 watch-ua.space
+wazbee.casino
 winukr-pay.charity
 winwin.bet
 wowukr.store
