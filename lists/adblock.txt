@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.09.2
-! Last modified: Fri, 20 September 2024 22:28 EEST
+! Version: 24.10.1
+! Last modified: Tue, 08 October 2024 14:48 EEST
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -14,7 +14,6 @@
 ! DOMAIN-BASED BLOCKLIST
 ! !!!!!!!!!!!!!!!
 !
-||0ukr.net^
 ||1webs.top^
 ||1win.pro^
 ||1xbett.mobi^
@@ -36,17 +35,14 @@
 ||3ds-payswallet.online^
 ||3ds-payz.site^
 ||3ds-ua.top^
-||3ds-vlsa.com^
 ||7goxbet.com^
 ||8slottica.com^
 ||10goxbet.com^
 ||11goxbet.com^
 ||13goxbet.com^
 ||15jokerua.top^
-||23konkurs.site^
 ||24helpuapay.com^
 ||24helpukr.com^
-||24ukrhelp.com^
 ||25shop.space^
 ||51.38.145.47^
 ||78.153.139.61^
@@ -61,34 +57,19 @@
 ||193.203.202.17^
 ||777originals.org^
 ||888starz.bet^
-||7300.cloud^
-||7300.pics^
-||7300.pro^
 ||accaunt-ua.fun^
 ||accounts-ukr.com^
-||adidas-ua.shop^
 ||ahome.uno^
 ||aid24-ua.online^
 ||aid24-ua.pw^
 ||aid24-ua.site^
 ||aid24-ua.space^
 ||aid24-ua.website^
-||aiderinukr-gov.site^
-||aiderukr-gov.site^
 ||aidforukraine.za.com^
-||aidforukr-gov.site^
-||aidgetukr-gov.site^
-||aid-for-ukraine.info^
-||aid-for-ukraine.life^
-||aid-for-ukraine.world^
 ||air-pro-ua.store^
-||akvapark.site^
 ||alcohol-ukraine.com^
-||alcohol-ukraine.shop^
-||api-donate-ukrainehelp.org^
-||apple-ukraine.me^
 ||apple-ukraine.online^
-||apple-ukraine.store^
+||asprobet.com^
 ||astekbet.com^
 ||au-ukr.net^
 ||avon-registration.com^
@@ -102,9 +83,9 @@
 ||bankid.support^
 ||bank-uagov.online^
 ||bc.game^
+||be2fun.pro^
 ||bestcrutches.com^
 ||bestshopukrain.fun^
-||best-goods.com.ua^
 ||best-store-ua.online^
 ||bet2casino.fun^
 ||bet2fun1.fun^
@@ -122,6 +103,7 @@
 ||bet2fun.pw^
 ||bet2fun.world^
 ||bet2fun.xyz^
+||betandyou1.com^
 ||betandyou2.com^
 ||betandyou.com^
 ||betbet2fun.com^
@@ -133,6 +115,7 @@
 ||betwinner4.com^
 ||betwinner5.com^
 ||betwinner6.com^
+||betwinner7.com^
 ||betwinner-371307.top^
 ||betwinner-india.com^
 ||betwinner-ua.com^
@@ -180,8 +163,6 @@
 ||chervonaikra-ua.fun^
 ||childrens-fund-ukraine.com^
 ||chipstars.bet^
-||chooseraiff.online^
-||chooseraiff.site^
 ||clubdeluxe.net^
 ||clubsvulkanbets.store^
 ||clubvulcanbet.store^
@@ -196,28 +177,17 @@
 ||cosmoslot.site^
 ||courier.darkleads.pro^
 ||crazy-hero.com^
-||crypt0.fun^
 ||cryptocurrency-helps-ukraine.com^
 ||cryptoukraine.xyz^
 ||datacheckqr.net^
 ||data-mails.com^
 ||data-ukr.com^
-||deal-loads.site^
-||delivery-pay.website^
 ||derjavaukraine.cc^
 ||device-by-apple-ua.store^
 ||de-ukr.net^
-||diaaukraine.site^
-||diaaukraine.space^
-||diaa-ukraine.site^
-||diaa-ukraine.space^
 ||diamondclub.casino^
 ||discountshopukraine.store^
-||discount-sale.website^
-||diuaaaaxxx.sbs^
-||diyas.io^
 ||dmsu-ukr.pp.ua^
-||donate-ukrainehelp.org^
 ||dopomoga.agency^
 ||dopomoga.app^
 ||dopomoga.bio^
@@ -261,7 +231,6 @@
 ||dostawo4ka-ua.life^
 ||dragongold88.com^
 ||dragonsgold888.com^
-||drone-ua.space^
 ||dude1.bet^
 ||dude2.bet^
 ||easy-casino.net^
@@ -1447,6 +1416,7 @@
 ||vyplatazaraz.store^
 ||vyplata-otrymat.online^
 ||watch-ua.space^
+||wazbee.casino^
 ||winukr-pay.charity^
 ||winwin.bet^
 ||wowukr.store^
