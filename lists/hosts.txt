@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.10.1
-# Last modified: Tue, 08 October 2024 14:48 EEST
+# Version: 24.10.2
+# Last modified: Sat, 19 October 2024 23:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -675,6 +675,7 @@
 0.0.0.0 mvs-ukr.space
 0.0.0.0 mvs-ukraine.space
 0.0.0.0 mvs-zakon.online
+0.0.0.0 myblogshop.top
 0.0.0.0 mygovua.info
 0.0.0.0 mygovua.online
 0.0.0.0 mykyivstar.com
@@ -1709,6 +1710,7 @@
 0.0.0.0 www-ua.info
 0.0.0.0 www-viplata.com
 0.0.0.0 w-ukr.net
+0.0.0.0 xcartpro.com
 0.0.0.0 xe-ukr.net
 0.0.0.0 xh-ukr.net
 0.0.0.0 xwallet.website
