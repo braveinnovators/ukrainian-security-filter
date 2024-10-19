@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.10.1
-# Last modified: Tue, 08 October 2024 14:48 EEST
+# Version: 24.10.2
+# Last modified: Sat, 19 October 2024 23:32 EEST
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -670,6 +670,7 @@ address=/mvs-ua.space/
 address=/mvs-ukraine.space/
 address=/mvs-ukr.space/
 address=/mvs-zakon.online/
+address=/myblogshop.top/
 address=/mygovua.info/
 address=/mygovua.online/
 address=/mykyivstar.com/
@@ -1709,6 +1710,7 @@ address=/www-ua.cloud/
 address=/www-ua.info/
 address=/www-viplata.com/
 address=/w-ukr.net/
+address=/xcartpro.com/
 address=/xe-ukr.net/
 address=/xh-ukr.net/
 address=/xwallet.website/
