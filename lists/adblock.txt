@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.10.2
-! Last modified: Sat, 19 October 2024 23:32 EEST
+! Version: 24.11.1
+! Last modified: Fri, 01 November 2024 18:38 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -311,17 +311,6 @@
 ||googlee.pw^
 ||goturozetka.com^
 ||goturozetka.vip^
-||gov24-ua.com^
-||govs-ua.com^
-||govs-ua.io^
-||govuad24.cloud^
-||govua.buzz^
-||govua.link^
-||govua.shop^
-||gov-ua.cyou^
-||gov-ua.icu^
-||gov-ua.pics^
-||gov-ukrain.icu^
 ||goxbet4.com^
 ||grandspincasino.net^
 ||grompokerua2.com^
@@ -519,14 +508,11 @@
 ||mvs-ukr.space^
 ||mvs-zakon.online^
 ||myblogshop.top^
-||mygovua.info^
-||mygovua.online^
 ||myuagoveinfo-taxation.info^
 ||myukrnet.com^
 ||my-3ds.space^
 ||my-goavuvyplate.site^
 ||my-govuwvyplatte.site^
-||my-gov-ua.best^
 ||m-raiffsen.charity^
 ||m.betwinner-ua.com^
 ||m.bet-boom.com^
@@ -553,7 +539,6 @@
 ||noreply-olxpay.com^
 ||novapay-ukr.top^
 ||nova-pay-ua.com^
-||npu-gov-ua.media^
 ||okko-bonus.live^
 ||ok-ua.cloud^
 ||ok-ua.info^
@@ -611,9 +596,6 @@
 ||opendata-baza-mvs.online^
 ||opendata-gov.com.ua^
 ||opendata-gov.online^
-||opendata-hsc-gov-ua.com^
-||opendata-hsc-gov-ua.online^
-||opendata-hsc-gov-ua.store^
 ||opendata-mvs.com.ua^
 ||opendata-mvs.online^
 ||oplataunicef.com^
@@ -1190,7 +1172,6 @@
 ||ukrainskapravda.org^
 ||ukrainsohoop.fun^
 ||ukraintovar.fun^
-||ukraongov-ua.com^
 ||ukrgoods.fun^
 ||ukrhelp2023.com^
 ||ukrhomestore.space^
@@ -1448,28 +1429,6 @@
 ||*ukrua2023^$document,domain=t.me|telegram.me
 ||*zaluzhny2024bot^$document,domain=t.me|telegram.me
 ||*zayavka_ua_bot^$document,domain=t.me|telegram.me
-||cash.app/$urkraineaid^$document
-||donorbox.org/urkraine-aid^$document
-||facebook.com/uappl.org^$document
-||invite.viber.com/?g2=AQAqETadeQe6%2FFHerHWKG3aYbNdWpQYR6VnHA0Qlo6pvtX0uWS74HrSJxWdK9WAV^$document
-||invite.viber.com/?g2=AQAYbL6PIqqzQ1HO81URILdQUW6BLiftGFk%2B9SK%2BoUew7j5NzbIaS0nRsSeCXqv%2B^$document
-||invite.viber.com/?g2=AQBekGE6cjQUwFG69yVG2yKpwYEBSCTDXIzjlxGIRMFUvKZx8bcL4AECa75ZlDNn^$document
-||invite.viber.com/?g2=AQBGh39kgyim3lIU%2FlDpPS2ZK0A5mXqml6xvcXjPwc4rToGm9Ly4e6LdoouQtdnn^$document
-||invite.viber.com/?g2=AQBgP%2BauuhWt0FIWku5tuXN2S2mhNFxAJ1eKZjfh%2BEKJES02tkQo0eRsm9bMzWDj^$document
-||t.me/+bye4lJIqbQwzOWI1^$document
-||t.me/+c_SeqIDrI5A2OWQ0^$document
-||t.me/+dnln2AfIoPYzMDRi^$document
-||t.me/+enwiZ8lRK6djY2E6^$document
-||t.me/+G7FPG_hofQJjZjli^$document
-||t.me/+gvj4twyHg8BkMDc6^$document
-||t.me/+H_ihqCQLUdQ1MDJk^$document
-||t.me/+hD2lJDyLPJs4OTY0^$document
-||t.me/+ilAa8TtLqz42NjBi^$document
-||t.me/+IsZIeWR33uA1NTRl^$document
-||t.me/+nMU9vbbZw_MyMjBl^$document
-||t.me/+QJ6ha3cNr61kNTk6^$document
-||t.me/+Vazo7VA93EwyMGUy^$document
-||t.me/+xp5hvriUlW01ZGYy^$document
 !
 !
 ! !!!!!!!!!!!!!!!
@@ -1477,6 +1436,12 @@
 ! !!!!!!!!!!!!!!!
 !
 /console-ban.min.js$third-party,xmlhttprequest,script
+! >>>
+! .GOV.UA
+://*gov-ua.*/$document,domain=~gov.ua
+://*gov*-ua*.*/$document,domain=~gov.ua
+://*gov*-ukr*.*/$document,domain=~gov.ua
+://*govua*.*/$document,domain=~gov.ua
 ! >>>
 ! DIIA.GOV.UA
 ://*diia*.*/$document,domain=~gov.ua|~fedoriv.com|~spivdiia.com|~spivdiia.org.ua
@@ -1544,6 +1509,9 @@
 ! PUMB.UA
 ://*pumb*.*.$document,domain=~pumb.ua
 ://bumb.*.$document
+! >>>
+! BANKVOSTOK.COM.UA
+://vostok.*.$document
 ! >>>
 ! UKRPOSHTA.UA
 ://ukrposhta.*.$document
