@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.11.2
-! Last modified: Sun, 10 November 2024 19:05 EET
+! Version: 24.11.3
+! Last modified: Thu, 14 November 2024 15:30 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1576,7 +1576,7 @@
 ||*griselda*$document,domain=t.me|telegram.me
 @@||*griseldapublic^$document,domain=t.me|telegram.me
 ! >>>
-! #TAG-47
+! #TAG-047
 ://*/bank/raif.php?id=*$document
 ://*/bank/pumb.php?id=*$document
 ://*/bank/ochad.php?id=*$document
@@ -1590,10 +1590,10 @@
 ##html[data-scrapbook-title^="Грошова допомога від"]:has(button.btn[href="lg/login.html"])
 ##html[data-scrapbook-title="Отримання коштів"]:has(div.auth-block > div#login-box.auth-block__box)
 ! >>>
-! #TAG-48
+! #TAG-048
 ##body:has(div.container > div > div > div > div.card-body > form[action^="unlock"])
 ! >>>
-! #TAG-50
+! #TAG-050
 ://forms.tilda*.*/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno|website
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
 /mod/project/*/lead/send/*$document,xmlhttprequest
@@ -1622,7 +1622,7 @@
 ##body:has(div.element-content > form.component-form[action$="/lead/send/"])
 ##body:has(div.newsletter-wrap > div.newsletter-form > form[action="ok.php"])
 ! >>>
-! #TAG-53
+! #TAG-053
 ://*loto*.*/comission.php$document
 ://*loto*.*/gametip*.php$document
 ://*loto*.*/connect.php$document
@@ -1646,26 +1646,26 @@
 ##body > section.mains > section.mainsec > div[class*="ttlind"]
 ##body > section.mains > section.mainsec > form.addcommnet
 ! >>>
-! #TAG-60
+! #TAG-060
 ##div.buttons > button[onclick="golden_drainer()"]
 ##div.buttons > button[data-ga-event="click_defence_and_demining"][onclick="openmodal()"]
 ##div.buttons > button[data-ga-event="clik_medical_aid"][onclick="openmodal()"]
 ##div.buttons > button[data-ga-event="clik_rebuild_ukraine"][onclick="openmodal()"]
 ##button[onclick="MSM.connect()"]
 ! >>>
-! #TAG-61
+! #TAG-061
 ##html.w-mod-js.w-mod-ix > body > div.global-stylesheet.w-embed
 ##html.w-mod-js.w-mod-ix > body > div.page-loader
 ##html.w-mod-js.w-mod-ix > body > div.section-mark
 ##html.w-mod-js.w-mod-ix > body > div.section
 ! >>>
-! #TAG-64
+! #TAG-064
 ://*bankid*.*/$document,domain=~gov.ua
 ://*bankld*.*/$document
 ://*viplata*.*/$document,domain=art|au|biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|health|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|us|website|xyz
 ://*dopomoga*.*/$document,domain=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
 ! >>>
-! #TAG-65
+! #TAG-065
 ://web.*.*/get/*$document
 ://web.*.*/pay/order/*$document
 ://web.*.*/receive/*$document
@@ -1708,22 +1708,22 @@
 ##body:has(div#ask_page[data-next="ask_phone"])
 ##.text-slate-200.cursor-pointer.to-card__button
 ! >>>
-! #TAG-66
+! #TAG-066
 ://*.*/bi/*1704*$document
 ##div.layout-item > div.layout-item__body > a[href*="banks.php"]
 ##div.main_table > div.content_section > div.content > div#comBankPager_2.pager.com_bank.com_blog.list
 ! >>>
-! #TAG-68
+! #TAG-068
 ||zaluzhny2024.$document
 ||zaluzhny-2024.$document
 ! >>>
-! #TAG-70
+! #TAG-070
 ://*.*/static/servers/*.txt$xmlhttprequest
 ://*.*/static/errors/*.txt$xmlhttprequest
 ##html[data-scrapbook-source="https://next.privat24.ua/"]
 ##html[lang="en"]:has(> body > div.container > div.wrapp > a#btn.btn[href*="/input/"])
 ! >>>
-! #TAG-71
+! #TAG-071
 ://*.*/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
 ://*.workers.dev/link_card/*$document
 ://*.workers.dev/method/*$document
@@ -1742,18 +1742,23 @@
 ##body:has(div#app > div#card > section#openModal > div > div > div > form > input#cardBalance[data-ref="cardBalance"][placeholder="Баланс картки"])
 ##body:has(div#root > div > div > div > div > div > div > form[action^="/card/"][method="get"])
 ! >>>
-! #TAG-72
+! #TAG-072
 ##body:has(div#select-bank > div.main_bank > div.single_service_part.bank_item)
 ##body:has(div > span.jss60.jss63[style*="background-image: url(/img/logo_site.png)"])
 ! >>>
-! #TAG-73
+! #TAG-073
 ##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
 ! >>>
-! #TAG-74
+! #TAG-074
 ://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pcustomizationloader_*.js$script,xmlhttprequest
 ://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
 ://*.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
 ://*.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
 ! >>>
-! #TAG-75
+! #TAG-075
 ##body.oschadbank:has(form#cardForm > div > div.auth-fields > div > div > input[name="cvc"][maxlength="4"])
+! >>>
+! #TAG-083
+://*.pages.dev/selectB/?id=*$document
+! chatrnetquest.click
+://api.chatrnetquest.click/chat/chat_receive.php?order_id=*&last_id=*$third-party,xmlhttprequest
