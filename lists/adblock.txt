@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.1
-! Last modified: Sat, 14 December 2024 20:35 EET
+! Version: 24.12.2
+! Last modified: Sat, 14 December 2024 20:53 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -27,6 +27,7 @@
 ||1xbit-ua.com^
 ||1xslot-ua.com^
 ||1xslot.com^
+||1x.games^
 ||1-x-bet.com^
 ||3ds-check.top^
 ||3ds-connect.top^
@@ -115,6 +116,7 @@
 ||betworld247.com^
 ||bet-boom.com^
 ||bet-match1.io^
+||bet-match1.net^
 ||be-ukr.net^
 ||bg-ukr.net^
 ||bigsales-ua.store^
@@ -246,6 +248,7 @@
 ||epidtrimka.com^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
+||es888starz.com^
 ||europeanchallengeukraine.eu^
 ||events-ukr.site^
 ||everest-bet.com^
@@ -398,6 +401,7 @@
 ||konkurs.pw^
 ||konkurs.site^
 ||krakencasino.club^
+||krakencassino.com^
 ||lampsukraine.shop^
 ||land.darkleads.pro^
 ||leemsedo.co.ua^
@@ -446,6 +450,7 @@
 ||melbetua.com^
 ||melbet-60491.top^
 ||melbet-india.net^
+||melbet.cd^
 ||melbet.com^
 ||merejjka.store^
 ||meta-ua.com^
