@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.10.2
-# Last modified: Sat, 19 October 2024 23:32 EEST
+# Version: 24.12.2
+# Last modified: Sat, 14 December 2024 20:53 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -10,6 +10,7 @@
 #
 1webs.top
 1win.pro
+1x.games
 1xbet.ci
 1xbet.com
 1xbet.com.mx
@@ -119,6 +120,7 @@ betwinner-ukraine.com
 betworld247.com
 bet-boom.com
 bet-match1.io
+bet-match1.net
 be-ukr.net
 bg-ukr.net
 bigsales-ua.store
@@ -352,6 +354,7 @@ epidtrimkadopomoga.com
 epidtrimkaua.info
 epidtrumka.org
 epidtrymka.cloud
+es888starz.com
 europeanchallengeukraine.eu
 events-ukr.site
 everest-bet.com
@@ -533,6 +536,7 @@ konkurs-ua.site
 konkurs-uk.site
 konkurs-ukraine.site
 krakencasino.club
+krakencassino.com
 kyivstar.biz
 kyivstar.biz.ua
 kyivstar.com
@@ -620,6 +624,7 @@ maxlink.click
 megapari.com
 megashops.online
 megaukrshop.fun
+melbet.cd
 melbet.com
 melbetua.com
 melbet-60491.top
