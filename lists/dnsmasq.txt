@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.10.2
-# Last modified: Sat, 19 October 2024 23:32 EEST
+# Version: 24.12.2
+# Last modified: Sat, 14 December 2024 20:53 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -21,6 +21,7 @@ address=/1xbet.ng/
 address=/1xbit-ua.com/
 address=/1xslot-ua.com/
 address=/1xslot.com/
+address=/1x.games/
 address=/1-x-bet.com/
 address=/3ds-check.top/
 address=/3ds-connect.top/
@@ -119,6 +120,7 @@ address=/betwinner.com/
 address=/betworld247.com/
 address=/bet-boom.com/
 address=/bet-match1.io/
+address=/bet-match1.net/
 address=/be-ukr.net/
 address=/bg-ukr.net/
 address=/bigsales-ua.store/
@@ -352,6 +354,7 @@ address=/epidtrimkaua.info/
 address=/epidtrimka.com/
 address=/epidtrumka.org/
 address=/epidtrymka.cloud/
+address=/es888starz.com/
 address=/europeanchallengeukraine.eu/
 address=/events-ukr.site/
 address=/everest-bet.com/
@@ -533,6 +536,7 @@ address=/konkurs.pics/
 address=/konkurs.pw/
 address=/konkurs.site/
 address=/krakencasino.club/
+address=/krakencassino.com/
 address=/kyivstarbezlim.com/
 address=/kyivstardance.com.ua/
 address=/kyivstarhome.pp.ua/
@@ -618,6 +622,7 @@ address=/megaukrshop.fun/
 address=/melbetua.com/
 address=/melbet-60491.top/
 address=/melbet-india.net/
+address=/melbet.cd/
 address=/melbet.com/
 address=/merejjka.store/
 address=/meta-ua.com/
