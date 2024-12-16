@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.3
-! Last modified: Mon, 16 December 2024 21:29 EET
+! Version: 24.12.4
+! Last modified: Mon, 16 December 2024 23:11 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1434,105 +1434,99 @@
 /console-ban.min.js$third-party,xmlhttprequest,script
 ! >>>
 ! .GOV.UA
-://*gov-ua.*/$document,domain=~gov.ua
-://*gov*-ua*.*/$document,domain=~gov.ua
-://*gov*-ukr*.*/$document,domain=~gov.ua
-://*govua*.*/$document,domain=~gov.ua
+gov*-ua*/$document,domain=~gov.ua
+gov*-ukr*/$document,domain=~gov.ua
+govua*/$document,domain=~gov.ua
 ! >>>
 ! DIIA.GOV.UA
-://*diia*.*/$document,domain=~gov.ua|~diiacityunited.org|~fedoriv.com|~spivdiia.com|~spivdiia.org.ua
+diia*/$document,domain=~gov.ua|~diiacityunited.org|~fedoriv.com|~spivdiia.com|~spivdiia.org.ua
 @@||facebook.com/diia.gov.ua^$document
 @@||instagram.com/diia.gov.ua^$document
-||*diia*$document,domain=t.me|telegram.me
-@@||*diia_gov^$document,domain=t.me|telegram.me
-@@||*diia_help_bot^$document,domain=t.me|telegram.me
+diia*$document,domain=t.me|telegram.me
+@@/diia_gov^$document,domain=t.me|telegram.me
+@@/diia_help_bot^$document,domain=t.me|telegram.me
 ! >>>
 ! EDOPOMOGA.GOV.UA
-://*edopomoga*.*/$document,domain=~gov.ua
+*edopomoga*/$document,domain=~gov.ua
 @@||instagram.com/edopomoga.gov.ua^$document
-||e-dopomoga*.$document,domain=eu|homes|life|lol|mom|pics|shop|world
-||*edopomoga*$document,domain=t.me|telegram.me
+e-dopomoga*/$document,domain=eu|homes|life|lol|mom|pics|shop|world
+*edopomoga$document,domain=t.me|telegram.me
 ! >>>
 ! RESERVEPLUS.MOD.GOV.UA
-://*reserveplus*.*/$document,domain=~gov.ua|~reserveplus.app
-||*reserveplus*$document,domain=play.google.com
-@@||*id=ua.gov.reserveplus^$document,domain=play.google.com
-||*reserveplus*$document,domain=viber.com
-@@||*reserveplusbot^$document,domain=viber.com
+*reserveplus*/$document,domain=~gov.ua|~reserveplus.app
+*reserveplus$document,domain=play.google.com
+@@id=ua.gov.reserveplus^$document,domain=play.google.com
+*reserveplus$document,domain=viber.com
+@@/reserveplusbot^$document,domain=viber.com
 ! >>>
 ! PROZORRO.GOV.UA / UAC-0180
-://*prozorro*.*/$document,domain=~gov.ua|~prozorro.ua|~prozorro.org|~prozorro.sale
+*prozorro*/$document,domain=~gov.ua|~prozorro.ua|~prozorro.org|~prozorro.sale
 ! >>>
 ! PRIVATBANK.UA
-://*privat24*.*/$document,domain=~privat24.ua
-://*privatbank*.*/$document,domain=~privatbank.ua
-://24-next.*.$document
-://24next.*.$document
-://next24.*.$document
-://privat-ua.*.$document
-://privat.*.$document
-://privatbank.*.$document
+*privatbank*/$document,domain=~privatbank.ua
+*privat24*/$document,domain=~privat24.ua
+24-next.*.$document
+24next.*.$document
+next24.*.$document
+privat-ua.*.$document
+privat.*.$document
+privatbank.*.$document
 ! >>>
 ! OSCHADBANK.UA
-://*oschad*.*.$document,domain=~oschadbank.ua
-://*oshad*.*.$document
-://*oshcad*.*.$document
-://ohsad.*.$document
-://ohsad24.*.$document
-||oschadbank*.$document,domain=~oschadbank.ua
+*oschadbank*/$document,domain=~oschadbank.ua
+*oschad*.*.$document,domain=~oschadbank.ua
+*oshad*.*.$document
+*oshcad*.*.$document
+ohsad.*.$document
+ohsad24.*.$document
 ! >>>
 ! MONOBANK.UA
-://mono.*.$document
-||monobank*.$document,domain=~monobank.com.ua|~monobank.ua
+*monobank*/$document,domain=~monobank.com.ua|~monobank.ua
+mono.*.$document
 ! >>>
 ! RAIFFEISEN.UA
-://*-raif.*.$document
-://*aval24*.*.$document
-://*avalpay*.*.$document
-://*raiffaisen*.*.$document
-://*raiffei*.*.$document,domain=~raiffeisen.ua
-://ra1f.*.$document
-://raif-*.*.$document
-://raif.*.$document
+*raiffei*/$document,domain=~raiffeisen.ua
+*-raif.*.$document
+*aval24*.*.$document
+*avalpay*.*.$document
+*raiffaisen*.*.$document
+ra1f.*.$document
+raif-*.*.$document
+raif.*.$document
 ! >>>
 ! UKRSIBBANK.COM
-://*ukersb24*.*.$document
-://*ukersib*.*.$document
-://*ukrsib*.*.$document,domain=~ukrsibbank.com
-://us1b.*.$document
-||ukrsibbank*.$document,domain=~ukrsibbank.com
+*ukrsibbank*/$document,domain=~ukrsibbank.com
+*ukrsib*.*.$document,domain=~ukrsibbank.com
+*ukersb24*.*.$document
+*ukersib*.*.$document
+us1b.*.$document
 ! >>>
 ! PUMB.UA
-://*pumb*.*.$document,domain=~pumb.ua
-://bumb.*.$document
+*pumb*.*.$document,domain=~pumb.ua
+bumb.*.$document
 ! >>>
 ! BANKVOSTOK.COM.UA
-://vostok.*.$document
+vostok.*.$document
 ! >>>
 ! UKRPOSHTA.UA
-://ukrposhta.*.$document
-||ukrposhta*.$document,domain=~ukrposhta.ua
-://*poshta*.*/$document,domain=~gov.ua|~ua|buzz|click|co.uk|com|cyou|icu|life|online|sbs|shop|site|space|store|top|uk|world|ws|xyz
-||ua*poshta.$document,domain=~gov.ua|~ua
-||uk*poshta.$document,domain=~gov.ua|~ua
-||postukr.$document,domain=info|life|top|xyz
-||ukr*pos*.$document,domain=info|life|top|xyz
+ukrposhta*/$document,domain=~ukrposhta.ua
+ukrposhta.*.$document
+*poshta*.*/$document,domain=~gov.ua|~ua|buzz|click|co.uk|com|cyou|icu|life|online|sbs|shop|site|space|store|top|uk|world|ws|xyz
+ua*poshta.$document,domain=~gov.ua|~ua
+uk*poshta.$document,domain=~gov.ua|~ua
+postukr.$document,domain=info|life|top|xyz
+ukr*pos*.$document,domain=info|life|top|xyz
 ! >>>
 ! NOVAPOSHTA.UA
-://*novaposhta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
-://*nova-poshta*.*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
+*novaposhta*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
+*nova-poshta*/$document,domain=~novaposhta.ua|~novaposhtaglobal.ua
 @@||instagram.com/novaposhta.official^$document
 @@||tiktok.com/@novaposhta.official^$document
 ! >>>
 ! KYIVSTAR.UA
-://*kyivstar*.*/$document,domain=~kyivstar.ua
+*kyivstar*/$document,domain=~kyivstar.ua
 @@||instagram.com/kyivstar.official^$document
-://*kievstar*.*/$document
-! >>>
-! OLX.UA
-||olxdos*.$document,domain=cfd|sbs|shop|world
-||olxpokupka*.$document
-||poshtaolx*.$document
+*kievstar*/$document
 ! >>>
 ! UAC-0050 (CERT-UA#8453, CERT-UA#8494)
 ||bitbucket.org/yener3/yener3/downloads/gbquas.exe^$document
@@ -1656,10 +1650,10 @@
 ##html.w-mod-js.w-mod-ix > body > div.section
 ! >>>
 ! #TAG-064
-://*bankid*.*/$document,domain=~gov.ua
-://*bankld*.*/$document
-://*viplata*.*/$document,domain=art|au|biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|health|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|us|website|xyz
-://*dopomoga*.*/$document,domain=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
+*bankid*/$document,domain=~gov.ua
+*bankld*/$document
+*viplata*/$document,domain=art|au|biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|health|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|us|website|xyz
+*dopomoga*/$document,domain=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
 ! >>>
 ! #TAG-065
 ://web.*.*/get/*$document
