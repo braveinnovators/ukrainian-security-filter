@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.7
-! Last modified: Tue, 24 December 2024 19:43 EET
+! Version: 24.12.8
+! Last modified: Tue, 24 December 2024 21:36 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -571,6 +571,7 @@
 ||olx-ukraine.info^
 ||olx-ukrnp.co.uk^
 ||olx.dp.ua^
+||oneaccs.store^
 ||oneclick-ua.shop^
 ||online1shop.store^
 ||onlinediya.com^
@@ -583,6 +584,7 @@
 ||online-prizeme.com^
 ||online-raiffeisen.info^
 ||online-shop.store^
+||onlyfans.gd^
 ||on-ua.cloud^
 ||on-ua.info^
 ||on-ua.pro^
@@ -1419,12 +1421,12 @@
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
-/egroshi_ua^$document,to=t.me|telegram.me
-/grosgovadopomoga^$document,to=t.me|telegram.me
-/pravovadopomoga24^$document,to=t.me|telegram.me
-/ukrua2023^$document,to=t.me|telegram.me
-/zaluzhny2024bot^$document,to=t.me|telegram.me
-/zayavka_ua_bot^$document,to=t.me|telegram.me
+/egroshi_ua$document,to=t.me|telegram.me
+/grosgovadopomoga$document,to=t.me|telegram.me
+/pravovadopomoga24$document,to=t.me|telegram.me
+/ukrua2023$document,to=t.me|telegram.me
+/zaluzhny2024bot$document,to=t.me|telegram.me
+/zayavka_ua_bot$document,to=t.me|telegram.me
 !
 !
 ! !!!!!!!!!!!!!!!
@@ -1703,10 +1705,6 @@ web.*.*/api/getStatus$xmlhttprequest
 ##div.layout-item > div.layout-item__body > a[href*="banks.php"]
 ##div.main_table > div.content_section > div.content > div#comBankPager_2.pager.com_bank.com_blog.list
 ! >>>
-! #TAG-068
-||zaluzhny2024.$document
-||zaluzhny-2024.$document
-! >>>
 ! #TAG-070
 /static/servers/*.txt$xmlhttprequest
 /static/errors/*.txt$xmlhttprequest
@@ -1714,14 +1712,19 @@ web.*.*/api/getStatus$xmlhttprequest
 ##html[lang="en"]:has(> body > div.container > div.wrapp > a#btn.btn[href*="/input/"])
 ! >>>
 ! #TAG-071
+||api.livechatinc.com$third-party,domain=pages.dev|workers.dev
+||cdn.livechatinc.com$third-party,domain=pages.dev|workers.dev
 /check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
-.workers.dev/link_card/*$document
-.workers.dev/method/*$document
-.workers.dev/card/*$document
-.workers.dev/3ds/*$document
-.workers.dev/api/submitCard$xmlhttprequest
-.workers.dev/api/checkStatus$xmlhttprequest
-.workers.dev/api/checkOnline$xmlhttprequest
+/3ds$document,to=pages.dev|workers.dev
+/bank$document,to=pages.dev|workers.dev
+/bankLogin$document,to=pages.dev|workers.dev
+/card$document,to=pages.dev|workers.dev
+/link_card$document,to=pages.dev|workers.dev
+/method$document,to=pages.dev|workers.dev
+/submitNewLk$xmlhttprequest,domain=pages.dev|workers.dev
+/api/checkOnline$xmlhttprequest,domain=pages.dev|workers.dev
+/api/checkStatus$xmlhttprequest,domain=pages.dev|workers.dev
+/api/submitCard$xmlhttprequest,domain=pages.dev|workers.dev
 ##body:has(> div.container > div.order-info > div.aproove > button.button-apr[onclick="location.href='#pay'; subscribe(); sendworker1();"])
 ##body:has(div.container[data-container="PaymentsContainer"] > div#payments > div > a > button.item-pay_button)
 ##body:has(div#systems > a.pay_method[data-type="plutus"])
@@ -1749,6 +1752,6 @@ web.*.*/api/getStatus$xmlhttprequest
 ##body.oschadbank:has(form#cardForm > div > div.auth-fields > div > div > input[name="cvc"][maxlength="4"])
 ! >>>
 ! #TAG-083
-.pages.dev/selectB/?id=*$document
+/selectB/?id=$document,to=pages.dev|workers.dev
 ! chatrnetquest.click
-api.chatrnetquest.click/chat/chat_receive.php?order_id=*&last_id=*$third-party,xmlhttprequest
+api.chatrnetquest.click/chat/chat_receive.php?order_id=$third-party,xmlhttprequest,domain=pages.dev|workers.dev
