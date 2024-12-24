@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.2
-# Last modified: Sat, 14 December 2024 20:53 EET
+# Version: 24.12.8
+# Last modified: Tue, 24 December 2024 21:36 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -775,6 +775,7 @@ address=/olx-ukraine.info/
 address=/olx-ukrnp.co.uk/
 address=/olx.dp.ua/
 address=/ondorazovaya-viplata24.space/
+address=/oneaccs.store/
 address=/oneclick-ua.shop/
 address=/online1shop.store/
 address=/onlinediya.com/
@@ -787,6 +788,7 @@ address=/online-pays.tech/
 address=/online-prizeme.com/
 address=/online-raiffeisen.info/
 address=/online-shop.store/
+address=/onlyfans.gd/
 address=/on-ua.cloud/
 address=/on-ua.info/
 address=/on-ua.pro/
