@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.2
-# Last modified: Sat, 14 December 2024 20:53 EET
+# Version: 24.12.8
+# Last modified: Tue, 24 December 2024 21:36 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -775,6 +775,7 @@
 0.0.0.0 olx-ukraine.info
 0.0.0.0 olx-ukrnp.co.uk
 0.0.0.0 ondorazovaya-viplata24.space
+0.0.0.0 oneaccs.store
 0.0.0.0 oneclick-ua.shop
 0.0.0.0 online1shop.store
 0.0.0.0 onlinediya.com
@@ -787,6 +788,7 @@
 0.0.0.0 online-prizeme.com
 0.0.0.0 online-raiffeisen.info
 0.0.0.0 online-shop.store
+0.0.0.0 onlyfans.gd
 0.0.0.0 on-ua.cloud
 0.0.0.0 on-ua.info
 0.0.0.0 on-ua.pro
