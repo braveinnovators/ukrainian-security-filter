@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.6
-! Last modified: Tue, 24 December 2024 18:19 EET
+! Version: 24.12.7
+! Last modified: Tue, 24 December 2024 19:43 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1548,10 +1548,10 @@ ukr*pos*.$document,to=info|life|top|xyz
 ://*.ua/sud/dvs.exe$document,xmlhttprequest
 ! >>>
 ! UAC-0195 (CERT-UA#9565)
-://petiti*ukr*.*$document,to=~gov.ua|~e-dem.ua
-://petiti*presiden*.*$document,to=~gov.ua|~e-dem.ua
-://presiden*petiti*.*$document,to=~gov.ua|~e-dem.ua
-://*petition*.*$document,to=~gov.ua|~e-dem.ua
+*petition*.*/$document,to=~gov.ua|~e-dem.ua
+petiti*ukr*.*/$document,to=~gov.ua|~e-dem.ua
+petiti*presiden*.*/$document,to=~gov.ua|~e-dem.ua
+presiden*petiti*.*/$document,to=~gov.ua|~e-dem.ua
 ! >>>
 ! UAC-0195 (CERT-UA#9688)
 /\/jphone/\d{7,}$/$xmlhttprequest
@@ -1561,22 +1561,22 @@ ukr*pos*.$document,to=info|life|top|xyz
 ##html > body:has(form[action="/vote/code"] > button[name="send_code"])
 ! >>>
 ! UAC-0210
-://*griselda*.*/$document,to=~griselda.com.ua|~gov.ua
-://*/griselda.apk^$document
+*griselda*.*/$document,to=~griselda.com.ua|~gov.ua
+/griselda.apk^$document
 ||*griselda*$document,to=t.me|telegram.me
 @@||*griseldapublic^$document,to=t.me|telegram.me
 ! >>>
 ! #TAG-047
-://*/bank/raif.php?id=*$document
-://*/bank/pumb.php?id=*$document
-://*/bank/ochad.php?id=*$document
-://*/bank/mono.php?id=*$document
-://*/bank/privat24.php?id=*$document
-://*/bank/ukrsibbank.php?id=*$document
-://*/bank/kredobank.php?id=*$document
-://*/bank/credit-agricole.php?id=*$document
-://*/bank/otp.php?id=*$document
-://*.*.*/music.php?id=*-*$xmlhttprequest
+/bank/raif.php?id=*$document
+/bank/pumb.php?id=*$document
+/bank/ochad.php?id=*$document
+/bank/mono.php?id=*$document
+/bank/privat24.php?id=*$document
+/bank/ukrsibbank.php?id=*$document
+/bank/kredobank.php?id=*$document
+/bank/credit-agricole.php?id=*$document
+/bank/otp.php?id=*$document
+.*.*/music.php?id=*-*$xmlhttprequest
 ##html[data-scrapbook-title^="Грошова допомога від"]:has(button.btn[href="lg/login.html"])
 ##html[data-scrapbook-title="Отримання коштів"]:has(div.auth-block > div#login-box.auth-block__box)
 ! >>>
@@ -1584,17 +1584,17 @@ ukr*pos*.$document,to=info|life|top|xyz
 ##body:has(div.container > div > div > div > div.card-body > form[action^="unlock"])
 ! >>>
 ! #TAG-050
-://forms.tilda*.*/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno|website
+forms.tilda*.*/procces/$xmlhttprequest,domain=fun|online|shop|space|store|uno|website
 /telegram.php$document,xmlhttprequest,domain=fun|online|shop|site|space|store|uno|website
 /mod/project/*/lead/send/*$document,xmlhttprequest
-://*.lpcdn.site/assets/*$script,xmlhttprequest
-://courier.darkleads.pro/data/exchange/extpartner/addorder*$document,xmlhttprequest,script
-://*.*/common/php/send-order.php?partnerid=*&lendid=*&offer=*$document,xmlhttprequest
-://*.*/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
-://*.*/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
-://*.*/user.php?mod=do&act=login$document,xmlhttprequest
-://*.*/user.php?mod=do&act=register$document,xmlhttprequest
-://*.*/ok.php$document,to=shop|store
+.lpcdn.site/assets/*$script,xmlhttprequest
+courier.darkleads.pro/data/exchange/extpartner/addorder*$document,xmlhttprequest,script
+/common/php/send-order.php?partnerid=*&lendid=*&offer=*$document,xmlhttprequest
+/user.php?mod=do&act=register&fromto=*$document,xmlhttprequest
+/user.php?mod=do&act=login&fromto=*$document,xmlhttprequest
+/user.php?mod=do&act=login$document,xmlhttprequest
+/user.php?mod=do&act=register$document,xmlhttprequest
+/ok.php$document,to=shop|store
 ##html[lang*="ru"] > body:has(> div.main_wrapper > [class*="_section"])
 ##html[lang*="ru"] > body:has(> div.wrap > [class*="_section"])
 ##body:has(section.offer > div.order_form > form[id*="order"][class*="main-order"][action*="order.php"])
@@ -1613,18 +1613,18 @@ ukr*pos*.$document,to=info|life|top|xyz
 ##body:has(div.newsletter-wrap > div.newsletter-form > form[action="ok.php"])
 ! >>>
 ! #TAG-053
-://*loto*.*/comission.php$document
-://*loto*.*/gametip*.php$document
-://*loto*.*/connect.php$document
-://*loto*.*/operator.php$document
-://*loto*.*/payout.php$document
-://*loto*.*/pay.php?price=*&s=*$document
-://*loto*.*/pay/?am=*&who=*&sub=*$document
-://*.*/*0registrations.html$document
-://*.*/*0checkingbase.html$document
-://*.*/price.php?price=*&ss=1$document
-://*.*/pay/?aa=*&who=1&sub=*$document
-://*.*/gwapi.php?a=pay&p=*&aa=*$document
+loto*.*/comission.php$document
+loto*.*/gametip*.php$document
+loto*.*/connect.php$document
+loto*.*/operator.php$document
+loto*.*/payout.php$document
+loto*.*/pay.php?price=*&s=*$document
+loto*.*/pay/?am=*&who=*&sub=*$document
+/*0registrations.html$document
+/*0checkingbase.html$document
+/price.php?price=*&ss=1$document
+/pay/?aa=*&who=1&sub=*$document
+/gwapi.php?a=pay&p=*&aa=*$document
 ##html[lang="ru"].u-responsive-xl > body[data-lang="ru"].u-body.u-xl-mode
 ##body > div#root > div.container > div > div.row > div > form#pay-form
 ##body > section.mains > section.mainsec > div.checkcomblock
@@ -1656,19 +1656,19 @@ ukr*pos*.$document,to=info|life|top|xyz
 *dopomoga*.*/$document,to=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
 ! >>>
 ! #TAG-065
-://web.*.*/get/*$document
-://web.*.*/pay/order/*$document
-://web.*.*/receive/*$document
-://web.*.*/t?id=*$document
-://web.*.*/web?id=*$document
-://web.*.*/web/?id=*$document
-://web.*.*/web/l*/*$document
-://web.*.*/api/sendLk$xmlhttprequest
-://web.*.*/api/getStatus$xmlhttprequest
-://*.*/select/*/abank^$document
-://*.*/select/*/oschad^$document
-://*.*/select/*/privat^$document
-://*.*/select/*/raiffaisen^$document
+web.*.*/get/*$document
+web.*.*/pay/order/*$document
+web.*.*/receive/*$document
+web.*.*/t?id=*$document
+web.*.*/web?id=*$document
+web.*.*/web/?id=*$document
+web.*.*/web/l*/*$document
+web.*.*/api/sendLk$xmlhttprequest
+web.*.*/api/getStatus$xmlhttprequest
+/select/*/abank^$document
+/select/*/oschad^$document
+/select/*/privat^$document
+/select/*/raiffaisen^$document
 /web/error?token=*&action=call$document,xmlhttprequest
 /web/error?token=*&action=cheaKod$document,xmlhttprequest
 /web/error?token=*&action=error$document,xmlhttprequest
@@ -1708,20 +1708,20 @@ ukr*pos*.$document,to=info|life|top|xyz
 ||zaluzhny-2024.$document
 ! >>>
 ! #TAG-070
-://*.*/static/servers/*.txt$xmlhttprequest
-://*.*/static/errors/*.txt$xmlhttprequest
+/static/servers/*.txt$xmlhttprequest
+/static/errors/*.txt$xmlhttprequest
 ##html[data-scrapbook-source="https://next.privat24.ua/"]
 ##html[lang="en"]:has(> body > div.container > div.wrapp > a#btn.btn[href*="/input/"])
 ! >>>
 ! #TAG-071
-://*.*/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
-://*.workers.dev/link_card/*$document
-://*.workers.dev/method/*$document
-://*.workers.dev/card/*$document
-://*.workers.dev/3ds/*$document
-://*.workers.dev/api/submitCard$xmlhttprequest
-://*.workers.dev/api/checkStatus$xmlhttprequest
-://*.workers.dev/api/checkOnline$xmlhttprequest
+/check.php?type=card&id=*&fcard=*&fexpm=*&fexpy=*&fcvc=*&fbalance=*$document,xmlhttprequest
+.workers.dev/link_card/*$document
+.workers.dev/method/*$document
+.workers.dev/card/*$document
+.workers.dev/3ds/*$document
+.workers.dev/api/submitCard$xmlhttprequest
+.workers.dev/api/checkStatus$xmlhttprequest
+.workers.dev/api/checkOnline$xmlhttprequest
 ##body:has(> div.container > div.order-info > div.aproove > button.button-apr[onclick="location.href='#pay'; subscribe(); sendworker1();"])
 ##body:has(div.container[data-container="PaymentsContainer"] > div#payments > div > a > button.item-pay_button)
 ##body:has(div#systems > a.pay_method[data-type="plutus"])
@@ -1740,15 +1740,15 @@ ukr*pos*.$document,to=info|life|top|xyz
 ##body:has(div#container > div.nwblock > div > div > div > div.btnbuy[onclick*="location.href='/card/"])
 ! >>>
 ! #TAG-074
-://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pcustomizationloader_*.js$script,xmlhttprequest
-://*.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
-://*.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
-://*.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
+.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pcustomizationloader_*.js$script,xmlhttprequest
+.*/*/~/shared/*/content/js/asyncchunk/convergedlogin_pstringcustomizationhelper_*.js$script,xmlhttprequest
+.*/*/~/shared/*/content/js/ConvergedLogin_PCore_*.js$script,xmlhttprequest
+.*/*/~/ests/*/content/cdnbundles/ux.converged.login.strings-en.min_pevuvrbnnz-*.js$script,xmlhttprequest
 ! >>>
 ! #TAG-075
 ##body.oschadbank:has(form#cardForm > div > div.auth-fields > div > div > input[name="cvc"][maxlength="4"])
 ! >>>
 ! #TAG-083
-://*.pages.dev/selectB/?id=*$document
+.pages.dev/selectB/?id=*$document
 ! chatrnetquest.click
-://api.chatrnetquest.click/chat/chat_receive.php?order_id=*&last_id=*$third-party,xmlhttprequest
+api.chatrnetquest.click/chat/chat_receive.php?order_id=*&last_id=*$third-party,xmlhttprequest
