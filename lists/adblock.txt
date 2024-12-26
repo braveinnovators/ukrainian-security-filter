@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.8
-! Last modified: Tue, 24 December 2024 21:36 EET
+! Version: 24.12.9
+! Last modified: Thu, 26 December 2024 20:00 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -51,6 +51,9 @@
 ||888starz.bet^
 ||accaunt-ua.fun^
 ||accounts-ukr.com^
+||account-guard.site^
+||account-saver.com^
+||account-viewer.com^
 ||ahome.uno^
 ||aid24-ua.online^
 ||aid24-ua.pw^
@@ -137,6 +140,7 @@
 ||buddy1.bet^
 ||buy-ua.com.ua^
 ||b-twinner.com^
+||captcha-challenge.com^
 ||carcover-ua.store^
 ||carcover-ua.uno^
 ||card-ua.cloud^
@@ -175,7 +179,9 @@
 ||datacheckqr.net^
 ||data-mails.com^
 ||data-ukr.com^
+||defender-bot.site^
 ||derjavaukraine.cc^
+||derzhposluhy.com^
 ||device-by-apple-ua.store^
 ||de-ukr.net^
 ||diamondclub.casino^
@@ -297,6 +303,8 @@
 ||gingerbread-ua.store^
 ||girlyanda.store^
 ||gizbocasino.com^
+||god-le.com^
+||god-le.net^
 ||gogleeo.shop^
 ||gohelpukraina24.site^
 ||goldcup24.com^
@@ -311,6 +319,7 @@
 ||grompokerua33.com^
 ||grompokerua.com^
 ||groshinarahunok.com^
+||group-invitation.site^
 ||harpoon.dp.ua^
 ||help24uapay.com^
 ||help24ua.com^
@@ -355,6 +364,7 @@
 ||ilyukr.site^
 ||info-ukr.charity^
 ||intrestingukrainefun.fun^
+||in-touc.com^
 ||ipay-ua.online^
 ||izzicasino1702.com^
 ||izzicasino1704.com^
@@ -462,6 +472,7 @@
 ||minmoz.com^
 ||minmoz.org^
 ||mioriginal.fun^
+||mirotrent.com^
 ||mobilluck.com.ua^
 ||mobiplategi.lol^
 ||moda-ua.online^
@@ -525,6 +536,7 @@
 ||newcourier.darkleads.pro^
 ||newsukr2023.site^
 ||newsukr2023.space^
+||newyorktlimes.life^
 ||next24-auth.online^
 ||next24-auth.site^
 ||next24-auth.space^
@@ -535,6 +547,7 @@
 ||noreply-olxpay.com^
 ||novapay-ukr.top^
 ||nova-pay-ua.com^
+||odwebp.com^
 ||okko-bonus.live^
 ||ok-ua.cloud^
 ||ok-ua.info^
@@ -660,6 +673,8 @@
 ||otto-shop.com.ua^
 ||oukr.net^
 ||outlet-ua.store^
+||outloolc.com^
+||palantir.ink^
 ||panda-sale.com.ua^
 ||parfums.top^
 ||pari1.win^
@@ -765,6 +780,7 @@
 ||promo-olx-ukrposhta.com^
 ||promo-pay24.win^
 ||prom-pay-ua.host^
+||protect-password.site^
 ||prvt24-vyplat.online^
 ||prytulafoundation.in^
 ||prytulafoundation.net^
@@ -837,6 +853,7 @@
 ||redcrossukraine.co^
 ||redcrossukraine.top^
 ||redcross-34.site^
+||redirecl.com^
 ||redirect-oschad.online^
 ||regsotsvyplat.online^
 ||relffelsen-ua.com^
@@ -878,6 +895,7 @@
 ||sendukraine.money^
 ||sendukrainians.money^
 ||set-system.com^
+||share-drive.site^
 ||shop4you.tech^
 ||shop23top.store^
 ||shopingukraine.store^
@@ -897,6 +915,7 @@
 ||shop-top-ua.store^
 ||shop-ua.space^
 ||shop-ua.top^
+||sign-cert.com^
 ||simpacasino1.com^
 ||simpacasino2.com^
 ||simpacasino.com^
@@ -959,6 +978,7 @@
 ||termo-ukraine.xyz^
 ||thebestpriceukraine.store^
 ||the-ggbet.com^
+||token-defender.cloud^
 ||topmarketukr.online^
 ||topmatch2.win^
 ||topmatch.win^
@@ -1397,10 +1417,12 @@
 ||vyplata-otrymat.online^
 ||watch-ua.space^
 ||wazbee.casino^
+||webappapiservice.life^
 ||winukr-pay.charity^
 ||winwin.bet^
 ||wowukr.store^
 ||wulkan-777.com^
+||wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion^
 ||wwwolx.site^
 ||www-ua.cloud^
 ||www-ua.info^
@@ -1421,12 +1443,12 @@
 ! PAGE-SPECIFIC FILTERING RULES
 ! !!!!!!!!!!!!!!!
 !
-/egroshi_ua$document,to=t.me|telegram.me
-/grosgovadopomoga$document,to=t.me|telegram.me
-/pravovadopomoga24$document,to=t.me|telegram.me
-/ukrua2023$document,to=t.me|telegram.me
-/zaluzhny2024bot$document,to=t.me|telegram.me
-/zayavka_ua_bot$document,to=t.me|telegram.me
+/egroshi_ua$document,to=t.me|telegram.me|telegram.org
+/grosgovadopomoga$document,to=t.me|telegram.me|telegram.org
+/pravovadopomoga24$document,to=t.me|telegram.me|telegram.org
+/ukrua2023$document,to=t.me|telegram.me|telegram.org
+/zaluzhny2024bot$document,to=t.me|telegram.me|telegram.org
+/zayavka_ua_bot$document,to=t.me|telegram.me|telegram.org
 !
 !
 ! !!!!!!!!!!!!!!!
@@ -1454,6 +1476,12 @@ diia*$document,to=t.me|telegram.me
 e-dopomoga*.*/$document,to=eu|homes|life|lol|mom|pics|shop|world
 *edopomoga$document,to=t.me|telegram.me
 ! >>>
+! APLUS.MOD.GOV.UA
+*aplus*.*/$document,to=~gov.ua
+*armyplus*.*/$document,to=~gov.ua
+*armyplus$document,to=play.google.com
+@@id=ua.gov.armyplus.app^$document,to=play.google.com
+! >>>
 ! RESERVEPLUS.MOD.GOV.UA
 *reserveplus*.*/$document,to=~gov.ua|~reserveplus.app
 *reserveplus$document,to=play.google.com
@@ -1476,11 +1504,11 @@ privatbank.*.$document
 ! >>>
 ! OSCHADBANK.UA
 *oschadbank*.*/$document,to=~oschadbank.ua
-*oschad*.*.$document,to=~oschadbank.ua
-*oshad*.*.$document
-*oshcad*.*.$document
+oschad*.*.$document,to=~oschadbank.ua
 ohsad.*.$document
 ohsad24.*.$document
+oshad*.*.$document
+oshcad*.*.$document
 ! >>>
 ! MONOBANK.UA
 *monobank*.*/$document,to=~monobank.com.ua|~monobank.ua
@@ -1488,10 +1516,9 @@ mono.*.$document
 ! >>>
 ! RAIFFEISEN.UA
 *raiffei*.*/$document,to=~raiffeisen.ua
-*-raif.*.$document
-*aval24*.*.$document
 *avalpay*.*.$document
 *raiffaisen*.*.$document
+aval24*.*.$document
 ra1f.*.$document
 raif-*.*.$document
 raif.*.$document
@@ -1512,7 +1539,6 @@ vostok.*.$document
 ! >>>
 ! UKRPOSHTA.UA
 ukrposhta*.*/$document,to=~ukrposhta.ua
-ukrposhta.*.$document
 *poshta*.*/$document,to=~gov.ua|~ua|buzz|click|co.uk|com|cyou|icu|life|online|sbs|shop|site|space|store|top|uk|world|ws|xyz
 ua*poshta.$document,to=~gov.ua|~ua
 uk*poshta.$document,to=~gov.ua|~ua
@@ -1535,19 +1561,27 @@ ukr*pos*.$document,to=info|life|top|xyz
 ||bitbucket.org/dvsvc/medoc_doc/downloads/zapit_medoc.rar^$document
 ! >>>
 ! UAC-0102 (CERT-UA#6858)
-||passport-ukr-net.$document
-||*ukr.net/desktop/security/login^$document,to=~ukr.net
+*ukr.net$document,to=~ukr.net
+passport-ukr-net.$document
+! >>>
+! UAC-0125 (CERT-UA#12559)
+/armyplus.exe$document
+/armyplusinstaller-$document
 ! >>>
 ! UAC-0177 (CERT-UA#8290)
-://*gdocs.com.*/$document,xmlhttprequest
-://*gdrive.com.*/$document,xmlhttprequest
-://*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
-://*ukr.net.*/$document,xmlhttprequest,domain=~ukr.net
+*gdocs.com.*/$document,xmlhttprequest
+*gdrive.com.*/$document,xmlhttprequest
+*google*.*/$document,xmlhttprequest,domain=~google.co.in|~google.org|click|day|in|ink|link|online|org|site|zip
 ! >>>
 ! UAC-0184 (CERT-UA#9474)
-://*.*.*.*:9000/hooks/*?id=*$document,xmlhttprequest
-://*.ua/securitycheck.exe$document,xmlhttprequest
-://*.ua/sud/dvs.exe$document,xmlhttprequest
+*.*.*.*:9000/hooks/*?id=*$document,xmlhttprequest
+*.ua/securitycheck.exe$document,xmlhttprequest
+*.ua/sud/dvs.exe$document,xmlhttprequest
+! >>>
+! UAC-0185 (CERT-UA#12414)
+mail-gov*.*/$document,to=~gov.ua
+milgov*.*/$document,to=~gov.ua
+telegram*.*/$document,to=~t.me|~telegram.me|~telegram.org
 ! >>>
 ! UAC-0195 (CERT-UA#9565)
 *petition*.*/$document,to=~gov.ua|~e-dem.ua
@@ -1569,15 +1603,15 @@ presiden*petiti*.*/$document,to=~gov.ua|~e-dem.ua
 @@||*griseldapublic^$document,to=t.me|telegram.me
 ! >>>
 ! #TAG-047
-/bank/raif.php?id=*$document
-/bank/pumb.php?id=*$document
-/bank/ochad.php?id=*$document
-/bank/mono.php?id=*$document
-/bank/privat24.php?id=*$document
-/bank/ukrsibbank.php?id=*$document
-/bank/kredobank.php?id=*$document
-/bank/credit-agricole.php?id=*$document
-/bank/otp.php?id=*$document
+/bank/raif.php?id=$document
+/bank/pumb.php?id=$document
+/bank/ochad.php?id=$document
+/bank/mono.php?id=$document
+/bank/privat24.php?id=$document
+/bank/ukrsibbank.php?id=$document
+/bank/kredobank.php?id=$document
+/bank/credit-agricole.php?id=$document
+/bank/otp.php?id=$document
 .*.*/music.php?id=*-*$xmlhttprequest
 ##html[data-scrapbook-title^="Грошова допомога від"]:has(button.btn[href="lg/login.html"])
 ##html[data-scrapbook-title="Отримання коштів"]:has(div.auth-block > div#login-box.auth-block__box)
