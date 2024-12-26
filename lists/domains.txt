@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (clean version, domains only)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.8
-# Last modified: Tue, 24 December 2024 21:36 EET
+# Version: 24.12.9
+# Last modified: Thu, 26 December 2024 20:00 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -45,6 +45,9 @@
 888starz.bet
 accaunt-ua.fun
 accounts-ukr.com
+account-guard.site
+account-saver.com
+account-viewer.com
 ahome.uno
 aid24-ua.online
 aid24-ua.pw
@@ -132,6 +135,7 @@ btcukraine.xyz
 buddy1.bet
 buy-ua.com.ua
 b-twinner.com
+captcha-challenge.com
 carcover-ua.store
 carcover-ua.uno
 card-ua.cloud
@@ -170,7 +174,9 @@ cryptoukraine.xyz
 datacheckqr.net
 data-mails.com
 data-ukr.com
+defender-bot.site
 derjavaukraine.cc
+derzhposluhy.com
 device-by-apple-ua.store
 devtome.top
 de-ukr.net
@@ -402,6 +408,8 @@ ggpokerok.com
 gingerbread-ua.store
 girlyanda.store
 gizbocasino.com
+god-le.com
+god-le.net
 gogleeo.shop
 gohelpukraina24.site
 goldcup24.com
@@ -430,6 +438,7 @@ grompokerua33.com
 groshidopomoga.top
 groshinarahunok.com
 grosovadopomoga.shop
+group-invitation.site
 harpoon.dp.ua
 help24ua.com
 help24uapay.com
@@ -479,6 +488,7 @@ info-ukr.charity
 internet-kyivstar.com
 internet-kyivstar.com.ua
 intrestingukrainefun.fun
+in-touc.com
 ipay-ua.online
 izzicasino.com
 izzicasino1702.com
@@ -630,6 +640,7 @@ minagroua.org
 minmoz.com
 minmoz.org
 mioriginal.fun
+mirotrent.com
 mobilluck.com.ua
 mobiplategi.lol
 moda-ua.online
@@ -693,6 +704,7 @@ netflx-ua.com
 newcourier.darkleads.pro
 newsukr2023.site
 newsukr2023.space
+newyorktlimes.life
 next24-auth.online
 next24-auth.site
 next24-auth.space
@@ -734,6 +746,7 @@ nova-poshta.org.ua
 nova-poshta.ws
 nova-poshta-pay.com
 npu-gov-ua.media
+odwebp.com
 oficial-viplata.info
 okko-bonus.live
 ok-ua.cloud
@@ -879,6 +892,8 @@ otrymannia-vyplaty.com
 otto-shop.com.ua
 oukr.net
 outlet-ua.store
+outloolc.com
+palantir.ink
 panda-sale.com.ua
 parfums.top
 pari.win
@@ -988,6 +1003,7 @@ promohelp24.com
 promo-olx-ukrposhta.com
 promo-pay24.win
 prom-pay-ua.host
+protect-password.site
 prvt24-vyplat.online
 prytulafoundation.in
 prytulafoundation.net
@@ -1062,6 +1078,7 @@ redcrossua.top
 redcrossukraine.co
 redcrossukraine.top
 redcross-34.site
+redirecl.com
 redirect-oschad.online
 regsotsvyplat.online
 relffelsen-ua.com
@@ -1103,6 +1120,7 @@ sbu-zakon.space
 sendukraine.money
 sendukrainians.money
 set-system.com
+share-drive.site
 shop4you.tech
 shop23top.store
 shopingukraine.store
@@ -1122,6 +1140,7 @@ shop-in-ua.space
 shop-top-ua.store
 shop-ua.space
 shop-ua.top
+sign-cert.com
 simpacasino.com
 simpacasino1.com
 simpacasino2.com
@@ -1187,6 +1206,7 @@ the-ggbet.com
 toidopomoga.co
 toidopomoga.org
 toidopomoga.pro
+token-defender.cloud
 topmarketukr.online
 topmatch.win
 topmatch2.win
@@ -1699,10 +1719,12 @@ vyplatazaraz.store
 vyplata-otrymat.online
 watch-ua.space
 wazbee.casino
+webappapiservice.life
 winukr-pay.charity
 winwin.bet
 wowukr.store
 wulkan-777.com
+wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion
 wwwolx.site
 www-ua.cloud
 www-ua.info
