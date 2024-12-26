@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.8
-# Last modified: Tue, 24 December 2024 21:36 EET
+# Version: 24.12.9
+# Last modified: Thu, 26 December 2024 20:00 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -45,6 +45,9 @@
 0.0.0.0 888starz.bet
 0.0.0.0 accaunt-ua.fun
 0.0.0.0 accounts-ukr.com
+0.0.0.0 account-guard.site
+0.0.0.0 account-saver.com
+0.0.0.0 account-viewer.com
 0.0.0.0 ahome.uno
 0.0.0.0 aid24-ua.online
 0.0.0.0 aid24-ua.pw
@@ -132,6 +135,7 @@
 0.0.0.0 buddy1.bet
 0.0.0.0 buy-ua.com.ua
 0.0.0.0 b-twinner.com
+0.0.0.0 captcha-challenge.com
 0.0.0.0 carcover-ua.store
 0.0.0.0 carcover-ua.uno
 0.0.0.0 card-ua.cloud
@@ -170,7 +174,9 @@
 0.0.0.0 datacheckqr.net
 0.0.0.0 data-mails.com
 0.0.0.0 data-ukr.com
+0.0.0.0 defender-bot.site
 0.0.0.0 derjavaukraine.cc
+0.0.0.0 derzhposluhy.com
 0.0.0.0 device-by-apple-ua.store
 0.0.0.0 devtome.top
 0.0.0.0 de-ukr.net
@@ -402,6 +408,8 @@
 0.0.0.0 gingerbread-ua.store
 0.0.0.0 girlyanda.store
 0.0.0.0 gizbocasino.com
+0.0.0.0 god-le.com
+0.0.0.0 god-le.net
 0.0.0.0 gogleeo.shop
 0.0.0.0 gohelpukraina24.site
 0.0.0.0 goldcup24.com
@@ -430,6 +438,7 @@
 0.0.0.0 groshidopomoga.top
 0.0.0.0 groshinarahunok.com
 0.0.0.0 grosovadopomoga.shop
+0.0.0.0 group-invitation.site
 0.0.0.0 harpoon.dp.ua
 0.0.0.0 help24ua.com
 0.0.0.0 help24uapay.com
@@ -479,6 +488,7 @@
 0.0.0.0 internet-kyivstar.com
 0.0.0.0 internet-kyivstar.com.ua
 0.0.0.0 intrestingukrainefun.fun
+0.0.0.0 in-touc.com
 0.0.0.0 ipay-ua.online
 0.0.0.0 izzicasino.com
 0.0.0.0 izzicasino1702.com
@@ -630,6 +640,7 @@
 0.0.0.0 minmoz.com
 0.0.0.0 minmoz.org
 0.0.0.0 mioriginal.fun
+0.0.0.0 mirotrent.com
 0.0.0.0 mobilluck.com.ua
 0.0.0.0 mobiplategi.lol
 0.0.0.0 moda-ua.online
@@ -693,6 +704,7 @@
 0.0.0.0 newcourier.darkleads.pro
 0.0.0.0 newsukr2023.site
 0.0.0.0 newsukr2023.space
+0.0.0.0 newyorktlimes.life
 0.0.0.0 next24-auth.online
 0.0.0.0 next24-auth.site
 0.0.0.0 next24-auth.space
@@ -734,6 +746,7 @@
 0.0.0.0 nova-poshta.ws
 0.0.0.0 nova-poshta-pay.com
 0.0.0.0 npu-gov-ua.media
+0.0.0.0 odwebp.com
 0.0.0.0 oficial-viplata.info
 0.0.0.0 okko-bonus.live
 0.0.0.0 ok-ua.cloud
@@ -879,6 +892,8 @@
 0.0.0.0 otto-shop.com.ua
 0.0.0.0 oukr.net
 0.0.0.0 outlet-ua.store
+0.0.0.0 outloolc.com
+0.0.0.0 palantir.ink
 0.0.0.0 panda-sale.com.ua
 0.0.0.0 parfums.top
 0.0.0.0 pari.win
@@ -988,6 +1003,7 @@
 0.0.0.0 promo-olx-ukrposhta.com
 0.0.0.0 promo-pay24.win
 0.0.0.0 prom-pay-ua.host
+0.0.0.0 protect-password.site
 0.0.0.0 prvt24-vyplat.online
 0.0.0.0 prytulafoundation.in
 0.0.0.0 prytulafoundation.net
@@ -1062,6 +1078,7 @@
 0.0.0.0 redcrossukraine.co
 0.0.0.0 redcrossukraine.top
 0.0.0.0 redcross-34.site
+0.0.0.0 redirecl.com
 0.0.0.0 redirect-oschad.online
 0.0.0.0 regsotsvyplat.online
 0.0.0.0 relffelsen-ua.com
@@ -1103,6 +1120,7 @@
 0.0.0.0 sendukraine.money
 0.0.0.0 sendukrainians.money
 0.0.0.0 set-system.com
+0.0.0.0 share-drive.site
 0.0.0.0 shop4you.tech
 0.0.0.0 shop23top.store
 0.0.0.0 shopingukraine.store
@@ -1122,6 +1140,7 @@
 0.0.0.0 shop-top-ua.store
 0.0.0.0 shop-ua.space
 0.0.0.0 shop-ua.top
+0.0.0.0 sign-cert.com
 0.0.0.0 simpacasino.com
 0.0.0.0 simpacasino1.com
 0.0.0.0 simpacasino2.com
@@ -1187,6 +1206,7 @@
 0.0.0.0 toidopomoga.co
 0.0.0.0 toidopomoga.org
 0.0.0.0 toidopomoga.pro
+0.0.0.0 token-defender.cloud
 0.0.0.0 topmarketukr.online
 0.0.0.0 topmatch.win
 0.0.0.0 topmatch2.win
@@ -1699,10 +1719,12 @@
 0.0.0.0 vyplata-otrymat.online
 0.0.0.0 watch-ua.space
 0.0.0.0 wazbee.casino
+0.0.0.0 webappapiservice.life
 0.0.0.0 winukr-pay.charity
 0.0.0.0 winwin.bet
 0.0.0.0 wowukr.store
 0.0.0.0 wulkan-777.com
+0.0.0.0 wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion
 0.0.0.0 wwwolx.site
 0.0.0.0 www-ua.cloud
 0.0.0.0 www-ua.info
