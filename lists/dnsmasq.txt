@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (dnsmasq)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.9
-# Last modified: Thu, 26 December 2024 20:00 EET
+# Version: 24.12.10
+# Last modified: Mon, 30 December 2024 20:44 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -352,6 +352,7 @@ address=/epidtrimka.com/
 address=/epidtrumka.org/
 address=/epidtrymka.cloud/
 address=/es888starz.com/
+address=/estofounds.christmas/
 address=/europeanchallengeukraine.eu/
 address=/events-ukr.site/
 address=/everest-bet.com/
@@ -700,6 +701,7 @@ address=/nacionalbankukraine.shop/
 address=/nacionalbankukraine.xyz/
 address=/nationalbanking24.shop/
 address=/nationalbank.shop/
+address=/natofounds.digital/
 address=/netflx-ua.com/
 address=/newcourier.darkleads.pro/
 address=/newsukr2023.site/
