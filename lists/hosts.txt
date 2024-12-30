@@ -1,7 +1,7 @@
 # Title: Ukrainian Security Filter (hosts-based)
 # Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-# Version: 24.12.9
-# Last modified: Thu, 26 December 2024 20:00 EET
+# Version: 24.12.10
+# Last modified: Mon, 30 December 2024 20:44 EET
 # Expires: 1 day
 # Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 #
@@ -352,6 +352,7 @@
 0.0.0.0 epidtrumka.org
 0.0.0.0 epidtrymka.cloud
 0.0.0.0 es888starz.com
+0.0.0.0 estofounds.christmas
 0.0.0.0 europeanchallengeukraine.eu
 0.0.0.0 events-ukr.site
 0.0.0.0 everest-bet.com
@@ -700,6 +701,7 @@
 0.0.0.0 nacionalbankukraine.xyz
 0.0.0.0 nationalbank.shop
 0.0.0.0 nationalbanking24.shop
+0.0.0.0 natofounds.digital
 0.0.0.0 netflx-ua.com
 0.0.0.0 newcourier.darkleads.pro
 0.0.0.0 newsukr2023.site
