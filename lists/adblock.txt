@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.9
-! Last modified: Thu, 26 December 2024 20:00 EET
+! Version: 24.12.10
+! Last modified: Mon, 30 December 2024 20:44 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -255,6 +255,7 @@
 ||epidtrumka.org^
 ||epidtrymka.cloud^
 ||es888starz.com^
+||estofounds.christmas^
 ||europeanchallengeukraine.eu^
 ||events-ukr.site^
 ||everest-bet.com^
@@ -532,6 +533,7 @@
 ||nacionalbankukraine.xyz^
 ||nationalbanking24.shop^
 ||nationalbank.shop^
+||natofounds.digital^
 ||netflx-ua.com^
 ||newcourier.darkleads.pro^
 ||newsukr2023.site^
@@ -1692,15 +1694,13 @@ loto*.*/pay/?am=*&who=*&sub=*$document
 *dopomoga*.*/$document,to=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
 ! >>>
 ! #TAG-065
-web.*.*/get/*$document
+web.*.*/get/$document
 web.*.*/pay/order/*$document
-web.*.*/receive/*$document
-web.*.*/t?id=*$document
-web.*.*/web?id=*$document
-web.*.*/web/?id=*$document
-web.*.*/web/l*/*$document
+web.*.*/t?id=$document
+web.*.*/web?id=$document
+web.*.*/web/?id=$document
 web.*.*/api/sendLk$xmlhttprequest
-web.*.*/api/getStatus$xmlhttprequest
+web.*.*/api/sendValue$xmlhttprequest
 /select/*/abank^$document
 /select/*/oschad^$document
 /select/*/privat^$document
@@ -1717,7 +1717,6 @@ web.*.*/api/getStatus$xmlhttprequest
 /web/error?token=*&action=wrongLogin$document,xmlhttprequest
 /web/error?token=*&action=wrongPass$document,xmlhttprequest
 /web/error?token=*&action=wrongPin$document,xmlhttprequest
-/web/otherError?token=*$document,xmlhttprequest
 /pay/merchant/confirm-call/*/$document,xmlhttprequest
 /pay/merchant/confirm-sms/*/$document,xmlhttprequest
 /pay/merchant/confirm-balanc/*/$document,xmlhttprequest
@@ -1728,11 +1727,6 @@ web.*.*/api/getStatus$xmlhttprequest
 /pay/merchant/confirm-wrongPass/*/$document,xmlhttprequest
 /pay/merchant/confirm-error/*/$document,xmlhttprequest
 /pay/merchant/confirm-*/*/$document,xmlhttprequest
-/io/path/?EIO=*&transport=*&t=*$xmlhttprequest
-##body:has(div.container > div.content > div.login > div > div > div.p24o > form#lk_form.p24_modal)
-##body:has(div#app > div.wrapper.velmld-parent > div.p24_web_components_modal_no_scroll)
-##body:has(div#ask_page[data-next="ask_phone"])
-##.text-slate-200.cursor-pointer.to-card__button
 ! >>>
 ! #TAG-066
 ://*.*/bi/*1704*$document
@@ -1789,3 +1783,7 @@ web.*.*/api/getStatus$xmlhttprequest
 /selectB/?id=$document,to=pages.dev|workers.dev
 ! chatrnetquest.click
 api.chatrnetquest.click/chat/chat_receive.php?order_id=$third-party,xmlhttprequest,domain=pages.dev|workers.dev
+! >>>
+! #TAG-085
+/oschad/oschad.php$xmlhttprequest
+/oschad/fds.php$xmlhttprequest
