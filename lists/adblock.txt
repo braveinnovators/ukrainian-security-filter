@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 24.12.10
-! Last modified: Mon, 30 December 2024 20:44 EET
+! Version: 25.01.1
+! Last modified: Fri, 03 January 2025 19:44 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1502,14 +1502,14 @@ e-dopomoga*.*/$document,to=eu|homes|life|lol|mom|pics|shop|world
 next24.*.$document
 privat-ua.*.$document
 privat.*.$document
-privatbank.*.$document
+privatbank.*.$document,to=~privatbank.ua
 ! >>>
 ! OSCHADBANK.UA
-*oschadbank*.*/$document,to=~oschadbank.ua
-oschad*.*.$document,to=~oschadbank.ua
+*oschadbank*.*/$document,to=~oschadbank.ua|~bank.gov.ua
+oschad*.*.$document,to=~oschadbank.ua|~bank.gov.ua
 ohsad.*.$document
 ohsad24.*.$document
-oshad*.*.$document
+oshad*.*.$document,to=~bank.gov.ua
 oshcad*.*.$document
 ! >>>
 ! MONOBANK.UA
@@ -1527,17 +1527,18 @@ raif.*.$document
 ! >>>
 ! UKRSIBBANK.COM
 *ukrsibbank*.*/$document,to=~ukrsibbank.com
-*ukrsib*.*.$document,to=~ukrsibbank.com
+*ukrsib*.*.$document,to=~ukrsibbank.com|~bank.gov.ua
 *ukersb24*.*.$document
 *ukersib*.*.$document
 us1b.*.$document
 ! >>>
 ! PUMB.UA
-*pumb*.*.$document,to=~pumb.ua
+*pumb*.*.$document,to=~pumb.ua|~bank.gov.ua
 bumb.*.$document
 ! >>>
 ! BANKVOSTOK.COM.UA
-vostok.*.$document
+*bankvostok*.*/$document,to=~bankvostok.com.ua
+vostok.*.$document,to=~vostok.bank
 ! >>>
 ! UKRPOSHTA.UA
 ukrposhta*.*/$document,to=~ukrposhta.ua
