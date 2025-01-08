@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 25.01.3
-! Last modified: Thu, 09 January 2025 00:19 EET
+! Version: 25.01.4
+! Last modified: Thu, 09 January 2025 01:05 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1688,7 +1688,7 @@ loto*.*/pay/?am=*&who=*&sub=*$document
 ##html.w-mod-js.w-mod-ix > body > div.section
 ! >>>
 ! #TAG-064
-*bankid*.*/$document,to=~gov.ua
+*bankid*.*/$document,to=~accordbank.com.ua|~altbank.ua|~asviobank.ua|~a-bank.com.ua|~bank.com.ua|~bank34.ua|~bankalliance.ua|~banklviv.com|~bankvostok.com.ua|~bisbank.com.ua|~cib.com.ua|~clearinghouse.com.ua|~creditdnepr.com|~credit-agricole.ua|~crystalbank.com.ua|~eximb.com|~globusbank.ua|~gov.ua|~grant.ua|~ideaonline.ua|~industrialbank.ua|~izibank.com.ua|~kredobank.com.ua|~monobank.com.ua|~monobank.ua|~motor-bank.ua|~mtb.ua|~oschadbank.ua|~otpbank.com.ua|~piraeusbank.ua|~poltavabank.com|~pravex.com.ua|~privat24.ua|~privatbank.ua|~pumb.ua|~radabank.com.ua|~raiffeisen.ua|~rwsbank.com.ua|~sensebank.com.ua|~tascombank.ua|~ukrgasbank.com|~ukrsibbank.com|~unexbank.ua|~vostok.bank
 *bankld*.*/$document
 *viplata*.*/$document,to=art|au|biz|buzz|cam|cfd|click|cloud|club|com|cyou|digital|eu|fun|fyi|health|help|icu|in|info|me|mobi|net|online|org|pics|pp.ua|pro|pw|shop|site|social|space|store|tech|today|us|website|xyz
 *dopomoga*.*/$document,to=art|au|biz|business|buzz|cfd|click|cloud|club|co|com|eu|fun|health|help|info|live|me|net|online|org|pics|pro|sbs|services|shop|site|space|top|uk|us|website|win|world|xyz
