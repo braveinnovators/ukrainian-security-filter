@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 25.01.2
-! Last modified: Wed, 08 January 2025 20:35 EET
+! Version: 25.01.3
+! Last modified: Thu, 09 January 2025 00:19 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1495,14 +1495,14 @@ e-dopomoga*.*/$document,to=eu|homes|life|lol|mom|pics|shop|world
 *prozorro*.*/$document,to=~gov.ua|~prozorro.ua|~prozorro.org|~prozorro.sale
 ! >>>
 ! PRIVATBANK.UA
-*privatbank*.*/$document,to=~privatbank.ua
-*privat24*.*/$document,to=~privat24.ua
+*privatbank*.*/$document,to=~privat24.ua|~privatbank.ua
+*privat24*.*/$document,to=~privat24.ua|~privatbank.ua
 24-next.*.$document
 24next.*.$document
 next24.*.$document
 privat-ua.*.$document
-privat.*.$document
-privatbank.*.$document,to=~privatbank.ua
+privat.*.$document,to=~privat24.ua|~privatbank.ua
+privatbank.*.$document,to=~privat24.ua|~privatbank.ua
 ! >>>
 ! OSCHADBANK.UA
 *oschadbank*.*/$document,to=~oschadbank.ua|~bank.gov.ua
@@ -1522,7 +1522,7 @@ mono.*.$document
 *raiffaisen*.*.$document
 aval24*.*.$document
 ra1f.*.$document
-raif-*.*.$document
+raif-*.*.$document,to=~raiffeisen.ua
 raif.*.$document
 ! >>>
 ! UKRSIBBANK.COM
@@ -1537,7 +1537,7 @@ us1b.*.$document
 bumb.*.$document
 ! >>>
 ! BANKVOSTOK.COM.UA
-vostok.*.$document,to=~vostok.bank
+vostok.*.$document,to=~bankvostok.com.ua|~vostok.bank
 ! >>>
 ! UKRPOSHTA.UA
 ukrposhta*.*/$document,to=~ukrposhta.ua
