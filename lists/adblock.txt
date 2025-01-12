@@ -1,8 +1,8 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Security Filter (Adblock-style syntax)
 ! Description: Filter of malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 25.01.5
-! Last modified: Sat, 11 January 2025 21:19 EET
+! Version: 25.01.6
+! Last modified: Sun, 12 January 2025 16:34 EET
 ! Expires: 1 day
 ! Licence: https://github.com/braveinnovators/ukrainian-security-filter/blob/main/LICENSE
 !
@@ -1548,8 +1548,8 @@ postukr.$document,to=info|life|top|xyz
 ukr*pos*.$document,to=info|life|top|xyz
 ! >>>
 ! NOVAPOSHTA.UA
-*novaposhta*.*/$document,to=~novaposhta.ua|~novaposhtaglobal.ua
-*nova-poshta*.*/$document,to=~novaposhta.ua|~novaposhtaglobal.ua
+*novaposhta*.*/$document,to=~novaposhta.education|~novaposhta.ua|~novaposhtaglobal.ua
+*nova-poshta*.*/$document,to=~novaposhta.education|~novaposhta.ua|~novaposhtaglobal.ua
 @@||instagram.com/novaposhta.official^$document
 @@||tiktok.com/@novaposhta.official^$document
 ! >>>
